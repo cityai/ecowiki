@@ -15,9 +15,23 @@ services:
       - wikidb
     depends_on:
       - wikidb
-    ports:
-      - '8888:3001'
+    expose: [3001]
     environment:
       WIKI_ADMIN_EMAIL: admin@example.com
     volumes:
       - ./config.yml:/var/wiki/config.yml
+    labels:
+      - "traefik.enable=true"
+      - "traefik.backend=api"
+      - "traefik.port=3001"
+      - "traefik.frontend.entryPoints=http"
+      - "traefik.frontend.rule=PathPrefix:/"
+  traefik:
+    image: traefik
+    command: --web --docker --docker.domain=docker.localhost --logLevel=DEBUG
+    ports:
+      - "80:80"
+      - "8080:8080"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - /dev/null:/traefik.toml
