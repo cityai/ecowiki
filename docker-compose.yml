@@ -20,6 +20,7 @@ services:
       WIKI_ADMIN_EMAIL: admin@example.com
     volumes:
       - ./config.yml:/var/wiki/config.yml
+      - ./content:/var/wiki/repo
     labels:
       - "traefik.enable=true"
       - "traefik.backend=api"
