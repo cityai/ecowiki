@@ -36,3 +36,13 @@ services:
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
       - /dev/null:/traefik.toml
+  python:
+    image: python
+    build: ./docker/python
+    environment:
+        MEETUP_KEY: ${MEETUP_KEY}
+    volumes:
+      - ./app:/usr/src/app
+      - ./content:/usr/src/content
+    stdin_open: true
+    tty: true
