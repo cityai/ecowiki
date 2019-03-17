@@ -4,6 +4,24 @@ from pymongo import MongoClient
 from urllib.parse import urlencode
 from collections import OrderedDict
 
+CITIES = {
+        'paris': {
+            'lat': '48.864716',
+            'lon': '2.349014'
+            },
+        'berlin': {
+            'lat': '52.5200',
+            'lon': '13.4050'
+            },
+        'bruxelles': {
+            'lat':  '50.8503',
+            'lon': '4.3517'
+            },
+        'amsterdam': {
+            'lat': '52.3702',
+            'lon': '4.8952'
+            }
+        }
 
 class Meetup(object):
     """Class that manages talking to Meetup API"""
@@ -21,8 +39,12 @@ class Meetup(object):
         self.mongo_conn.delete_many({})
         self.mongo_conn.create_index("id", unique=True)
 
-    def search(self):
-        params = OrderedDict([('key', self.access_token), ('sign', True), ('photo-host', 'public'), ('page', 20), ('text', 'artificial intelligence')])
+    def search(self, city=None):
+        lat, lon = (None, None)
+        if city:
+            lat, lon = CITIES[city].values()
+        params = OrderedDict([('key', self.access_token), ('sign', True), ('photo-host', 'public'), ('page', 20), ('text', 'artificial intelligence'),
+            ('lat',  lat), ('lon', lon)])
         response = requests.get('https://api.meetup.com/find/upcoming_events', params=urlencode(params))
 
         try:
@@ -47,22 +69,28 @@ class Meetup(object):
             result = self.mongo_conn.insert_one(event)
             print(f'Inserted {result.inserted_id}')
 
-    def save_md(self, events):
-        filename = "../content/meetup.md"
+    def save_md(self, events, city):
+        if not os.path.isdir("../content/meetup"):
+            os.makedirs("../content/meetup")
+
+        filename = "../content/meetup/{}.md".format(city)
         ## If file exists, delete it
         if os.path.isfile(filename):
             os.remove(filename)
 
         file = open(filename,"w")
-        file.write("# Meetup events \n")
+        file.write("# Meetup events \n\n")
         for event in events:
             file.write("## {} \n\n".format(event['name']))
+            if 'local_date' in event:
+                file.write("**{}** \n\n".format(event['local_date']))
             file.write("{} \n\n".format(event['description']))
         file.close()
 
 if __name__ == "__main__":
     meetup = Meetup()
     meetup.clean_mongo()
-    events = meetup.search()
-    meetup.save_mongo(events)
-    meetup.save_md(events)
+    for city in CITIES.keys():
+        events = meetup.search(city=city)
+        meetup.save_md(events, city)
+        meetup.save_mongo(events)
