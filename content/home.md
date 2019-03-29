@@ -7,10 +7,10 @@ Contact us at [City.ai](https://city.ai)
 
 # AI ecosystems
 
-[Amsterdam](/amsterdam)
-[Paris](/paris)
-[Berlin](/berlin)
-[London](/london)
+[Amsterdam](/amsterdam/home)
+[Paris](/paris/home)
+[Berlin](/berlin/home)
+[London](/london/home)
 
 # Upcoming events
 
