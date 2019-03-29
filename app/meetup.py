@@ -17,6 +17,10 @@ CITIES = {
             'lat':  '50.8503',
             'lon': '4.3517'
             },
+        'london': {
+            'lat':  '51.5074',
+            'lon': '0.1278'
+            },
         'amsterdam': {
             'lat': '52.3702',
             'lon': '4.8952'
@@ -43,7 +47,7 @@ class Meetup(object):
         lat, lon = (None, None)
         if city:
             lat, lon = CITIES[city].values()
-        params = OrderedDict([('key', self.access_token), ('sign', True), ('photo-host', 'public'), ('page', 20), ('text', 'artificial intelligence'),
+        params = OrderedDict([('key', self.access_token), ('sign', True), ('photo-host', 'public'), ('radius', 'smart'), ('page', 20), ('text', 'artificial intelligence'),
             ('lat',  lat), ('lon', lon)])
         response = requests.get('https://api.meetup.com/find/upcoming_events', params=urlencode(params))
 
@@ -70,10 +74,10 @@ class Meetup(object):
             print(f'Inserted {result.inserted_id}')
 
     def save_md(self, events, city):
-        if not os.path.isdir("../content/meetup"):
-            os.makedirs("../content/meetup")
+        if not os.path.isdir("../content/{}".format(city)):
+            os.makedirs("../content/{}".format(city))
 
-        filename = "../content/meetup/{}.md".format(city)
+        filename = "../content/{}/meetup.md".format(city)
         ## If file exists, delete it
         if os.path.isfile(filename):
             os.remove(filename)
@@ -91,6 +95,7 @@ if __name__ == "__main__":
     meetup = Meetup()
     meetup.clean_mongo()
     for city in CITIES.keys():
+        print(city)
         events = meetup.search(city=city)
         meetup.save_md(events, city)
         meetup.save_mongo(events)
