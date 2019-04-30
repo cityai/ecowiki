@@ -1,0 +1,16 @@
+defaultEntryPoints = ["http"]
+
+[entryPoints]
+  [entryPoints.http]
+  address = ":80"
+
+  [entryPoints.foo]
+  address = ":8080"
+  [entryPoints.foo.auth]
+    [entryPoints.foo.auth.basic]
+      usersFile = "/.htpasswd"
+
+[api]
+entryPoint = "foo"
+
+# vim:filetype=yaml
