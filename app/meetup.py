@@ -54,7 +54,7 @@ class Meetup(object):
         try:
             events = list()
             for event in response.json()['events']:
-                print(event)
+                print(event['name'])
                 events.append({
                     'id': event['id'],
                     'name': event['name'],
@@ -67,6 +67,22 @@ class Meetup(object):
         except Exception as e:
             print(e)
             return list()
+
+    def search_groups(self, city=None):
+        lat, lon = (None, None)
+        if city:
+            lat, lon = CITIES[city].values()
+        params = OrderedDict([
+            ('key', self.access_token),
+            ('sign', True), ('photo-host', 'public'),
+            ('radius', 'smart'), ('page', 20),
+            ('text', 'artificial intelligence'),
+            ('lat',  lat), ('lon', lon)])
+        response = requests.get('https://api.meetup.com/find/groups',
+                                params=urlencode(params))
+
+        return response.json()
+
 
     def save_mongo(self, events):
         for event in events:
@@ -86,9 +102,26 @@ class Meetup(object):
         file.write("# Meetup events \n\n")
         for event in events:
             file.write("## {} \n\n".format(event['name']))
-            if 'local_date' in event:
-                file.write("**{}** \n\n".format(event['local_date']))
+            file.write("**{}** \n\n".format(event['date']))
             file.write("{} \n\n".format(event['description']))
+        file.close()
+
+    def save_md_groups(self, groups, city):
+        # If no folder, create it
+        if not os.path.isdir("../content/{}".format(city)):
+            os.makedirs("../content/{}".format(city))
+
+        # If file exists, delete it
+        filename = "../content/{}/communities.md".format(city)
+        if os.path.isfile(filename):
+            os.remove(filename)
+
+        file = open(filename, "w")
+        file.write("# Communities \n\n")
+        for group in groups:
+            file.write("## {} \n\n".format(group['name']))
+            file.write("Organizer: **{}** \n\n".format(group['organizer']['name']))
+            file.write("{} \n\n".format(group['description']))
         file.close()
 
 if __name__ == "__main__":
@@ -96,6 +129,8 @@ if __name__ == "__main__":
     meetup.clean_mongo()
     for city in CITIES.keys():
         print(city)
+        groups = meetup.search_groups(city=city)
+        meetup.save_md_groups(groups, city)
         events = meetup.search(city=city)
         meetup.save_md(events, city)
         meetup.save_mongo(events)

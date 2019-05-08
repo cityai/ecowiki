@@ -11,11 +11,13 @@ Contact us at [City.ai](https://city.ai)
 
 # AI community
 
+[Communities](/paris/communities)
+
 # Influencers
 
 # Events
 
-[Paris](/paris/meetup)
+[Meetup](/paris/meetup)
 
 # Local AI organizations & Initiatives
 

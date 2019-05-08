@@ -11,6 +11,8 @@ Contact us at [City.ai](https://city.ai)
 
 # AI community
 
+[Communities](/berlin/communities)
+
 # Influencers
 
 # Events

@@ -11,6 +11,8 @@ Contact us at [City.ai](https://city.ai)
 
 # AI community
 
+[Communities](/london/communities)
+
 # Influencers
 
 # Events
