@@ -9,7 +9,14 @@ COMPOSE?=docker-compose -f docker-compose.yml
 export HOST
 export LEVEL
 
-up:
+.env:
+	# Copy env files
+	cp .env_dist .env
+
+docker/traefik/.htpasswd:
+	cp docker/traefik/.htpasswd_dist docker/traefik/.htpasswd
+
+up: .env docker/traefik/.htpasswd
 	# run compose in background
 	$(COMPOSE) up -d
 
@@ -17,7 +24,7 @@ build:
 	# run compose in foreground
 	$(COMPOSE) build
 
-dev:
+dev: .env docker/traefik/.htpasswd
 	# run compose in foreground
 	$(COMPOSE) up
 
