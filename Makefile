@@ -29,3 +29,7 @@ down:
 stop:
 	# stop compose
 	$(COMPOSE) stop
+
+logs:
+	# stop compose
+	$(COMPOSE) logs --tail 50 -f
