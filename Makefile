@@ -37,6 +37,9 @@ stop:
 	# stop compose
 	$(COMPOSE) stop
 
+exec:
+	$(COMPOSE) exec python bash
+
 logs:
 	# stop compose
 	$(COMPOSE) logs --tail 50 -f

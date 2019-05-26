@@ -42,6 +42,7 @@ services:
     build: ./docker/python
     environment:
       MEETUP_KEY: ${MEETUP_KEY}
+      CRUNCHBASE_KEY : ${CRUNCHBASE_KEY}
     volumes:
       - ./app:/usr/src/app
       - ./content:/usr/src/content
