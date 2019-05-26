@@ -21,3 +21,4 @@ Contact us at [City.ai](https://city.ai)
 
 # Local AI organizations & Initiatives
 
+[Comnpanies](/amsterdam/companies)

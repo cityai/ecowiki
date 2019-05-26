@@ -21,4 +21,4 @@ Contact us at [City.ai](https://city.ai)
 
 # Local AI organizations & Initiatives
 
-
+[Companies](/london/companies)
