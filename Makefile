@@ -40,6 +40,9 @@ stop:
 exec:
 	$(COMPOSE) exec python bash
 
+meetup:
+	$(COMPOSE) exec python python /usr/src/app/meetup.py
+
 logs:
 	# stop compose
 	$(COMPOSE) logs --tail 50 -f
