@@ -1,0 +1,10 @@
+[Unit]
+Description=Recurrently fetch meetup api
+
+[Service]
+ExecStart=/usr/bin/make meetup
+WorkingDirectory=/home/admin/ecowiki
+Type=oneshot
+
+[Install]
+WantedBy=multi-user.target

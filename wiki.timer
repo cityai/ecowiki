@@ -1,0 +1,13 @@
+[Unit]
+Description=Fetch meetup api every day
+RefuseManualStart=no
+RefuseManualStop=no
+
+[Timer]
+Persistent=false
+OnBootSec= 5min
+OnUnitActiveSec=1day
+Unit=wiki.service
+
+[Install]
+WantedBy=default.target
