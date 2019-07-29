@@ -1,0 +1,514 @@
+{
+  "tree": {
+    "fuse-box-css@0.0.1": {
+      "deps": {},
+      "name": "fuse-box-css",
+      "version": "0.0.1"
+    },
+    "vue@2.4.4": {
+      "deps": {},
+      "name": "vue",
+      "version": "2.4.4"
+    },
+    "vue-resource@1.3.6": {
+      "deps": {},
+      "name": "vue-resource",
+      "version": "1.3.6"
+    },
+    "vue-clipboards@1.1.0": {
+      "deps": {
+        "select@1.1.2": {
+          "deps": {},
+          "name": "select",
+          "version": "1.1.2"
+        },
+        "tiny-emitter@2.1.0": {
+          "deps": {},
+          "name": "tiny-emitter",
+          "version": "2.1.0"
+        },
+        "good-listener@1.2.2": {
+          "deps": {
+            "delegate@3.2.0": {
+              "deps": {},
+              "name": "delegate",
+              "version": "3.2.0"
+            }
+          },
+          "name": "good-listener",
+          "version": "1.2.2"
+        }
+      },
+      "name": "vue-clipboards",
+      "version": "1.1.0"
+    },
+    "vue-lodash@1.0.4": {
+      "deps": {},
+      "name": "vue-lodash",
+      "version": "1.0.4"
+    },
+    "vuex@2.4.1": {
+      "deps": {
+        "process@0.0.0": {
+          "deps": {},
+          "name": "process",
+          "version": "0.0.0"
+        }
+      },
+      "name": "vuex",
+      "version": "2.4.1"
+    },
+    "lodash@4.17.15": {
+      "deps": {},
+      "name": "lodash",
+      "version": "4.17.15"
+    },
+    "socket.io-client@2.0.4": {
+      "deps": {},
+      "name": "socket.io-client",
+      "version": "2.0.4"
+    },
+    "i18next@9.0.1": {
+      "deps": {},
+      "name": "i18next",
+      "version": "9.0.1"
+    },
+    "i18next-xhr-backend@1.4.3": {
+      "deps": {},
+      "name": "i18next-xhr-backend",
+      "version": "1.4.3"
+    },
+    "@panter/vue-i18next@0.5.1": {
+      "deps": {},
+      "name": "@panter/vue-i18next",
+      "version": "0.5.1"
+    },
+    "jquery-contextmenu@2.5.0": {
+      "deps": {},
+      "name": "jquery-contextmenu",
+      "version": "2.5.0"
+    },
+    "jquery-simple-upload@1.0.0": {
+      "deps": {},
+      "name": "jquery-simple-upload",
+      "version": "1.0.0"
+    },
+    "jquery-smooth-scroll@2.2.0": {
+      "deps": {},
+      "name": "jquery-smooth-scroll",
+      "version": "2.2.0"
+    },
+    "jquery-sticky@1.0.4": {
+      "deps": {},
+      "name": "jquery-sticky",
+      "version": "1.0.4"
+    },
+    "filesize.js@1.0.2": {
+      "deps": {},
+      "name": "filesize.js",
+      "version": "1.0.2"
+    }
+  },
+  "flat": {
+    "fuse-box-css@0.0.1": {
+      "name": "fuse-box-css",
+      "version": "0.0.1",
+      "files": [
+        "index.js"
+      ]
+    },
+    "vue@2.4.4": {
+      "name": "vue",
+      "version": "2.4.4",
+      "files": [
+        "dist/vue.min.js"
+      ]
+    },
+    "vue-resource@1.3.6": {
+      "name": "vue-resource",
+      "version": "1.3.6",
+      "files": [
+        "dist/vue-resource.es2015.js"
+      ]
+    },
+    "vue-clipboards@1.1.0": {
+      "name": "vue-clipboards",
+      "version": "1.1.0",
+      "files": [
+        "dist/vue-clipboards.js",
+        "dist/clipboard-action.js"
+      ]
+    },
+    "select@1.1.2": {
+      "name": "select",
+      "version": "1.1.2",
+      "files": [
+        "src/select.js"
+      ]
+    },
+    "tiny-emitter@2.1.0": {
+      "name": "tiny-emitter",
+      "version": "2.1.0",
+      "files": [
+        "index.js"
+      ]
+    },
+    "good-listener@1.2.2": {
+      "name": "good-listener",
+      "version": "1.2.2",
+      "files": [
+        "src/listen.js",
+        "src/is.js"
+      ]
+    },
+    "delegate@3.2.0": {
+      "name": "delegate",
+      "version": "3.2.0",
+      "files": [
+        "src/delegate.js",
+        "src/closest.js"
+      ]
+    },
+    "vue-lodash@1.0.4": {
+      "name": "vue-lodash",
+      "version": "1.0.4",
+      "files": [
+        "dist/vue-lodash.min.js"
+      ]
+    },
+    "vuex@2.4.1": {
+      "name": "vuex",
+      "version": "2.4.1",
+      "files": [
+        "dist/vuex.common.js"
+      ]
+    },
+    "process@0.0.0": {
+      "name": "process",
+      "version": "0.0.0",
+      "files": [
+        "index.js"
+      ]
+    },
+    "lodash@4.17.15": {
+      "name": "lodash",
+      "version": "4.17.15",
+      "files": [
+        "debounce.js",
+        "isObject.js",
+        "now.js",
+        "_root.js",
+        "_freeGlobal.js",
+        "toNumber.js",
+        "isSymbol.js",
+        "_baseGetTag.js",
+        "_Symbol.js",
+        "_getRawTag.js",
+        "_objectToString.js",
+        "isObjectLike.js",
+        "toUpper.js",
+        "toString.js",
+        "_baseToString.js",
+        "_arrayMap.js",
+        "isArray.js",
+        "deburr.js",
+        "_deburrLetter.js",
+        "_basePropertyOf.js",
+        "filter.js",
+        "_arrayFilter.js",
+        "_baseFilter.js",
+        "_baseEach.js",
+        "_baseForOwn.js",
+        "_baseFor.js",
+        "_createBaseFor.js",
+        "keys.js",
+        "_arrayLikeKeys.js",
+        "_baseTimes.js",
+        "isArguments.js",
+        "_baseIsArguments.js",
+        "isBuffer.js",
+        "stubFalse.js",
+        "_isIndex.js",
+        "isTypedArray.js",
+        "_baseIsTypedArray.js",
+        "isLength.js",
+        "_baseUnary.js",
+        "_nodeUtil.js",
+        "_baseKeys.js",
+        "_isPrototype.js",
+        "_nativeKeys.js",
+        "_overArg.js",
+        "isArrayLike.js",
+        "isFunction.js",
+        "_createBaseEach.js",
+        "_baseIteratee.js",
+        "_baseMatches.js",
+        "_baseIsMatch.js",
+        "_Stack.js",
+        "_ListCache.js",
+        "_listCacheClear.js",
+        "_listCacheDelete.js",
+        "_assocIndexOf.js",
+        "eq.js",
+        "_listCacheGet.js",
+        "_listCacheHas.js",
+        "_listCacheSet.js",
+        "_stackClear.js",
+        "_stackDelete.js",
+        "_stackGet.js",
+        "_stackHas.js",
+        "_stackSet.js",
+        "_Map.js",
+        "_getNative.js",
+        "_baseIsNative.js",
+        "_isMasked.js",
+        "_coreJsData.js",
+        "_toSource.js",
+        "_getValue.js",
+        "_MapCache.js",
+        "_mapCacheClear.js",
+        "_Hash.js",
+        "_hashClear.js",
+        "_nativeCreate.js",
+        "_hashDelete.js",
+        "_hashGet.js",
+        "_hashHas.js",
+        "_hashSet.js",
+        "_mapCacheDelete.js",
+        "_getMapData.js",
+        "_isKeyable.js",
+        "_mapCacheGet.js",
+        "_mapCacheHas.js",
+        "_mapCacheSet.js",
+        "_baseIsEqual.js",
+        "_baseIsEqualDeep.js",
+        "_equalArrays.js",
+        "_SetCache.js",
+        "_setCacheAdd.js",
+        "_setCacheHas.js",
+        "_arraySome.js",
+        "_cacheHas.js",
+        "_equalByTag.js",
+        "_Uint8Array.js",
+        "_mapToArray.js",
+        "_setToArray.js",
+        "_equalObjects.js",
+        "_getAllKeys.js",
+        "_baseGetAllKeys.js",
+        "_arrayPush.js",
+        "_getSymbols.js",
+        "stubArray.js",
+        "_getTag.js",
+        "_DataView.js",
+        "_Promise.js",
+        "_Set.js",
+        "_WeakMap.js",
+        "_getMatchData.js",
+        "_isStrictComparable.js",
+        "_matchesStrictComparable.js",
+        "_baseMatchesProperty.js",
+        "get.js",
+        "_baseGet.js",
+        "_castPath.js",
+        "_isKey.js",
+        "_stringToPath.js",
+        "_memoizeCapped.js",
+        "memoize.js",
+        "_toKey.js",
+        "hasIn.js",
+        "_baseHasIn.js",
+        "_hasPath.js",
+        "identity.js",
+        "property.js",
+        "_baseProperty.js",
+        "_basePropertyDeep.js",
+        "isEmpty.js",
+        "join.js",
+        "kebabCase.js",
+        "_createCompounder.js",
+        "_arrayReduce.js",
+        "words.js",
+        "_asciiWords.js",
+        "_hasUnicodeWord.js",
+        "_unicodeWords.js",
+        "map.js",
+        "_baseMap.js",
+        "split.js",
+        "_castSlice.js",
+        "_baseSlice.js",
+        "_hasUnicode.js",
+        "_isIterateeCall.js",
+        "isRegExp.js",
+        "_baseIsRegExp.js",
+        "_stringToArray.js",
+        "_asciiToArray.js",
+        "_unicodeToArray.js",
+        "trim.js",
+        "_charsEndIndex.js",
+        "_baseIndexOf.js",
+        "_baseFindIndex.js",
+        "_baseIsNaN.js",
+        "_strictIndexOf.js",
+        "_charsStartIndex.js",
+        "cloneDeep.js",
+        "_baseClone.js",
+        "_arrayEach.js",
+        "_assignValue.js",
+        "_baseAssignValue.js",
+        "_defineProperty.js",
+        "_baseAssign.js",
+        "_copyObject.js",
+        "_baseAssignIn.js",
+        "keysIn.js",
+        "_baseKeysIn.js",
+        "_nativeKeysIn.js",
+        "_cloneBuffer.js",
+        "_copyArray.js",
+        "_copySymbols.js",
+        "_copySymbolsIn.js",
+        "_getSymbolsIn.js",
+        "_getPrototype.js",
+        "_getAllKeysIn.js",
+        "_initCloneArray.js",
+        "_initCloneByTag.js",
+        "_cloneArrayBuffer.js",
+        "_cloneDataView.js",
+        "_cloneRegExp.js",
+        "_cloneSymbol.js",
+        "_cloneTypedArray.js",
+        "_initCloneObject.js",
+        "_baseCreate.js",
+        "isMap.js",
+        "_baseIsMap.js",
+        "isSet.js",
+        "_baseIsSet.js",
+        "concat.js",
+        "_baseFlatten.js",
+        "_isFlattenable.js",
+        "delay.js",
+        "_baseDelay.js",
+        "_baseRest.js",
+        "_overRest.js",
+        "_apply.js",
+        "_setToString.js",
+        "_baseSetToString.js",
+        "constant.js",
+        "_shortOut.js",
+        "find.js",
+        "_createFind.js",
+        "findIndex.js",
+        "toInteger.js",
+        "toFinite.js",
+        "findKey.js",
+        "_baseFindKey.js",
+        "forEach.js",
+        "_castFunction.js",
+        "includes.js",
+        "isString.js",
+        "values.js",
+        "_baseValues.js",
+        "isBoolean.js",
+        "isNil.js",
+        "last.js",
+        "nth.js",
+        "_baseNth.js",
+        "pullAt.js",
+        "_baseAt.js",
+        "_basePullAt.js",
+        "_baseUnset.js",
+        "_parent.js",
+        "_compareAscending.js",
+        "_flatRest.js",
+        "flatten.js",
+        "reject.js",
+        "negate.js",
+        "slice.js",
+        "startCase.js",
+        "upperFirst.js",
+        "_createCaseFirst.js",
+        "startsWith.js",
+        "_baseClamp.js"
+      ]
+    },
+    "socket.io-client@2.0.4": {
+      "name": "socket.io-client",
+      "version": "2.0.4",
+      "files": [
+        "dist/socket.io.js"
+      ]
+    },
+    "i18next@9.0.1": {
+      "name": "i18next",
+      "version": "9.0.1",
+      "files": [
+        "index.js",
+        "dist/commonjs/index.js",
+        "dist/commonjs/i18next.js",
+        "dist/commonjs/logger.js",
+        "dist/commonjs/EventEmitter.js",
+        "dist/commonjs/ResourceStore.js",
+        "dist/commonjs/utils.js",
+        "dist/commonjs/Translator.js",
+        "dist/commonjs/postProcessor.js",
+        "dist/commonjs/LanguageUtils.js",
+        "dist/commonjs/PluralResolver.js",
+        "dist/commonjs/Interpolator.js",
+        "dist/commonjs/BackendConnector.js",
+        "dist/commonjs/CacheConnector.js",
+        "dist/commonjs/defaults.js"
+      ]
+    },
+    "i18next-xhr-backend@1.4.3": {
+      "name": "i18next-xhr-backend",
+      "version": "1.4.3",
+      "files": [
+        "index.js",
+        "dist/commonjs/index.js",
+        "dist/commonjs/utils.js",
+        "dist/commonjs/ajax.js"
+      ]
+    },
+    "@panter/vue-i18next@0.5.1": {
+      "name": "@panter/vue-i18next",
+      "version": "0.5.1",
+      "files": [
+        "dist/vue-i18next.js"
+      ]
+    },
+    "jquery-contextmenu@2.5.0": {
+      "name": "jquery-contextmenu",
+      "version": "2.5.0",
+      "files": [
+        "dist/jquery.contextMenu.js"
+      ]
+    },
+    "jquery-simple-upload@1.0.0": {
+      "name": "jquery-simple-upload",
+      "version": "1.0.0",
+      "files": [
+        "simpleUpload.js"
+      ]
+    },
+    "jquery-smooth-scroll@2.2.0": {
+      "name": "jquery-smooth-scroll",
+      "version": "2.2.0",
+      "files": [
+        "jquery.smooth-scroll.js"
+      ]
+    },
+    "jquery-sticky@1.0.4": {
+      "name": "jquery-sticky",
+      "version": "1.0.4",
+      "files": [
+        "jquery.sticky.js"
+      ]
+    },
+    "filesize.js@1.0.2": {
+      "name": "filesize.js",
+      "version": "1.0.2",
+      "files": [
+        "dist/filesize.min.js"
+      ]
+    }
+  }
+}

@@ -9,7 +9,7 @@ const _ = require('lodash')
 const entryHelper = require('../helpers/entry')
 
 // ==========================================
-// EDIT MODE
+//  MODE
 // ==========================================
 
 /**

@@ -1,0 +1,7 @@
+module.exports = { contents: "var _p = {};\nvar _v = function(exports){\"use strict\";\nObject.defineProperty(exports, \"__esModule\", { value: true });\nexports.default = {\n    name: 'alert',\n    data: function () {\n        return {};\n    },\n    computed: {\n        shown: function () { return this.$store.state.alert.shown; },\n        style: function () { return 'is-' + this.$store.state.alert.style; },\n        icon: function () { return 'nc-icon-outline ' + this.$store.state.alert.icon; },\n        msg: function () { return this.$store.state.alert.msg; },\n    }\n};\n\n};\n_p.render = function render () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('transition',{attrs:{\"name\":\"alert\",\"enter-active-class\":\"animated zoomIn\",\"leave-active-class\":\"animated fadeOutRight\"}},[(_vm.shown)?_c('div',{staticClass:\"alert\",class:_vm.style},[_c('div',{staticClass:\"alert-icon\"},[_c('i',{class:_vm.icon})]),_c('div',{staticClass:\"alert-msg\"},[_vm._v(_vm._s(_vm.msg))])]):_vm._e()])}\n_p.staticRenderFns = [  ];\nvar _e = {}; _v(_e); Object.assign(_e.default.options||_e.default, _p)\nmodule.exports = _e\n    ",
+dependencies: [],
+sourceMap: {},
+headerContent: undefined,
+mtime: 1548128996000,
+devLibsRequired : undefined
+};

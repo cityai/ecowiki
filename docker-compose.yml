@@ -22,6 +22,8 @@ services:
       - ./config.yml:/var/wiki/config.yml
       - ./content:/var/wiki/repo
       - ./assets:/var/wiki/assets
+      - ./server:/var/wiki/server
+      - ./client:/var/wiki/client
     labels:
       - "traefik.enable=true"
       - "traefik.backend=api"

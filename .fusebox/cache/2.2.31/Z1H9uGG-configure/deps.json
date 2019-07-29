@@ -1,0 +1,128 @@
+{
+  "tree": {
+    "fuse-box-css@0.0.1": {
+      "deps": {},
+      "name": "fuse-box-css",
+      "version": "0.0.1"
+    },
+    "jquery@3.2.1": {
+      "deps": {},
+      "name": "jquery",
+      "version": "3.2.1"
+    },
+    "lodash@4.17.15": {
+      "deps": {},
+      "name": "lodash",
+      "version": "4.17.15"
+    },
+    "vue@2.4.4": {
+      "deps": {},
+      "name": "vue",
+      "version": "2.4.4"
+    },
+    "vee-validate@2.0.9": {
+      "deps": {
+        "process@0.0.0": {
+          "deps": {},
+          "name": "process",
+          "version": "0.0.0"
+        }
+      },
+      "name": "vee-validate",
+      "version": "2.0.9"
+    },
+    "axios@0.16.2": {
+      "deps": {
+        "is-buffer@1.1.6": {
+          "deps": {},
+          "name": "is-buffer",
+          "version": "1.1.6"
+        }
+      },
+      "name": "axios",
+      "version": "0.16.2"
+    }
+  },
+  "flat": {
+    "fuse-box-css@0.0.1": {
+      "name": "fuse-box-css",
+      "version": "0.0.1",
+      "files": [
+        "index.js"
+      ]
+    },
+    "jquery@3.2.1": {
+      "name": "jquery",
+      "version": "3.2.1",
+      "files": [
+        "dist/jquery.js"
+      ]
+    },
+    "lodash@4.17.15": {
+      "name": "lodash",
+      "version": "4.17.15",
+      "files": [
+        "lodash.js"
+      ]
+    },
+    "vue@2.4.4": {
+      "name": "vue",
+      "version": "2.4.4",
+      "files": [
+        "dist/vue.min.js"
+      ]
+    },
+    "vee-validate@2.0.9": {
+      "name": "vee-validate",
+      "version": "2.0.9",
+      "files": [
+        "dist/vee-validate.js"
+      ]
+    },
+    "process@0.0.0": {
+      "name": "process",
+      "version": "0.0.0",
+      "files": [
+        "index.js"
+      ]
+    },
+    "axios@0.16.2": {
+      "name": "axios",
+      "version": "0.16.2",
+      "files": [
+        "index.js",
+        "lib/axios.js",
+        "lib/utils.js",
+        "lib/helpers/bind.js",
+        "lib/core/Axios.js",
+        "lib/defaults.js",
+        "lib/helpers/normalizeHeaderName.js",
+        "lib/adapters/xhr.js",
+        "lib/core/settle.js",
+        "lib/core/createError.js",
+        "lib/core/enhanceError.js",
+        "lib/helpers/buildURL.js",
+        "lib/helpers/parseHeaders.js",
+        "lib/helpers/isURLSameOrigin.js",
+        "lib/helpers/btoa.js",
+        "lib/helpers/cookies.js",
+        "lib/core/InterceptorManager.js",
+        "lib/core/dispatchRequest.js",
+        "lib/core/transformData.js",
+        "lib/cancel/isCancel.js",
+        "lib/helpers/isAbsoluteURL.js",
+        "lib/helpers/combineURLs.js",
+        "lib/cancel/Cancel.js",
+        "lib/cancel/CancelToken.js",
+        "lib/helpers/spread.js"
+      ]
+    },
+    "is-buffer@1.1.6": {
+      "name": "is-buffer",
+      "version": "1.1.6",
+      "files": [
+        "index.js"
+      ]
+    }
+  }
+}

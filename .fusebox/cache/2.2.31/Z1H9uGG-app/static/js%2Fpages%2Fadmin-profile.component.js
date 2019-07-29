@@ -1,0 +1,7 @@
+module.exports = { contents: "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.default = {\n  name: 'admin-profile',\n  props: ['email', 'name', 'provider', 'tfaIsActive'],\n  data: function data() {\n    return {\n      password: '********',\n      passwordVerify: '********'\n    };\n  },\n\n  computed: {\n    tfaStatus: function tfaStatus() {\n      return this.tfaIsActive ? this.$t('profile.tfaenabled') : this.$t('profile.tfadisabled');\n    }\n  },\n  methods: {\n    saveUser: function saveUser() {\n      var self = this;\n      if (this.password !== this.passwordVerify) {\n        return self.$store.dispatch('alert', {\n          style: 'red',\n          icon: 'square-cross',\n          msg: 'The passwords don\\'t match. Try again.'\n        });\n      }\n      this.$http.post(window.location.href, {\n        password: this.password,\n        name: this.name\n      }).then(function (resp) {\n        self.$store.dispatch('alert', {\n          style: 'green',\n          icon: 'check',\n          msg: 'Changes have been applied successfully.'\n        });\n      }).catch(function (err) {\n        self.$store.dispatch('alert', {\n          style: 'red',\n          icon: 'square-cross',\n          msg: 'Error: ' + err.body.msg\n        });\n      });\n    }\n  }\n};",
+dependencies: [],
+sourceMap: {},
+headerContent: undefined,
+mtime: 1548128996000,
+devLibsRequired : undefined
+};

@@ -4,16 +4,23 @@
     .nav-left
       block rootNavLeft
         a.nav-item(href='/')
-          h1
-            i.nc-icon-outline.ui-2_layers
-            = appconfig.title
+          h1.logoHeader AI
+            small.small-class wi
+            small.small-class1 ki
     .nav-center
       block rootNavCenter
-        search
+          search
     span.nav-toggle
       span
       span
       span
     .nav-right
+      .nav-item
+        a.button(href="")
+          span Projects
+        a.button(href="")
+          span Contibutions
+        a.button(href='Login')
+          span Log In
       block rootNavRight
         loading-spinner

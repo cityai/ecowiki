@@ -1,0 +1,7 @@
+module.exports = { contents: "'use strict';\n\nvar _deburr = require('lodash/deburr');\n\nvar _deburr2 = _interopRequireDefault(_deburr);\n\nvar _filter = require('lodash/filter');\n\nvar _filter2 = _interopRequireDefault(_filter);\n\nvar _isEmpty = require('lodash/isEmpty');\n\nvar _isEmpty2 = _interopRequireDefault(_isEmpty);\n\nvar _join = require('lodash/join');\n\nvar _join2 = _interopRequireDefault(_join);\n\nvar _kebabCase = require('lodash/kebabCase');\n\nvar _kebabCase2 = _interopRequireDefault(_kebabCase);\n\nvar _map = require('lodash/map');\n\nvar _map2 = _interopRequireDefault(_map);\n\nvar _split = require('lodash/split');\n\nvar _split2 = _interopRequireDefault(_split);\n\nvar _trim = require('lodash/trim');\n\nvar _trim2 = _interopRequireDefault(_trim);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nmodule.exports = {\n  makeSafePath: function makeSafePath(rawPath) {\n    var rawParts = (0, _split2.default)((0, _trim2.default)(rawPath), '/');\n    rawParts = (0, _map2.default)(rawParts, function (r) {\n      return (0, _kebabCase2.default)((0, _deburr2.default)((0, _trim2.default)(r)));\n    });\n\n    return (0, _join2.default)((0, _filter2.default)(rawParts, function (r) {\n      return !(0, _isEmpty2.default)(r);\n    }), '/');\n  }\n};",
+dependencies: ["lodash/deburr","lodash/filter","lodash/isEmpty","lodash/join","lodash/kebabCase","lodash/map","lodash/split","lodash/trim"],
+sourceMap: {},
+headerContent: undefined,
+mtime: 1548128996000,
+devLibsRequired : undefined
+};

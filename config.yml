@@ -9,7 +9,7 @@
 # Title of this site
 # ---------------------------------------------------------------------
 
-title: Wiki
+title: AI Wiki
 
 # ---------------------------------------------------------------------
 # Full public path to the site, without the trailing slash
@@ -177,11 +177,11 @@ externalLogging:
 # Color Theme
 # ---------------------------------------------------------------------
 
-theme:
-  primary: indigo
-  alt: blue-grey
-  viewSource: all # all | write | false
-  footer: blue-grey
-  code:
-    dark: true
-    colorize: true
+#theme: false
+  # primary: indigo
+  # alt: blue-grey
+  # viewSource: all # all | write | false
+  # footer: blue-grey
+  # code:
+  #   dark: true
+  #   colorize: true

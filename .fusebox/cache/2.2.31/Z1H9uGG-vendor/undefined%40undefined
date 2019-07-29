@@ -1,0 +1,7 @@
+FuseBox.pkg("diff2htmlui", {}, function(___scope___){
+___scope___.file("index.js", function(exports, require, module, __filename, __dirname){
+
+module.exports = Diff2HtmlUI
+});
+return ___scope___.entry = "index.js";
+});
