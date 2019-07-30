@@ -1,19 +1,25 @@
-.hero {
-	padding: 20px;
-	background-color: mc('grey', '50');
-	border-bottom: 1px solid mc('grey', '200');
-	position: relative;
+@import "../base/variables.scss";
 
-	h1 {
+.hero {
+	padding-top: 20px;
+	padding-left: 5px;
+	background-color: $hero-bg;
+	border-bottom: 1px solid  $hero-border-color;
+	width: 25%;
+	position: relative;
+	margin-left: 20px;
+
+	h1, h1.title {
 		font-size: 28px;
-		color: mc($primary, '500');
+		color: $hero-color-text;
 		font-weight: 300;
 	}
 
 	h2 {
 		font-size: 18px;
-		color: mc('grey', '500');
+		color: $hero-color-h2;
 		font-weight: 400;
+		padding-bottom: 50px;
 	}
 
   .pageicon {
@@ -75,19 +81,3 @@
 
 }
 
-/* THEME OVERRIDE - START */
-
-@each $color, $colorvalue in $material-colors {
-  .is-primary-#{$color} .hero {
-    h1 {
-      color: mc($color, '500');
-    }
-  }
-  .is-alternate-#{$color} .hero {
-    .pageicon {
-      color: mc($color, '500');
-    }
-  }
-}
-
-/* THEME OVERRIDE - END */

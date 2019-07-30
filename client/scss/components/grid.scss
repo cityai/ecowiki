@@ -5,6 +5,7 @@
 	flex-grow: 1;
 	flex-shrink: 1;
 	padding: 10px;
+	background-color: $footer-color-bg;
 
 	.columns.is-mobile > &.is-narrow {
 		flex: none;

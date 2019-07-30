@@ -5411,9 +5411,9 @@ $nc-padding-width:    (1em/3) !default;
 .nc-icon-outline.location_appointment:before {
   content: "\e863";
 }
-.nc-icon-outline.location_bookmark-add:before {
-  content: "\e864";
-}
+// .nc-icon-outline.location_bookmark-add:before { // COMMENTED OUT SO IT DOESN NOT SHOW ON THE PAGE WITHOUT CHANGING SOURCE CODE
+//   content: "\e864";
+// }
 .nc-icon-outline.location_bookmark-remove:before {
   content: "\e865";
 }
