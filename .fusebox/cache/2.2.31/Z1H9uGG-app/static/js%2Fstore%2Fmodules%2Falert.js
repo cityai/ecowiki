@@ -1,7 +1,0 @@
-module.exports = { contents: "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _debounce = require('lodash/debounce');\n\nvar _debounce2 = _interopRequireDefault(_debounce);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nexports.default = {\n  state: {\n    shown: false,\n    style: 'green',\n    icon: 'check',\n    msg: ''\n  },\n  getters: {},\n  mutations: {\n    alertChange: function alertChange(state, opts) {\n      state.shown = opts.shown === true;\n      state.style = opts.style || 'green';\n      state.icon = opts.icon || 'check';\n      state.msg = opts.msg || '';\n    }\n  },\n  actions: {\n    alert: function alert(_ref, opts) {\n      var commit = _ref.commit,\n          dispatch = _ref.dispatch;\n\n      opts.shown = true;\n      commit('alertChange', opts);\n      dispatch('alertDismiss');\n    },\n\n    alertDismiss: (0, _debounce2.default)(function (_ref2) {\n      var commit = _ref2.commit;\n\n      var opts = { shown: false };\n      commit('alertChange', opts);\n    }, 3000)\n  }\n};",
-dependencies: ["lodash/debounce"],
-sourceMap: {},
-headerContent: undefined,
-mtime: 1548128996000,
-devLibsRequired : undefined
-};

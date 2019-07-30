@@ -1,7 +1,0 @@
-module.exports = { contents: "var _p = {};\nvar _v = function(exports){\"use strict\";\nObject.defineProperty(exports, \"__esModule\", { value: true });\nexports.default = {\n    name: 'color-picker',\n    props: ['value'],\n    data: function () {\n        return {\n            colors: [\n                'red',\n                'pink',\n                'purple',\n                'deep-purple',\n                'indigo',\n                'blue',\n                'light-blue',\n                'cyan',\n                'teal',\n                'green',\n                'light-green',\n                'lime',\n                'yellow',\n                'amber',\n                'orange',\n                'deep-orange',\n                'brown',\n                'grey',\n                'blue-grey'\n            ]\n        };\n    },\n    methods: {\n        setColor: function (color) {\n            this.$emit('input', color);\n        }\n    }\n};\n\n};\n_p.render = function render () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:\"colorpicker\"},_vm._l((_vm.colors),function(color){return _c('div',{staticClass:\"colorpicker-choice\",class:[\"is-\" + color, color === _vm.value ? \"is-active\" : \"\"],on:{\"click\":function($event){_vm.setColor(color)}}})}))}\n_p.staticRenderFns = [  ];\nvar _e = {}; _v(_e); Object.assign(_e.default.options||_e.default, _p)\nmodule.exports = _e\n    ",
-dependencies: [],
-sourceMap: {},
-headerContent: undefined,
-mtime: 1548128996000,
-devLibsRequired : undefined
-};
