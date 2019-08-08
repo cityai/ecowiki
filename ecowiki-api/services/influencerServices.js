@@ -1,16 +1,22 @@
 const Influencer = require('../models/influencer');
 const extError = require('../util/error/extError');
 const Twitter = require("twitter");
-
+const process = require("process");
+require("dotenv").config();
 
 class InfluencerServices{
-
+    
     async createInfluencers(){
+        const consumer_key = process.env.CONSUMER_KEY;
+        const consumer_secret = process.env.CONSUMER_SECRET;
+        const access_token_key = process.env.ACCESS_TOKEN_KEY;
+        const access_token_secret = process.env.ACCESS_TOKEN_SECRET;
+        
         const client = Twitter({
-            consumer_key:'vqOPZgjYxH95jxYYW5igtqhiY',
-            consumer_secret:'ddypYQcurmOH4QG1Myy9q952mmuwKxSt2VbtsUVzIzkapdge3T',
-            access_token_key:'712340448514338816-Oq5WYTgY0UuSV0OmMyy0D2MqSNyoFS3',
-            access_token_secret:'0GGbZ2LpQoaYiJZ7svac9ksf8cv9C993ckhGflkplZZin',
+            consumer_key,
+            consumer_secret,
+            access_token_key,
+            access_token_secret
         });
 
         //LIST BERLIN-AI-INFLUENCERS
