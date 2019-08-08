@@ -2,8 +2,10 @@ const express = require("express");
 const router = express.Router();
 
 const groups = require('../routes/group');
+const influencers = require("../routes/influencer");
 
 router.use('/groups', groups)
+router.use('/influencers',influencers);
 
 router.get('/', (req, res)=>{
     res.json({

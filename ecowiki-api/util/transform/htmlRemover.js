@@ -4,5 +4,5 @@ module.exports= function strip_html_tags(str)
        return false;
   else
    str = str.toString();
-  return str.replace(/<[^>]\r\n|\r|\n*>/g, '');
+  return str.replace(/<[^>]*>/g, '');
 }
