@@ -10,6 +10,10 @@ var communitySchema = mongoose.Schema({
     influencers: {
         type: Array, 
         ref: 'Influencer'
+    },
+    city:{
+        type: String, 
+        required: true
     }
 }, {timestamps: {} });
 
