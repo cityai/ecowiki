@@ -10,7 +10,7 @@ class GroupServices{
         .then(res=>res.json());
 
         for(let i = 0; i<groups.length; i++){
-            const find = await Group.findOne({link: groups[i].link})
+            const find = await Group.findOne({link: groups[i].name})
             if(find) continue;
 
             const description = htmlRemover(groups[i].description)

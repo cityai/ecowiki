@@ -15,14 +15,27 @@ var eventSchema = mongoose.Schema({
         type: String,
         required: true
     },
+    organizer:{
+        type: String,
+        required: true
+    },
     link: {
         type: String, 
         required: true
-    }, 
-    title: {
+    },
+    description: {
         type: String, 
         required: true
+    },
+    highlighted: {
+        type: Boolean,
+        required: true
+    },
+    title: {
+        type: String, 
+        required: false
     }
 }, {timestamps: {} });
 
 module.exports = mongoose.model('Event', eventSchema);
+
