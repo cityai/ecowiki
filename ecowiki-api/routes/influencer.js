@@ -4,6 +4,6 @@ const router = express.Router();
 
 router.get("/",influencerController.createInfluncer);
 router.get("/:city",influencerController.getInfluencers);
-router.delete("/delete/:screen_name",influencerController.deleteInfluencer);
+router.delete("/:id",influencerController.deleteInfluencer);
 
 module.exports=router;

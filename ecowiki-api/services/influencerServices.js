@@ -52,8 +52,8 @@ class InfluencerServices{
         }
         return influencers;
     }
-    async deleteInfluencer(screen_name){
-        const influencer = await Influencer.deleteOne({link:"https://twitter.com/"+screen_name})
+    async deleteInfluencer(id){
+        const influencer = await Influencer.findByIdAndDelete({_id: id})
         return influencer;
     }
 }
