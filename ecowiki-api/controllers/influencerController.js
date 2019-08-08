@@ -25,7 +25,7 @@ class InfluencerController {
 
     async deleteInfluencer(req,res){
         try{
-            const result = await influencerService.deleteInfluencer(req.params.screen_name);
+            const result = await influencerService.deleteInfluencer(req.params.id);
             res.send(result);
         }
         catch(error)
