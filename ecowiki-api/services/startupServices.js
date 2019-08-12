@@ -16,18 +16,44 @@ class StartupServices{
                 {
                     fetch(urlSpecific+startups.data.items[i].properties.permalink +'?user_key=' + process.env.CRUNCHBASE_KEY )
                     .then(res=>res.json())
-                    .then(json=> {                        
-                        const startup = new Startup({
-                            name: json.data.properties.name,
-                            categories: json.data.relationships.categories.items.map(item=>{return item.properties.name}),
-                            value:10,
-                            investment: json.data.properties.total_funding_usd,
-                            description:json.data.properties.description,
-                            link:json.data.properties.homepage_url,
-                            highlighted: false,
-                            tags: []
-                        })
-                       startup.save();
+                    .then(async function(json){
+                        const find = await Startup.findOne({name:json.data.properties.name})
+                        if(!find){
+                            if(json.data.relationships.funding_rounds.items[0])
+                            {
+                                if(json.data.relationships.funding_rounds.items[0].properties.series === "A" || 
+                                    json.data.relationships.funding_rounds.items[0].properties.series === "B" || 
+                                    json.data.relationships.funding_rounds.items[0].properties.funding_type === "seed" ||
+                                    json.data.relationships.funding_rounds.items[0].properties.funding_type === "pre-seed" || 
+                                    json.data.relationships.funding_rounds.items === []){
+
+                                    const startup = new Startup({
+                                        name: json.data.properties.name,
+                                        categories: json.data.relationships.categories.items.map(item=>{return item.properties.name}),
+                                        value:10,
+                                        investment: json.data.properties.total_funding_usd,
+                                        description:json.data.properties.description,
+                                        link:json.data.properties.homepage_url,
+                                        highlighted: false,
+                                        tags: []
+                                    })
+                                    startup.save();
+                                }
+                            }
+                            else{
+                                const startup = new Startup({
+                                    name: json.data.properties.name,
+                                    categories: json.data.relationships.categories.items.map(item=>{return item.properties.name}),
+                                    value:10,
+                                    investment: json.data.properties.total_funding_usd,
+                                    description:json.data.properties.description,
+                                    link:json.data.properties.homepage_url,
+                                    highlighted: false,
+                                    tags: []
+                                })
+                                startup.save();
+                            }
+                    }
                         resolve(json)
                     })
                     .catch(error => console.log(error))    
