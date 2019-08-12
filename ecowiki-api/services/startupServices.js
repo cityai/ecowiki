@@ -1,4 +1,5 @@
 const Startup = require("../models/startup");
+const Founder = require("../models/founder");
 const ExtError = require("../util/error/extError")
 const fetch = require("node-fetch")
 
@@ -17,6 +18,19 @@ class StartupServices{
                     fetch(urlSpecific+startups.data.items[i].properties.permalink +'?user_key=' + process.env.CRUNCHBASE_KEY )
                     .then(res=>res.json())
                     .then(async function(json){
+                        let leader
+                        if(json.data.relationships.current_team.items[0])
+                        {
+                            leader = new Founder({
+                                name:json.data.relationships.current_team.items[0].relationships.person.properties.first_name + " " + json.data.relationships.current_team.items[0].relationships.person.properties.last_name,
+                                picture:json.data.relationships.current_team.items[0].relationships.person.properties.profile_image_url,
+                                link:"www.crunchbase.com/" + json.data.relationships.current_team.items[0].relationships.person.properties.web_path,
+                                title:json.data.relationships.current_team.items[0].properties.title,
+                                location:json.data.relationships.headquarters.item.properties.city,
+                            })
+                        }
+                        if(leader === undefined) leader = {};
+                        else leader.save();
                         const find = await Startup.findOne({name:json.data.properties.name})
                         if(!find){
                             if(json.data.relationships.funding_rounds.items[0])
@@ -35,7 +49,8 @@ class StartupServices{
                                         description:json.data.properties.description,
                                         link:json.data.properties.homepage_url,
                                         highlighted: false,
-                                        tags: []
+                                        tags: [],
+                                        leadership:leader.id
                                     })
                                     startup.save();
                                 }
@@ -49,6 +64,7 @@ class StartupServices{
                                         description:json.data.properties.description,
                                         link:json.data.properties.homepage_url,
                                         highlighted: false,
+                                        leadership:leader.id,
                                         tags: []
                                     })
                                     startup.save();
@@ -64,6 +80,7 @@ class StartupServices{
                                     description:json.data.properties.description,
                                     link:json.data.properties.homepage_url,
                                     highlighted: false,
+                                    leadership:leader.id,
                                     tags: []
                                 })
                                 startup.save();
