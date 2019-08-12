@@ -7,8 +7,12 @@ var startupSchema = mongoose.Schema({
         type: String, 
         required: true
     },
-    category: {
-        type: String, 
+    type:{
+        type: String,
+        required:true
+    },
+    categories: {
+        type: Array, 
         required: true
     },
     value: {
@@ -18,7 +22,7 @@ var startupSchema = mongoose.Schema({
     leadership:{
         type: mongoose.Schema.Types.ObjectId,
         ref: 'founder',
-        required: true
+        required: false
     },
     investment:{
         type: Number,
@@ -26,11 +30,11 @@ var startupSchema = mongoose.Schema({
     },
     description: {
         type: String, 
-        required: true
+        required: false
     },
     link: {
         type: String, 
-        required: true
+        required: false
     },
     highlighted: {
         type: Boolean, 

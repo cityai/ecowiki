@@ -7,4 +7,8 @@ CONSUMER_SECRET=''
 ACCESS_TOKEN_KEY=''
 ACCESS_TOKEN_SECRET=''
 
+FOR CRUNCHBASE API:
+
+CRUNCHBASE_KEY=''
+
   Between '' add corresponding keys!
