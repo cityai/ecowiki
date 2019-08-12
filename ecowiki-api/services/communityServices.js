@@ -1,7 +1,7 @@
 const Community = require('../models/community');
 const Group = require('../models/group')
 const Influencer = require('../models/influencer')
-const extError = require('../util/error/extError');
+const ExtError = require('../util/error/extError');
 
  
 class CommunityServices{
@@ -16,6 +16,12 @@ class CommunityServices{
         })
         community.save()
 
+        return community;
+    }
+    
+    async getCommunity(city){
+        const community = await Community.find({city: city})
+        if(!community) throw new ExtError(404, "Community for the given city was not found!")
         return community;
     }
 }

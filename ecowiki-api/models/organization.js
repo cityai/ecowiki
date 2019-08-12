@@ -30,7 +30,7 @@ var organizationSchema = mongoose.Schema({
     founder: {
         type: mongoose.Schema.Types.ObjectId,
         ref: 'Founder',
-        required: true
+        required: false
     },
     email: {
         type: String, 

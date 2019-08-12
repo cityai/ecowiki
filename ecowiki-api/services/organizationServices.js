@@ -1,11 +1,10 @@
 const Organization = require('../models/organization');
 const Founder = require('../models/founder')
-const extError= require('../util/error/extError')
+const ExtError= require('../util/error/extError')
 
 class OrganizationServices{
     
     async createOrganization(data){
-        console.log(data)
         const organization = new Organization({
             category: data.category,
             name: data.name, 
@@ -17,8 +16,14 @@ class OrganizationServices{
             email: data.email,
             tags: data.tags
         })
-        organization.save()
+        await organization.save()
         return organization;
+    }
+
+    async getOrganizations(location){
+        const organizations = await Organization.find({location: location})
+        if(!organizations) throw new ExtError(404, "There are no organizations for the given city!")
+        return organizations;
     }
 }
 

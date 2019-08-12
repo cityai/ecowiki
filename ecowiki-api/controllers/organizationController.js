@@ -5,7 +5,6 @@ const processError = require('../util/error/errorHandler')
 class OrganizationController{
     async createOrganization(req, res){
         try{
-            console.log(req)
             const result = await organizationService.createOrganization(req.body);
             res.send(result)
         }
