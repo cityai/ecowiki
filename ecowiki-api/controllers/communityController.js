@@ -25,6 +25,17 @@ class CommunityController{
             processError(error, res);
         }
     }
+
+    async deleteCommunity(req, res){
+        try{
+
+            const result = await communityServices.deleteCommunity(req.params.id)
+            res.send(result)
+        }
+        catch(error) {
+            processError(error, res)
+        }
+    }
 }
 
 module.exports = new CommunityController();

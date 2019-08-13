@@ -14,6 +14,17 @@ class EventController{
             processError(error, res)
         }
     }
+
+    async deleteEvent(req, res){
+        try{
+
+            const result = await eventServices.deleteEvent(req.params.id)
+            res.send(result)
+        }
+        catch(error) {
+            processError(error, res)
+        }
+    }
 }
 
 module.exports = new EventController();

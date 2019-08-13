@@ -87,6 +87,13 @@ class CommunityServices{
         if(!community) throw new ExtError(404, "Community for the given city was not found!")
         return community;
     }
+
+    async deleteCommunity(id){
+        const community = await Community.findByIdAndDelete({_id: id})
+        if(!community) throw new ExtError(404, "Community by the given ID was not found!")
+        return community;
+    }
+    
 }
 
 module.exports= new CommunityServices();
