@@ -13,7 +13,7 @@ var citySchema = mongoose.Schema({
     },
     status:{
         type: String, 
-        required: true
+        required: false
     },
     community:{
         type: mongoose.Schema.Types.ObjectId,

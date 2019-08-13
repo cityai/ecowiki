@@ -101,6 +101,12 @@ class StartupServices{
           
         });
     }
+
+    async getStartups(location){
+        const startups = await Startup.find({location: location})
+        if(!startups) throw new ExtError(404, "There are no startups for the given city!")
+        return startups;
+    }
 }
 
 module.exports = new StartupServices();
