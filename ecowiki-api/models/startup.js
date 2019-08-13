@@ -43,7 +43,11 @@ var startupSchema = mongoose.Schema({
     highlighted: {
         type: Boolean, 
         required: true
-    }, 
+    },
+    location:{
+        type: String,
+        required:true
+    },
     tags:{
         type: Array,
         required: true

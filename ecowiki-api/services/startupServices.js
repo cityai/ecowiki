@@ -30,7 +30,11 @@ class StartupServices{
                             })
                         }
                         if(leader === undefined) leader = {};
-                        else leader.save();
+                        else {
+                            const find = await Founder.findOne({link:leader.link});
+                            if(!find)
+                                leader.save();
+                        }
                         const find = await Startup.findOne({name:json.data.properties.name})
                         if(!find){
                             if(json.data.relationships.funding_rounds.items[0])
@@ -49,6 +53,7 @@ class StartupServices{
                                         description:json.data.properties.description,
                                         link:json.data.properties.homepage_url,
                                         highlighted: false,
+                                        location:json.data.relationships.headquarters.item.properties.city,
                                         tags: [],
                                         leadership:leader.id
                                     })
@@ -65,6 +70,7 @@ class StartupServices{
                                         link:json.data.properties.homepage_url,
                                         highlighted: false,
                                         leadership:leader.id,
+                                        location:json.data.relationships.headquarters.item.properties.city,
                                         tags: []
                                     })
                                     startup.save();
@@ -81,6 +87,7 @@ class StartupServices{
                                     link:json.data.properties.homepage_url,
                                     highlighted: false,
                                     leadership:leader.id,
+                                    location:json.data.relationships.headquarters.item.properties.city,
                                     tags: []
                                 })
                                 startup.save();
@@ -99,6 +106,11 @@ class StartupServices{
         const startups = await Startup.find({location: location})
         if(!startups) throw new ExtError(404, "There are no startups for the given city!")
         return startups;
+    }
+
+    async deleteStartup(id){
+        const startup = await Startup.findByIdAndDelete({_id:id});
+        return startup;
     }
 }
 
