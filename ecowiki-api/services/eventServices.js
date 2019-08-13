@@ -5,7 +5,7 @@ const fetch = require('node-fetch')
 
 class EventServices{
     
-    async createEvents(){
+    async createEvents(location){
         const response = await fetch("https://api.meetup.com/find/upcoming_events?&sign=true&photo-host=public&lon=13.40&page=100&text=Artificial Intelligence &radius=20 &lat=52.52&key=212b746b232c1e453431465736a56b")
         .then(res=>res.json());
 
@@ -23,7 +23,7 @@ class EventServices{
             const event = new Event({
                 name: response.events[i].name,
                 date: response.events[i].local_date,
-                location: 'Berlin',
+                location: location,
                 organizer: response.events[i].group.name,
                 link: response.events[i].link,
                 description: description,

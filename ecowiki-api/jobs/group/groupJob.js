@@ -17,7 +17,7 @@ module.exports =  async function getGroups(){
             name: groups[i].name,
             link: groups[i].link,
             description: description,
-            city: groups[i].city,
+            location: groups[i].location,
             members: groups[i].members,
             organizer: groups[i].organizer.name,
             category: groups[i].category.name

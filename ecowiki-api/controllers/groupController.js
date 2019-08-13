@@ -16,7 +16,7 @@ class GroupController{
 
     async getGroups(req, res){
         try{
-            const result = await groupServices.getGroups(req.params.city)
+            const result = await groupServices.getGroups(req.params.location)
             res.send(result)
         }
         catch(error) {

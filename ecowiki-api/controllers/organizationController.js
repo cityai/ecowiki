@@ -12,6 +12,16 @@ class OrganizationController{
             processError(error, res)
         };
     }
+
+    async updateOrganization(req, res){
+        try{
+            const result = await organizationService.updateOrganization(req.body, req.params.id);
+            res.send(result)
+        }
+        catch(error){
+            processError(error, res)
+        };
+    }
 }
 
 module.exports = new OrganizationController()

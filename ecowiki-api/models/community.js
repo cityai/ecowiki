@@ -11,7 +11,7 @@ var communitySchema = mongoose.Schema({
         type: Array, 
         ref: 'Influencer'
     }, 
-    city: {
+    location: {
         type: String, 
         required: true
     }

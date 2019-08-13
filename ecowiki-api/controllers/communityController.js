@@ -8,10 +8,20 @@ class CommunityController{
 
     async createCommunity(req, res){
         try{
-            const result = await communityServices.createCommunity();
+            const result = await communityServices.createCommunity(req.params.location);
             res.send(result)
         }
         catch(error) {
+            processError(error, res);
+        }
+    }
+
+    async updateCommunity(req, res){
+        try{
+            const result = await communityServices.updateCommunity(req.params.location)
+            res.send(result)
+        }
+        catch(error){
             processError(error, res);
         }
     }

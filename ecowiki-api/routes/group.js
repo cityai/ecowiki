@@ -8,5 +8,5 @@ const router = express.Router();
 router.get('/', groupController.createGroup)
 
 //-----------------------------------------------
-router.get('/:city', groupController.getGroups);
+router.get('/:location', groupController.getGroups);
 module.exports = router

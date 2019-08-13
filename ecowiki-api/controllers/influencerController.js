@@ -15,7 +15,7 @@ class InfluencerController {
 
     async getInfluencers(req,res){
         try{
-            const result = await influencerService.getInfluencers(req.params.city);
+            const result = await influencerService.getInfluencers(req.params.location);
             res.send(result)
         }
         catch(error){

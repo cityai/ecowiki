@@ -9,29 +9,43 @@ const startupServices = require('../services/startupServices')
 const ExtError = require('../util/error/extError')
 
 class CityServices{
-    async createCity(data, city){
-        const community = await communityService.getCommunity(city)
-        const events = await eventServices.getEvents(city)
-        const organizations = await organizationService.getOrganizations(city)
-        const startups = await startupServices.getStartups(city)
+    async createCity(data, location){
+        const community = await communityService.getCommunity(location)
+        const events = await eventServices.getEvents(location)
+        const organizations = await organizationService.getOrganizations(location)
+        const startups = await startupServices.getStartups(location)
         
         
         const city = new City({
-            name: data.name,
+            name: location,
             overview: data.overview,
             //status: status, 
-            community: community,
+            community: community._id,
             events: events,
             organizations: organizations,
             startups: startups
-            // lontitude: lontitude,
+            // longitude: longitude,
             // latitude: latitude,
             // news: news
         })
+        await city.save()
+        return city;
     }
+    async updateCity(data, location){
+        data.community.location = 'polic gej'
 
-    async getCity(city){
-        const city = await City.find({name: city})
+        console.log(data.community)
+
+        const city = await City.findOneAndUpdate({name: location},{
+            $set: data
+        }, {new: true})
+
+        if(!city) throw new ExtError(404, "There are no information about that city!")
+
+        
+    }
+    async getCity(location){
+        const city = await City.find({name: location})
         if(!city) throw new ExtError(404, "There is no data about that city!")
         return city;
     }

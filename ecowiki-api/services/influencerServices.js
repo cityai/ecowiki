@@ -43,8 +43,8 @@ class InfluencerServices{
         return res.users;
     }
     
-    async getInfluencers(city){
-        const influencers = await Influencer.find({location:city});
+    async getInfluencers(location){
+        const influencers = await Influencer.find({location:location});
         if(!influencers) extError(404,"There are no influencersr for this city");
         for(let i=0;i<influencers.length;i++)
         {

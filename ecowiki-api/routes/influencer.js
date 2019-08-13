@@ -3,7 +3,7 @@ const express = require('express');
 const router = express.Router();
 
 router.get("/",influencerController.createInfluncer);
-router.get("/:city",influencerController.getInfluencers);
+router.get("/:location",influencerController.getInfluencers);
 router.delete("/:id",influencerController.deleteInfluencer);
 
 module.exports=router;

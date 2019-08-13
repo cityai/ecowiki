@@ -20,6 +20,13 @@ class OrganizationServices{
         return organization;
     }
 
+    async updateOrganization(data, id){
+        const organization = await Organization.findOneAndUpdate({_id: id},{
+            $set: data
+        }, {new:true})
+        if(!organization) throw new ExtError(404, "The organization with the given ID was not found!")
+        return organization;
+    }
     async getOrganizations(location){
         const organizations = await Organization.find({location: location})
         if(!organizations) throw new ExtError(404, "There are no organizations for the given city!")

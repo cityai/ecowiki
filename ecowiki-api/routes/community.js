@@ -3,6 +3,7 @@ const express = require('express');
 
 const router = express.Router()
 
-router.get('/', comunityController.createCommunity)
+router.post('/:location', comunityController.createCommunity)
+router.patch('/:location', comunityController.updateCommunity)
 
 module.exports = router;

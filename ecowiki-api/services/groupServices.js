@@ -19,7 +19,7 @@ class GroupServices{
                 name: groups[i].name,
                 link: groups[i].link,
                 description: description,
-                city: groups[i].city,
+                location: groups[i].location,
                 members: groups[i].members,
                 organizer: groups[i].organizer.name,
                 category: groups[i].category.name
@@ -29,8 +29,8 @@ class GroupServices{
         return groups;
     }
 
-    async getGroups(city){
-        const groups = await Group.find({city: city})
+    async getGroups(location){
+        const groups = await Group.find({location: location})
         if(!groups) throw new ExtError(404, 'There are no groups for that city.')
         for(let i = 0; i< groups.length; i++){
 
