@@ -11,6 +11,24 @@ class StartupController{
             processError(error,res);
         }
     }
+
+    async getStartups(req,res){
+        try {
+            const result = await startupServices.getStartups(req.params.city);
+            res.send(result);
+        } catch (error) {
+            processError(error,res);
+        }
+    }
+    
+    async deleteStartup(req,res){
+        try {
+            const result = await startupServices.deleteStartup(req.params.id);
+            res.send(result);
+        } catch (error) {
+            processError(error,res);
+        }
+    }
 }
 
 module.exports = new StartupController();

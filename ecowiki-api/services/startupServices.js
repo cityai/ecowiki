@@ -107,6 +107,11 @@ class StartupServices{
         if(!startups) throw new ExtError(404, "There are no startups for the given city!")
         return startups;
     }
+
+    async deleteStartup(id){
+        const startup = await Startup.findByIdAndDelete({_id:id});
+        return startup;
+    }
 }
 
 module.exports = new StartupServices();

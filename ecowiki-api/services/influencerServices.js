@@ -45,7 +45,7 @@ class InfluencerServices{
     
     async getInfluencers(city){
         const influencers = await Influencer.find({location:city});
-        if(!influencers) extError(404,"There are no influencersr for this city");
+        if(!influencers) extError(404,"There are no influencers for this city");
         for(let i=0;i<influencers.length;i++)
         {
             //Influencers to MARKDOWN
