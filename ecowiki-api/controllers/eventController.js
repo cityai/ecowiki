@@ -6,7 +6,7 @@ const processError = require('../util/error/errorHandler')
 class EventController{
     async createEvents(req, res){
         try{
-            const result = await eventServices.createEvents();
+            const result = await eventServices.createEvents(req.params.location);
             res.send(result)
 
         }

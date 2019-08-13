@@ -6,7 +6,11 @@ const fetch = require('node-fetch')
 class EventServices{
     
     async createEvents(location){
-        const response = await fetch("https://api.meetup.com/find/upcoming_events?&sign=true&photo-host=public&lon=13.40&page=100&text=Artificial Intelligence &radius=20 &lat=52.52&key=212b746b232c1e453431465736a56b")
+        const locationData = await fetch("https://api.meetup.com/find/locations?&sign=true&photo-host=public&query="+ location + "&key=212b746b232c1e453431465736a56b").then(res=>res.json());
+        console.log(locationData);
+        const lon = locationData[0].lon;
+        const lat =locationData[0].lat
+        const response = await fetch("https://api.meetup.com/find/upcoming_events?&sign=true&photo-host=public&lon="+ lon +"&page=100&text=Artificial Intelligence &radius=20 &lat="+ lat +"&key=212b746b232c1e453431465736a56b")
         .then(res=>res.json());
 
     

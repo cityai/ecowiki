@@ -3,6 +3,6 @@ const express = require('express')
 
 const router = express.Router();
 
-router.get('/', eventController.createEvents);
+router.get('/:location', eventController.createEvents);
 
 module.exports= router;
