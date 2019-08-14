@@ -5,10 +5,10 @@ const fetch = require("node-fetch")
 
 class StartupServices{
     // RESOLVE ONLY RETURN FIRST PROMISE!!! WORKS AS ASYNC W/O AWAIT
-    async createStartups(){
+    async createStartups(location){
         return new Promise((resolve, reject) => {
             const urlCompanies = 'https://api.crunchbase.com/v3.1/organizations'+
-            '?categories=Artificial%20Intelligence&locations=Berlin&organization_types=company'+
+            '?categories=Artificial%20Intelligence&locations=' + location + '&organization_types=company'+
             '&user_key=' + process.env.CRUNCHBASE_KEY;
             const urlSpecific = 'https://api.crunchbase.com/v3.1/organizations/';
             
@@ -53,7 +53,7 @@ class StartupServices{
                                         description:json.data.properties.description,
                                         link:json.data.properties.homepage_url,
                                         highlighted: false,
-                                        location:json.data.relationships.headquarters.item.properties.city,
+                                        location:location,//json.data.relationships.headquarters.item.properties.city,
                                         tags: [],
                                         leadership:leader.id
                                     })
@@ -70,7 +70,7 @@ class StartupServices{
                                         link:json.data.properties.homepage_url,
                                         highlighted: false,
                                         leadership:leader.id,
-                                        location:json.data.relationships.headquarters.item.properties.city,
+                                        location:location,//json.data.relationships.headquarters.item.properties.city,
                                         tags: []
                                     })
                                     startup.save();
@@ -87,7 +87,7 @@ class StartupServices{
                                     link:json.data.properties.homepage_url,
                                     highlighted: false,
                                     leadership:leader.id,
-                                    location:json.data.relationships.headquarters.item.properties.city,
+                                    location:location,//json.data.relationships.headquarters.item.properties.city,
                                     tags: []
                                 })
                                 startup.save();
