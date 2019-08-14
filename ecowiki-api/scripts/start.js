@@ -6,7 +6,7 @@ const colors = require('colors');
 const http = require('http');
 
 // custom imports
-const env = require( '../env' );
+const env = process.env.NODE_ENV;
 const config = require(`../config/env/${env}.config.json`);
 
 const port = normalizePort(config.port || '3000');
@@ -16,6 +16,8 @@ const server = http.createServer(app);
 server.listen(port);
 server.on('error', onError);
 server.on('listening', onListening);
+
+
 
 function normalizePort(val) {
     var port = parseInt(val, 10);
