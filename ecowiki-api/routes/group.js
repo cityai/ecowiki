@@ -5,7 +5,7 @@ const router = express.Router();
 /**
  * TEST
  */
-router.get('/', groupController.createGroup)
+router.get('/:location', groupController.createGroup)
 
 //-----------------------------------------------
 router.get('/:location', groupController.getGroups);

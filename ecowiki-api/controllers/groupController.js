@@ -6,7 +6,7 @@ const router = express.Router();
 class GroupController{
     async createGroup(req, res){
         try{
-            const result = await groupServices.createGroups();
+            const result = await groupServices.createGroups(req.params.location);
             res.send(result)
         }
         catch(error){

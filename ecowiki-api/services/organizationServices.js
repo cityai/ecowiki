@@ -4,12 +4,12 @@ const ExtError= require('../util/error/extError')
 
 class OrganizationServices{
     
-    async createOrganization(data){
+    async createOrganization(data, location){
         const organization = new Organization({
             category: data.category,
             name: data.name, 
             link: data.link,
-            location: data.location,
+            location: location,
             description: data.description,
             profit: data.profit, 
             founder: data.founder,

@@ -14,7 +14,7 @@ class StartupController{
 
     async getStartups(req,res){
         try {
-            const result = await startupServices.getStartups(req.params.city);
+            const result = await startupServices.getStartups(req.params.location);
             res.send(result);
         } catch (error) {
             processError(error,res);

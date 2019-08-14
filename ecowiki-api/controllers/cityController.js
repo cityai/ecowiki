@@ -2,7 +2,6 @@ const cityServices = require('../services/cityServices')
 const express = require('express')
 const processError= require('../util/error/errorHandler')
 
-const router = express.Router()
 
 class CityController{
     async createCity(req, res){
@@ -27,6 +26,16 @@ class CityController{
         }
     }
 
+    async deleteCity(req, res){
+        try{
+
+            const result = await cityServices.deleteCity(req.params.id)
+            res.send(result)
+        }
+        catch(error) {
+            processError(error, res)
+        }
+    }
 }
 
 module.exports = new CityController();
