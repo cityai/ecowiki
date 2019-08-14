@@ -1,5 +1,5 @@
 {
-    "env": "dev",
+    "env": "prod",
     "port": 3000,
     "mongoUrl": "mongodb://mongo:27017/wikiApi"
 }
