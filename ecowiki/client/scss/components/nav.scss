@@ -217,17 +217,17 @@
 	.control {
 
 		input[type=text] {
-			background-color: mc($primary, '800');
-			border-color: mc($primary, '400');
-			color: mc($primary, '50');
+			background-color: $search-color-bg;
+			border-color: $search-color-border;
+			color: $search-color-text;
 
 			&:focus {
-				border-color: mc($primary, '200');
+				border-color: $search-color-border-focus;
 				box-shadow: inset 0 0 5px 0 rgba(mc($primary, '900'), 0.5);
 			}
 
 			@include placeholder {
-				color: mc($primary, '200');
+				color: $search-color-placeholder;
 			}
 
 		}

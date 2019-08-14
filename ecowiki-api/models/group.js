@@ -15,7 +15,7 @@ var groupSchema = mongoose.Schema({
         type: String, 
         required: true
     },
-    city: {
+    location: {
         type: String, 
         required: true
     },
