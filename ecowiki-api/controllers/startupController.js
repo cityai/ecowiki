@@ -4,7 +4,7 @@ const processError = require("../util/error/errorHandler")
 class StartupController{
     async createStartups(req,res){
         try{
-            const result = await startupServices.createStartups();
+            const result = await startupServices.createStartups(req.params.location);
             res.send(result);
         }
         catch(error){
