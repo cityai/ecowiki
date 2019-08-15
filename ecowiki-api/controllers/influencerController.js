@@ -5,7 +5,7 @@ const express = require("express");
 class InfluencerController {
     async createInfluncer(req,res){
         try{
-            const result = await influencerService.createInfluencers();
+            const result = await influencerService.createInfluencers(req.params.location);
             res.send(result)
         }
         catch(error){

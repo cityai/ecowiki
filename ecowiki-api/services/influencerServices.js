@@ -6,7 +6,7 @@ require("dotenv").config();
 
 class InfluencerServices{
     
-    async createInfluencers(){
+    async createInfluencers(location){
         const consumer_key = process.env.CONSUMER_KEY;
         const consumer_secret = process.env.CONSUMER_SECRET;
         const access_token_key = process.env.ACCESS_TOKEN_KEY;
@@ -20,7 +20,8 @@ class InfluencerServices{
         });
 
         //LIST BERLIN-AI-INFLUENCERS
-        const params = {list_id:'860430898814218241'}; 
+        const listName = location.toLowerCase()+"-ai-influencers";
+        const params = {owner_screen_name: "thecityai", slug: listName}; 
         
         const res = await client.get("lists/members",params)
         for(let i=0;i<res.users.length;i++)
@@ -32,7 +33,7 @@ class InfluencerServices{
             const influencer = new Influencer({
                 name:res.users[i].name,
                 picture:res.users[i].profile_image_url,
-                location:"Berlin",
+                location:location,
                 link:"https://twitter.com/" + res.users[i].screen_name,
                 title:"a",
                 tags:[],
