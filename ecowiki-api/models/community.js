@@ -4,11 +4,11 @@ const mongoose = require('mongoose');
 
 var communitySchema = mongoose.Schema({
     groups: {
-        type: Array, 
+        type: [mongoose.Schema.Types.ObjectId], 
         ref: 'Group'
     }, 
     influencers: {
-        type: Array, 
+        type: [mongoose.Schema.Types.ObjectId], 
         ref: 'Influencer'
     }, 
     location: {
