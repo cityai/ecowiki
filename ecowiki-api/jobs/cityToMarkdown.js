@@ -38,7 +38,9 @@ class MarkdownTransform {
         index++;
         for(let i=0;i<n;i++)
         {
+            //There is no data for particular part of the city (e.g no news yet, no organizations...)
             if(document[docObj].length < 1) continue;
+
             for(let j=0;j<attributesArray.length;j++)
             {
                 

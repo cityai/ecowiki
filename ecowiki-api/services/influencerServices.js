@@ -24,24 +24,27 @@ class InfluencerServices{
         const params = {owner_screen_name: "thecityai", slug: listName}; 
         
         const res = await client.get("lists/members",params)
-        for(let i=0;i<res.users.length;i++)
-        {
-             const find = await Influencer.findOne({link:"https://twitter.com/"
+        if(res){
+            for(let i=0;i<res.users.length;i++)
+            {
+                const find = await Influencer.findOne({link:"https://twitter.com/"
                                                      +res.users[i].screen_name});
-             if(find) continue;
+                if(find) continue;
 
-            const influencer = new Influencer({
-                name:res.users[i].name,
-                picture:res.users[i].profile_image_url,
-                location:location,
-                link:"https://twitter.com/" + res.users[i].screen_name,
-                title:"a",
-                tags:[],
-            })
-            influencer.save();
-        }
+                const influencer = new Influencer({
+                    name:res.users[i].name,
+                    picture:res.users[i].profile_image_url,
+                    location:location,
+                    link:"https://twitter.com/" + res.users[i].screen_name,
+                    title:"a",
+                    tags:[],
+                })
+                influencer.save();
+            }
         
-        return res.users;
+            return res.users;
+        }
+        else return "List of influencers not found"
     }
     
     async getInfluencers(location){
