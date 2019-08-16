@@ -40,7 +40,7 @@
 		&:first-child {
 			margin-top: 1px;
 		}
-
+		
 		/*& + h2 {
 			margin-top: 1px;
 			border-top: none;
@@ -53,14 +53,10 @@
 	}
 
 	h2 {
-		background-color: lighten(mc('teal', '50'), 5%);
-    background: linear-gradient(to bottom, lighten(mc('teal', '50'), 5%), mc('teal', '50'));
-		border: 1px solid mc('teal', '100');
-		border-right-width: 5px;
-		border-top-left-radius: 3px;
-		border-bottom-left-radius: 3px;
+		//background-color: lighten(mc('teal', '50'), 5%);
+		color: $content-color-text;
 		font-size: 16px;
-		color: mc('teal', '900');
+		
 		margin-left: 20px;
 	}
 
@@ -451,5 +447,13 @@
 		}
 
 	}
-
+	.startups{
+		display: flex;
+		flex-direction: column;
+		p{
+			display: block;
+			flex-direction: column;
+			flex: 0;
+		}
+	}
 }
