@@ -6,13 +6,13 @@ const fetch = require('node-fetch')
 class EventServices{
     
     async createEvents(location){
-        console.log(1)
         const locationData = await fetch("https://api.meetup.com/find/locations?&sign=true&photo-host=public&query="+ location + "&key=212b746b232c1e453431465736a56b").then(res=>res.json());
+        
         const lon = locationData[0].lon;
         const lat =locationData[0].lat
+        
         const response = await fetch("https://api.meetup.com/find/upcoming_events?&sign=true&photo-host=public&lon="+ lon +"&page=100&text=Artificial Intelligence &radius=20 &lat="+ lat +"&key=212b746b232c1e453431465736a56b")
         .then(res=>res.json());
-        console.log(2)
     
         for(let i=0; i<response.events.length; i++){
 
@@ -23,7 +23,6 @@ class EventServices{
             if(response.events[i].description) {
                 description = htmlRemover(response.events[i].description)
             }
-            console.log(i)
             const event = new Event({
                 name: response.events[i].name,
                 date: response.events[i].local_date,
@@ -35,7 +34,7 @@ class EventServices{
                 tags: null
             })
 
-            event.save()
+            await event.save()
         }
         return response;
     }

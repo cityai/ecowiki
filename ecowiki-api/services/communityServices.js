@@ -21,16 +21,22 @@ const _ = require('lodash')
 class CommunityServices{
 
     async createCommunity(location){    
-        const groups = await Group.find({location: location});
-        const influencers = await Influencer.find({location: location});
-
-        const community = new Community({
-            groups: groups,
-            influencers: influencers,
-            location: location
-        })
-        community.save()
-
+        let community = await Community.findOne({location: location})
+        
+        if(!community){
+            const groups = await Group.find({location: location});
+            const influencers = await Influencer.find({location: location});
+    
+            const community = new Community({
+                groups: groups,
+                influencers: influencers,
+                location: location
+            })
+            community.save()
+        }
+        else{
+            this.updateCommunity(location)
+        }
         return community;
     }
 
@@ -82,6 +88,7 @@ class CommunityServices{
         await community.save()
         return community;
     }
+    
     async getCommunity(location){
         const community = await Community.findOne({location: location})
         if(!community) throw new ExtError(404, "Community for the given city was not found!")

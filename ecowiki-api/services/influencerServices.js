@@ -19,7 +19,6 @@ class InfluencerServices{
             access_token_secret
         });
 
-        //LIST BERLIN-AI-INFLUENCERS
         const listName = location.toLowerCase()+"-ai-influencers";
         const params = {owner_screen_name: "thecityai", slug: listName}; 
         
@@ -27,8 +26,7 @@ class InfluencerServices{
         if(res){
             for(let i=0;i<res.users.length;i++)
             {
-                const find = await Influencer.findOne({link:"https://twitter.com/"
-                                                     +res.users[i].screen_name});
+                const find = await Influencer.findOne({link:"https://twitter.com/"+res.users[i].screen_name});
                 if(find) continue;
 
                 const influencer = new Influencer({

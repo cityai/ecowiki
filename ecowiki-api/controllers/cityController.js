@@ -21,7 +21,7 @@ class CityController{
     async createCity(req, res){
         try{
 
-            const result = await cityServices.createCity(req.body, req.params.location)
+            const result = await cityServices.createCity(req.params.location, req.body)
             res.send(result)
         }
         catch(error) {

@@ -18,25 +18,25 @@ var citySchema = mongoose.Schema({
     community:{
         type: mongoose.Schema.Types.ObjectId,
         ref: 'Community',
-        required: true
+        required: false
     },
     events: {
-        type: Array,
+        type: [mongoose.Schema.Types.ObjectId],
         ref: 'Event',
-        required: true
+        required: false
     },
     organizations: {
-        type: Array,
+        type: [mongoose.Schema.Types.ObjectId],
         ref: "Organization",
-        required: true
+        required: false
     },
     startups:{
-        type: Array, 
+        type: [mongoose.Schema.Types.ObjectId], 
         ref: "Startup",
-        required: true
+        required: false
     },
     news: {
-        type: Array,
+        type: [mongoose.Schema.Types.ObjectId],
         ref: "News"
     }
 }, {timestamps: {} });

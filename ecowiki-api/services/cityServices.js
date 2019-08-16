@@ -9,21 +9,12 @@ const startupServices = require('../services/startupServices')
 const ExtError = require('../util/error/extError')
 
 class CityServices{
-    async createCity(data, location){
-        const community = await communityService.getCommunity(location)
-        const events = await eventServices.getEvents(location)
-        const organizations = await organizationService.getOrganizations(location)
-        const startups = await startupServices.getStartups(location)
-        
-        
+    async createCity(location, data){
+
         const city = new City({
             name: location,
             overview: data.overview,
-            //status: status, 
-            community: community._id,
-            events: events,
-            organizations: organizations,
-            startups: startups
+            //status: status,
             // longitude: longitude,
             // latitude: latitude,
             // news: news
@@ -32,9 +23,6 @@ class CityServices{
         return city;
     }
     async updateCity(data, location){
-        data.community.location = 'polic gej'
-
-        console.log(data.community)
 
         const city = await City.findOneAndUpdate({name: location},{
             $set: data

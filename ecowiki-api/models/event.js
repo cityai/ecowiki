@@ -25,7 +25,7 @@ var eventSchema = mongoose.Schema({
     },
     description: {
         type: String, 
-        required: true
+        required: false
     },
     highlighted: {
         type: Boolean,
