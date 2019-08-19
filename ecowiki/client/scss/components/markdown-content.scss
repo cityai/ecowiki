@@ -18,10 +18,12 @@
 	padding: 0 0 20px 0;
   width: 100%;
   overflow: hidden;
-	
+  background:linear-gradient(to right,$bg-primary,$bg-secondary);
+  padding-left: 46px;
+
 	h1, h2, h3 {
-		font-weight: 400;
-		margin: 10px 0 0;
+		font-weight: 900;
+		
 		padding: 7px 10px;
 		font-weight: 700;
 		text-transform: uppercase;
@@ -31,11 +33,11 @@
 		//background-color: mc('blue-grey', '50');
     	//background: linear-gradient(to bottom, mc('blue-grey', '50'), mc('indigo', '50'));
 		//border-bottom: 2px solid mc('indigo', '100');
-		font-size: 25px;
+		font-size: 40px;
 		color: $content-color-text;
 		border-bottom: 1px solid black;
 		margin: 10px 20px;
-		width: 20%;
+		width: 300px;
 		padding-bottom: 50px;
 		&:first-child {
 			margin-top: 1px;

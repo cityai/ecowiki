@@ -1,9 +1,9 @@
-
 // --------------------------------------
 // FONTS
 // --------------------------------------
 
-$core-font-standard: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+
+$core-font-standard: 'Barlow',-apple-system, BlinkMacSystemFont,Roboto, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 $core-font-monospace: Consolas, "Liberation Mono", Menlo, Courier, monospace;
 
 // --------------------------------------
@@ -25,6 +25,8 @@ $color-link-active: mc('purple', '500');
 $color-bg: #F4F5F9;
 $hr-line-color: mc('grey','900');
 
+$bg-primary: #fff;
+$bg-secondary: #dcdcdc;
 //FOOTER VARS
 
 $footer-color-bg: mc('grey','200');
@@ -32,9 +34,8 @@ $footer-color-text:mc('grey','800');
 
 // HERO VARS
 
-$hero-bg: mc('grey','200');
 $hero-color-text: mc('grey','900');
-$hero-color-h2: mc('grey','600');
+$hero-color-h2: #C80000;
 $hero-border-color: mc('grey','600');
 
 // HEADER VARS
@@ -44,7 +45,7 @@ $header-color-text:mc('grey','900');
 
 //SIDEBAR VARS
 
-$sidebar-color-bg: mc('grey','200');
+$sidebar-color-bg: $bg-primary;
 $sidebar-color-text-prim: mc('grey','900');
 $sidebar-color-text-sec: mc('grey','600');
 

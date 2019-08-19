@@ -2,18 +2,19 @@
 
 .hero {
 	padding-top: 20px;
-	padding-left: 5px;
-	background-color: $hero-bg;
-	border-bottom: 1px solid  $hero-border-color;
-	width: 20%;
+	padding-left: 25px;
+	background:linear-gradient(to right,$bg-primary,$bg-secondary);
+	//border-bottom: 1px solid  $hero-border-color;
 	position: relative;
-	margin-left: 20px;
 
 	h1, h1.title {
-		font-size: 35px;
-			$set-width:80px;
-			background: linear-gradient(to right,#000000,#C80000 $set-width);
+		position: relative;
+		width: max-content;
+			font-size: 70px;
+			$set-width:90px;
+			background: linear-gradient(to right,#000000,#C80000);
 			-webkit-background-clip: text;
+			padding-left:20px; 
 			-webkit-text-fill-color: transparent;	
 		
 		font-weight: 900;
@@ -22,8 +23,13 @@
 	h2 {
 		font-size: 20px;
 		color: $hero-color-h2;
+		border-top: thin solid black;
+		margin-top:80px;
+		padding-bottom: 80px;
+		padding-top:12px;
+		padding-left:20px;
 		font-weight: 400;
-		padding-bottom: 50px;
+		width: 300px;
 	}
 
   .pageicon {

@@ -3,6 +3,7 @@
 .nav {
 	align-items: stretch;
 	background-color: $header-bg;
+	background: linear-gradient(to right, $bg-primary,$bg-secondary);
 	display: flex;
 	min-height: 50px;
 	position: relative;
@@ -193,6 +194,7 @@
 		border: none;
 		background-color: $header-bg;
 		transition: all .4s ease;
+		background: transparent;
 		color: $header-color-text;
 		border-radius: 0;
     height: auto;
