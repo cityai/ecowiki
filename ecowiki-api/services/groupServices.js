@@ -8,7 +8,7 @@ class GroupServices{
     async createGroups(location){
         const groups = await fetch(`https://api.meetup.com/find/groups?&sign=true&photo-host=public&location=`+location+`&text=Artificial intelligence&category=34&order=members&page=200&desc=true&key=212b746b232c1e453431465736a56b`)
         .then(res=>res.json());
-
+        if(!groups) throw new ExtError(404, "No groups for this city");
         for(let i = 0; i<groups.length; i++){
             const find = await Group.findOne({link: groups[i].link})
             if(find) continue;
@@ -24,7 +24,7 @@ class GroupServices{
                 organizer: groups[i].organizer.name,
                 category: groups[i].category.name
             })
-            group.save()
+           await group.save()
         }
         return groups;
     }

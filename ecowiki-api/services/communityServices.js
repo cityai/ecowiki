@@ -26,13 +26,16 @@ class CommunityServices{
         if(!community){
             const groups = await Group.find({location: location});
             const influencers = await Influencer.find({location: location});
-    
+            
+            if(!groups) groups =[];
+            if(!influencers) influencers = [];
+
             const community = new Community({
                 groups: groups,
                 influencers: influencers,
                 location: location
             })
-            community.save()
+            await community.save()
         }
         else{
             this.updateCommunity(location)

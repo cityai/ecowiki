@@ -22,7 +22,8 @@ class InfluencerServices{
         const listName = location.toLowerCase()+"-ai-influencers";
         const params = {owner_screen_name: "thecityai", slug: listName}; 
         
-        const res = await client.get("lists/members",params)
+        const res = await client.get("lists/members",params,(err,tweets,response)=>{if(err)console.log(err)})
+        
         if(res){
             for(let i=0;i<res.users.length;i++)
             {
@@ -37,7 +38,7 @@ class InfluencerServices{
                     title:"a",
                     tags:[],
                 })
-                influencer.save();
+              await  influencer.save();
             }
         
             return res.users;

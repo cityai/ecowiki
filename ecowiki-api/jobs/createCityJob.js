@@ -12,7 +12,7 @@ module.exports = async function createCity(){
 
     console.log(cities)
     for(let i = 0; i<cities.length; i++){
-        //await startupServices.createStartups(cities[i].name)
+        await startupServices.createStartups(cities[i].name)
         await groupServices.createGroups(cities[i].name)
         await influencerServices.createInfluencers(cities[i].name)
         await communityServices.createCommunity(cities[i].name)
@@ -28,7 +28,7 @@ module.exports = async function createCity(){
         
         console.log('Data collected...')
         
-        setTimeout(async function(){
+        await setTimeout(async function(){
             await cityServices.updateCity(data, cities[i].name)
             
         }, 10000)

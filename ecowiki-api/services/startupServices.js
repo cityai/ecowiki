@@ -4,20 +4,31 @@ const ExtError = require("../util/error/extError")
 const fetch = require("node-fetch")
 
 class StartupServices {
+
+    async wait(index) {
+        return new Promise(resolve => {
+            setTimeout(() => {
+                resolve('WAIT PLEASE');
+            }, index * 2000);
+        });
+    };
+
     async createStartups(location) {
         const urlCompanies = 'https://api.crunchbase.com/v3.1/organizations' +
             '?categories=Artificial%20Intelligence&locations=' + location + '&organization_types=company' +
             '&user_key=' + process.env.CRUNCHBASE_KEY;
         const urlSpecific = 'https://api.crunchbase.com/v3.1/organizations/';
         const promises = [];
-        await fetch(urlCompanies).then(res => res.json()).then(startups => {
+        await fetch(urlCompanies).then(res => res.json()).then( async startups => {
 
             for (let i = 0; i < startups.data.items.length; i++) {
-                promises.push(fetch(urlSpecific + startups.data.items[i].properties.permalink + '?user_key=' + process.env.CRUNCHBASE_KEY)
-                    .then(res => res.json()));
+                const newStartup = await fetch(urlSpecific + startups.data.items[i].properties.permalink + '?user_key=' + process.env.CRUNCHBASE_KEY)
+                .then(res => res.json());
+                promises.push(newStartup);
             }
             Promise.all(promises).then(async function(results) {
                 for (let i = 0; i < results.length; i++) {
+                    //await this.wait(i);
                     let leader
                     if (results[i].data.relationships.current_team.items[0]) {
                         leader = new Founder({
@@ -32,7 +43,7 @@ class StartupServices {
                     else {
                         const find = await Founder.findOne({ link: leader.link });
                         if (!find)
-                            leader.save();
+                            await leader.save();
                     }
                     const find = await Startup.findOne({ name: results[i].data.properties.name })
                     if (!find) {
@@ -55,7 +66,7 @@ class StartupServices {
                                     tags: [],
                                     leadership: leader.id
                                 })
-                                startup.save();
+                               await startup.save();
                             }
                             else {
                                 const startup = new Startup({
@@ -71,7 +82,7 @@ class StartupServices {
                                     location: location,//results[i].data.relationships.headquarters.item.properties.city,
                                     tags: []
                                 })
-                                startup.save();
+                              await  startup.save();
                             }
                         }
                         else {
@@ -88,7 +99,7 @@ class StartupServices {
                                 location: location,//results[i].data.relationships.headquarters.item.properties.city,
                                 tags: []
                             })
-                            startup.save();
+                          await  startup.save();
                         }
                     }
                 }
