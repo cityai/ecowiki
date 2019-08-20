@@ -8,7 +8,7 @@ Contact us at [City.ai](https://city.ai)
 
 </div>
 
-# Status / Progress benchmarks
+# Status
 <div class=status>
 
 </div>
@@ -26,18 +26,23 @@ Contact us at [City.ai](https://city.ai)
 </div>
 
 # Events
+### Upcoming this month
 <div class=events>
 
 </div>
 
-# Local AI organizations & Initiatives
+# Organizations
+### Most active
 <div class=organizations>
 
 </div>
 
 # Startups
+### Top succesful companies
 <div class=startups>
 
 
 </div>
+
+
 

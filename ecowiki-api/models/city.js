@@ -20,25 +20,25 @@ var citySchema = mongoose.Schema({
         ref: 'Community',
         required: false
     },
-    events: {
-        type: [mongoose.Schema.Types.ObjectId],
+    events:[ {
+        type: mongoose.Schema.Types.ObjectId,
         ref: 'Event',
         required: false
-    },
-    organizations: {
-        type: [mongoose.Schema.Types.ObjectId],
+    }],
+    organizations: [{
+        type: mongoose.Schema.Types.ObjectId,
         ref: "Organization",
         required: false
-    },
-    startups:{
-        type: [mongoose.Schema.Types.ObjectId], 
+    }],
+    startups:[{
+        type: mongoose.Schema.Types.ObjectId, 
         ref: "Startup",
         required: false
-    },
-    news: {
-        type: [mongoose.Schema.Types.ObjectId],
+    }],
+    news: [{
+        type: mongoose.Schema.Types.ObjectId,
         ref: "News"
-    }
+    }]
 }, {timestamps: {} });
 
 module.exports = mongoose.model('City', citySchema);

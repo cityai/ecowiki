@@ -2,7 +2,7 @@
 
 .hero {
 	padding-top: 20px;
-	padding-left: 25px;
+	padding-left: 46px;
 	background:linear-gradient(to right,$bg-primary,$bg-secondary);
 	//border-bottom: 1px solid  $hero-border-color;
 	position: relative;
@@ -21,7 +21,7 @@
 	}
 
 	h2 {
-		font-size: 20px;
+		font-size: 16px;
 		color: $hero-color-h2;
 		border-top: thin solid black;
 		margin-top:80px;
@@ -30,6 +30,7 @@
 		padding-left:20px;
 		font-weight: 400;
 		width: 300px;
+		letter-spacing: 3px;
 	}
 
   .pageicon {
