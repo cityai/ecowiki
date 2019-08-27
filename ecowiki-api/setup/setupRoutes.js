@@ -9,6 +9,7 @@ const organization = require('../routes/organization');
 const startups = require("../routes/startup");
 const city = require('../routes/city')
 const founder = require("../routes/founder");
+const meetup = require("../routes/meetupAuth");
 
 router.use('/groups', groups)
 router.use('/events', events)
@@ -18,6 +19,7 @@ router.use('/organizations', organization);
 router.use("/startups",startups);
 router.use('/cities', city);
 router.use("/founders",founder);
+router.use("/meetup",meetup);
 
 router.get('/', (req, res)=>{
     res.json({

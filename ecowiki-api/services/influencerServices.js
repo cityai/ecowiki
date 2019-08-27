@@ -22,10 +22,11 @@ class InfluencerServices{
         const listName = location.toLowerCase()+"-ai-influencers";
         const params = {owner_screen_name: "thecityai", slug: listName}; 
         
-        const res = await client.get("lists/members",params,(err,tweets,response)=>{if(err)console.log(err)})
-        
-        if(res){
-            for(let i=0;i<res.users.length;i++)
+        const res = await client.get("lists/members",params,async (err,res,response)=>
+        {
+            if(err)console.log(err);
+            else {
+                for(let i=0;i<res.users.length;i++)
             {
                 const find = await Influencer.findOne({link:"https://twitter.com/"+res.users[i].screen_name});
                 if(find) continue;
@@ -41,9 +42,9 @@ class InfluencerServices{
               await  influencer.save();
             }
         
-            return res.users;
-        }
-        else return "List of influencers not found"
+            
+            }})
+            return "Done"
     }
     
     async getInfluencers(location){

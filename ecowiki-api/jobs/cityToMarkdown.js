@@ -7,8 +7,9 @@ const Community = require("../models/community");
 class MarkdownTransform {
 
     async toMarkdown(location) {
-        City.findOne({ name: location }).populate('startups').populate('events').populate('community').exec().then(async city => {
-            const community = await Community.findById(city.community);
+        City.findOne({ name: location }).populate('startups').populate('events')/*.populate('community')*/.exec().then(async city => {
+            const community = await Community.findById(city.community).populate("influencers").populate("groups").exec().then(community=>{return community});
+            console.log(community)
             const filePath = path.join(__dirname, "..", "..", "ecowiki", "content", location.toLowerCase(), "home.md");
             const templatePath = path.join(__dirname, "..", "..", "ecowiki", "content", "cityTemplate.md");
 
@@ -19,7 +20,7 @@ class MarkdownTransform {
                 data.splice(0, 0, "<!-- TITLE: " + location + " AI -->");
 
                 data = this.addMultipleLines(data, city, "startups", 3, "<div class=startups>", ["name", "categories", "investment", "description", "link"]);
-                data = this.addMultipleLines(data, city, "events", 5, "<div class=events>", ["name", "date", "location", "organizer", "description"])
+                data = this.addMultipleLines(data, city, "events", 5, "<div class=events>", ["name", "date", "location", "organizer", "description", "link"])
                 data = this.addMultipleLines(data, city, "organizations", 5, "<div class=organizations>", ["name"]);
                 data = this.addMultipleLines(data, community, "groups", 5, "<div class=groups>", ["name", "members", "category", "organizer", "description"]);
                 data = this.addMultipleLines(data, community, "influencers", 5, "<div class=influencers>", ["name", "link"]);
@@ -70,13 +71,13 @@ class MarkdownTransform {
                         index++;
                         break;
                     case "link":
-                        data.splice(index, 0, "[" + document[docObj][i][attributesArray[j]] + "](" + document[docObj][i][attributesArray[j]] + ")");
+                        data.splice(index, 0, "Link: [" + document[docObj][i][attributesArray[j]] + "](" + document[docObj][i][attributesArray[j]] + ")");
                         index++;
                         break;
                     case "description":
                         if (!document[docObj][i][attributesArray[j]])
                             document[docObj][i][attributesArray[j]] = "No description provided";
-                        data.splice(index, 0, "**Description:** " + document[docObj][i][attributesArray[j]].replace(/(\r\n|\n|\r)/gm, " "));
+                        data.splice(index, 0, "**Description:** " + document[docObj][i][attributesArray[j]].substring(0,150).replace(/(\r\n|\n|\r)/gm, " ") + "...");
                         index++;
                         break;
                     case "members":
@@ -92,6 +93,14 @@ class MarkdownTransform {
                             data.splice(index, 0, document[docObj][i][attributesArray[j]].toString().replace(/,/g, ", "));
                             index++;
                         }
+                        break;
+                    case "date":
+                        data.splice(index, 0,"##### " + document[docObj][i][attributesArray[j]].toString().substring(0,15));
+                        index++;
+                        break;
+                    case "organizer":
+                        data.splice(index, 0,"**Organizer:** " + document[docObj][i][attributesArray[j]].toString().substring(0,15));
+                        index++;
                         break;
                     default:
                         data.splice(index, 0, document[docObj][i][attributesArray[j]]);
