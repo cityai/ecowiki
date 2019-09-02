@@ -24,6 +24,7 @@ services:
       - ./assets:/var/wiki/assets
       - ./server:/var/wiki/server
       - ./client:/var/wiki/client
+      - ./wikiData:/var/wiki/wikiData:rw
     labels:
       - "traefik.enable=true"
       - "traefik.backend=api"
@@ -54,8 +55,6 @@ services:
   mongo: 
     container_name: mongo
     image: mongo
-    volumes:
-      - ./var/lib/mongodb:/data/db
     expose: 
       - '27017'
     command: '--smallfiles --bind_ip ::,0.0.0.0'
@@ -65,6 +64,9 @@ services:
     container_name: ecowiki-api_app 
     restart: always
     build: ../ecowiki-api
+    volumes:
+      - ../ecowiki/wikiData:/data:rw
+      - ../ecowiki/content:/content:rw
     ports: 
       - "127.0.0.1:3000:3000"
     links:
@@ -76,4 +78,5 @@ services:
 networks: 
   webappnetwork:
     driver: bridge
-  
+volumes:
+  wikiData:
