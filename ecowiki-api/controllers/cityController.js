@@ -50,6 +50,15 @@ class CityController{
             processError(error, res)
         }
     }
+    async getCity(req,res){
+        try{
+            const result = await cityServices.getCity(req.params.location);
+            res.send(result);
+        }
+        catch(error){
+            processError(error,res);
+        }
+    }
 }
 
 module.exports = new CityController();

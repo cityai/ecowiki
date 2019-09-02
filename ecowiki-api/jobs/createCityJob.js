@@ -10,28 +10,44 @@ const startupServices = require('../services/startupServices')
 module.exports = async function createCity(){
     const cities = await City.find();
 
-    console.log(cities)
+    console.log(cities.length)
+    
+    console.log(999999999)
     for(let i = 0; i<cities.length; i++){
-        await startupServices.createStartups(cities[i].name)
-        await groupServices.createGroups(cities[i].name)
+        console.log(1)
         await influencerServices.createInfluencers(cities[i].name)
+        await startupServices.createStartups(cities[i].name);
+        console.log(2)
+        await groupServices.createGroups(cities[i].name)
+        
+        
         await communityServices.createCommunity(cities[i].name)
         await eventServices.createEvents(cities[i].name)
-        
+        console.log(3)
 
+        // const data = {
+        //     community: await communityServices.getCommunity(cities[i].name),
+        //     events: await eventServices.getEvents(cities[i].name),
+        //     // startups:  await startupServices.getStartups(cities[i].name),
+        //     organizations: await organizationServices.getOrganizations(cities[i].name)
+        // }
+        const community = await communityServices.getCommunity(cities[i].name);
+        const startups=  await startupServices.getStartups(cities[i].name);
+        const events = await eventServices.getEvents(cities[i].name)
+        const organizations = await organizationServices.getOrganizations(cities[i].name)
+        console.log(4)
         const data = {
-            community: await communityServices.getCommunity(cities[i].name), 
-            events: await eventServices.getEvents(cities[i].name),
-            startups:  await startupServices.getStartups(cities[i].name),
-            organizations: await organizationServices.getOrganizations(cities[i].name)
+            community,
+            events,
+            organizations,
+            startups
         }
-        
         console.log('Data collected...')
         
-        await setTimeout(async function(){
+        // await setTimeout(async function(){
             await cityServices.updateCity(data, cities[i].name)
             
-        }, 10000)
+        // }, 10000)
         
     }
 

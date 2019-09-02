@@ -23,6 +23,15 @@ class GroupController{
             processError(error, res)
         };
     };
+    async deleteGroup(req,res){
+        try{
+            const result = await groupServices.deleteGroup(req.params.id)
+            res.send(result);
+        }
+        catch(error){
+            processError(error,res);
+        }
+    }
 }
 
 module.exports = new GroupController();

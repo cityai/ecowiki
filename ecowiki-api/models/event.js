@@ -15,6 +15,10 @@ var eventSchema = mongoose.Schema({
         type: String,
         required: true
     },
+    address:{
+        type:String,
+        required:false,
+    },
     organizer:{
         type: String,
         required: true

@@ -2,10 +2,14 @@ version: '3.6'
 services: 
   mongo: 
     image: mongo
+    volumes:
+      - ./var/lib/mongodb:/data/db
+      - ./content:/var/wiki/repo
     expose: 
       - '27017'
     command: '--smallfiles --bind_ip ::,0.0.0.0'
-    
+    networks: 
+      - webappnetwork
   app: 
     container_name: ecowiki-api_app 
     restart: always
@@ -16,4 +20,9 @@ services:
       - mongo
     depends_on: 
       - mongo 
-
+    networks: 
+      - webappnetwork
+networks: 
+  webappnetwork:
+    driver: bridge
+  

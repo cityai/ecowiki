@@ -2,7 +2,8 @@ const organizationController = require('../controllers/organizationController');
 const express = require('express');
 const router = express.Router();
 
+router.get('/:location',organizationController.getOrganizations)
 router.post('/:location', organizationController.createOrganization);
 router.patch('/:id', organizationController.updateOrganization)
-
+router.delete('/:id',organizationController.deleteOrganization)
 module.exports = router;

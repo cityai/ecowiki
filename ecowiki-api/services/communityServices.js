@@ -29,7 +29,7 @@ class CommunityServices{
             
             if(!groups) groups =[];
             if(!influencers) influencers = [];
-
+            console.log(influencers);
             const community = new Community({
                 groups: groups,
                 influencers: influencers,
@@ -63,7 +63,9 @@ class CommunityServices{
         });
 
         const diffGroups = uniqueResultOne.concat(uniqueResultTwo)  
-
+        console.log(uniqueResultOne.length);
+        console.log(uniqueResultTwo.length);
+        console.log(diffGroups.length);
         for(let i = 0; i<diffGroups.length; i++){
             community.groups.push(diffGroups[i])
         }
@@ -100,7 +102,7 @@ class CommunityServices{
 
     async deleteCommunity(id){
         const community = await Community.findByIdAndDelete({_id: id})
-        if(!community) throw new ExtError(404, "Community by the given ID was not found!")
+        if(!community) throw new ExtError(404, "There is no community with given ID")
         return community;
     }
     

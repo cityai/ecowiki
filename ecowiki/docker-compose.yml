@@ -52,11 +52,15 @@ services:
     tty: true
   
   mongo: 
+    container_name: mongo
     image: mongo
+    volumes:
+      - ./var/lib/mongodb:/data/db
     expose: 
       - '27017'
     command: '--smallfiles --bind_ip ::,0.0.0.0'
-
+    networks: 
+      - webappnetwork
   app: 
     container_name: ecowiki-api_app 
     restart: always
@@ -66,4 +70,10 @@ services:
     links:
       - mongo
     depends_on: 
-      - mongo 
+      - mongo
+    networks: 
+      - webappnetwork
+networks: 
+  webappnetwork:
+    driver: bridge
+  

@@ -32,6 +32,11 @@ class OrganizationServices{
         if(!organizations) throw new ExtError(404, "There are no organizations for the given city!")
         return organizations;
     }
+    async deleteOrganization(id){
+        const organization = await Organization.findByIdAndDelete({_id: id})
+        if(!organization) throw new ExtError(404, "Organization with the given ID was not found!")
+        return organization;
+    }
 }
 
 module.exports= new OrganizationServices()

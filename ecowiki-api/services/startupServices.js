@@ -56,6 +56,7 @@ class StartupServices {
                                 const startup = new Startup({
                                     name: results[i].data.properties.name,
                                     categories: results[i].data.relationships.categories.items.map(item => { return item.properties.name }),
+                                    investors: results[i].data.relationships.investors.items.map(item=>{return item.properties.name}),
                                     value: 10,
                                     type: "Startup",
                                     investment: results[i].data.properties.total_funding_usd,
@@ -117,6 +118,7 @@ class StartupServices {
 
     async deleteStartup(id) {
         const startup = await Startup.findByIdAndDelete({ _id: id });
+        if(!startup) throw new ExtError(404,"There is no startup with given ID!");
         return startup;
     }
 }

@@ -15,6 +15,10 @@ var startupSchema = mongoose.Schema({
         type: Array, 
         required: true
     },
+    investors:{
+        type:Array,
+        required:false
+    },
     value: {
         type: Number, 
         required: true

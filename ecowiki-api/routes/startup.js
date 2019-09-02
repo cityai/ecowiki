@@ -3,8 +3,11 @@ const express = require("express")
 
 const router = express.Router();
 
-
-router.post("/:location",startupController.createStartups);
+/**
+ * TEST
+ * THIS IS THE ROUTE USED TO TEST CRON JOB FOR GETTING DATA FROM EXTERNAL APIs
+ */
+//router.post("/:location",startupController.createStartups);
 router.get("/:location",startupController.getStartups);
 
 router.delete("/:id",startupController.deleteStartup);

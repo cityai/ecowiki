@@ -1,5 +1,5 @@
 const Influencer = require('../models/influencer');
-const extError = require('../util/error/extError');
+const ExtError = require('../util/error/extError');
 const Twitter = require("twitter");
 const process = require("process");
 require("dotenv").config();
@@ -12,17 +12,17 @@ class InfluencerServices{
         const access_token_key = process.env.ACCESS_TOKEN_KEY;
         const access_token_secret = process.env.ACCESS_TOKEN_SECRET;
         
-        const client = Twitter({
+        const client = await Twitter({
             consumer_key,
             consumer_secret,
             access_token_key,
             access_token_secret
         });
-
-        const listName = location.toLowerCase()+"-ai-influencers";
+        //Formats the name of city so that it does not have uppercase letters and spacings
+        const listName = location.toLowerCase().replace(/ /g,"-") + "-ai-influencers";
         const params = {owner_screen_name: "thecityai", slug: listName}; 
         
-        const res = await client.get("lists/members",params,async (err,res,response)=>
+        await client.get("lists/members",params,async (err,res,response)=>
         {
             if(err)console.log(err);
             else {
@@ -41,23 +41,18 @@ class InfluencerServices{
                 })
               await  influencer.save();
             }
-        
-            
             }})
             return "Done"
     }
     
     async getInfluencers(location){
         const influencers = await Influencer.find({location:location});
-        if(!influencers) extError(404,"There are no influencersr for this city");
-        for(let i=0;i<influencers.length;i++)
-        {
-            //Influencers to MARKDOWN
-        }
+        if(!influencers) throw new extError(404,"There are no influencersr for this city");
         return influencers;
     }
     async deleteInfluencer(id){
         const influencer = await Influencer.findByIdAndDelete({_id: id})
+        if(!influencer) throw new ExtError(404,"There is no influencer with given ID")
         return influencer;
     }
 }

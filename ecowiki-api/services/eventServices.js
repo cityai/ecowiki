@@ -39,8 +39,9 @@ class EventServices{
             method:"GET",
             headers:new Headers({'Authorization':'Bearer ' + access}),
           }).then(res=>res.json());
+        //   console.log(response.events)
         for(let i=0; i<response.events.length; i++){
-
+            
             const find = await Event.findOne({name: response.events[i].name})
             if(find) continue;
             
@@ -48,10 +49,15 @@ class EventServices{
             if(response.events[i].description) {
                 description = htmlRemover(response.events[i].description)
             }
+            let address = "No address provided";
+            if(response.events[i].venue && response.events[i].venue.address_1){
+                address = response.events[i].venue.address_1;
+            }
             const event = new Event({
                 name: response.events[i].name,
                 date: response.events[i].local_date,
                 location: location,
+                address:address,
                 organizer: response.events[i].group.name,
                 link: response.events[i].link,
                 description: description,

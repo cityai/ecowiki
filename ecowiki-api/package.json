@@ -24,7 +24,8 @@
     "nodemon": "^1.19.1",
     "passport": "^0.4.0",
     "passport-oauth2-meetup": "^1.1.0",
-    "twitter": "^1.7.1"
+    "twitter": "^1.7.1",
+    "underscore": "^1.9.1"
   },
   "devDependencies": {
     "cross-env": "^5.2.0"

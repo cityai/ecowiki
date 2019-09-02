@@ -25,7 +25,7 @@ class GroupServices{
         }).then(json=>json.json())
         console.log(ans.access_token);
         const access = ans.access_token;
-        const groups = await fetch(`https://api.meetup.com/find/groups?&sign=true&photo-host=public&location=`+location+`&text=Artificial intelligence&category=34&order=members&page=200&desc=true&key=212b746b232c1e453431465736a56b`,
+        const groups = await fetch(`https://api.meetup.com/find/groups?&sign=true&photo-host=public&location=`+location+`&text=Artificial intelligence&category=34&order=members&page=100&desc=true&key=212b746b232c1e453431465736a56b`,
         {
           method:"GET",
           headers:new Headers({'Authorization':'Bearer ' + access}),
@@ -58,6 +58,11 @@ class GroupServices{
 
         }
         return groups;
+    }
+    async deleteGroup(id){
+        const group = await Group.findByIdAndDelete({_id:id});
+        if(!group) throw new ExtError(404,'There is no group with given ID');
+        return group;
     }
 }
 

@@ -22,6 +22,24 @@ class OrganizationController{
             processError(error, res)
         };
     }
+    async deleteOrganization(req,res){
+        try{
+            const result = await organizationService.deleteOrganization(req.params.id);
+            res.send(result);
+        }
+        catch(error){
+            processError(error,res);
+        }
+    }
+    async getOrganizations(req,res){
+        try{
+            const result = await organizationService.getOrganizations(req.params.location);
+            res.send(result);
+        }
+        catch(error){
+            processError(error,res);
+        }
+    }
 }
 
 module.exports = new OrganizationController()
