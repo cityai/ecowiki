@@ -1,7 +1,7 @@
-const Startup = require("../models/startup");
-const Founder = require("../models/founder");
-const ExtError = require("../util/error/extError")
-const fetch = require("node-fetch")
+const Startup = require('../models/startup');
+const Founder = require('../models/founder');
+const ExtError = require('../util/error/extError');
+const fetch = require('node-fetch');
 
 class StartupServices {
 
@@ -12,7 +12,11 @@ class StartupServices {
             }, index * 2000);
         });
     };
-
+    /**
+     * Pulls startups from Crunchbase and
+     * saves them in database.
+     * @param location of city, as city name.
+     */
     async createStartups(location) {
         const urlCompanies = 'https://api.crunchbase.com/v3.1/organizations' +
             '?categories=Artificial%20Intelligence&locations=' + location + '&organization_types=company' +
@@ -28,45 +32,44 @@ class StartupServices {
             }
             Promise.all(promises).then(async function(results) {
                 for (let i = 0; i < results.length; i++) {
-                    //await this.wait(i);
-                    let leader
+                    let leader;
                     if (results[i].data.relationships.current_team.items[0]) {
                         leader = new Founder({
-                            name: results[i].data.relationships.current_team.items[0].relationships.person.properties.first_name + " " + results[i].data.relationships.current_team.items[0].relationships.person.properties.last_name,
+                            name: results[i].data.relationships.current_team.items[0].relationships.person.properties.first_name + ' ' + results[i].data.relationships.current_team.items[0].relationships.person.properties.last_name,
                             picture: results[i].data.relationships.current_team.items[0].relationships.person.properties.profile_image_url,
-                            link: "www.crunchbase.com/" + results[i].data.relationships.current_team.items[0].relationships.person.properties.web_path,
+                            link: 'www.crunchbase.com/' + results[i].data.relationships.current_team.items[0].relationships.person.properties.web_path,
                             title: results[i].data.relationships.current_team.items[0].properties.title,
                             location: results[i].data.relationships.headquarters.item.properties.city,
-                        })
-                    }
+                        });
+                    };
                     if (leader === undefined) leader = {};
                     else {
                         const find = await Founder.findOne({ link: leader.link });
                         if (!find)
                             await leader.save();
-                    }
-                    const find = await Startup.findOne({ name: results[i].data.properties.name })
+                    };
+                    const find = await Startup.findOne({ name: results[i].data.properties.name });
                     if (!find) {
                         if (results[i].data.relationships.funding_rounds.items[0]) {
-                            let series = ["A", "B", "C", "D", "E"]
+                            let series = ['A', 'B', 'C', 'D', 'E'];
                             if (series.includes(results[i].data.relationships.funding_rounds.items[0].series) ||
-                                results[i].data.relationships.funding_rounds.items[0].properties.funding_type === "seed" ||
-                                results[i].data.relationships.funding_rounds.items[0].properties.funding_type === "pre-seed") {
+                                results[i].data.relationships.funding_rounds.items[0].properties.funding_type === 'seed' ||
+                                results[i].data.relationships.funding_rounds.items[0].properties.funding_type === 'pre-seed') {
 
                                 const startup = new Startup({
                                     name: results[i].data.properties.name,
                                     categories: results[i].data.relationships.categories.items.map(item => { return item.properties.name }),
                                     investors: results[i].data.relationships.investors.items.map(item=>{return item.properties.name}),
                                     value: 10,
-                                    type: "Startup",
+                                    type: 'Startup',
                                     investment: results[i].data.properties.total_funding_usd,
                                     description: results[i].data.properties.description,
                                     link: results[i].data.properties.homepage_url,
                                     highlighted: false,
-                                    location: location,//results[i].data.relationships.headquarters.item.properties.city,
+                                    location: location,
                                     tags: [],
                                     leadership: leader.id
-                                })
+                                });
                                await startup.save();
                             }
                             else {
@@ -74,24 +77,24 @@ class StartupServices {
                                     name: results[i].data.properties.name,
                                     categories: results[i].data.relationships.categories.items.map(item => { return item.properties.name }),
                                     value: 10,
-                                    type: "Corporation",
+                                    type: 'Corporation',
                                     investment: results[i].data.properties.total_funding_usd,
                                     description: results[i].data.properties.description,
                                     link: results[i].data.properties.homepage_url,
                                     highlighted: false,
                                     leadership: leader.id,
-                                    location: location,//results[i].data.relationships.headquarters.item.properties.city,
+                                    location: location,
                                     tags: []
-                                })
+                                });
                               await  startup.save();
-                            }
+                            };
                         }
                         else {
                             const startup = new Startup({
                                 name: results[i].data.properties.name,
                                 categories: results[i].data.relationships.categories.items.map(item => { return item.properties.name }),
                                 value: 10,
-                                type: "Startup",
+                                type: 'Startup',
                                 investment: results[i].data.properties.total_funding_usd,
                                 description: results[i].data.properties.description,
                                 link: results[i].data.properties.homepage_url,
@@ -99,28 +102,31 @@ class StartupServices {
                                 leadership: leader.id,
                                 location: location,//results[i].data.relationships.headquarters.item.properties.city,
                                 tags: []
-                            })
-                          await  startup.save();
-                        }
-                    }
-                }
-            })
-        })
-        return "done";
-    }
+                            });
+                        await  startup.save();
+                        };
+                    };
+                };
+            });
+        });
+        return 'done';
+    };
 
-
+    /**
+     * Returns all Startups for given location.
+     * @param location of city, as city name.
+     */
     async getStartups(location) {
-        const startups = await Startup.find({ location: location })
-        if (!startups) throw new ExtError(404, "There are no startups for the given city!")
+        const startups = await Startup.find({ location: location });
+        if (!startups) throw new ExtError(404, 'There are no startups for the given city!');
         return startups;
-    }
+    };
 
     async deleteStartup(id) {
         const startup = await Startup.findByIdAndDelete({ _id: id });
-        if(!startup) throw new ExtError(404,"There is no startup with given ID!");
+        if(!startup) throw new ExtError(404,'There is no startup with given ID!');
         return startup;
-    }
-}
+    };
+};
 
 module.exports = new StartupServices();

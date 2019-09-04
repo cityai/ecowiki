@@ -7,5 +7,5 @@ const cityController = require("../controllers/cityController");
 
 module.exports = function setup(){
     //cron.schedule('*/10  * * * *', cityJob)
-    cron.schedule("*/1  * * * *",()=>{markdownJob.toMarkdown();console.log("done")});
+    //cron.schedule("*/1  * * * *",()=>{markdownJob.toMarkdown();console.log("done")});
 }
