@@ -1,7 +1,10 @@
+@import "../base/variables.scss";
+
+
 .button {
-	background-color: mc('orange','600');
-	color: #FFF;
-	border: 1px solid mc('orange','700');
+	background-color: $button-color-bg;
+	color:$button-color;
+	border: 1px solid mc('grey','700');
 	border-radius: 3px;
 	display: inline-flex;
 	height: 30px;
@@ -37,34 +40,35 @@
 	}
 
 	&:hover {
-		background-color: mc('orange','800');
+		background-color: $button-color-bg;
+		color:$button-color-hover;
 		text-decoration: none;
 	}
 
-	@each $color, $colorvalue in $material-colors {
-		&.is-#{$color} {
-			background-color: mc($color, '600');
-			border-color: mc($color,'700');
-			color: #FFF;
+	// @each $color, $colorvalue in $material-colors {
+	// 	&.is-#{$color} {
+	// 		background-color: mc($color, '600');
+	// 		border-color: mc($color,'700');
+	// 		color: #FFF;
 
-			&.is-outlined {
-				background-color: #FFF;
-				color: mc($color,'700');
-			}
+	// 		&.is-outlined {
+	// 			background-color: #FFF;
+	// 			color: mc($color,'700');
+	// 		}
 
-			&.is-inverted {
-				background-color: rgba(mc($color, '800'), 0);
-				border-color: mc($color, '500');
-			}
+	// 		&.is-inverted {
+	// 			background-color: rgba(mc($color, '800'), 0);
+	// 			border-color: mc($color, '500');
+	// 		}
 
-			&:hover {
-				background-color: mc($color,'800');
-				color: #FFF;
-				animation: none;
-			}
-		}
+	// 		&:hover {
+	// 			background-color: mc($color,'800');
+	// 			color: #FFF;
+	// 			animation: none;
+	// 		}
+	// 	}
 
-	}
+	// }
 
 	&.is-icon-only {
 		i {

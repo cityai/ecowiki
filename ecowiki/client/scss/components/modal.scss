@@ -1,3 +1,5 @@
+@import "../base/variables.scss";
+
 .modal {
 	align-items: flex-start;
 	display: block;
@@ -65,7 +67,7 @@
 	}
 
 	header {
-		background-color: mc('teal', '600');
+		background-color: $modal-color-bg;
 		color: #FFF;
 		display: flex;
 		flex-shrink: 0;
@@ -76,11 +78,11 @@
 		padding: 0 20px;
 		position: relative;
 
-		@each $color, $colorvalue in $material-colors {
-			&.is-#{$color} {
-				background-color: mc($color, '600');
-			}
-		}
+		// @each $color, $colorvalue in $material-colors {
+		// 	&.is-#{$color} {
+		// 		background-color: mc($color, '600');
+		// 	}
+		// }
 
 		.modal-notify {
 			position: absolute;
@@ -228,6 +230,7 @@
 
 		.button {
 			margin-left: 10px;
+			background-color: $modal-color-bg;
 		}
 
 	}
@@ -241,29 +244,29 @@
 	flex-shrink: 0;
 	justify-content: center;
 
-	@each $color, $colorvalue in $material-colors {
-		&.is-#{$color} {
-			background-color: mc($color, '700');
+	// @each $color, $colorvalue in $material-colors {
+	// 	&.is-#{$color} {
+	// 		background-color: mc($color, '700');
 
-			.button {
-				border-color: mc($color, '900');
-				background-color: mc($color, '900');
+	// 		.button {
+	// 			border-color: mc($color, '900');
+	// 			background-color: mc($color, '900');
 
-				&:hover {
-					border-color: mc($color, '900');
-					background-color: mc($color, '800');
-				}
+	// 			&:hover {
+	// 				border-color: mc($color, '900');
+	// 				background-color: mc($color, '800');
+	// 			}
 
-			}
+	// 		}
 
-		}
-	}
+	// 	}
+	// }
 
 	// BUTTONS
 
 	.button {
 		border: 1px solid mc('teal', '900');
-		background-color: mc('teal', '900');
+		background-color: $modal-color-bg;
 		transition: all .4s ease;
 		color: #FFF;
 		border-radius: 0;
@@ -279,8 +282,8 @@
 		}
 
 		&:hover {
-			border-color: mc('teal', '900');
-			background-color: mc('teal', '800');
+			border-color: mc('grey', '900');
+			background-color: $modal-color-bg;;
 			color: #FFF;
 		}
 

@@ -10,7 +10,10 @@ export default {
     shownChange: (state, shownState) => { state.shown = shownState }
   },
   actions: {
-    open({ commit }) { commit('shownChange', true) },
-    close({ commit }) { commit('shownChange', false) }
+    open({ commit }) {
+      console.log(commit,"HelloWorld1");
+      commit('shownChange', true);
+    },
+    close({ commit }) {console.log(commit,"HelloWorld");commit('shownChange', false) }
   }
 }

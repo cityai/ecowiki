@@ -5,7 +5,7 @@
 	flex-grow: 1;
 	flex-shrink: 1;
 	padding: 10px;
-	background-color: $footer-color-bg;
+	//background-color: $footer-color-bg;
 
 	.columns.is-mobile > &.is-narrow {
 		flex: none;
@@ -379,6 +379,7 @@
 	}
 
 	&.is-gapless {
+		background: linear-gradient(to right,#fff,#dcdcdc);
 		margin-left: 0;
 		margin-right: 0;
 		margin-top: 0;

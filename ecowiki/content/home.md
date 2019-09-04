@@ -1,27 +1,24 @@
-<!-- TITLE: CityAI Global Wiki -->
-<!-- SUBTITLE: The comilation of the AI events -->
+<!-- TITLE: AI WIKI -->
+<!-- SUBTITLE: Navigation -->
 
-This wiki is intended to Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
-Contact us at [City.ai](https://city.ai)
+<p>City.AI ambassadors are likeminded people all around the world working on setting up a wiki to map the AI ecosystems on a city level. This will include activities, organizations, startups and people playing an active role either designing, developing or applying AI. Ambassadors and local stakeholders will play a key role curating this information, while the entire AI community will be able to contribute to it. This wiki will be open and accessible by everyone, to help AI practitioners to guide them through the local AI ecosystems, provide insights into the development of the AI community globally, and foster cross-boarder collaboration pushing our mission of enabling the diverse and responsible development and application of Artificial Intelligence further.
+</p>
 
 # AI ecosystems
 
-[Amesteradam](/amsterdam/home)
+[Amsterdam](/amsterdam/home)
+[London](/london/home)
+[Oslo](/oslo/home)
+[New York](/new-york/home)
+[Austin](/austin/home)
+[Bangkok](/bangkok/home)
+[Bangalore](/bangalore/home)
+[Singapore](/singapore/home)
+[Bogota](/bogota/home)
+[Lagos](/lagos/home)
 [Paris](/paris/home)
-[Berlin](/berlin/home)
-[London](/london/home)
-[London](/london/home)
-[London](/london/home)
-[London](/london/home)
-[London](/london/home)
-[London](/london/home)
-[London](/london/home)
-[London](/london/home)
-[Berlin](/berlin/home)
-[Berlin](/berlin/home)
-[Berlin](/berlin/home)
-[Berlin](/berlin/home)
+[Novi Sad](/novi-sad/home)
+[La Paz](/la-paz/home)
 
 
 

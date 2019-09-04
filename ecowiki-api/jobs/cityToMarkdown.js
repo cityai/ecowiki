@@ -9,6 +9,8 @@ const Community = require("../models/community");
 class MarkdownTransform {
 
     async toMarkdown() {
+        console.log(__dirname,process.cwd());
+
         const cities = await City.find({}).select("name -_id")
         console.log(cities);
         for (var i = 0; i < cities.length; i++) {
@@ -20,10 +22,12 @@ class MarkdownTransform {
                 community.groups = _.sortBy(community.groups, "members").reverse();
                 city.events = _.sortBy(city.events, "date");
                 city.startups = _.sortBy(city.startups, "investment").reverse();
-                console.log(fs.realpathSync(".",""),"..................",fs.realpathSync(__dirname))
-                const filePath = path.join(__dirname, "..", "..", "ecowiki", "content", location.toLowerCase(), "home.md");
-                const dirPath = path.join(__dirname, "..", "..", "ecowiki", "content", location.toLowerCase());
-                const templatePath = path.join(__dirname, "..", "..", "ecowiki", "content", "cityTemplate.md");
+                console.log(__dirname,process.cwd());
+                const filePath = path.join(process.cwd(), "content", location.toLowerCase().replace(/ /g,"-"), "home.md");
+                const dirPath = path.join(process.cwd(), "content", location.toLowerCase().replace(/ /g,"-"));
+                const templatePath = "./data/cityTemplate.md"
+                //THIS IS USED AS TEMPLATE PATH IN DEVELOPMENT ENVIORMENT
+                //path.join(__dirname, "..", "..", "ecowiki", "content", "cityTemplate.md");
 
                 await fs.readFile(templatePath, async (error, data) => {
                     if (error) throw error;
