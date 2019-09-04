@@ -23,8 +23,8 @@ class MarkdownTransform {
                 city.events = _.sortBy(city.events, "date");
                 city.startups = _.sortBy(city.startups, "investment").reverse();
                 console.log(__dirname,process.cwd());
-                const filePath = path.join(process.cwd(), "content", location.toLowerCase(), "home.md");
-                const dirPath = path.join(process.cwd(), "content", location.toLowerCase());
+                const filePath = path.join(process.cwd(), "content", location.toLowerCase().replace(/ /g,"-"), "home.md");
+                const dirPath = path.join(process.cwd(), "content", location.toLowerCase().replace(/ /g,"-"));
                 const templatePath = "./data/cityTemplate.md"
                 //THIS IS USED AS TEMPLATE PATH IN DEVELOPMENT ENVIORMENT
                 //path.join(__dirname, "..", "..", "ecowiki", "content", "cityTemplate.md");

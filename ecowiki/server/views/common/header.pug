@@ -20,7 +20,8 @@
           span Projects
         a.button(href="")
           span Contibutions
-        a.button(href='Login')
-          span Log In
+        if isGuest  
+          a.button(href='/Login')
+            span Log In
       block rootNavRight
         loading-spinner

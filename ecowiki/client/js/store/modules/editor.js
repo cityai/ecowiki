@@ -12,11 +12,12 @@ export default {
     insertContentChange: (state, newContent) => { state.insertContent = newContent }
   },
   actions: {
-    busyStart({ commit }) { commit('busyChange', true) },
-    busyStop({ commit }) { commit('busyChange', false) },
+    busyStart({ commit }) { commit('busyChange', true,)},
+    busyStop({ commit }) { commit('busyChange', false, ) ;},
     insert({ commit }, content) {
       commit('insertContentChange', content)
       wikijs.$emit('editor/insert')
+      console.log('Hello World')
     }
   }
 }
