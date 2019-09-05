@@ -1,10 +1,7 @@
-const cityController = require('../controllers/cityController')
+const cityController = require('../controllers/cityController');
+const express = require('express');
 
-
-
-const express = require('express')
-
-const router = express.Router()
+const router = express.Router();
 
 //NOT USED FOR NOW BEACAUSE MARKDOWN CRON IS BEING TESTED
 router.get('/:location',cityController.getCity);

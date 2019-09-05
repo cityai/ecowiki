@@ -8,7 +8,6 @@ const router = express.Router();
  **/
 router.post("/:location",influencerController.createInfluncer);
 
-
 router.get("/:location",influencerController.getInfluencers);
 router.delete("/:id",influencerController.deleteInfluencer);
 
