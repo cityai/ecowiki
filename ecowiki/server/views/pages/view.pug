@@ -82,6 +82,14 @@ block content
               li: a(href="")= 'Partners' + ' & ' + 'Friends'
               li: a(href="") Media References
           .hr-line
+          aside.sidebar-pagecontents
+            .sidebar-label
+              h4 PAGE
+                h5 CONTENTS
+            ul.sidebar-menu
+              li.is-hidden-until-scroll: a(href='#root', title='Top of Page')
+                i.icon-arrow-up2
+              +tocMenu(pageData.tree)
         .column
           .hero
             h1.title#title= pageData.meta.title

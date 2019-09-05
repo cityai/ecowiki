@@ -28,7 +28,14 @@ class CityController{
             processError(error, res)
         }
     }
-
+    async getCities(req,res){
+        try {
+            const result = await cityServices.getCities();
+            res.send(result);
+        } catch (error) {
+            processError(error,res)
+        }
+    }
     async updateCity(req, res){
         try{
 

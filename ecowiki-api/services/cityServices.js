@@ -37,7 +37,11 @@ class CityServices{
         if(!city) throw new ExtError(404, "There is no data about that city!")
         return city;
     }
-
+    async getCities(){
+        const cities = await City.find({});
+        if(!cities) throw new ExtError(404,"There are no cities in the database");
+        return cities;
+    }
     async deleteCity(id){
         const city = await City.findByIdAndDelete({_id: id})
         if(!city) throw new ExtError(404, "There are no information about that city!")

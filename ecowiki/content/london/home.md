@@ -9,6 +9,8 @@ Contact us at [City.ai](https://city.ai)
 # Overview
 <div class=overview>
 
+sdadadasdasdasdasdasdsadasd Thsi is london overvbiwasda
+
 </div>
 
 # Status
@@ -24,34 +26,34 @@ Contact us at [City.ai](https://city.ai)
 <div class=groups>
 
 #### Silicon Roundabout
-**Number of members:** 14453
+**Number of members:** 14459
 Tech
 **Organizer:** Luis Carranza
 **Description:** Silicon Roundabout is the biggest tech meetup in London. It’s the ideal place for tech entrepreneurs, developers, and professionals in London to meet,...
 
-#### PyData London Meetup
-**Number of members:** 10037
+#### Silicon Roundabout
+**Number of members:** 14459
 Tech
-**Organizer:** PyData/NumFOCUS
-**Description:** PyData is an educational program of NumFOCUS, a 501(c)3 non-profit organization in the United States. PyData provides a forum for the international co...
+**Organizer:** Luis Carranza
+**Description:** Silicon Roundabout is the biggest tech meetup in London. It’s the ideal place for tech entrepreneurs, developers, and professionals in London to meet,...
 
-#### Data Science London
-**Number of members:** 9286
+#### Silicon Roundabout
+**Number of members:** 14459
 Tech
-**Organizer:** Carlos
-**Description:** Data Science London - We're the largest #datascience community in Europe We are&nbsp;a community of data scientists, machine learning geeks and data h...
+**Organizer:** Luis Carranza
+**Description:** Silicon Roundabout is the biggest tech meetup in London. It’s the ideal place for tech entrepreneurs, developers, and professionals in London to meet,...
 
-#### London Artificial Intelligence & Deep Learning
-**Number of members:** 8984
+#### Silicon Roundabout
+**Number of members:** 14459
 Tech
-**Organizer:** Ian Gomez
-**Description:** We’re excited to bring you the latest happenings in AI, Machine Learning, Deep Learning, Data Science and Big Data.  Who are we? We’re H2O.ai (https:/...
+**Organizer:** Luis Carranza
+**Description:** Silicon Roundabout is the biggest tech meetup in London. It’s the ideal place for tech entrepreneurs, developers, and professionals in London to meet,...
 
-#### London Futurists
-**Number of members:** 7856
+#### Silicon Roundabout
+**Number of members:** 14459
 Tech
-**Organizer:** David Wood
-**Description:** This group is for people who are interested in the future and maybe want to help shape it. The acceleration of technology means that the near future m...
+**Organizer:** Luis Carranza
+**Description:** Silicon Roundabout is the biggest tech meetup in London. It’s the ideal place for tech entrepreneurs, developers, and professionals in London to meet,...
 
 
 </div>
@@ -81,40 +83,40 @@ Link: [https://twitter.com/NathanBenaich](https://twitter.com/NathanBenaich)
 ### Upcoming this month
 <div class=events>
 
-#### Explore UK Crime Data with Pandas and GeoPandas
-##### Tue Sep 03 2019
+#### Rapidly build, test, and deploy Spring Boot in the Cloud
+##### Thu Sep 05 2019
 London
 **Organizer:** IBM Code London
-**Description:** In this workshop you will learn how to expand your Python skills to geospatial data. Pandas is one of the main Python libraries for manipulating and a...
-Link: [https://www.meetup.com/IBM-Code-London/events/264217069/](https://www.meetup.com/IBM-Code-London/events/264217069/)
+**Description:** Spring Boot has been incredibly successful in reducing the amount of time developers have to spend on common problems like connecting to a database, b...
+Link: [https://www.meetup.com/IBM-Code-London/events/264128331/](https://www.meetup.com/IBM-Code-London/events/264128331/)
 
-#### Meetup #7: How much data are you willing to give for modern comforts?
-##### Tue Sep 03 2019
+#### ML Paper Club @ Google Campus with nPlan
+##### Thu Sep 05 2019
 London
-**Organizer:** West London Eth
-**Description:** Modern life comes with all kinds of convenience. Starting from (mostly) usable search results on all platforms, finding long-lost connections on socia...
-Link: [https://www.meetup.com/West-London-Ethical-Technology-Meetup/events/264198262/](https://www.meetup.com/West-London-Ethical-Technology-Meetup/events/264198262/)
+**Organizer:** ML Paper Club @
+**Description:** We will be discussing a different research paper every week, with lunch kindly provided by Google Campus! You can find each week's paper, as well as a...
+Link: [https://www.meetup.com/ML-Paper-Club/events/zgbgbryzmbhb/](https://www.meetup.com/ML-Paper-Club/events/zgbgbryzmbhb/)
 
-#### Sept '19 Meetup: Supercharge everything with Einstein Analytics & Discovery
-##### Tue Sep 03 2019
+#### Strong Safe Artificial Intelligence.
+##### Fri Sep 06 2019
 London
-**Organizer:** London Einstein
-**Description:** We're delighted to announce the next Einstein Analytics LondonDataTribe meetup is confirmed for Tuesday Sept 3rd, at 4C from 6pm, and RSVP's are open!...
-Link: [https://www.meetup.com/London-Einstein-Analytics-Meetup/events/261282278/](https://www.meetup.com/London-Einstein-Analytics-Meetup/events/261282278/)
+**Organizer:** Artificial Inte
+**Description:** No description provided...
+Link: [https://www.meetup.com/AI-peer-group/events/pzpcwpyzmbjb/](https://www.meetup.com/AI-peer-group/events/pzpcwpyzmbjb/)
 
-#### PyData London - 58th Meetup
-##### Tue Sep 03 2019
+#### The future of improving human performance
+##### Sat Sep 07 2019
 London
-**Organizer:** PyData London M
-**Description:** Details !!!!!! NOTE: A valid photo ID is required by building security. You MUST use your full real names on your meetup profile, otherwise, you will ...
-Link: [https://www.meetup.com/PyData-London-Meetup/events/264080884/](https://www.meetup.com/PyData-London-Meetup/events/264080884/)
+**Organizer:** London Futurist
+**Description:** What is the best advice to improve our personal and professional performance - to increase our focus, creativity, resilience, and effectiveness? What ...
+Link: [https://www.meetup.com/London-Futurists/events/263934897/](https://www.meetup.com/London-Futurists/events/263934897/)
 
-#### Become An Organizer At Europe's Largest Digital Meetup
-##### Tue Sep 03 2019
+#### #LondonAI September Meetup: Financial Services Use Cases
+##### Wed Sep 11 2019
 London
-**Organizer:** Outreach Digita
-**Description:** *We're currently looking for:*- Event organizers- Photographers (video welcome)- Social and content marketers- "Influencers" *Help us run Europe's top...
-Link: [https://www.meetup.com/Digital/events/nwcnpqyzmbfb/](https://www.meetup.com/Digital/events/nwcnpqyzmbfb/)
+**Organizer:** London Artifici
+**Description:** Dear Makers, The August meetup was a great success, thanks all for coming. Let's keep the momentum going and meet again in September. This time we wil...
+Link: [https://www.meetup.com/London-Artificial-Intelligence-Deep-Learning/events/263668398/](https://www.meetup.com/London-Artificial-Intelligence-Deep-Learning/events/263668398/)
 
 
 </div>
