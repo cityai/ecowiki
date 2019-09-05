@@ -54,7 +54,7 @@ class CityServices{
         if(!cities) throw new ExtError(404,"There are no cities in the database");
         return cities;
     }
-    };
+    
 
     /**
      * Deletes a city by the given id.
