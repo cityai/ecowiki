@@ -10,7 +10,10 @@ const startups = require("../routes/startup");
 const city = require('../routes/city')
 const founder = require("../routes/founder");
 const meetup = require("../routes/meetupAuth");
+const mainPages = require('../routes/mainPages');
 
+
+router.use('/mainPages',mainPages);
 router.use('/groups', groups)
 router.use('/events', events)
 router.use('/influencers',influencers);

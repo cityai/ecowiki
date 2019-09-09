@@ -59,6 +59,8 @@
 		font-size: 26px;
 		padding-top: 15px;
 		padding-bottom: 21px;
+		// letter-spacing: 3px;
+		// font-weight: normal;
 	}
 
 	// .indent-h2 {
@@ -87,17 +89,24 @@
 		//background-color: black;
     	// background: linear-gradient(to bottom, lighten(mc('blue', '50'), 3%), mc('blue', '50'));
 		
+		// font-size: 16px;
+		// font-weight:400;
+		// color: black;
+		// margin-bottom: 21px;
+		// padding-top:10px ;
+		// text-transform: uppercase;
+		// letter-spacing: 0.3em;
+		// .redText{
+		// 	color: $content-color-h2;
+		// 	display:inline;
+		// }
+		color: $content-color-h2;
 		font-size: 16px;
-		font-weight:400;
-		color: black;
-		margin-bottom: 21px;
-		padding-top:10px ;
+		padding-top: 15px;
+		padding-bottom: 21px;
+		letter-spacing: 3px;
+		font-weight: normal;
 		text-transform: uppercase;
-		letter-spacing: 0.3em;
-		.redText{
-			color: $content-color-h2;
-			display:inline;
-		}
 	}
 
 	// .indent-h3 {

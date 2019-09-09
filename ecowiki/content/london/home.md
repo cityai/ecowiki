@@ -2,7 +2,7 @@
 <!-- SUBTITLE: ECOSYSTEM -->
 
 
-Contact us at [City.ai](https://city.ai)
+
 
 <div class=CityPageSpecific>
 

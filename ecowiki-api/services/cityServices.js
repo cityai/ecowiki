@@ -12,15 +12,15 @@ class CityServices{
         if(!location) throw new ExtError(400, 'City was not given.');
         if(!data) throw new ExtError(400, 'You need to provide data for city.');
 
-        const requiredFields = ['overview', 'longitude', 'latitude'];
-        validation.fieldsRequired(data, requiredFields);
+        // const requiredFields = ['overview', 'longitude', 'latitude'];
+        // validation.fieldsRequired(data, requiredFields);
 
         const city = new City({
             name: location,
             overview: data.overview,
             // status: status,
-            longitude: longitude,
-            latitude: latitude
+            //longitude: longitude,
+            //latitude: latitude
             // news: news
         });
 

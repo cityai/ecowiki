@@ -151,17 +151,12 @@ class MarkdownTransform {
     }
 
     async analyzePage(data,city){
-        //let data = [];
         let overview = "";
-        //let status = "";
         let index = data.indexOf("<div class=overview>") + 1;
-        console.log(index);
         for(;index<data.indexOf("</div>");index++)
             overview +=data[index] +" ";
-        console.log(city.overview, "///",overview)
         if(city.overview !== overview){
             city.overview = overview.trim();
-            console.log(city.overview)
             await City.updateOne({name:city.name},{$set:{overview:city.overview}},{new:true});
         }
         return city;
