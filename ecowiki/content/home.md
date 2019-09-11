@@ -7,52 +7,64 @@
 # AI ecosystems
 ### A - Z
 
-[London](/london/home)
 
-[Berlin](/berlin/home)
+
+
+
+
+
+
+
 
 [Singapore](/singapore/home)
-
+[Paris](/paris/home)
+[Oslo](/oslo/home)
+[Novi Sad](/novi-sad/home)
+[London](/london/home)
+[La Paz](/la-paz/home)
+[Bogota](/bogota/home)
+[Berlin](/berlin/home)
+[Beirut](/beirut/home)
 
 
 # Events
 ### Upcoming
 <div class=events>
 
-#### [TRAINING] Machine Learning in 3 days: London
-##### Mon Oct 14 2019
-London
-**Organizer:** Artificial Inte
-**Description:** Why this training? This 3-day course will give you a comprehensive overview of various tools, frameworks, and concepts behind machine learning. In jus...
-Link: [https://www.meetup.com/Artificial-Intelligence-Experience-London/events/264395646/](https://www.meetup.com/Artificial-Intelligence-Experience-London/events/264395646/)
+#### RPA Robotic Process Automation Developers Berlin @ Signavio
+##### Mon Oct 07 2019
+Berlin
+**Organizer:** RPA Robotic Process Automation Developers Berlin
+**Description:** This Page Was Intentionally Left Blank. ...
+Link: [https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/264690610/](https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/264690610/)
 
-#### Networking Drinks
-##### Thu Sep 26 2019
-London
-**Organizer:** Artificial Inte
-**Description:** No description provided...
-Link: [https://www.meetup.com/AI-peer-group/events/jlrbwqyzmbjc/](https://www.meetup.com/AI-peer-group/events/jlrbwqyzmbjc/)
+#### RPA Robotic Process Automation Developers Berlin @ Mister Spex
+##### Mon Nov 11 2019
+Berlin
+**Organizer:** RPA Robotic Process Automation Developers Berlin
+**Description:** This Page Was Intentionally Left Blank. ...
+Link: [https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/264690620/](https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/264690620/)
 
-#### What are the real risks of super A.I.?
-##### Thu Sep 26 2019
-London
-**Organizer:** London Futurist
-**Description:** What are the potential consequences when artificial intelligence increasingly exceeds human comprehension? Which possible side-effects of "superAI" de...
-Link: [https://www.meetup.com/London-Futurists/events/264034171/](https://www.meetup.com/London-Futurists/events/264034171/)
+#### IBM AI Meetup @ Berlin – 24. September
+##### Tue Sep 24 2019
+Berlin
+**Organizer:** IBM PowerAI Berlin
+**Description:** IBM AI Meetup @ Berlin – 24. September @ WeWork Ku'damm Please register here on Eventbrite to get access to our Meetup: https://www.eventbrite.de/e/ib...
+Link: [https://www.meetup.com/IBMPowerAIBerlin/events/261610660/](https://www.meetup.com/IBMPowerAIBerlin/events/261610660/)
 
-#### Analytics Network Autumn Event
-##### Thu Oct 03 2019
-London
-**Organizer:** Analytics Netwo
-**Description:** Please register to this event also using the Eventbrite link:http://bit.ly/AnalyticsNetworkAutumnEvent The Analytics Network, part of the Operational ...
-Link: [https://www.meetup.com/AnalyticsNetwork/events/264411422/](https://www.meetup.com/AnalyticsNetwork/events/264411422/)
+#### AI for vehicle platforms
+##### Wed Oct 23 2019
+Berlin
+**Organizer:** AI x Mobility Berlin
+**Description:** Agenda and speakers to follow ...
+Link: [https://www.meetup.com/AI-x-Mobility-Berlin/events/263057718/](https://www.meetup.com/AI-x-Mobility-Berlin/events/263057718/)
 
-#### Women Like Me: Discussing and celebrating non-cis white voices in AI
-##### Tue Sep 17 2019
-London
-**Organizer:** AI Ethics Londo
-**Description:** Artificial Intelligence will inevitably govern all decision making [redacted] are we as a society ready? Biased thought processes currently influence ...
-Link: [https://www.meetup.com/AI-Ethics-London/events/264189589/](https://www.meetup.com/AI-Ethics-London/events/264189589/)
+#### Grounding Conversational AI in a Knowledge Base
+##### Wed Oct 16 2019
+Berlin
+**Organizer:** Grakn Berlin Engineers
+**Description:** ⚛️ Grounding Conversational AI in a Knowledge Base How does a conversational assistant understand questions like “What is the most expensive transacti...
+Link: [https://www.meetup.com/grakn-berlin/events/264558051/](https://www.meetup.com/grakn-berlin/events/264558051/)
 
 
 </div>
@@ -61,20 +73,20 @@ Link: [https://www.meetup.com/AI-Ethics-London/events/264189589/](https://www.me
 ## Influencers
 <div class=influencers>
 
-#### Herman Narula
-Link: [https://twitter.com/HermanNarula](https://twitter.com/HermanNarula)
+#### Pierre Garreau
+Link: [https://twitter.com/pierre_garreau](https://twitter.com/pierre_garreau)
 
-#### Mustafa Suleyman
-Link: [https://twitter.com/mustafasuleymn](https://twitter.com/mustafasuleymn)
+#### Caspian Robotics
+Link: [https://twitter.com/CaspianRobotics](https://twitter.com/CaspianRobotics)
 
-#### Demis Hassabis
-Link: [https://twitter.com/demishassabis](https://twitter.com/demishassabis)
+#### Fabian Westerheide
+Link: [https://twitter.com/bootstrappingme](https://twitter.com/bootstrappingme)
 
-#### Ferenc Huszár🇪🇺
-Link: [https://twitter.com/fhuszar](https://twitter.com/fhuszar)
+#### Christoph Auer-Welsbach
+Link: [https://twitter.com/AWChristoph](https://twitter.com/AWChristoph)
 
-#### Nathan Benaich
-Link: [https://twitter.com/NathanBenaich](https://twitter.com/NathanBenaich)
+#### Luc Dudler
+Link: [https://twitter.com/lucdudler](https://twitter.com/lucdudler)
 
 
 </div>
@@ -96,6 +108,12 @@ Health Care, Personal Health, mHealth, Apps, Artificial Intelligence
 **Description:** Ada is a global health company founded by doctors, scientists, and industry pioneers to create new possibilities for personal health. Ada’s core syste...
 Link: [https://ada.com/](https://ada.com/)
 
+#### Dental Monitoring
+Health Care, Machine Learning, Artificial Intelligence
+**Investment in USD:** 57,270,074
+**Description:** No description provided...
+Link: [http://dental-monitoring.com](http://dental-monitoring.com)
+
 #### Advance.ai
 Internet, Big Data, Artificial Intelligence
 **Investment in USD:** 50,077,198
@@ -113,12 +131,6 @@ Blockchain, Communities, Artificial Intelligence
 **Investment in USD:** 28,100,000
 **Description:** No description provided...
 Link: [https://oceanprotocol.com/](https://oceanprotocol.com/)
-
-#### Zeitgold
-Financial Services, Small and Medium Businesses, Artificial Intelligence
-**Investment in USD:** 27,746,684
-**Description:** Zeitgold frees small businesses from paperwork. By combining experts and artificial intelligence, the company offers an end-to-end solution for managi...
-Link: [https://www.zeitgold.com/](https://www.zeitgold.com/)
 
 
 </div>

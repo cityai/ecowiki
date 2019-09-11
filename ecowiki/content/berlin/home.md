@@ -24,34 +24,34 @@
 <div class=groups>
 
 #### Berlin Machine Learning Group
-**Number of members:** 8206
-Tech
-**Organizer:** Trent McConaghy
-**Description:** A meetup for academics, professionals and hobbyists interested in applications and latest developments in Machine Learning, and AI more broadly. We ta...
-
-#### Berlin Machine Learning Group
-**Number of members:** 8206
-Tech
-**Organizer:** Trent McConaghy
-**Description:** A meetup for academics, professionals and hobbyists interested in applications and latest developments in Machine Learning, and AI more broadly. We ta...
-
-#### Berlin Machine Learning Group
-**Number of members:** 8206
+**Number of members:** 8231
 Tech
 **Organizer:** Trent McConaghy
 **Description:** A meetup for academics, professionals and hobbyists interested in applications and latest developments in Machine Learning, and AI more broadly. We ta...
 
 #### Big Data Developers in Berlin
-**Number of members:** 3853
+**Number of members:** 3858
 Tech
 **Organizer:** Nancy Berlin
 **Description:** This is an IBM sponsored Big Data meetup group. Geared towards developers, data scientists and ALL Big Data enthusiasts, our meetups provide an opport...
 
-#### Big Data Developers in Berlin
-**Number of members:** 3853
+#### Berlin Artificial Intelligence & Deep Learning
+**Number of members:** 2562
 Tech
-**Organizer:** Nancy Berlin
-**Description:** This is an IBM sponsored Big Data meetup group. Geared towards developers, data scientists and ALL Big Data enthusiasts, our meetups provide an opport...
+**Organizer:** Ian Gomez
+**Description:** We’re excited to bring you the latest happenings in AI, Machine Learning, Deep Learning, Data Science and Big Data.  Who are we? We’re H2O.ai (https:/...
+
+#### meetup.ai [Berlin]
+**Number of members:** 2551
+Tech
+**Organizer:** Rico Meinl
+**Description:**  http://meetupai.com/&nbsp; •&nbsp;Witness AI in Action We believe in creating an open and transparent conversation about Artificial Intelligence. We ...
+
+#### FilmTech Meetup Berlin
+**Number of members:** 2460
+Tech
+**Organizer:** Erwin M. Schmidt
+**Description:** The FilmTech Meetup Berlin is a monthly speaker and networking event with the aim to explore the touch-points between the film, storytelling and techn...
 
 
 </div>
@@ -81,40 +81,40 @@ Link: [https://twitter.com/lucdudler](https://twitter.com/lucdudler)
 ### Upcoming this month
 <div class=events>
 
-#### Global AI Night
-##### Thu Sep 05 2019
+#### Speaker Session with Bitwala and the CRIX Team - Humboldt University Berlin
+##### Wed Sep 11 2019
 Berlin
-**Organizer:** Azure Meetup Be
-**Description:** The Global AI Night is a free evening event organized by local communities all over the world that are passionate about Artificial Intelligence on the...
-Link: [https://www.meetup.com/Berlin-Microsoft-Azure-Meetup/events/264424403/](https://www.meetup.com/Berlin-Microsoft-Azure-Meetup/events/264424403/)
+**Organizer:** Crypto Traders Berlin
+**Description:** Dear Crypto Trading Community, Bitwala and the CRIX Team of the Humboldt University Berlin will present at our next meetup. The event will take place ...
+Link: [https://www.meetup.com/Crypto_Traders_Berlin/events/263780004/](https://www.meetup.com/Crypto_Traders_Berlin/events/263780004/)
 
-#### Computer Vision Workshop
-##### Fri Sep 06 2019
+#### September Golang meetup
+##### Wed Sep 11 2019
 Berlin
-**Organizer:** Berlin Computer
-**Description:** We will continue working with image classifiers (FastAI and PyTorch). ...
-Link: [https://www.meetup.com/Berlin-Computer-Vision-Group/events/264456555/](https://www.meetup.com/Berlin-Computer-Vision-Group/events/264456555/)
+**Organizer:** GDG Berlin Golang
+**Description:** Hello Gophers, If you'd like to give a talk - submit your proposals here: http://goo.gl/forms/54YvJT223F If you'd like to suggest topics for the fishb...
+Link: [https://www.meetup.com/golang-users-berlin/events/259954980/](https://www.meetup.com/golang-users-berlin/events/259954980/)
 
-#### Love Food, Hack Waste @BCG BERLIN 
-##### Fri Sep 06 2019
+#### Machine Learning - Bias, data privacy, personalisation & digital airports
+##### Wed Sep 11 2019
 Berlin
-**Organizer:** Hackathon and S
-**Description:** BCG Digital Ventures is all about sustainability. Love Food, Hack Waste is an intensive, immersive and interactive two-day hackathon aimed at fighting...
-Link: [https://www.meetup.com/Hackathon-and-Startup-Challenges-Munich/events/263357208/](https://www.meetup.com/Hackathon-and-Startup-Challenges-Munich/events/263357208/)
+**Organizer:** Women Techmakers Berlin
+**Description:** Machine learning - everyone's talking about it. We hear and read about various use cases for it, about ethics, bias and discrimination challenges, as ...
+Link: [https://www.meetup.com/Women-Techmakers-Berlin/events/264225225/](https://www.meetup.com/Women-Techmakers-Berlin/events/264225225/)
 
-#### RPA Robotic Process Automation Developers Berlin @ Digital Eatery
-##### Mon Sep 09 2019
+#### Women+ In Developer Circle: How to build a career into tech
+##### Thu Sep 12 2019
 Berlin
-**Organizer:** RPA Robotic Pro
-**Description:** Agenda für das UIPath Special Meetup am 09.09. mit Stefan Reutter: 19:40 – 20:00: Plattformübersicht + Live Robot Build 20:00 – 20:15: Diskussion + Pa...
-Link: [https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/262487191/](https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/262487191/)
+**Organizer:** Facebook Developer Circles Berlin
+**Description:** To RSVP please follow that link: https://womenindevelopercircleberlin.splashthat.com Women In Developer Circle Berlin is a serie of events from the Fa...
+Link: [https://www.meetup.com/Developer-Circles/events/264663855/](https://www.meetup.com/Developer-Circles/events/264663855/)
 
-#### Panel Discussion: AI Driven Chatbots - What's the Hype all about?
-##### Mon Sep 09 2019
+#### ML/DS Research Lightning Talks
+##### Thu Sep 12 2019
 Berlin
-**Organizer:** Disrupt Meetup 
-**Description:** Artificial intelligence (AI) has improved by leaps and bounds to a point where AI based applications such as chatbots that imitate human conversations...
-Link: [https://www.meetup.com/Disrupt-Meetup-Data-Science-and-AI-Berlin/events/263809139/](https://www.meetup.com/Disrupt-Meetup-Data-Science-and-AI-Berlin/events/263809139/)
+**Organizer:** Berlin Women in Machine Learning & Data Science
+**Description:** Join us for our first autumn event! This time, we will introduce five amazing women+ researchers, each of whom will give us a glimpse into their respe...
+Link: [https://www.meetup.com/Berlin-Women-in-Machine-Learning-and-Data-Science/events/264182760/](https://www.meetup.com/Berlin-Women-in-Machine-Learning-and-Data-Science/events/264182760/)
 
 
 </div>

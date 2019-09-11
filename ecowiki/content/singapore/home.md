@@ -24,19 +24,7 @@
 <div class=groups>
 
 #### SGInnovate
-**Number of members:** 4860
-Tech
-**Organizer:** Tuan
-**Description:** At SGInnovate, we launch, prove and scale 'deep tech' products borne out of science research. We believe Singapore has the resources and capabilities ...
-
-#### SGInnovate
-**Number of members:** 4860
-Tech
-**Organizer:** Tuan
-**Description:** At SGInnovate, we launch, prove and scale 'deep tech' products borne out of science research. We believe Singapore has the resources and capabilities ...
-
-#### SGInnovate
-**Number of members:** 4860
+**Number of members:** 4888
 Tech
 **Organizer:** Tuan
 **Description:** At SGInnovate, we launch, prove and scale 'deep tech' products borne out of science research. We believe Singapore has the resources and capabilities ...
@@ -47,11 +35,23 @@ Tech
 **Organizer:** Sam Witteveen
 **Description:** The group's aim is to enable people to create and deploy their own Deep Learning models built using TensorFlow. We will look at a combination of both ...
 
-#### TensorFlow and Deep Learning Singapore
-**Number of members:** 3992
+#### Singapore Artificial Intelligence & Deep Learning
+**Number of members:** 3398
 Tech
-**Organizer:** Sam Witteveen
-**Description:** The group's aim is to enable people to create and deploy their own Deep Learning models built using TensorFlow. We will look at a combination of both ...
+**Organizer:** Ian Gomez
+**Description:** We’re excited to bring you the latest happenings in AI, Machine Learning, Deep Learning, Data Science and Big Data. Who are we? We’re H2O.ai (https://...
+
+#### Data Night
+**Number of members:** 3317
+Tech
+**Organizer:** Amrith
+**Description:** Data Night is a meetup for data enthusiasts who are passionate about Data Science, Analytics, Artificial Intelligence, Big Data, and Data-driven produ...
+
+#### Next-Gen Analytics Singapore
+**Number of members:** 3022
+Tech
+**Organizer:** Emmanuel Maroye
+**Description:** The Next-Gen Analytics Singapore meetup brings together people who are interested in exploring how advanced analytics can add value and efficiency to ...
 
 
 </div>
@@ -66,24 +66,10 @@ Tech
 ### Upcoming this month
 <div class=events>
 
-#### Symphony of Mind @ Enabling Festival
-##### Sun Sep 08 2019
-Singapore
-**Organizer:** Mental Wellness
-**Description:** Hey Folks, Founder and CEO of Neuro Code Research Pte Ltd, Mr Tang Juel Hoi possesses more than 15 years of R&amp;D experience in Artificial Intellige...
-Link: [https://www.meetup.com/Mental-Wellness-Connection-Circle-for-Adults-and-Retirees/events/264514646/](https://www.meetup.com/Mental-Wellness-Connection-Circle-for-Adults-and-Retirees/events/264514646/)
-
-#### Big Data & AI Leaders Summit Singapore 2019
-##### Wed Sep 11 2019
-Singapore
-**Organizer:** Forward Leading
-**Description:** Singapore's most exclusive and influential Big Data &amp; AI conference is coming back for the 3rd year, so take your place alongside more than 150 AI...
-Link: [https://www.meetup.com/Forward-Leading-Big-Data-AI-Analytics-Summit/events/261106452/](https://www.meetup.com/Forward-Leading-Big-Data-AI-Analytics-Summit/events/261106452/)
-
 #### Fairness & Explainable AI
 ##### Wed Sep 11 2019
 Singapore
-**Organizer:** Advanced Analyt
+**Organizer:** Advanced Analytics, Beautifully Engineered in Singapore
 **Description:** From the news we consume to our suggested Netflix content, algorithms are becoming increasingly influential on our day-to-day existence. But as more s...
 Link: [https://www.meetup.com/Singapore-Artificial-Intelligence-Meetup-Group/events/263193928/](https://www.meetup.com/Singapore-Artificial-Intelligence-Meetup-Group/events/263193928/)
 
@@ -98,8 +84,22 @@ Link: [https://www.meetup.com/SGInnovate/events/264545457/](https://www.meetup.c
 ##### Thu Sep 12 2019
 Singapore
 **Organizer:** EAT Launchpad
-**Description:** Smart Contracts may be one of the biggest drives behind the enthusiasm for blockchain. The idea is to digitally facilitate, verify, and enforce the ne...
+**Description:** Please get ticket at Eventbrite : https://www.eventbrite.sg/e/ai-on-blockchain-ai-smart-contract-dapp-tickets-71253843163 Smart Contracts may be one o...
 Link: [https://www.meetup.com/eatlaunchpad/events/264539414/](https://www.meetup.com/eatlaunchpad/events/264539414/)
+
+#### Witness Power of Market Intel Scanner for Traders
+##### Fri Sep 13 2019
+Singapore
+**Organizer:** Forex Business Disruptors Club
+**Description:** Experience How To Win Like The Sharks #TradeWithSharks#TradeWithBigBoys#TradersAI#WinWithSharksDiscover the M Intelligence Scanner. Engineer your M In...
+Link: [https://www.meetup.com/Forex-Business-Disruptors-Club/events/264615661/](https://www.meetup.com/Forex-Business-Disruptors-Club/events/264615661/)
+
+#### Setting the Standards for Commercial Game Development
+##### Fri Sep 13 2019
+Singapore
+**Organizer:** SGInnovate
+**Description:** Please Register Here: https://www.sginnovate.com/events/setting-standards-commercial-game-development Presented by IEEE Singapore Section, IEEE Women ...
+Link: [https://www.meetup.com/SGInnovate/events/264713099/](https://www.meetup.com/SGInnovate/events/264713099/)
 
 
 </div>

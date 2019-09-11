@@ -13,7 +13,7 @@ var organizationSchema = mongoose.Schema({
     },
     link: {
         type: String,
-        required: true
+        required: false
     },
     location: {
         type: String,
@@ -25,20 +25,19 @@ var organizationSchema = mongoose.Schema({
     },
     profit:{
         type: Boolean,
-        required: true
+        required: false
     },
     founder: {
-        type: mongoose.Schema.Types.ObjectId,
-        ref: 'Founder',
+        type: String,
         required: false
     },
     email: {
         type: String, 
-        required: true
+        required: false
     },
     tags: {
         type: Array,
-        reqired: true
+        reqired: false
     }
 }, {timestamps: {} });
 

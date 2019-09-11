@@ -51,12 +51,12 @@ class MarkdownConvertor{
                         index++;
                         break;
                     case "organizer":
-                        data.splice(index, 0, "**Organizer:** " + document[i][attributesArray[j]].toString().substring(0, 15));
+                        data.splice(index, 0, "**Organizer:** " + document[i][attributesArray[j]].toString());
                         index++;
                         break;
                     case "cityLink":
                         data.splice(index, 0, "[" + document[i][attributesArray[j]] + "](/" + document[i][attributesArray[j]].toString().toLowerCase().replace(/ /g,"-") + "/home)");
-                        index++;
+                        
                         break;
                     default:
                         data.splice(index, 0, document[i][attributesArray[j]]);

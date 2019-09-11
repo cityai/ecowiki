@@ -24,25 +24,25 @@
 <div class=groups>
 
 #### GDG La Paz
-**Number of members:** 1507
+**Number of members:** 1512
 Tech
 **Organizer:** Monica Canaza
 **Description:** GDG La Paz es la comunidad de desarrolladores que utilizan tecnologías, plataformas y APIs de Google, ya sea en el ámbito laboral, o en proyectos pers...
 
 #### La Paz Women in Machine Learning & Data Science
-**Number of members:** 169
+**Number of members:** 170
 Tech
 **Organizer:** WiMLDS
 **Description:** WiMLDS's mission is to support and promote women and gender minorities who are practicing, studying or are interested in the fields of machine learnin...
 
 #### Data Economy - La Paz
-**Number of members:** 141
+**Number of members:** 142
 Tech
 **Organizer:** Daniel Lustig
 **Description:** Este grupo es para cualquier persona interesada en colaborar en la formación de la nueva Economía de los Datos. Su objetivo es conectar mentes curiosa...
 
 #### Data Science Bolivia
-**Number of members:** 111
+**Number of members:** 117
 Tech
 **Organizer:** Fernando Silva
 **Description:** Data Science Bolivia (o simplemente DSB) es una comunidad de Data Scientists en Bolivia. Está abierta a profesionales o estudiantes apasionados de Dat...

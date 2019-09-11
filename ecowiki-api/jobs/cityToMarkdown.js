@@ -5,35 +5,37 @@ const _ = require("underscore");
 
 const City = require("../models/city");
 const Community = require("../models/community");
+const Organization = require("../models/organization");
 
 class MarkdownTransform {
 
     async toMarkdown() {
-        console.log(__dirname,process.cwd());
+        console.log(__dirname, process.cwd());
 
         const cities = await City.find({}).select("name -_id")
         console.log(cities);
         for (var i = 0; i < cities.length; i++) {
             var location = cities[i].name;
-            await City.findOne({ name: location }).populate('startups').populate('events')/*.populate('community')*/.exec().then(async city => {
+            await City.findOne({ name: location }).populate('startups').populate('organizations').populate('events')/*.populate('community')*/.exec().then(async city => {
                 const community = await Community.findById(city.community).populate("influencers").populate("groups").exec().then(community => { return community });
-                //console.log(city)
+                
                 //SORTING
-                if(community)
+                if (community)
                     community.groups = _.sortBy(community.groups, "members").reverse();
                 city.events = _.sortBy(city.events, "date");
                 city.startups = _.sortBy(city.startups, "investment").reverse();
-                console.log(__dirname,process.cwd());
-                const filePath = path.join(process.cwd(), "content", location.toLowerCase().replace(/ /g,"-"), "home.md");
-                const dirPath = path.join(process.cwd(), "content", location.toLowerCase().replace(/ /g,"-"));
+                console.log(__dirname, process.cwd());
+                const filePath = path.join(process.cwd(), "content", location.toLowerCase().replace(/ /g, "-"), "home.md");
+                const dirPath = path.join(process.cwd(), "content", location.toLowerCase().replace(/ /g, "-"));
                 const templatePath = "./data/cityTemplate.md"
                 //THIS IS USED AS TEMPLATE PATH IN DEVELOPMENT ENVIORMENT
                 //path.join(__dirname, "..", "..", "ecowiki", "content", "cityTemplate.md");
-                
-                await fs.readFile(filePath,async(err,data)=>{
+
+                await fs.readFile(filePath, async (err, data) => {
                     if (err) throw err
                     data = data.toString().split("\n");
-                    city =await  this.analyzePage(data,city);
+                    city = await this.analyzePage(data, city);
+                    await this.analyzeOrgs(data, city);
                 })
                 await fs.readFile(templatePath, async (error, data) => {
                     if (error) throw error;
@@ -41,14 +43,14 @@ class MarkdownTransform {
                     data = data.toString().split("\n");
                     //console.log(city);
                     data.splice(0, 0, "<!-- TITLE: " + city.name + " AI -->");
-                    data = this.addOneLine(data,city,"overview","<div class=overview>");
-                    if(city.startups)
+                    data = this.addOneLine(data, city, "overview", "<div class=overview>");
+                    if (city.startups)
                         data = this.addMultipleLines(data, city, "startups", 3, "<div class=startups>", ["name", "categories", "investment", "description", "link"]);
-                    if(city.events)
+                    if (city.events)
                         data = this.addMultipleLines(data, city, "events", 5, "<div class=events>", ["name", "date", "location", "organizer", "description", "link"])
-                    if(city.organizations)
-                        data = this.addMultipleLines(data, city, "organizations", 5, "<div class=organizations>", ["name"]);
-                    if(community){
+                    if (city.organizations)
+                        data = this.addMultipleLines(data, city, "organizations", 5, "<div class=organizations>", ["name", "category", "founder", "link", "descriptions"]);
+                    if (community) {
                         data = this.addMultipleLines(data, community, "groups", 5, "<div class=groups>", ["name", "members", "category", "organizer", "description"]);
                         data = this.addMultipleLines(data, community, "influencers", 5, "<div class=influencers>", ["name", "link"]);
                     }
@@ -74,13 +76,13 @@ class MarkdownTransform {
             })
         }
     }
-    addOneLine(data,document,docObj,setctionText){
+    addOneLine(data, document, docObj, setctionText) {
         let index = data.indexOf(setctionText);
-        index ++;
-        if(document[docObj]){
-            data.splice(index,0,"");
+        index++;
+        if (document[docObj]) {
+            data.splice(index, 0, "");
             index++;
-            data.splice(index,0,document[docObj]);
+            data.splice(index, 0, document[docObj]);
             index++;
         }
         return data;
@@ -92,8 +94,8 @@ class MarkdownTransform {
         index++;
         data.splice(index, 0, "");
         index++;
-        if(n>document[docObj].length)
-            n=document[docObj].length;
+        if (n > document[docObj].length)
+            n = document[docObj].length;
         for (let i = 0; i < n; i++) {
             //There is no data for particular part of the city (e.g no news yet, no organizations...)
             if (document[docObj].length < 1) continue;
@@ -106,8 +108,14 @@ class MarkdownTransform {
                         index++;
                         break;
                     case "link":
-                        data.splice(index, 0, "Link: [" + document[docObj][i][attributesArray[j]] + "](" + document[docObj][i][attributesArray[j]] + ")");
-                        index++;
+                        if (docObj == "organizations") {
+                            data.splice(index, 0, document[docObj][i][attributesArray[j]]);
+                            index++;
+                        }
+                        else {
+                            data.splice(index, 0, "Link: [" + document[docObj][i][attributesArray[j]] + "](" + document[docObj][i][attributesArray[j]] + ")");
+                            index++;
+                        }
                         break;
                     case "description":
                         if (!document[docObj][i][attributesArray[j]])
@@ -134,7 +142,7 @@ class MarkdownTransform {
                         index++;
                         break;
                     case "organizer":
-                        data.splice(index, 0, "**Organizer:** " + document[docObj][i][attributesArray[j]].toString().substring(0, 15));
+                        data.splice(index, 0, "**Organizer:** " + document[docObj][i][attributesArray[j]].toString());
                         index++;
                         break;
                     default:
@@ -150,16 +158,49 @@ class MarkdownTransform {
         return data;
     }
 
-    async analyzePage(data,city){
+    async analyzePage(data, city) {
         let overview = "";
         let index = data.indexOf("<div class=overview>") + 1;
-        for(;index<data.indexOf("</div>");index++)
-            overview +=data[index] +" ";
-        if(city.overview !== overview){
+        for (; index < data.indexOf("</div>"); index++)
+            overview += data[index] + " ";
+        if (city.overview !== overview) {
             city.overview = overview.trim();
-            await City.updateOne({name:city.name},{$set:{overview:city.overview}},{new:true});
+            await City.updateOne({ name: city.name }, { $set: { overview: city.overview } }, { new: true });
         }
         return city;
+    }
+
+    async analyzeOrgs(data, city) {
+        let index = data.indexOf('<div class=organizations>');
+        let startIndex = index;
+        while (data[index] !== '</div>')
+            index++;
+        let orgsData = data.slice(startIndex, index);
+        for (let i = 0; i < orgsData.length; i++) {
+            try {
+
+                if (orgsData[i].includes('#### ')) {
+                    let orgName = orgsData[i].substring(5).trim();
+                    let org = await Organization.findOne({ name: orgName });
+                    if (!org) {
+                        const organization = new Organization({
+                            name: orgName,
+                            category: orgsData[i + 1].trim(),
+                            founder: orgsData[i + 2].substring(14).trim(),
+                            link: orgsData[i + 3].trim(),
+                            description: orgsData[i + 4].substring(16).trim(),
+                            location: city.name,
+                        });
+                        await organization.save();
+                        i = i + 4;
+                    }
+                }
+            }
+            catch (err) {
+                console.log(err);
+            }
+        }
+
     }
 }
 
