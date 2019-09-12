@@ -36,13 +36,13 @@ Tech
 **Description:** This is an IBM sponsored Big Data meetup group. Geared towards developers, data scientists and ALL Big Data enthusiasts, our meetups provide an opport...
 
 #### Berlin Artificial Intelligence & Deep Learning
-**Number of members:** 2562
+**Number of members:** 2564
 Tech
 **Organizer:** Ian Gomez
 **Description:** We’re excited to bring you the latest happenings in AI, Machine Learning, Deep Learning, Data Science and Big Data.  Who are we? We’re H2O.ai (https:/...
 
 #### meetup.ai [Berlin]
-**Number of members:** 2551
+**Number of members:** 2550
 Tech
 **Organizer:** Rico Meinl
 **Description:**  http://meetupai.com/&nbsp; •&nbsp;Witness AI in Action We believe in creating an open and transparent conversation about Artificial Intelligence. We ...
@@ -81,27 +81,6 @@ Link: [https://twitter.com/lucdudler](https://twitter.com/lucdudler)
 ### Upcoming this month
 <div class=events>
 
-#### Speaker Session with Bitwala and the CRIX Team - Humboldt University Berlin
-##### Wed Sep 11 2019
-Berlin
-**Organizer:** Crypto Traders Berlin
-**Description:** Dear Crypto Trading Community, Bitwala and the CRIX Team of the Humboldt University Berlin will present at our next meetup. The event will take place ...
-Link: [https://www.meetup.com/Crypto_Traders_Berlin/events/263780004/](https://www.meetup.com/Crypto_Traders_Berlin/events/263780004/)
-
-#### September Golang meetup
-##### Wed Sep 11 2019
-Berlin
-**Organizer:** GDG Berlin Golang
-**Description:** Hello Gophers, If you'd like to give a talk - submit your proposals here: http://goo.gl/forms/54YvJT223F If you'd like to suggest topics for the fishb...
-Link: [https://www.meetup.com/golang-users-berlin/events/259954980/](https://www.meetup.com/golang-users-berlin/events/259954980/)
-
-#### Machine Learning - Bias, data privacy, personalisation & digital airports
-##### Wed Sep 11 2019
-Berlin
-**Organizer:** Women Techmakers Berlin
-**Description:** Machine learning - everyone's talking about it. We hear and read about various use cases for it, about ethics, bias and discrimination challenges, as ...
-Link: [https://www.meetup.com/Women-Techmakers-Berlin/events/264225225/](https://www.meetup.com/Women-Techmakers-Berlin/events/264225225/)
-
 #### Women+ In Developer Circle: How to build a career into tech
 ##### Thu Sep 12 2019
 Berlin
@@ -115,6 +94,27 @@ Berlin
 **Organizer:** Berlin Women in Machine Learning & Data Science
 **Description:** Join us for our first autumn event! This time, we will introduce five amazing women+ researchers, each of whom will give us a glimpse into their respe...
 Link: [https://www.meetup.com/Berlin-Women-in-Machine-Learning-and-Data-Science/events/264182760/](https://www.meetup.com/Berlin-Women-in-Machine-Learning-and-Data-Science/events/264182760/)
+
+#### Ethical Design
+##### Thu Sep 12 2019
+Berlin
+**Organizer:** Towards & Beyond - Imagining Digital Futures
+**Description:** We've seen the harm caused by unethical practices in software development, whether it's Google cashing in on pedophiles , Volkswagen cheating on emiss...
+Link: [https://www.meetup.com/Towards-and-Beyond-Imagining-Digital-Futures/events/264428140/](https://www.meetup.com/Towards-and-Beyond-Imagining-Digital-Futures/events/264428140/)
+
+#### Design Thinking Coaches #24: Designing Artificial Intelligence
+##### Mon Sep 16 2019
+Berlin
+**Organizer:** Design Thinking Coaches | Berlin
+**Description:** Artificial Intelligence based on machine learning is everywhere. AI solutions are becoming our assistants, help us to get insights out of big data, pr...
+Link: [https://www.meetup.com/DesignThinkingCoaches-Berlin/events/264585610/](https://www.meetup.com/DesignThinkingCoaches-Berlin/events/264585610/)
+
+#### Artificial Intelligence - Understanding the opportunities and consequences.
+##### Tue Sep 17 2019
+Berlin
+**Organizer:** Digital Skills Training Community
+**Description:** *German description below*Together with Freeformers, DigiForge now offers a free introduction into AI: In this free, fun, fast-paced, interactive Work...
+Link: [https://www.meetup.com/digital-skills-tc/events/264368733/](https://www.meetup.com/digital-skills-tc/events/264368733/)
 
 
 </div>

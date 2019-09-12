@@ -9,7 +9,7 @@
 # Overview
 <div class=overview>
 
-Beirut’s local AI ecosystem is young but promising a community of skill and talent. Despite the hurdles faced in Lebanon's region, it is clear that many organizations and a vast amount of individuals have recognized the upcoming AI revolution and have taken efforts to ensure that Lebanon is a flourishing AI hub in the MENA region. With universities, NGOs, and companies pushing to educate and incorporate AI within their frameworks, we have seen a peak in demand for AI expertise. With other countries offering powerful computing frameworks or vast financial capital, Lebanon is rich with a talented workforce and is metastasizing AI skills in its community.
+THIS IS LA PAZ AI OVERBIEW TEST THAT WILL BE STORED IN DATABASE!!!
 
 </div>
 
@@ -56,10 +56,6 @@ Tech
 # Organizations
 ### Most active
 <div class=organizations>
-
-#### Quants & Algo Traders Lebanon
-
-#### Q & Algo Traders Lebanon
 
 
 </div>

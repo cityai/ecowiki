@@ -55,8 +55,8 @@ services:
   mongo: 
     container_name: mongo
     image: mongo
-    volumes:
-      - ./db/data:/db/data
+    # volumes:
+    #   - ./db/data:/db/data
     expose: 
       - '27017'
     command: '--smallfiles --bind_ip ::,0.0.0.0'

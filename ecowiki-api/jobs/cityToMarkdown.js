@@ -17,7 +17,7 @@ class MarkdownTransform {
         for (var i = 0; i < cities.length; i++) {
             var location = cities[i].name;
             await City.findOne({ name: location }).populate('startups').populate('organizations').populate('events')/*.populate('community')*/.exec().then(async city => {
-                const community = await Community.findById(city.community).populate("influencers").populate("groups").exec().then(community => { return community });
+                const community = await Community.findById(city.community).populate("influencers").populate("groups").exec().then(community => { return community }).catch(err=>{return console.log(err)});
                 
                 //SORTING
                 if (community)
@@ -32,13 +32,13 @@ class MarkdownTransform {
                 //path.join(__dirname, "..", "..", "ecowiki", "content", "cityTemplate.md");
 
                 await fs.readFile(filePath, async (err, data) => {
-                    if (err) throw err
+                    if (err) return console.log(err);
                     data = data.toString().split("\n");
                     city = await this.analyzePage(data, city);
                     await this.analyzeOrgs(data, city);
                 })
                 await fs.readFile(templatePath, async (error, data) => {
-                    if (error) throw error;
+                    if (error) return console.log(error);
 
                     data = data.toString().split("\n");
                     //console.log(city);
@@ -73,7 +73,7 @@ class MarkdownTransform {
 
                 })
 
-            })
+            }).catch(err=>{return console.log(err)})
         }
     }
     addOneLine(data, document, docObj, setctionText) {

@@ -13,4 +13,5 @@ defaultEntryPoints = ["http"]
 [api]
 entryPoint = "foo"
 
+
 # vim:filetype=yaml

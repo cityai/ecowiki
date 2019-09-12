@@ -23,13 +23,13 @@ class CheckForCity {
                 }
             
         }
-        for(let i = 0; i < cities.length;i++)
-        {
-            if(!dirArray.includes(cities[i]))
-            {
-                await City.findOneAndDelete({name:cities[i].replace(/-/g," ").capitalize()})
-            }
-        }
+        // for(let i = 0; i < cities.length;i++)
+        // {
+        //     if(!dirArray.includes(cities[i]))
+        //     {
+        //         await City.findOneAndDelete({name:cities[i].replace(/-/g," ").capitalize()})
+        //     }
+        // }
         return "done";
     }
 }

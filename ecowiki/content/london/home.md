@@ -9,8 +9,6 @@
 # Overview
 <div class=overview>
 
-sdadadasdasdasdasdasdsadasd Thsi is london overvbiwasda
-
 </div>
 
 # Status
@@ -26,31 +24,31 @@ sdadadasdasdasdasdasdsadasd Thsi is london overvbiwasda
 <div class=groups>
 
 #### Silicon Roundabout
-**Number of members:** 14457
+**Number of members:** 14470
 Tech
 **Organizer:** Luis Carranza
 **Description:** Silicon Roundabout is the biggest tech meetup in London. It’s the ideal place for tech entrepreneurs, developers, and professionals in London to meet,...
 
 #### PyData London Meetup
-**Number of members:** 10073
+**Number of members:** 10074
 Tech
 **Organizer:** PyData/NumFOCUS
 **Description:** PyData is an educational program of NumFOCUS, a 501(c)3 non-profit organization in the United States. PyData provides a forum for the international co...
 
 #### Data Science London
-**Number of members:** 9300
+**Number of members:** 9298
 Tech
 **Organizer:** Carlos
 **Description:** Data Science London - We're the largest #datascience community in Europe We are&nbsp;a community of data scientists, machine learning geeks and data h...
 
 #### London Artificial Intelligence & Deep Learning
-**Number of members:** 9112
+**Number of members:** 9125
 Tech
 **Organizer:** Ian Gomez
 **Description:** We’re excited to bring you the latest happenings in AI, Machine Learning, Deep Learning, Data Science and Big Data.  Who are we? We’re H2O.ai (https:/...
 
 #### London Futurists
-**Number of members:** 7876
+**Number of members:** 7878
 Tech
 **Organizer:** David Wood
 **Description:** This group is for people who are interested in the future and maybe want to help shape it. The acceleration of technology means that the near future m...
@@ -83,40 +81,40 @@ Link: [https://twitter.com/NathanBenaich](https://twitter.com/NathanBenaich)
 ### Upcoming this month
 <div class=events>
 
-#### #LondonAI September Meetup: Financial Services Use Cases
-##### Wed Sep 11 2019
+#### Code-Lab: Deep Learning with Pytorch and Azure Machine Learning Services
+##### Fri Sep 13 2019
 London
-**Organizer:** London Artificial Intelligence & Deep Learning
-**Description:** Dear Makers, The August meetup was a great success, thanks all for coming. Let's keep the momentum going and meet again in September. This time we wil...
-Link: [https://www.meetup.com/London-Artificial-Intelligence-Deep-Learning/events/263668398/](https://www.meetup.com/London-Artificial-Intelligence-Deep-Learning/events/263668398/)
+**Organizer:** Beginners Machine Learning - London
+**Description:** IMPORTANT NOTE:===================Due to venue requirements, all registrations must be completed on eventbrite (It's free). Meetup RSVPs cannot be con...
+Link: [https://www.meetup.com/beginners-machine-learning-london/events/264242845/](https://www.meetup.com/beginners-machine-learning-london/events/264242845/)
 
-#### Impactful AI - 3rd Meetup
-##### Wed Sep 11 2019
+#### Machine Learning and Deep Learning Training [First Free Session]
+##### Sat Sep 14 2019
 London
-**Organizer:** Impactful AI London
-**Description:** In this meetup series, we want to inspire everyone to use or implement Machine Learning and AI not only to serve great causes but also to have a demon...
-Link: [https://www.meetup.com/Impactful-AI-London/events/263640364/](https://www.meetup.com/Impactful-AI-London/events/263640364/)
+**Organizer:** Big Data, Analytics, and Artificial Intelligence
+**Description:** Register at: cosoit.com/training/data-science-with-python20% discount code: AI20OFF Online Bootcamp from going Zero to Build Competency in Machine lea...
+Link: [https://www.meetup.com/Artificial-Intelligence-UK/events/dhhhgryzmbsb/](https://www.meetup.com/Artificial-Intelligence-UK/events/dhhhgryzmbsb/)
 
-#### Slaying Silos with Dragon Killing Catapults? Cross functional vs Siloed Working
-##### Wed Sep 11 2019
+#### Unlocking the power of Automation with AI and ML
+##### Mon Sep 16 2019
 London
-**Organizer:** Amido Presents
-**Description:** You have a goal, a grandiose goal that needs to be reached. Be it software for a client, your own product, a building project or even a common goal be...
-Link: [https://www.meetup.com/Amido-Presents/events/262778008/](https://www.meetup.com/Amido-Presents/events/262778008/)
+**Organizer:** IBM Cloud - London
+**Description:** The future of work is driven by components of intelligent automation working together in harmony to ... • Optimise talent, with human-machine collabor...
+Link: [https://www.meetup.com/IBM-Cloud-London/events/263801656/](https://www.meetup.com/IBM-Cloud-London/events/263801656/)
 
-#### The World According to Jordan Peterson
-##### Wed Sep 11 2019
+#### Women Like Me: Discussing and celebrating non-cis white voices in AI
+##### Tue Sep 17 2019
 London
-**Organizer:** Jordan Peterson Discussion Group
-**Description:** The aim of this meetup group is to discuss the big issues of the moment in an atmosphere of open inquiry and commitment to truth. We will discuss some...
-Link: [https://www.meetup.com/meetup-group-imLpPNkF/events/sdlbgryzmbpb/](https://www.meetup.com/meetup-group-imLpPNkF/events/sdlbgryzmbpb/)
+**Organizer:** AI Ethics London
+**Description:** Artificial Intelligence will inevitably govern all decision making [redacted] are we as a society ready? Biased thought processes currently influence ...
+Link: [https://www.meetup.com/AI-Ethics-London/events/264189589/](https://www.meetup.com/AI-Ethics-London/events/264189589/)
 
-#### ML Paper Club @ Google Campus with nPlan
-##### Thu Sep 12 2019
+#### AI for Good Meetup
+##### Tue Sep 17 2019
 London
-**Organizer:** ML Paper Club @ Google Campus with nPlan
-**Description:** We will be discussing a different research paper every week, with lunch kindly provided by Google Campus! You can find each week's paper, as well as a...
-Link: [https://www.meetup.com/ML-Paper-Club/events/zgbgbryzmbqb/](https://www.meetup.com/ML-Paper-Club/events/zgbgbryzmbqb/)
+**Organizer:** AI for Good
+**Description:** A regular meetup to collaborate on AI for Good projects ...
+Link: [https://www.meetup.com/meetup-group-pzvZdizC/events/264134425/](https://www.meetup.com/meetup-group-pzvZdizC/events/264134425/)
 
 
 </div>

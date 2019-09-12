@@ -12,14 +12,6 @@
 
 
 
-
-
-
-
-[Singapore](/singapore/home)
-[Paris](/paris/home)
-[Oslo](/oslo/home)
-[Novi Sad](/novi-sad/home)
 [London](/london/home)
 [La Paz](/la-paz/home)
 [Bogota](/bogota/home)
@@ -108,29 +100,29 @@ Health Care, Personal Health, mHealth, Apps, Artificial Intelligence
 **Description:** Ada is a global health company founded by doctors, scientists, and industry pioneers to create new possibilities for personal health. Ada’s core syste...
 Link: [https://ada.com/](https://ada.com/)
 
-#### Dental Monitoring
-Health Care, Machine Learning, Artificial Intelligence
-**Investment in USD:** 57,270,074
-**Description:** No description provided...
-Link: [http://dental-monitoring.com](http://dental-monitoring.com)
-
-#### Advance.ai
-Internet, Big Data, Artificial Intelligence
-**Investment in USD:** 50,077,198
-**Description:** Combining the best domain knowledge in big data, artificial intelligence and credit scoring, ADVANCE.AI brings the next generation data centric platfo...
-Link: [https://advance.ai/](https://advance.ai/)
-
 #### omni:us
 Machine Learning, Computer Vision, Artificial Intelligence, Information Technology
 **Investment in USD:** 29,352,853
 **Description:** omni:us is an Artificial Intelligence as a Service (AIaaS) provider for cognitive claims management. Built on a fully data-driven approach, omni:us is...
 Link: [http://omnius.com/](http://omnius.com/)
 
-#### Ocean Protocol
-Blockchain, Communities, Artificial Intelligence
-**Investment in USD:** 28,100,000
-**Description:** No description provided...
-Link: [https://oceanprotocol.com/](https://oceanprotocol.com/)
+#### Zeitgold
+Financial Services, Small and Medium Businesses, Artificial Intelligence
+**Investment in USD:** 27,746,684
+**Description:** Zeitgold frees small businesses from paperwork. By combining experts and artificial intelligence, the company offers an end-to-end solution for managi...
+Link: [https://www.zeitgold.com/](https://www.zeitgold.com/)
+
+#### MXC Foundation
+Association, Cryptocurrency, Artificial Intelligence, Information Technology, Information Services
+**Investment in USD:** 26,350,659
+**Description:** MXC is building a global data network that allows the devices of tomorrow to connect, commit and communicate more efficiently than ever before. Cities...
+Link: [https://www.mxc.org/](https://www.mxc.org/)
+
+#### i2x
+Internet, Machine Learning, Artificial Intelligence, Information Technology
+**Investment in USD:** 16,393,505
+**Description:** Real-time conversation analytics and continuous coaching.  At i2x they are working to radically improve the human-to-human interaction between compani...
+Link: [https://i2x.ai/](https://i2x.ai/)
 
 
 </div>
