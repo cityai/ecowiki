@@ -59,7 +59,7 @@ services:
     #   - ./db/data:/db/data
     expose: 
       - '27017'
-    command: '--smallfiles --bind_ip ::,0.0.0.0'
+    command: '--bind_ip ::,0.0.0.0'
     networks: 
       - webappnetwork
   app: 
@@ -70,7 +70,7 @@ services:
       - ../ecowiki/wikiData:/data:rw
       - ../ecowiki/content:/content:rw
     ports: 
-      - "127.0.0.1:3000:3000"
+      - "3000:3000"
     links:
       - mongo
     depends_on: 
