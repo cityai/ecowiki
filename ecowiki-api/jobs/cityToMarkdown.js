@@ -167,6 +167,16 @@ class MarkdownTransform {
             city.overview = overview.trim();
             await City.updateOne({ name: city.name }, { $set: { overview: city.overview } }, { new: true });
         }
+        let status = "";
+        let indexState = data.indexOf("<div class=status>");
+        while(data[indexState]!=="</div>")
+        {
+            status+= data[indexState]+" ";
+        }
+        if(city.status !== status){
+            city.status = status.trim();
+            await City.updateOne({name:city.name},{$set:{status: city.status}},{new: true});
+        }
         return city;
     }
 
