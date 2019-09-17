@@ -172,6 +172,7 @@ class MarkdownTransform {
         while(data[indexState]!=="</div>")
         {
             status+= data[indexState]+" ";
+            indexState++;
         }
         if(city.status !== status){
             city.status = status.trim();
