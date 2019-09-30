@@ -49,9 +49,9 @@ block content
               li
                 a(href='/')
                   span= t('nav.root')
-              li
-                a(href='/all')
-                  span= t('nav.allpages')
+              //- li
+              //-   a(href='/all')
+              //-     span= t('nav.allpages')
               if pageData.parent
                 li
                   a(href='/' + pageData.parent.path)
@@ -78,9 +78,9 @@ block content
               li: a(href="/main/global-events") Global Events
               li: a(href="/main/organizations")= 'Initiatives' + ' & ' + 'Organizations'
               li: a(href="/main/startups") Emerging Startups
-              li: a(href="/main/news") Worldwide News
+              //- li: a(href="/main/news") Worldwide News
               li: a(href="/main/partners")= 'Partners' + ' & ' + 'Friends'
-              li: a(href="/main/media") Media References
+              //- li: a(href="/main/media") Media References
           .hr-line
           aside.sidebar-pagecontents
             .sidebar-label

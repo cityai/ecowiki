@@ -17,8 +17,8 @@ class MarkdownTransform {
         for (var i = 0; i < cities.length; i++) {
             var location = cities[i].name;
             await City.findOne({ name: location }).populate('startups').populate('organizations').populate('events')/*.populate('community')*/.exec().then(async city => {
-                const community = await Community.findById(city.community).populate("influencers").populate("groups").exec().then(community => { return community }).catch(err=>{return console.log(err)});
-                
+                const community = await Community.findById(city.community).populate("influencers").populate("groups").exec().then(community => { return community }).catch(err => { return console.log(err) });
+
                 //SORTING
                 if (community)
                     community.groups = _.sortBy(community.groups, "members").reverse();
@@ -52,7 +52,7 @@ class MarkdownTransform {
                         data = this.addMultipleLines(data, city, "organizations", 5, "<div class=organizations>", ["name", "category", "founder", "link", "descriptions"]);
                     if (community) {
                         data = this.addMultipleLines(data, community, "groups", 5, "<div class=groups>", ["name", "members", "category", "organizer", "description"]);
-                        data = this.addMultipleLines(data, community, "influencers", 5, "<div class=influencers>", ["name", "link"]);
+                        data = this.addMultipleLines(data, community, "influencers", 5, "<div class=influencers>", ["name", "link", "followers"]);
                     }
                     await fs.writeFile(filePath, "", async err => {
                         if (err) await fs.mkdir(dirPath, err => {
@@ -73,7 +73,7 @@ class MarkdownTransform {
 
                 })
 
-            }).catch(err=>{return console.log(err)})
+            }).catch(err => { return console.log(err) })
         }
     }
     addOneLine(data, document, docObj, setctionText) {
@@ -105,6 +105,10 @@ class MarkdownTransform {
                 switch (attributesArray[j]) {
                     case "name":
                         data.splice(index, 0, "#### " + document[docObj][i][attributesArray[j]]);
+                        index++;
+                        break;
+                    case "followers":
+                        data.splice(index, 0, "**Followers:** " + document[docObj][i][attributesArray[j]]);
                         index++;
                         break;
                     case "link":
@@ -169,14 +173,13 @@ class MarkdownTransform {
         }
         let status = "";
         let indexState = data.indexOf("<div class=status>");
-        while(data[indexState]!=="</div>")
-        {
-            status+= data[indexState]+" ";
+        while (data[indexState] !== "</div>") {
+            status += data[indexState] + " ";
             indexState++;
         }
-        if(city.status !== status){
+        if (city.status !== status) {
             city.status = status.trim();
-            await City.updateOne({name:city.name},{$set:{status: city.status}},{new: true});
+            await City.updateOne({ name: city.name }, { $set: { status: city.status } }, { new: true });
         }
         return city;
     }

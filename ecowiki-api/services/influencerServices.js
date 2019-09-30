@@ -40,6 +40,7 @@ class InfluencerServices{
                     link:'https://twitter.com/' + res.users[i].screen_name,
                     title:'a',
                     tags:[],
+                    followers: res.users[i].followers_count
                 });
                 await  influencer.save();
             };

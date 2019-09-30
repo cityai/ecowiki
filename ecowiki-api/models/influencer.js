@@ -26,6 +26,10 @@ var influencerSchema = mongoose.Schema({
     tags:{
         type: Array,
         required: true
+    },
+    followers:{
+        type: Number,
+        required: false
     }
 }, {timestamps: {} });
 
