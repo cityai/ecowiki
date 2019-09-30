@@ -11,30 +11,34 @@
     padding-bottom: 0;
   }
 
-  body, main, .hero {
-    background: #FFF;
+  body,
+  main,
+  .hero {
+    background: #fff;
     border: none;
   }
 
   .mkcontent {
-    color: mc('grey', '900');
+    color: mc("grey", "900");
 
-    h1, h2, h3 {
-      background: #FFF;
+    h1,
+    h2,
+    h3 {
+      background: #fff;
     }
     .toc-anchor {
       display: none;
     }
     pre {
-      background-color: #FFF;
+      background-color: #fff;
       border-left: none;
       padding-left: 20px;
 
       > code {
-        color: mc('grey', '800');
+        color: mc("grey", "800");
       }
     }
   }
 
-  @import 'node_modules/highlight.js/styles/atom-one-light';
+  @import "node_modules/highlight.js/styles/atom-one-light";
 }

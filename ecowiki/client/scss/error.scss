@@ -1,6 +1,6 @@
 @charset "utf-8";
 
-$primary: 'indigo';
+$primary: "indigo";
 
 @import "base/variables";
 @import "base/colors";
@@ -11,8 +11,8 @@ $primary: 'indigo';
 
 @import "libs/animate";
 
-@import 'components/button';
-@import 'components/grid';
-@import 'components/typography';
+@import "components/button";
+@import "components/grid";
+@import "components/typography";
 
-@import 'pages/error';
+@import "pages/error";

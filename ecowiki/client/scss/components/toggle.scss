@@ -14,42 +14,41 @@
     align-items: center;
     height: 24px;
     width: 50px;
-    background-color: mc('blue-grey', '200');
+    background-color: mc("blue-grey", "200");
     border-radius: 12px;
     padding: 2px;
-    transition: background-color .5s ease;
+    transition: background-color 0.5s ease;
   }
 
   &-pin {
     display: flex;
-    background-color: #FFF;
-    border-radius:10px;
+    background-color: #fff;
+    border-radius: 10px;
     height: 20px;
     width: 20px;
-    transition: all .5s ease;
+    transition: all 0.5s ease;
   }
 
   &-text {
     padding-left: 10px;
-    color: mc('grey', '700');
+    color: mc("grey", "700");
     font-size: 12px;
   }
 
   &:hover {
     .toggle-container {
-      background-color: mc('grey', '400');
+      background-color: mc("grey", "400");
     }
   }
 
   &.is-active {
     .toggle-container {
-      background-color: mc('indigo', '500');
+      background-color: mc("indigo", "500");
     }
     .toggle-pin {
       margin-left: 28px;
     }
   }
-
 }
 
 /* THEME OVERRIDE - START */
@@ -58,7 +57,7 @@
   .is-primary-#{$color} .toggle {
     &.is-active {
       .toggle-container {
-        background-color: mc($color, '500');
+        background-color: mc($color, "500");
       }
     }
   }

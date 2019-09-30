@@ -7,28 +7,24 @@
 // ========================================
 
 @font-face {
-  font-family: 'wiki-js';
-  src:
-    url('/fonts/wiki-js.woff2?1497824388') format('woff2'),
-    url('/fonts/wiki-js.woff?1497824388') format('woff');
+  font-family: "wiki-js";
+  src: url("/fonts/wiki-js.woff2?1497824388") format("woff2"), url("/fonts/wiki-js.woff?1497824388") format("woff");
   font-weight: normal;
   font-style: normal;
 }
 
-
-  /* barlow-regular - latin */
+/* barlow-regular - latin */
 @font-face {
-  font-family: 'Barlow';
+  font-family: "Barlow";
   font-style: normal;
   font-weight: 400;
-  src: url('../../fonts/Barlow-Black.woff') format('woff');
+  src: url("../../fonts/Barlow-Black.woff") format("woff");
 }
 
-
-
-[class^="icon-"], [class*=" icon-"] {
+[class^="icon-"],
+[class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'wiki-js' !important;
+  font-family: "wiki-js" !important;
   speak: none;
   font-style: normal;
   font-weight: normal;

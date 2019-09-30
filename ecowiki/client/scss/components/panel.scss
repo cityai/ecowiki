@@ -1,20 +1,18 @@
-
 .panel-aside {
-	background-color: mc('blue-grey', '800');
-	border: 1px solid mc('blue-grey', '800');
-	border-bottom-left-radius: 8px;
-	padding: 20px;
-	color: mc('blue-grey','100');
+  background-color: mc("blue-grey", "800");
+  border: 1px solid mc("blue-grey", "800");
+  border-bottom-left-radius: 8px;
+  padding: 20px;
+  color: mc("blue-grey", "100");
 
-	label {
-		color: #FFF;
-	}
-
+  label {
+    color: #fff;
+  }
 }
 
 .panel {
-  background-color: #FFF;
-  box-shadow: 0 0 12px 0 rgba(mc('grey','800'), .10), 1px 6px 8px 0 rgba(mc('grey','800'), .10);
+  background-color: #fff;
+  box-shadow: 0 0 12px 0 rgba(mc("grey", "800"), 0.1), 1px 6px 8px 0 rgba(mc("grey", "800"), 0.1);
   padding: 0 0 1px 0;
   border-radius: 4px;
 
@@ -32,14 +30,13 @@
     &.is-featured {
       border-top-left-radius: 4px;
       border-top-right-radius: 4px;
-      background-color: mc($primary, '400');
-      border-bottom-color: mc($primary, '500');
-      color: #FFF;
+      background-color: mc($primary, "400");
+      border-bottom-color: mc($primary, "500");
+      color: #fff;
 
       > i::before {
-        @include spinner(#FFF, 0.4s, 18px);
+        @include spinner(#fff, 0.4s, 18px);
       }
-
     }
 
     > span {
@@ -53,10 +50,9 @@
 
       &::before {
         content: " ";
-        @include spinner(mc($primary,'500'), 0.4s, 18px);
+        @include spinner(mc($primary, "500"), 0.4s, 18px);
       }
     }
-
   }
 
   .panel-content {
@@ -65,7 +61,8 @@
     &.is-text {
       padding: 25px;
 
-      p + p, p + h3 {
+      p + p,
+      p + h3 {
         margin-top: 25px;
       }
 
@@ -75,16 +72,14 @@
       }
 
       ul li {
-        color: mc('grey', '700');
+        color: mc("grey", "700");
       }
 
       strong {
         font-weight: 500;
-        color: mc($primary,'800');
+        color: mc($primary, "800");
       }
-
     }
-
   }
 
   .panel-footer {
@@ -102,11 +97,9 @@
     .button + .button {
       margin-left: 10px;
     }
-
   }
 
   + .panel {
     margin-top: 25px;
   }
-
 }

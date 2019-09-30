@@ -1,6 +1,6 @@
 .alert {
-  background-color: #FFF;
-  border-right: 3px solid mc('grey', '500');
+  background-color: #fff;
+  border-right: 3px solid mc("grey", "500");
   position: fixed;
   top: 60px;
   margin-left: 10px;
@@ -8,14 +8,14 @@
   max-width: 500px;
   z-index: 1000;
   display: flex;
-  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
-  animation-duration: .6s;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+  animation-duration: 0.6s;
 
   &-icon {
     width: 50px;
     height: 50px;
-    background-color: mc('grey', '500');
-    color: #FFF;
+    background-color: mc("grey", "500");
+    color: #fff;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -27,23 +27,21 @@
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    border-top: 1px solid mc('grey', '200');
+    border-top: 1px solid mc("grey", "200");
     font-size: 14px;
     font-weight: 500;
   }
 
   @each $color, $colorvalue in $material-colors {
-		&.is-#{$color} {
-			border-right-color: mc($color, '500');
+    &.is-#{$color} {
+      border-right-color: mc($color, "500");
 
       .alert-icon {
-        background-color: mc($color, '500');
+        background-color: mc($color, "500");
       }
       .alert-msg {
-        color: mc($color, '900');
+        color: mc($color, "900");
       }
-
-		}
-	}
-
+    }
+  }
 }

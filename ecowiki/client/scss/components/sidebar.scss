@@ -1,64 +1,62 @@
 @import "../base/variables.scss";
 
-
 .sidebar {
-	background-color: $sidebar-color-bg;
-	color: mc('blue-grey', '50');
-	width: 204px;
-	max-width: 204px;
-	min-height: calc(100vh - 120px);
+  background-color: $sidebar-color-bg;
+  color: mc("blue-grey", "50");
+  width: 204px;
+  max-width: 204px;
+  min-height: calc(100vh - 120px);
   transition: background-color 1s ease;
   //border-right: 1px solid black;
 
-	aside {
+  aside {
     padding: 1px 0 15px 0;
     background-color: $sidebar-color-bg;
-		&:last-child {
-			padding-bottom: 20px;
-		}
-		
-		.sidebar-label {
-			padding: 8px;
-			color: $sidebar-color-text-prim;
-			font-size: 11px;
-			letter-spacing: 1px;
-			text-transform: uppercase;
-			background-color: $sidebar-color-bg;
-			margin: 0 10px 15px 0;
-      		text-align: left;
-      		//box-shadow: 0 0 5px rgba(0,0,0,0.3);
-      		transition: background-color 1s ease;
-			@at-root h5{
-				font-size: 10px;
-				color: $sidebar-color-text-sec;
-			}
-			@at-root h5,h4{
-				margin-left: 5px;
-			}
-			@at-root h4{
-				font-size: 15px;
-				font-weight: bold;
-			}
-			i {
-				margin-right: 5px;
-			}
+    &:last-child {
+      padding-bottom: 20px;
+    }
 
-		}
+    .sidebar-label {
+      padding: 8px;
+      color: $sidebar-color-text-prim;
+      font-size: 11px;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      background-color: $sidebar-color-bg;
+      margin: 0 10px 15px 0;
+      text-align: left;
+      //box-shadow: 0 0 5px rgba(0,0,0,0.3);
+      transition: background-color 1s ease;
+      @at-root h5 {
+        font-size: 10px;
+        color: $sidebar-color-text-sec;
+      }
+      @at-root h5,
+        h4 {
+        margin-left: 5px;
+      }
+      @at-root h4 {
+        font-size: 15px;
+        font-weight: bold;
+      }
+      i {
+        margin-right: 5px;
+      }
+    }
 
-		.sidebar-menu {
+    .sidebar-menu {
+      li {
+        display: block;
 
-			li {
-				display: block;
-
-				a {
-					display: flex;
-					min-height: 30px;
-					align-items: center;
-					padding: 5px 20px;
-					color: $sidebar-color-text-prim;
-					font-size: 14px;
-					transition: all .4s ease;
-					line-height: 14px;
+        a {
+          display: flex;
+          min-height: 30px;
+          align-items: center;
+          padding: 5px 20px;
+          color: $sidebar-color-text-prim;
+          font-size: 14px;
+          transition: all 0.4s ease;
+          line-height: 14px;
           cursor: pointer;
 
           &.is-multiline {
@@ -66,60 +64,53 @@
           }
 
           &.is-active {
-            border-left: 5px solid mc('blue', '500');
-            color: mc('blue', '300');
+            border-left: 5px solid mc("blue", "500");
+            color: mc("blue", "300");
             padding-left: 15px;
 
             .is-small {
-              color: mc('blue', '500');
+              color: mc("blue", "500");
             }
-
           }
 
-					i {
-						margin-right: 7px;
-						color: mc('blue-grey', '300');
-					}
+          i {
+            margin-right: 7px;
+            color: mc("blue-grey", "300");
+          }
 
-					&:hover {
-						color: mc('blue-grey', '400');
-						text-decoration: none;
-					}
+          &:hover {
+            color: mc("blue-grey", "400");
+            text-decoration: none;
+          }
 
           .is-small {
             flex: 1 0 100%;
             display: block;
             font-size: 11px;
-            color: rgba(255,255,255,.5)
+            color: rgba(255, 255, 255, 0.5);
           }
+        }
 
-				}
+        > ul {
+          // border-top: 1px solid lighten(mc('blue-grey', '900'), 3%);
+          // border-bottom: 1px solid lighten(mc('blue-grey', '900'), 2%);
+          // background-color: darken(mc('blue-grey', '900'), 2%);
+          // margin-bottom: 10px;
+          // padding: 10px 0;
 
-				> ul {
-					// border-top: 1px solid lighten(mc('blue-grey', '900'), 3%);
-					// border-bottom: 1px solid lighten(mc('blue-grey', '900'), 2%);
-					// background-color: darken(mc('blue-grey', '900'), 2%);
-					// margin-bottom: 10px;
-					// padding: 10px 0;
+          li {
+            padding-left: 10px;
+            //border-left: 5px solid mc('blue-grey', '800');
 
-					li {
-						padding-left: 10px;
-						//border-left: 5px solid mc('blue-grey', '800');
-
-						a {
-							min-height: 24px;
-							color: $sidebar-color-text-prim;
-						}
-
-					}
-
-				}
-
-			}
-
-		}
-
-	}
+            a {
+              min-height: 24px;
+              color: $sidebar-color-text-prim;
+            }
+          }
+        }
+      }
+    }
+  }
 
   &.is-collapsed {
     width: 50px;
@@ -132,7 +123,7 @@
         i {
           margin: 0;
           font-size: 20px;
-          transition: color .6s ease;
+          transition: color 0.6s ease;
         }
 
         span {
@@ -141,15 +132,12 @@
 
         &:hover {
           i {
-            color: #FFF;
+            color: #fff;
           }
         }
       }
-
     }
-
   }
-
 }
 
 /* THEME OVERRIDE - START */

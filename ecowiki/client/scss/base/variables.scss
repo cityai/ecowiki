@@ -2,8 +2,8 @@
 // FONTS
 // --------------------------------------
 
-
-$core-font-standard: 'Barlow',-apple-system, BlinkMacSystemFont,Roboto, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$core-font-standard: "Barlow", -apple-system, BlinkMacSystemFont, Roboto, "Segoe UI", Helvetica, Arial, sans-serif,
+  "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 $core-font-monospace: Consolas, "Liberation Mono", Menlo, Courier, monospace;
 
 // --------------------------------------
@@ -18,57 +18,58 @@ $widescreen: 1180px !default;
 // COLORS
 // --------------------------------------
 
-$color-text: mc('grey', '800');
-$color-link: mc('blue', '500');
-$color-link-hover: mc('blue', '700');
-$color-link-active: mc('purple', '500');
-$color-bg: #F4F5F9;
-$hr-line-color: mc('grey','900');
+$color-text: mc("grey", "800");
+$color-link: mc("blue", "500");
+$color-link-hover: mc("blue", "700");
+$color-link-active: mc("purple", "500");
+$color-bg: #f4f5f9;
+$hr-line-color: mc("grey", "900");
 
 $bg-primary: #fff;
 $bg-secondary: #dcdcdc;
 //FOOTER VARS
 
-$footer-color-bg: mc('grey','200');
-$footer-color-text:mc('grey','800');
+$footer-color-bg: mc("grey", "200");
+$footer-color-text: mc("grey", "800");
 
 // HERO VARS
 
-$hero-color-text: mc('grey','900');
-$hero-color-h2: #C80000;
-$hero-border-color: mc('grey','600');
+$hero-color-text: mc("grey", "900");
+$hero-color-h2: #c80000;
+$hero-border-color: mc("grey", "600");
 
 // HEADER VARS
 
-$header-bg: mc('grey','200');
-$header-color-text:mc('grey','900');
+$header-bg: mc("grey", "200");
+$header-color-text: mc("grey", "900");
 
 //SIDEBAR VARS
 
 $sidebar-color-bg: $bg-primary;
-$sidebar-color-text-prim: mc('grey','900');
-$sidebar-color-text-sec: mc('grey','600');
+$sidebar-color-text-prim: mc("grey", "900");
+$sidebar-color-text-sec: mc("grey", "600");
 
 //CONTENT VARS
 
-$content-color-text:mc('grey','900');
-$content-color-h2: #C80000;
-$content-color-a-hover: mc('grey','600');
+$content-color-text: mc("grey", "900");
+$content-color-h2: #c80000;
+$content-color-a-hover: mc("grey", "600");
 
 //MODAL VARS
 
-$modal-color-bg: #C80000;
+$modal-color-bg: #c80000;
 
 //SEARCH BAR VARS:
 
-$search-color-placeholder:mc('grey','900');
+$search-color-placeholder: mc("grey", "900");
 $search-color-bg: black;
-$search-color-border: mc('grey','900');
-$search-color-border-focus: mc('grey','900');
-$search-color-text: mc('grey','900');
+$search-color-border: mc("grey", "900");
+$search-color-border-focus: mc("grey", "900");
+$search-color-text: mc("grey", "900");
+$search-light-border: #aaa;
 
 //BUTTON VARS
-$button-color-bg: #C80000;
+$button-color-bg: #c80000;
 $button-color-bg-hover: #6e6e6e;
 $button-color: #fff;
-$button-color-hover:#dcdcdc;
+$button-color-hover: #dcdcdc;

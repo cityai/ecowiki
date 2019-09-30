@@ -1,6 +1,6 @@
 @charset "utf-8";
 
-$primary: 'indigo';
+$primary: "indigo";
 
 @import "base/variables";
 @import "base/colors";
@@ -10,4 +10,4 @@ $primary: 'indigo';
 @import "base/base";
 
 @import "libs/animate";
-@import 'pages/login';
+@import "pages/login";
