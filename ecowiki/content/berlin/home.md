@@ -61,60 +61,66 @@ Tech
 
 #### Pierre Garreau
 Link: [https://twitter.com/pierre_garreau](https://twitter.com/pierre_garreau)
+**Number of followers:** 81
 
 #### Caspian Robotics
 Link: [https://twitter.com/CaspianRobotics](https://twitter.com/CaspianRobotics)
+**Number of followers:** 46
 
 #### Fabian Westerheide
 Link: [https://twitter.com/bootstrappingme](https://twitter.com/bootstrappingme)
+**Number of followers:** 2499
 
 #### Christoph Auer-Welsbach
 Link: [https://twitter.com/AWChristoph](https://twitter.com/AWChristoph)
+**Number of followers:** 2582
 
 #### Luc Dudler
 Link: [https://twitter.com/lucdudler](https://twitter.com/lucdudler)
+**Number of followers:** 557
 
 
 </div>
 
+[See all influencers](./community)
 # Events
 ### Upcoming this month
 <div class=events>
 
-#### Women+ In Developer Circle: How to build a career into tech
-##### Thu Sep 12 2019
+#### The Secret Sharer & Detecting Learning vs Memorization
+##### Wed Oct 02 2019
 Berlin
-**Organizer:** Facebook Developer Circles Berlin
-**Description:** To RSVP please follow that link: https://womenindevelopercircleberlin.splashthat.com Women In Developer Circle Berlin is a serie of events from the Fa...
-Link: [https://www.meetup.com/Developer-Circles/events/264663855/](https://www.meetup.com/Developer-Circles/events/264663855/)
+**Organizer:** Merantix AI Paper Discussion Group
+**Description:** This time we will discuss: The Secret Sharer: Evaluating and Testing Unintended Memorization in Neural Networkshttps://www.usenix.org/conference/useni...
+Link: [https://www.meetup.com/Merantix-AI-Paper-Discussion-Group/events/264313064/](https://www.meetup.com/Merantix-AI-Paper-Discussion-Group/events/264313064/)
 
-#### ML/DS Research Lightning Talks
-##### Thu Sep 12 2019
+#### Computer Vision Workshop
+##### Fri Oct 04 2019
 Berlin
-**Organizer:** Berlin Women in Machine Learning & Data Science
-**Description:** Join us for our first autumn event! This time, we will introduce five amazing women+ researchers, each of whom will give us a glimpse into their respe...
-Link: [https://www.meetup.com/Berlin-Women-in-Machine-Learning-and-Data-Science/events/264182760/](https://www.meetup.com/Berlin-Women-in-Machine-Learning-and-Data-Science/events/264182760/)
+**Organizer:** Berlin Computer Vision Group
+**Description:** We will continue working with image classifiers using FastAI and PyTorch. We will also work on the Kaggle challenge "Understanding Clouds from Satelli...
+Link: [https://www.meetup.com/Berlin-Computer-Vision-Group/events/265046069/](https://www.meetup.com/Berlin-Computer-Vision-Group/events/265046069/)
 
-#### Ethical Design
-##### Thu Sep 12 2019
+#### RPA Robotic Process Automation Developers Berlin @ Signavio
+##### Mon Oct 07 2019
 Berlin
-**Organizer:** Towards & Beyond - Imagining Digital Futures
-**Description:** We've seen the harm caused by unethical practices in software development, whether it's Google cashing in on pedophiles , Volkswagen cheating on emiss...
-Link: [https://www.meetup.com/Towards-and-Beyond-Imagining-Digital-Futures/events/264428140/](https://www.meetup.com/Towards-and-Beyond-Imagining-Digital-Futures/events/264428140/)
+**Organizer:** RPA Robotic Process Automation Developers Berlin
+**Description:** Agenda: · Welcome (Thomas Mönkemeier, Henny Selig) - 10 min · The answer is: BPM and RPA – Gerd Plewka und Michael Hagen (Blue Prism) - 45 min · Scala...
+Link: [https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/264690610/](https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/264690610/)
 
-#### Design Thinking Coaches #24: Designing Artificial Intelligence
-##### Mon Sep 16 2019
+#### Hyperparameter Optimization Libraries; xAI: Explanations and Opportunities
+##### Mon Oct 07 2019
 Berlin
-**Organizer:** Design Thinking Coaches | Berlin
-**Description:** Artificial Intelligence based on machine learning is everywhere. AI solutions are becoming our assistants, help us to get insights out of big data, pr...
-Link: [https://www.meetup.com/DesignThinkingCoaches-Berlin/events/264585610/](https://www.meetup.com/DesignThinkingCoaches-Berlin/events/264585610/)
+**Organizer:** Berlin Machine Learning Group
+**Description:** Talk 1: Hyperparameter Optimization in Python (40 min + 10 min Q&amp;A)Speaker: Jakub Czakon Abstract: Hyperparameter optimization (HPO) is quickly be...
+Link: [https://www.meetup.com/berlin-machine-learning/events/256401038/](https://www.meetup.com/berlin-machine-learning/events/256401038/)
 
-#### Artificial Intelligence - Understanding the opportunities and consequences.
-##### Tue Sep 17 2019
+#### AI for Autonomous Mobility 
+##### Tue Oct 08 2019
 Berlin
-**Organizer:** Digital Skills Training Community
-**Description:** *German description below*Together with Freeformers, DigiForge now offers a free introduction into AI: In this free, fun, fast-paced, interactive Work...
-Link: [https://www.meetup.com/digital-skills-tc/events/264368733/](https://www.meetup.com/digital-skills-tc/events/264368733/)
+**Organizer:** Autonomous Mobility Berlin
+**Description:** The AI for Autonomous Mobility meetup is a monthly event by DEEP BERLIN with the purpose of openly gathering people interested and intrigued by autono...
+Link: [https://www.meetup.com/autonomous-mobility-berlin/events/lxzpjryznblb/](https://www.meetup.com/autonomous-mobility-berlin/events/lxzpjryznblb/)
 
 
 </div>

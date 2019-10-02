@@ -9,8 +9,6 @@
 # Overview
 <div class=overview>
 
-THIS IS LA PAZ AI OVERBIEW TEST THAT WILL BE STORED IN DATABASE!!!
-
 </div>
 
 # Status
@@ -46,6 +44,7 @@ Tech
 
 </div>
 
+[See all influencers](./community)
 # Events
 ### Upcoming this month
 <div class=events>

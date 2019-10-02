@@ -27,10 +27,25 @@ class MarkdownTransform {
                 console.log(__dirname, process.cwd());
                 const filePath = path.join(process.cwd(), "content", location.toLowerCase().replace(/ /g, "-"), "home.md");
                 const dirPath = path.join(process.cwd(), "content", location.toLowerCase().replace(/ /g, "-"));
-                const templatePath = "./data/cityTemplate.md"
-                //THIS IS USED AS TEMPLATE PATH IN DEVELOPMENT ENVIORMENT
-                //path.join(__dirname, "..", "..", "ecowiki", "content", "cityTemplate.md");
+                const templatePath = "./data/cityTemplate.md";
+                const CommunityTemplate = "./data/communitiesTemplate.md";
 
+                await fs.readFile(CommunityTemplate,async (err,data)=>{
+                    if(err) return console.log(err);
+                    data = data.toString().split("\n");
+                    if (community) {
+                        data = this.addMultipleLines(data, community, "groups", community.groups.length, "<div class=groups>", ["name", "members", "category", "organizer", "description"]);
+                        data = this.addMultipleLines(data, community, "influencers", community.influencers.length, "<div class=influencers>", ["name", "link", "followers"]);
+                    }
+                    await fs.writeFile(dirPath + "/community.md", "", async err => {
+                        if(err) return console.log(err);
+                        for (let i = 0; i < data.length; i++)
+                            fs.appendFileSync(dirPath + "/community.md", data[i] + "\n");
+                        console.log("Groups and influencers are converted into markdown!")
+                        
+                    })
+                })
+                
                 await fs.readFile(filePath, async (err, data) => {
                     if (err) return console.log(err);
                     data = data.toString().split("\n");
@@ -108,7 +123,7 @@ class MarkdownTransform {
                         index++;
                         break;
                     case "followers":
-                        data.splice(index, 0, "**Followers:** " + document[docObj][i][attributesArray[j]]);
+                        data.splice(index, 0, "**Number of followers:** " + document[docObj][i][attributesArray[j]]);
                         index++;
                         break;
                     case "link":

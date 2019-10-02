@@ -29,6 +29,7 @@
 
 </div>
 
+[See all influencers](./community)
 # Events
 ### Upcoming this month
 <div class=events>

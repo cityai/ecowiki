@@ -9,7 +9,7 @@ router.get("/",cityController.getCities)
 
 router.post('/:location', cityController.createCity)
 router.patch('/:location', cityController.updateCity)
-router.delete(':id',cityController.deleteCity)
+router.delete('/:id',cityController.deleteCity)
 //----------------------------------TESTING
 //router.get("/:location",cityController.TOMARKDOWN);
 
