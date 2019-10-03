@@ -29,6 +29,7 @@ class MarkdownTransform {
                 const dirPath = path.join(process.cwd(), "content", location.toLowerCase().replace(/ /g, "-"));
                 const templatePath = "./data/cityTemplate.md";
                 const CommunityTemplate = "./data/communitiesTemplate.md";
+                const eventsTemplate = "./data/global-eventsTemplate.md"
 
                 await fs.readFile(CommunityTemplate,async (err,data)=>{
                     if(err) return console.log(err);
@@ -42,6 +43,20 @@ class MarkdownTransform {
                         for (let i = 0; i < data.length; i++)
                             fs.appendFileSync(dirPath + "/community.md", data[i] + "\n");
                         console.log("Groups and influencers are converted into markdown!")
+                        
+                    })
+                })
+
+                await fs.readFile(eventsTemplate,async (err,data)=>{
+                    if(err) return console.log(err);
+                    data = data.toString().split("\n");
+                    if (city.events)
+                        data = this.addMultipleLines(data, city, "events", city.events.length, "<div class=events>", ["name", "date", "location", "organizer", "description", "link"])
+                    await fs.writeFile(dirPath + "/events.md", "", async err => {
+                        if(err) return console.log(err);
+                        for (let i = 0; i < data.length; i++)
+                            fs.appendFileSync(dirPath + "/events.md", data[i] + "\n");
+                        console.log("Events are converted into markdown!")
                         
                     })
                 })

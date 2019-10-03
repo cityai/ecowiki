@@ -33,13 +33,14 @@
 		font-size: 40px;
 		color: $content-color-text;
 		border-bottom: 1px solid black;
-		//margin: 0 0 21px 0;
 		width: 300px;
+		margin-bottom: 80px;
 
-		padding-bottom: 57px;
+		padding-bottom: 32px;
 		padding-top: 64px;
 		&:first-child {
 			margin-top: 1px;
+			margin-bottom: 36px;
 		}
 		
 		/*& + h2 {
@@ -129,7 +130,7 @@
 	a {
 		text-decoration: none;
 		font-weight: 500;
-		color: $content-color-text;
+		color: $content-color-a;
 		// display: flex;
 		// flex-direction: row;
 		&:hover {
@@ -553,7 +554,10 @@
 //--------------------------------------------INFLUENCERS SECTION
 	.influencers{
 		font-size: 16px;
-  	}
+	}
+	.influencers a.internal-link{
+		color:#C80000;
+	}  
   	.influencers h4{
 	  	margin:0;
 	  	padding-left:20px;
@@ -575,5 +579,11 @@
   	}
   	.influencers a{
 		color:#C80000;
-  	}
+	}
+
+//---------------------------------------------STATUS SECTION
+	.status p {
+    	letter-spacing: 0.5px;
+    	font-size: 16px;
+	}
 }

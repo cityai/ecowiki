@@ -1,5 +1,6 @@
 const Influencer = require('../models/influencer');
-const City = require('../models/city')
+const City = require('../models/city');
+const Group = require('../models/group');
 const Startup = require('../models/startup');
 const Event = require('../models/event');
 const Organization = require('../models/organization');
@@ -16,6 +17,7 @@ module.exports =async function(){
     let cities = await City.aggregate([{'$project':{"_id":0,"cityLink":"$name"}}]);
     let influencers = await Influencer.find({});
     let organizations = await Organization.find({});
+    let groups = await Group.find({});
 
     const filePath = path.join(process.cwd(),"content", "home.md");
     const dirPath = path.join(process.cwd(), "content","main");
@@ -32,11 +34,18 @@ module.exports =async function(){
         data = data.toString().split("\n");
         console.log(cities)
         console.log(data.indexOf("### A - Z"))
+        let statusStory = "\nAt WikiAI you can check " + cities.length + " active ecosystems, and you can find everything related to AI." +
+        " You can check out " + events.length + " AI related events in which you can participate. If you want to get in contact with global AI community" +
+        ", you can find " + influencers.length + " AI influencers and " + groups.length + " community groups. Also, see the work and get information" + 
+        " about " + startups.length + " startups that create interesting projects using AI";
+        let statusIndex = data.indexOf("<div class=status>") + 1;
+        data.splice(statusIndex,0,statusStory);
+
         data = MarkdownConvertor.addMultipleLinesFromArray(data,startups,5,"<div class=startups>",["name","categories","investment","description","link"]);
         data = MarkdownConvertor.addMultipleLinesFromArray(data,influencers,5,"<div class=influencers>", ["name", "link"]);
         data = MarkdownConvertor.addMultipleLinesFromArray(data,events,5,"<div class=events>", ["name", "date", "location", "organizer", "description", "link"]);
         data = MarkdownConvertor.addMultipleLinesFromArray(data,organizations,5,"<div class=organizations>", ["name"]);
-        data = MarkdownConvertor.addMultipleLinesFromArray(data,cities,cities.length,'### A - Z',["cityLink"]);
+        data = MarkdownConvertor.addMultipleLinesFromArray(data,cities,cities.length,'# AI ecosystems',["cityLink"]);
         await fs.writeFile(filePath, "", async err => {
             if (err) await fs.mkdir(dirPath, err => {
                 if (err) return console.log(err);

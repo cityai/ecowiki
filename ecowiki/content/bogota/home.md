@@ -11,7 +11,7 @@
 
 </div>
 
-# Status
+# About
 <div class=status>
 
 </div>
@@ -64,7 +64,6 @@ Tech
 
 [See all influencers](./community)
 # Events
-### Upcoming this month
 <div class=events>
 
 #### AIHub # 9 Inteligencia Artificial
@@ -77,15 +76,14 @@ Link: [https://www.meetup.com/ai_hub/events/264560563/](https://www.meetup.com/a
 
 </div>
 
+[See all events](./events)
 # Organizations
-### Most active
 <div class=organizations>
 
 
 </div>
 
 # Startups
-### Top succesful companies
 <div class=startups>
 
 

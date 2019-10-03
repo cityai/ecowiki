@@ -612,47 +612,47 @@ Tech
 
 #### Pierre Garreau
 Link: [https://twitter.com/pierre_garreau](https://twitter.com/pierre_garreau)
-**Number of followers:** 81
+**Number of followers:** undefined
 
 #### Caspian Robotics
 Link: [https://twitter.com/CaspianRobotics](https://twitter.com/CaspianRobotics)
-**Number of followers:** 46
+**Number of followers:** undefined
 
 #### Fabian Westerheide
 Link: [https://twitter.com/bootstrappingme](https://twitter.com/bootstrappingme)
-**Number of followers:** 2499
+**Number of followers:** undefined
 
 #### Christoph Auer-Welsbach
 Link: [https://twitter.com/AWChristoph](https://twitter.com/AWChristoph)
-**Number of followers:** 2582
+**Number of followers:** undefined
 
 #### Luc Dudler
 Link: [https://twitter.com/lucdudler](https://twitter.com/lucdudler)
-**Number of followers:** 557
+**Number of followers:** undefined
 
 #### Frederik Eichelbaum
 Link: [https://twitter.com/eichelbaum](https://twitter.com/eichelbaum)
-**Number of followers:** 118
+**Number of followers:** undefined
 
 #### Jorge Davila-Chacon
 Link: [https://twitter.com/jorgedch](https://twitter.com/jorgedch)
-**Number of followers:** 68
+**Number of followers:** undefined
 
 #### Manuel Koelman
 Link: [https://twitter.com/manuelkoelman](https://twitter.com/manuelkoelman)
-**Number of followers:** 2851
+**Number of followers:** undefined
 
 #### Ralf Herbrich
 Link: [https://twitter.com/rherbrich](https://twitter.com/rherbrich)
-**Number of followers:** 2746
+**Number of followers:** undefined
 
 #### appughar
 Link: [https://twitter.com/appughar](https://twitter.com/appughar)
-**Number of followers:** 373
+**Number of followers:** undefined
 
 #### Ramzi Rizk
 Link: [https://twitter.com/ramz](https://twitter.com/ramz)
-**Number of followers:** 3748
+**Number of followers:** undefined
 
 
 </div>

@@ -4,13 +4,14 @@
 <p>City.AI ambassadors are likeminded people all around the world working on setting up a wiki to map the AI ecosystems on a city level. This will include activities, organizations, startups and people playing an active role either designing, developing or applying AI. Ambassadors and local stakeholders will play a key role curating this information, while the entire AI community will be able to contribute to it. This wiki will be open and accessible by everyone, to help AI practitioners to guide them through the local AI ecosystems, provide insights into the development of the AI community globally, and foster cross-boarder collaboration pushing our mission of enabling the diverse and responsible development and application of Artificial Intelligence further.
 </p>
 
-# Status & Progress
+# About
 <div class=status>
+
+At WikiAI you can check 5 active ecosystems, and you can find everything related to AI. You can check out 103 AI related events in which you can participate. If you want to get in contact with global AI community, you can find 22 AI influencers and 221 community groups. Also, see the work and get information about 205 startups that create interesting projects using AI
 
 </div>
 
 # AI ecosystems
-### A - Z
 
 
 
@@ -24,8 +25,8 @@
 [Beirut](/beirut/home)
 
 
+
 # Events
-### Upcoming
 <div class=events>
 
 #### RPA Robotic Process Automation Developers Berlin @ Signavio
@@ -67,7 +68,6 @@ Link: [https://www.meetup.com/grakn-berlin/events/264558051/](https://www.meetup
 </div>
 
 # Community
-## Influencers
 <div class=influencers>
 
 #### Pierre Garreau
@@ -91,14 +91,12 @@ Link: [https://twitter.com/lucdudler](https://twitter.com/lucdudler)
 [See all influencers](/main/communities)
 
 # Organizations
-### Most active
 <div class=organizations>
 
 
 </div>
 
 # Newest Startups
-### Top succesful companies
 <div class=startups>
 
 #### Ada Health

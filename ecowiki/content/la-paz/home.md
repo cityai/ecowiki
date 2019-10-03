@@ -11,7 +11,7 @@
 
 </div>
 
-# Status
+# About
 <div class=status>
 
 </div>
@@ -64,16 +64,10 @@ Tech
 
 [See all influencers](./community)
 # Events
-### Upcoming this month
 <div class=events>
 
-<<<<<<< Updated upstream
-#### Dev Fest XIX La Paz
-##### Fri Nov 08 2019
-La Paz
-**Organizer:** GDG La Paz
-**Description:** El Google Developer Fest es un evento tecnológico organizado por los Google Developer Groups GDG, que se realiza en más de 614 ciudades alrededor del ...
-=======
+
+
 #### Algoritmia Study Jam [Session 2]
 ##### Sat Oct 05 2019
 La Paz
@@ -86,21 +80,19 @@ Link: [https://www.meetup.com/GDG-La-Paz/events/265239602/](https://www.meetup.c
 La Paz
 **Organizer:** GDG La Paz
 **Description:** El DevFest es el evento más grande que realizamos cada año donde se centra en la construcción de la comunidad y en el aprendizaje de las nuevas tecnol...
->>>>>>> Stashed changes
 Link: [https://www.meetup.com/GDG-La-Paz/events/262642062/](https://www.meetup.com/GDG-La-Paz/events/262642062/)
 
 
 </div>
 
+[See all events](./events)
 # Organizations
-### Most active
 <div class=organizations>
 
 
 </div>
 
 # Startups
-### Top succesful companies
 <div class=startups>
 
 

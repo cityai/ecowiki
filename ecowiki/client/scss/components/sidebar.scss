@@ -56,7 +56,7 @@
 					align-items: center;
 					padding: 5px 20px;
 					color: $sidebar-color-text-prim;
-					font-size: 14px;
+					font-size: 16px;
 					transition: all .4s ease;
 					line-height: 14px;
           cursor: pointer;
@@ -128,7 +128,7 @@
       .sidebar-menu li a {
         padding: 10px 0;
         justify-content: center;
-
+		font-size: 16px;
         i {
           margin: 0;
           font-size: 20px;

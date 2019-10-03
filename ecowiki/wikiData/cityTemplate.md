@@ -10,7 +10,7 @@
 
 </div>
 
-# Status
+# About
 <div class=status>
 
 </div>
@@ -31,19 +31,17 @@
 
 [See all influencers](./community)
 # Events
-### Upcoming this month
 <div class=events>
 
 </div>
 
+[See all events](./events)
 # Organizations
-### Most active
 <div class=organizations>
 
 </div>
 
 # Startups
-### Top succesful companies
 <div class=startups>
 
 
