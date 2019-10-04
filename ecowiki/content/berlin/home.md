@@ -24,51 +24,31 @@
 <div class=groups>
 
 #### Berlin Machine Learning Group
-<<<<<<< Updated upstream
-**Number of members:** 8231
-=======
 **Number of members:** 8312
->>>>>>> Stashed changes
 Tech
 **Organizer:** Trent McConaghy
 **Description:** A meetup for academics, professionals and hobbyists interested in applications and latest developments in Machine Learning, and AI more broadly. We ta...
 
 #### Big Data Developers in Berlin
-<<<<<<< Updated upstream
-**Number of members:** 3858
-=======
 **Number of members:** 3879
->>>>>>> Stashed changes
 Tech
 **Organizer:** Nancy Berlin
 **Description:** This is an IBM sponsored Big Data meetup group. Geared towards developers, data scientists and ALL Big Data enthusiasts, our meetups provide an opport...
 
 #### Berlin Artificial Intelligence & Deep Learning
-<<<<<<< Updated upstream
-**Number of members:** 2564
-=======
 **Number of members:** 2593
->>>>>>> Stashed changes
 Tech
 **Organizer:** Ian Gomez
 **Description:** We’re excited to bring you the latest happenings in AI, Machine Learning, Deep Learning, Data Science and Big Data.  Who are we? We’re H2O.ai (https:/...
 
 #### meetup.ai [Berlin]
-<<<<<<< Updated upstream
-**Number of members:** 2550
-=======
 **Number of members:** 2553
->>>>>>> Stashed changes
 Tech
 **Organizer:** Rico Meinl
 **Description:**  http://meetupai.com/&nbsp; •&nbsp;Witness AI in Action We believe in creating an open and transparent conversation about Artificial Intelligence. We ...
 
 #### FilmTech Meetup Berlin
-<<<<<<< Updated upstream
-**Number of members:** 2460
-=======
 **Number of members:** 2471
->>>>>>> Stashed changes
 Tech
 **Organizer:** Erwin M. Schmidt
 **Description:** The FilmTech Meetup Berlin is a monthly speaker and networking event with the aim to explore the touch-points between the film, storytelling and techn...
