@@ -132,5 +132,7 @@ Link: [https://i2x.ai/](https://i2x.ai/)
 
 </div>
 
+# Partners & Friends
+
 
 

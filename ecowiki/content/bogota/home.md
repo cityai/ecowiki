@@ -66,13 +66,6 @@ Tech
 # Events
 <div class=events>
 
-#### AIHub # 9 Inteligencia Artificial
-##### Thu Sep 12 2019
-Bogota
-**Organizer:** AI Hub
-**Description:** Ven y conoce lo más avanzado y lo más aplicable hoy en inteligencia artificial en el mundo. Expertos de India, Sillicon Valley y Colombia en Inteligen...
-Link: [https://www.meetup.com/ai_hub/events/264560563/](https://www.meetup.com/ai_hub/events/264560563/)
-
 
 </div>
 

@@ -11,7 +11,7 @@
 
 </div>
 
-# Status
+# About
 <div class=status>
 
 </div>
@@ -24,38 +24,19 @@
 <div class=groups>
 
 #### Silicon Roundabout
-<<<<<<< Updated upstream
-**Number of members:** 14470
-=======
 **Number of members:** 14504
->>>>>>> Stashed changes
 Tech
 **Organizer:** Luis Carranza
 **Description:** Silicon Roundabout is the biggest tech meetup in London. It’s the ideal place for tech entrepreneurs, developers, and professionals in London to meet,...
 
 #### PyData London Meetup
-<<<<<<< Updated upstream
-**Number of members:** 10074
-=======
 **Number of members:** 10243
->>>>>>> Stashed changes
 Tech
 **Organizer:** PyData/NumFOCUS
 **Description:** PyData is an educational program of NumFOCUS, a 501(c)3 non-profit organization in the United States. PyData provides a forum for the international co...
 
-<<<<<<< Updated upstream
-#### Data Science London
-**Number of members:** 9298
-Tech
-**Organizer:** Carlos
-**Description:** Data Science London - We're the largest #datascience community in Europe We are&nbsp;a community of data scientists, machine learning geeks and data h...
-
-#### London Artificial Intelligence & Deep Learning
-**Number of members:** 9125
-=======
 #### London Artificial Intelligence & Deep Learning
 **Number of members:** 9382
->>>>>>> Stashed changes
 Tech
 **Organizer:** Ian Gomez
 **Description:** We’re excited to bring you the latest happenings in AI, Machine Learning, Deep Learning, Data Science and Big Data.  Who are we? We’re H2O.ai (https:/...
@@ -80,30 +61,24 @@ Tech
 
 #### Herman Narula
 Link: [https://twitter.com/HermanNarula](https://twitter.com/HermanNarula)
-**Number of followers:** 3270
 
 #### Mustafa Suleyman
 Link: [https://twitter.com/mustafasuleymn](https://twitter.com/mustafasuleymn)
-**Number of followers:** 43694
 
 #### Demis Hassabis
 Link: [https://twitter.com/demishassabis](https://twitter.com/demishassabis)
-**Number of followers:** 171842
 
 #### Ferenc Huszár🇪🇺
 Link: [https://twitter.com/fhuszar](https://twitter.com/fhuszar)
-**Number of followers:** 20960
 
 #### Nathan Benaich
 Link: [https://twitter.com/NathanBenaich](https://twitter.com/NathanBenaich)
-**Number of followers:** 23899
 
 
 </div>
 
 [See all influencers](./community)
 # Events
-### Upcoming this month
 <div class=events>
 
 #### The World According to Jordan Peterson
@@ -144,15 +119,14 @@ Link: [https://www.meetup.com/AI-JavaScript-London/events/264991348/](https://ww
 
 </div>
 
+[See all events](./events)
 # Organizations
-### Most active
 <div class=organizations>
 
 
 </div>
 
 # Startups
-### Top succesful companies
 <div class=startups>
 
 #### Hero Labs

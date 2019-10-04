@@ -612,47 +612,47 @@ Tech
 
 #### Herman Narula
 Link: [https://twitter.com/HermanNarula](https://twitter.com/HermanNarula)
-**Number of followers:** 3270
+**Number of followers:** undefined
 
 #### Mustafa Suleyman
 Link: [https://twitter.com/mustafasuleymn](https://twitter.com/mustafasuleymn)
-**Number of followers:** 43694
+**Number of followers:** undefined
 
 #### Demis Hassabis
 Link: [https://twitter.com/demishassabis](https://twitter.com/demishassabis)
-**Number of followers:** 171842
+**Number of followers:** undefined
 
 #### Ferenc Huszár🇪🇺
 Link: [https://twitter.com/fhuszar](https://twitter.com/fhuszar)
-**Number of followers:** 20960
+**Number of followers:** undefined
 
 #### Nathan Benaich
 Link: [https://twitter.com/NathanBenaich](https://twitter.com/NathanBenaich)
-**Number of followers:** 23899
+**Number of followers:** undefined
 
 #### Jamie Qiu
 Link: [https://twitter.com/jamieqiu](https://twitter.com/jamieqiu)
-**Number of followers:** 431
+**Number of followers:** undefined
 
 #### Shane Legg
 Link: [https://twitter.com/ShaneLegg](https://twitter.com/ShaneLegg)
-**Number of followers:** 38184
+**Number of followers:** undefined
 
 #### Ankur Modi
 Link: [https://twitter.com/ankurmodi](https://twitter.com/ankurmodi)
-**Number of followers:** 3067
+**Number of followers:** undefined
 
 #### James Duez
 Link: [https://twitter.com/jamesduez](https://twitter.com/jamesduez)
-**Number of followers:** 1684
+**Number of followers:** undefined
 
 #### Rodolfo Rosini ☕️✨
 Link: [https://twitter.com/rodolfor](https://twitter.com/rodolfor)
-**Number of followers:** 4312
+**Number of followers:** undefined
 
 #### Alex Housley
 Link: [https://twitter.com/ahousley](https://twitter.com/ahousley)
-**Number of followers:** 2574
+**Number of followers:** undefined
 
 
 </div>

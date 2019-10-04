@@ -66,8 +66,6 @@ Tech
 # Events
 <div class=events>
 
-
-
 #### Algoritmia Study Jam [Session 2]
 ##### Sat Oct 05 2019
 La Paz
