@@ -5,31 +5,31 @@
 <div class=groups>
 
 #### Machine Learning & Data Science | Bogotá
-**Number of members:** 5966
+**Number of members:** 5971
 Tech
 **Organizer:** Colombia.AI
 **Description:** Este Meetup es una comunidad de interesados en los temas de Data Science, Machine Learning, Inteligencia Artificial y Big Data en Colombia. Realizamos...
 
 #### AI Hub
-**Number of members:** 1611
+**Number of members:** 1617
 Tech
 **Organizer:** Jean Phillip Bernier
 **Description:** AI Hub es una nueva comunidad enfocada en inteligencia artificial desde varias perspectivas, busca integrar la visión, conocimiento, necesidades y opo...
 
 #### Data Science & AI Lab | Bogotá
-**Number of members:** 1571
+**Number of members:** 1572
 Tech
 **Organizer:** Panda Lab
 **Description:** Colombia se está posicionando en el mundo como un centro de innovación por el talento que está sembrando y su ubicación geográfica estratégica. El Dat...
 
 #### Bogotá Artificial Intelligence and Deep Learning
-**Number of members:** 417
+**Number of members:** 426
 Tech
 **Organizer:** Ian Gomez
 **Description:** We’re excited to bring you the latest happenings in AI, Machine Learning, Deep Learning, Data Science and Big Data. Who are we? We’re H2O.ai (https://...
 
 #### Neurons.AI (Colombia - Bogota)
-**Number of members:** 385
+**Number of members:** 386
 Tech
 **Organizer:** Neurons Meetups
 **Description:** Profesionales en tecnología de Latinoamerica, con experiencia en las diferentes líneas de conocimiento de Inteligencia Artificial ( ML, DL, Data Scien...
@@ -41,13 +41,13 @@ Tech
 **Description:** Te aburre estudiar sola o solo. No sabes con qué empezar. Quieres conectarte con gente que tenga tu misma curiosidad. Quieres volver a estudiar. Te gu...
 
 #### RPA+AI – Bogotá
-**Number of members:** 223
+**Number of members:** 224
 Tech
 **Organizer:** Investigacion PersonalSoft
 **Description:** La comunidad RPA+AI de Personalsoft quiere reunir a todos aquellos que comparten nuestra misión: "Cambiar la forma en que las organizaciones trabajan"...
 
 #### Divergentes Bogota D.C.
-**Number of members:** 213
+**Number of members:** 216
 Tech
 **Organizer:** Oscar Ruiz 
 **Description:** Divergentes, Hackers, Emprendedores, Empresarios, Amantes de la Tecnología y de la Naturaleza. Abrí este grupo para conocer a otras personas con los c...
@@ -65,7 +65,7 @@ Tech
 **Description:** Apasionado por los robots y la inteligencia artificial como una herramienta al servicio de los seres humanos ?... Te gusta construir robots y quieres ...
 
 #### Meetup de Chatbots Bogotá
-**Number of members:** 120
+**Number of members:** 121
 Tech
 **Organizer:** Carolina Ledesma
 **Description:** Espacio dedicado al aprendizaje de las herramientas existentes en el mercado relacionadas con asistentes virtuales, resolver dudas y compartir aprendi...

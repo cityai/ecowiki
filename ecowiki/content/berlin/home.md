@@ -24,24 +24,37 @@
 <div class=groups>
 
 #### Berlin Machine Learning Group
+<<<<<<< Updated upstream
 **Number of members:** 8312
+=======
+**Number of members:** 8318
+>>>>>>> Stashed changes
 Tech
 **Organizer:** Trent McConaghy
 **Description:** A meetup for academics, professionals and hobbyists interested in applications and latest developments in Machine Learning, and AI more broadly. We ta...
 
 #### Big Data Developers in Berlin
+<<<<<<< Updated upstream
 **Number of members:** 3879
+=======
+**Number of members:** 3882
+>>>>>>> Stashed changes
 Tech
 **Organizer:** Nancy Berlin
 **Description:** This is an IBM sponsored Big Data meetup group. Geared towards developers, data scientists and ALL Big Data enthusiasts, our meetups provide an opport...
 
 #### Berlin Artificial Intelligence & Deep Learning
+<<<<<<< Updated upstream
 **Number of members:** 2593
+=======
+**Number of members:** 2596
+>>>>>>> Stashed changes
 Tech
 **Organizer:** Ian Gomez
 **Description:** We’re excited to bring you the latest happenings in AI, Machine Learning, Deep Learning, Data Science and Big Data.  Who are we? We’re H2O.ai (https:/...
 
 #### meetup.ai [Berlin]
+<<<<<<< Updated upstream
 **Number of members:** 2553
 Tech
 **Organizer:** Rico Meinl
@@ -54,25 +67,39 @@ Tech
 **Description:** The FilmTech Meetup Berlin is a monthly speaker and networking event with the aim to explore the touch-points between the film, storytelling and techn...
 
 
+=======
+**Number of members:** 2554
+Tech
+**Organizer:** Rico Meinl
+**Description:**  http://meetupai.com/&nbsp; •&nbsp;Witness AI in Action We believe in creating an open and transparent conversation about Artificial Intelligence. We ...
+
+#### FilmTech Meetup Berlin
+**Number of members:** 2471
+Tech
+**Organizer:** Erwin M. Schmidt
+**Description:** The FilmTech Meetup Berlin is a monthly speaker and networking event with the aim to explore the touch-points between the film, storytelling and techn...
+
+
+>>>>>>> Stashed changes
 </div>
 
 ## Influencers
 <div class=influencers>
 
-#### Pierre Garreau
-Link: [https://twitter.com/pierre_garreau](https://twitter.com/pierre_garreau)
+[Pierre Garreau](https://twitter.com/pierre_garreau)
+**Number of followers:** undefined
 
-#### Caspian Robotics
-Link: [https://twitter.com/CaspianRobotics](https://twitter.com/CaspianRobotics)
+[Caspian Robotics](https://twitter.com/CaspianRobotics)
+**Number of followers:** undefined
 
-#### Fabian Westerheide
-Link: [https://twitter.com/bootstrappingme](https://twitter.com/bootstrappingme)
+[Fabian Westerheide](https://twitter.com/bootstrappingme)
+**Number of followers:** undefined
 
-#### Christoph Auer-Welsbach
-Link: [https://twitter.com/AWChristoph](https://twitter.com/AWChristoph)
+[Christoph Auer-Welsbach](https://twitter.com/AWChristoph)
+**Number of followers:** undefined
 
-#### Luc Dudler
-Link: [https://twitter.com/lucdudler](https://twitter.com/lucdudler)
+[Luc Dudler](https://twitter.com/lucdudler)
+**Number of followers:** undefined
 
 
 </div>
@@ -80,13 +107,6 @@ Link: [https://twitter.com/lucdudler](https://twitter.com/lucdudler)
 [See all influencers](./community)
 # Events
 <div class=events>
-
-#### The Secret Sharer & Detecting Learning vs Memorization
-##### Wed Oct 02 2019
-Berlin
-**Organizer:** Merantix AI Paper Discussion Group
-**Description:** This time we will discuss: The Secret Sharer: Evaluating and Testing Unintended Memorization in Neural Networkshttps://www.usenix.org/conference/useni...
-Link: [https://www.meetup.com/Merantix-AI-Paper-Discussion-Group/events/264313064/](https://www.meetup.com/Merantix-AI-Paper-Discussion-Group/events/264313064/)
 
 #### Computer Vision Workshop
 ##### Fri Oct 04 2019
@@ -116,6 +136,13 @@ Berlin
 **Description:** The AI for Autonomous Mobility meetup is a monthly event by DEEP BERLIN with the purpose of openly gathering people interested and intrigued by autono...
 Link: [https://www.meetup.com/autonomous-mobility-berlin/events/lxzpjryznblb/](https://www.meetup.com/autonomous-mobility-berlin/events/lxzpjryznblb/)
 
+#### Robocars Build and Race
+##### Wed Oct 09 2019
+Berlin
+**Organizer:** Autonomous Mobility Berlin
+**Description:** Time to go back to the roots. This series of Meetup is all about building, breaking and racing the robots. No powerpoint, no promotions, just the hard...
+Link: [https://www.meetup.com/autonomous-mobility-berlin/events/264820788/](https://www.meetup.com/autonomous-mobility-berlin/events/264820788/)
+
 
 </div>
 
@@ -137,7 +164,11 @@ Link: [https://ada.com/](https://ada.com/)
 
 #### omni:us
 Machine Learning, Computer Vision, Artificial Intelligence, Information Technology
+<<<<<<< Updated upstream
 **Investment in USD:** 29,352,853
+=======
+**Investment in USD:** 31,106,221
+>>>>>>> Stashed changes
 **Description:** omni:us is an Artificial Intelligence as a Service (AIaaS) provider for cognitive claims management. Built on a fully data-driven approach, omni:us is...
 Link: [http://omnius.com/](http://omnius.com/)
 

@@ -4,41 +4,6 @@
 # Events
 <div class=events>
 
-#### The World According to Jordan Peterson
-##### Wed Oct 02 2019
-London
-**Organizer:** Jordan Peterson Discussion Group
-**Description:** The aim of this meetup group is to discuss the big issues of the moment in an atmosphere of open inquiry and commitment to truth. We will discuss some...
-Link: [https://www.meetup.com/meetup-group-imLpPNkF/events/sdlbgryznbdb/](https://www.meetup.com/meetup-group-imLpPNkF/events/sdlbgryznbdb/)
-
-#### Analytics Network Autumn Event
-##### Thu Oct 03 2019
-London
-**Organizer:** Analytics Network
-**Description:** Please register to this event also using the Eventbrite link:http://bit.ly/AnalyticsNetworkAutumnEvent The Analytics Network, part of the Operational ...
-Link: [https://www.meetup.com/AnalyticsNetwork/events/264411422/](https://www.meetup.com/AnalyticsNetwork/events/264411422/)
-
-#### AI & The Future of Business
-##### Thu Oct 03 2019
-London
-**Organizer:** UCL Artificial Intelligence Society
-**Description:** AI, Ethics &amp; Our Future - a talk about how the rapid development of AI can be managed ethically. We are proud to announce that this talk will be g...
-Link: [https://www.meetup.com/UCL-Artificial-Intelligence-Society/events/265309899/](https://www.meetup.com/UCL-Artificial-Intelligence-Society/events/265309899/)
-
-#### ML Paper Club @ Google Campus with nPlan
-##### Thu Oct 03 2019
-London
-**Organizer:** ML Paper Club @ Google Campus with nPlan
-**Description:** IMPORTANT! Due to space limitations we will limit attendance to those who sign up for the meetup. If you are not coming, please remove your RSVP so th...
-Link: [https://www.meetup.com/ML-Paper-Club/events/vxjxhryznbfb/](https://www.meetup.com/ML-Paper-Club/events/vxjxhryznbfb/)
-
-#### Deep Learning with JavaScript
-##### Thu Oct 03 2019
-London
-**Organizer:** AI JavaScript London
-**Description:** Our next event will showcase two speakers covering some great topics around AI and JavaScript. Location TBC! 6.15pm Doors, pizza, drinks7pm Oliver Zie...
-Link: [https://www.meetup.com/AI-JavaScript-London/events/264991348/](https://www.meetup.com/AI-JavaScript-London/events/264991348/)
-
 #### Strong Safe Artificial Intelligence.
 ##### Fri Oct 04 2019
 London
@@ -46,19 +11,19 @@ London
 **Description:** No description provided...
 Link: [https://www.meetup.com/AI-peer-group/events/pzpcwpyznbgb/](https://www.meetup.com/AI-peer-group/events/pzpcwpyznbgb/)
 
-#### Meetup #8: The potential of going "viral" - Spreading information online
-##### Tue Oct 08 2019
-London
-**Organizer:** West London Ethical Technology Meetup
-**Description:** For the past decade or so, humanity has a new tool available that might be one of the first true equalizers. Viral information spread. Literally anybo...
-Link: [https://www.meetup.com/West-London-Ethical-Technology-Meetup/events/265114201/](https://www.meetup.com/West-London-Ethical-Technology-Meetup/events/265114201/)
-
 #### AI for Good Community Meetup
 ##### Tue Oct 08 2019
 London
 **Organizer:** AI for Good
 **Description:** Regular Tuesday Meetups from the AI for Good Community First time here? Check out our project list to see what is currently happening in the community...
 Link: [https://www.meetup.com/meetup-group-pzvZdizC/events/265371004/](https://www.meetup.com/meetup-group-pzvZdizC/events/265371004/)
+
+#### Meetup #8: The potential of going "viral" - Spreading information online
+##### Tue Oct 08 2019
+London
+**Organizer:** West London Ethical Technology Meetup
+**Description:** For the past decade or so, humanity has a new tool available that might be one of the first true equalizers. Viral information spread. Literally anybo...
+Link: [https://www.meetup.com/West-London-Ethical-Technology-Meetup/events/265114201/](https://www.meetup.com/West-London-Ethical-Technology-Meetup/events/265114201/)
 
 #### BBC Machine Learning Fireside Chats Presents: The AdTech Apocalypse
 ##### Wed Oct 09 2019
@@ -74,12 +39,12 @@ London
 **Description:** Come and learn OpenShift in this hands-on session which will focus on the developer experience of using Kubernetes with OpenShift. You will learn how ...
 Link: [https://www.meetup.com/IBM-Code-London/events/264950128/](https://www.meetup.com/IBM-Code-London/events/264950128/)
 
-#### Improving productivity of project controls by 50% using advanced data analytics
+#### The World According to Jordan Peterson
 ##### Wed Oct 09 2019
 London
-**Organizer:** London Project Data Analytics Meetup
-**Description:** Definition: “Project Controls are the data gathering, data management and analytical processes used to predict, understand and constructively influenc...
-Link: [https://www.meetup.com/London-Project-Data-and-Analytics-meetup/events/263256724/](https://www.meetup.com/London-Project-Data-and-Analytics-meetup/events/263256724/)
+**Organizer:** Jordan Peterson Discussion Group
+**Description:** The aim of this meetup group is to discuss the big issues of the moment in an atmosphere of open inquiry and commitment to truth. We will discuss some...
+Link: [https://www.meetup.com/meetup-group-imLpPNkF/events/sdlbgryznbmb/](https://www.meetup.com/meetup-group-imLpPNkF/events/sdlbgryznbmb/)
 
 #### Hands-on Data Science Workshop + Best Practices for Collaboration 
 ##### Thu Oct 10 2019
@@ -95,11 +60,18 @@ London
 **Description:** A Meetup for companies &amp; developers to explore what RPA / AI can do for your business. Guest speakers from JifJaff, UiPath &amp; client that's usi...
 Link: [https://www.meetup.com/London-RPA-Robotic-process-automation-and-AI-Meetup/events/264779318/](https://www.meetup.com/London-RPA-Robotic-process-automation-and-AI-Meetup/events/264779318/)
 
+#### ML Paper Club @ Google Campus with nPlan
+##### Thu Oct 10 2019
+London
+**Organizer:** ML Paper Club @ Google Campus with nPlan
+**Description:** IMPORTANT! Due to space limitations we will limit attendance to those who sign up for the meetup. If you are not coming, please remove your RSVP so th...
+Link: [https://www.meetup.com/ML-Paper-Club/events/vxjxhryznbnb/](https://www.meetup.com/ML-Paper-Club/events/vxjxhryznbnb/)
+
 #### Make Artificial Intelligence more powerful with Power BI
 ##### Fri Oct 11 2019
 London
 **Organizer:** Microsoft Reactor London
-**Description:** PLEASE NOTE: RSVPing TO THIS PAGE WILL NOT REGISTER YOU FOR THIS EVENT. &gt;&gt;&gt; REGISTER HERE: https://www.microsoftevents.com/profile/form/index...
+**Description:** What is this session about? In this workshop, attendees will learn how AI can benefit and transform their business by developing an AI strategy, and l...
 Link: [https://www.meetup.com/Microsoft-Reactor-London/events/265097615/](https://www.meetup.com/Microsoft-Reactor-London/events/265097615/)
 
 #### Machine Learning and Deep Learning Training [First Free Session]
@@ -151,19 +123,19 @@ London
 **Description:** Bring your own laptop with some programming tool available. R Studio and python 3/anaconda are typical choices. Please keep in mind that M&amp;G has n...
 Link: [https://www.meetup.com/Data-Science-for-Finance-Coding-Dojo/events/dvznhryznbtb/](https://www.meetup.com/Data-Science-for-Finance-Coding-Dojo/events/dvznhryznbtb/)
 
-#### Hack the Cloud // Orbis Connect & GDG Cloud London
-##### Tue Oct 15 2019
-London
-**Organizer:** Orbis Connect
-**Description:** ⚡ Orbis Connect and GDG Cloud London welcome you to HACK THE CLOUD ⚡ We're inviting developers interested in GCP to our mini hack challenge. The first...
-Link: [https://www.meetup.com/OrbisConnect/events/264617259/](https://www.meetup.com/OrbisConnect/events/264617259/)
-
 #### Cloud and Open Source workshop day @ Think London
 ##### Wed Oct 16 2019
 London
 **Organizer:** IBM Code London
 **Description:** TL;DR - We will be hosting the below hands-on workshops at THINK Summit London, on Wednesday 16th October at Olympia London.Please register here if yo...
 Link: [https://www.meetup.com/IBM-Code-London/events/264746099/](https://www.meetup.com/IBM-Code-London/events/264746099/)
+
+#### Cloud and Open Source workshops @ Think London Developer Zone
+##### Wed Oct 16 2019
+London
+**Organizer:** Big Data Developers in London
+**Description:** Think Summit, IBM's showcase event for visionaries, forward thinkers and industry experts, returns to London this year with something new for Coders. ...
+Link: [https://www.meetup.com/Big-Data-Developers-in-London/events/265371722/](https://www.meetup.com/Big-Data-Developers-in-London/events/265371722/)
 
 #### BML Presents - Pie & AI London - A Conversation with Dr. Andrew Ng
 ##### Thu Oct 17 2019
@@ -232,7 +204,7 @@ Link: [https://www.meetup.com/Red-Sprite/events/264219757/](https://www.meetup.c
 ##### Wed Oct 23 2019
 London
 **Organizer:** BBC Machine Learning Fireside Chats
-**Description:** This time we are teaming up with Mozfest (https://www.mozillafestival.org/en/) to bring you a special BBC Machine Learning Fireside Chat from the RSA....
+**Description:** **IMPORTANT NOTICE PLEASE READ**Please register and download your tickets for this event here:(https://ti.to/bbc-ml-fireside/too-dangerous-to-ship) RS...
 Link: [https://www.meetup.com/Machine-learning-Fireside-Talks/events/264152677/](https://www.meetup.com/Machine-learning-Fireside-Talks/events/264152677/)
 
 #### Networking Drinks
@@ -277,13 +249,6 @@ London
 **Description:** What does freedom mean to you? Having the freedom to travel when you feel like it, to choose the people you spend time with or to do the things that y...
 Link: [https://www.meetup.com/LondonBusinessStrategy/events/265212603/](https://www.meetup.com/LondonBusinessStrategy/events/265212603/)
 
-#### Conversion copywriting: Writing words for sales, signups and clicks
-##### Wed Oct 30 2019
-London
-**Organizer:** Outreach Digital | The Marketing, Analytics, UX & Tech Club
-**Description:** Join us to explore the art and science behind conversion copywriting – writing words to get your audience to take action. The talk will be led by Stev...
-Link: [https://www.meetup.com/Digital/events/264817561/](https://www.meetup.com/Digital/events/264817561/)
-
 #### Meetup #9: Book discussion: Atwood's The Testament
 ##### Tue Nov 05 2019
 London
@@ -319,19 +284,19 @@ London
 **Description:** Dear Makers, We will be hosting our November meetup in conjunction with Big Data LDN conference ( https://bigdataldn.com/) again this year. Please not...
 Link: [https://www.meetup.com/London-Artificial-Intelligence-Deep-Learning/events/264782555/](https://www.meetup.com/London-Artificial-Intelligence-Deep-Learning/events/264782555/)
 
-#### Beating the Odds & Benchmarking for Data Analytics
-##### Wed Nov 13 2019
-London
-**Organizer:** London Project Data Analytics Meetup
-**Description:** BENCHMARKING AND DATA ANALYTICS FOR IMPROVED PROJECT PERFORMANCE Tim will introduce the subject of Benchmarking and illustrate with professional and p...
-Link: [https://www.meetup.com/London-Project-Data-and-Analytics-meetup/events/263218404/](https://www.meetup.com/London-Project-Data-and-Analytics-meetup/events/263218404/)
-
 #### OpenShift, Kubernetes, & MiniShift Workshop
 ##### Wed Nov 13 2019
 London
 **Organizer:** IBM Cloud - London
 **Description:** When building an open source enterprise solution on the cloud, there is a lot to consider before you get started. Will your solution scale? How resili...
 Link: [https://www.meetup.com/IBM-Cloud-London/events/265210460/](https://www.meetup.com/IBM-Cloud-London/events/265210460/)
+
+#### Beating the Odds & Benchmarking for Data Analytics
+##### Wed Nov 13 2019
+London
+**Organizer:** London Project Data Analytics Meetup
+**Description:** BENCHMARKING AND DATA ANALYTICS FOR IMPROVED PROJECT PERFORMANCE Tim will introduce the subject of Benchmarking and illustrate with professional and p...
+Link: [https://www.meetup.com/London-Project-Data-and-Analytics-meetup/events/263218404/](https://www.meetup.com/London-Project-Data-and-Analytics-meetup/events/263218404/)
 
 #### Women Leading in AI - 2019 Conference
 ##### Mon Nov 18 2019

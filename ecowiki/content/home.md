@@ -7,7 +7,7 @@
 # About
 <div class=status>
 
-At WikiAI you can check 5 active ecosystems, and you can find everything related to AI. You can check out 103 AI related events in which you can participate. If you want to get in contact with global AI community, you can find 22 AI influencers and 221 community groups. Also, see the work and get information about 205 startups that create interesting projects using AI
+At WikiAI you can check <strong>5</strong> active ecosystems, and you can find everything related to AI. You can check out <strong>105</strong> AI related events in which you can participate. If you want to get in contact with global AI community, you can find <strong>22</strong> AI influencers and <strong>221</strong> community groups. Also, see the work and get information about <strong>216</strong> startups that create interesting projects using AI
 
 </div>
 

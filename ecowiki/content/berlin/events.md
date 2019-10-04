@@ -4,13 +4,6 @@
 # Events
 <div class=events>
 
-#### The Secret Sharer & Detecting Learning vs Memorization
-##### Wed Oct 02 2019
-Berlin
-**Organizer:** Merantix AI Paper Discussion Group
-**Description:** This time we will discuss: The Secret Sharer: Evaluating and Testing Unintended Memorization in Neural Networkshttps://www.usenix.org/conference/useni...
-Link: [https://www.meetup.com/Merantix-AI-Paper-Discussion-Group/events/264313064/](https://www.meetup.com/Merantix-AI-Paper-Discussion-Group/events/264313064/)
-
 #### Computer Vision Workshop
 ##### Fri Oct 04 2019
 Berlin
@@ -81,6 +74,13 @@ Berlin
 **Description:** DataTalks by mayato: Talk|Drinks|Snacks|Networking Am 16. Oktober 2019 setzen wir unsere erfolgreiche After-Work-Serie #mayatoTalksData in Berlin fort...
 Link: [https://www.meetup.com/DataTalks-by-mayato/events/265144880/](https://www.meetup.com/DataTalks-by-mayato/events/265144880/)
 
+#### Webinar: Opening The Black Box - Interpretability In Deep Learning
+##### Wed Oct 16 2019
+Berlin
+**Organizer:** ODSC Berlin Data Science
+**Description:** Soon is our ODSC Europe 2019 and we want to invite you to participate in the FREE ODSC Webinar Warm-Up! Date: October 16Time: 11 am - 12 pm BSTTo acce...
+Link: [https://www.meetup.com/Berlin-Data-Science-ODSC/events/265376453/](https://www.meetup.com/Berlin-Data-Science-ODSC/events/265376453/)
+
 #### October Meetup @ Scaling Spaces H:32
 ##### Wed Oct 16 2019
 Berlin
@@ -106,7 +106,7 @@ Link: [https://www.meetup.com/Future-of-Typography/events/265086410/](https://ww
 ##### Thu Oct 17 2019
 Berlin
 **Organizer:** AI in Action Berlin
-**Description:** More information to be added.Host and Sponsor: HomeToGo ...
+**Description:** Hi Everyone! And welcome to the 13th AI in Action Meetup of the year! I am delighted to have HomeToGo as our host and sponsors for this event and ever...
 Link: [https://www.meetup.com/AI-in-Action-Berlin/events/264721891/](https://www.meetup.com/AI-in-Action-Berlin/events/264721891/)
 
 #### Product Strategies to Prevent Fraud

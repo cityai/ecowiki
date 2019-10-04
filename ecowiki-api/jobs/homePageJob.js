@@ -34,15 +34,15 @@ module.exports =async function(){
         data = data.toString().split("\n");
         console.log(cities)
         console.log(data.indexOf("### A - Z"))
-        let statusStory = "\nAt WikiAI you can check " + cities.length + " active ecosystems, and you can find everything related to AI." +
-        " You can check out " + events.length + " AI related events in which you can participate. If you want to get in contact with global AI community" +
-        ", you can find " + influencers.length + " AI influencers and " + groups.length + " community groups. Also, see the work and get information" + 
-        " about " + startups.length + " startups that create interesting projects using AI";
+        let statusStory = "\nAt WikiAI you can check <strong>" + cities.length + "</strong> active ecosystems, and you can find everything related to AI." +
+        " You can check out <strong>" + events.length + "</strong> AI related events in which you can participate. If you want to get in contact with global AI community" +
+        ", you can find <strong>" + influencers.length + "</strong> AI influencers and <strong>" + groups.length + "</strong> community groups. Also, see the work and get information" + 
+        " about <strong>" + startups.length + "</strong> startups that create interesting projects using AI";
         let statusIndex = data.indexOf("<div class=status>") + 1;
         data.splice(statusIndex,0,statusStory);
 
         data = MarkdownConvertor.addMultipleLinesFromArray(data,startups,5,"<div class=startups>",["name","categories","investment","description","link"]);
-        data = MarkdownConvertor.addMultipleLinesFromArray(data,influencers,5,"<div class=influencers>", ["name", "link"]);
+        data = MarkdownConvertor.addMultipleLinesFromArray(data,influencers,5,"<div class=influencers>", ["name", "followers"]);
         data = MarkdownConvertor.addMultipleLinesFromArray(data,events,5,"<div class=events>", ["name", "date", "location", "organizer", "description", "link"]);
         data = MarkdownConvertor.addMultipleLinesFromArray(data,organizations,5,"<div class=organizations>", ["name"]);
         data = MarkdownConvertor.addMultipleLinesFromArray(data,cities,cities.length,'# AI ecosystems',["cityLink"]);

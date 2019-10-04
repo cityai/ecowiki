@@ -82,7 +82,12 @@ class MarkdownTransform {
                         data = this.addMultipleLines(data, city, "organizations", 5, "<div class=organizations>", ["name", "category", "founder", "link", "descriptions"]);
                     if (community) {
                         data = this.addMultipleLines(data, community, "groups", 5, "<div class=groups>", ["name", "members", "category", "organizer", "description"]);
+<<<<<<< Updated upstream
                         data = this.addMultipleLines(data, community, "influencers", 5, "<div class=influencers>", ["name", "link", "followers"]);
+=======
+                        data = this.addMultipleLines(data, community, "influencers", 5, "<div class=influencers>", ["name", "followers"]);
+                        
+>>>>>>> Stashed changes
                     }
                     await fs.writeFile(filePath, "", async err => {
                         if (err) await fs.mkdir(dirPath, err => {
@@ -134,8 +139,16 @@ class MarkdownTransform {
 
                 switch (attributesArray[j]) {
                     case "name":
-                        data.splice(index, 0, "#### " + document[docObj][i][attributesArray[j]]);
-                        index++;
+                        if(docObj === "influencers")
+                        {    
+                            data.splice(index,0,"[" + document[docObj][i][attributesArray[j]] + "](" + document[docObj][i]["link"] + ")");
+                            index++;
+                        }
+                        else
+                        {
+                            data.splice(index, 0, "#### " + document[docObj][i][attributesArray[j]]);
+                            index++;
+                        }
                         break;
                     case "followers":
                         data.splice(index, 0, "**Number of followers:** " + document[docObj][i][attributesArray[j]]);

@@ -1,6 +1,6 @@
 
 
-class MarkdownConvertor{
+class MarkdownConvertor {
     addMultipleLinesFromArray(data, document, n, setctionText, attributesArray) {
         // data = data.toString().split("\n");
         let documentName = document
@@ -8,8 +8,8 @@ class MarkdownConvertor{
         index++;
         data.splice(index, 0, "");
         index++;
-        if(n>document.length)
-            n=document.length;
+        if (n > document.length)
+            n = document.length;
         for (let i = 0; i < n; i++) {
             //There is no data for particular part of the city (e.g no news yet, no organizations...)
             if (document.length < 1) continue;
@@ -18,9 +18,15 @@ class MarkdownConvertor{
 
                 switch (attributesArray[j]) {
                     case "name":
-                        
-                        data.splice(index, 0, "#### " + document[i][attributesArray[j]]);
-                        index++;
+                        if (docObj === "influencers") {
+                            data.splice(index, 0, "[" + document[docObj][i][attributesArray[j]] + "](" + document[docObj][i]["link"] + ")");
+                            index++;
+                        }
+                        else {
+                            data.splice(index, 0, "#### " + document[docObj][i][attributesArray[j]]);
+                            index++;
+                        }
+                        break;
                         break;
                     case "link":
                         data.splice(index, 0, "Link: [" + document[i][attributesArray[j]] + "](" + document[i][attributesArray[j]] + ")");
@@ -55,8 +61,8 @@ class MarkdownConvertor{
                         index++;
                         break;
                     case "cityLink":
-                        data.splice(index, 0, "[" + document[i][attributesArray[j]] + "](/" + document[i][attributesArray[j]].toString().toLowerCase().replace(/ /g,"-") + "/home)");
-                        
+                        data.splice(index, 0, "[" + document[i][attributesArray[j]] + "](/" + document[i][attributesArray[j]].toString().toLowerCase().replace(/ /g, "-") + "/home)");
+
                         break;
                     default:
                         data.splice(index, 0, document[i][attributesArray[j]]);
