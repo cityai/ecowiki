@@ -82,12 +82,8 @@ class MarkdownTransform {
                         data = this.addMultipleLines(data, city, "organizations", 5, "<div class=organizations>", ["name", "category", "founder", "link", "descriptions"]);
                     if (community) {
                         data = this.addMultipleLines(data, community, "groups", 5, "<div class=groups>", ["name", "members", "category", "organizer", "description"]);
-<<<<<<< Updated upstream
-                        data = this.addMultipleLines(data, community, "influencers", 5, "<div class=influencers>", ["name", "link", "followers"]);
-=======
                         data = this.addMultipleLines(data, community, "influencers", 5, "<div class=influencers>", ["name", "followers"]);
                         
->>>>>>> Stashed changes
                     }
                     await fs.writeFile(filePath, "", async err => {
                         if (err) await fs.mkdir(dirPath, err => {
