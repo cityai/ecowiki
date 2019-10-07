@@ -24,31 +24,31 @@
 <div class=groups>
 
 #### Silicon Roundabout
-**Number of members:** 14504
+**Number of members:** 14511
 Tech
 **Organizer:** Luis Carranza
 **Description:** Silicon Roundabout is the biggest tech meetup in London. It’s the ideal place for tech entrepreneurs, developers, and professionals in London to meet,...
 
 #### PyData London Meetup
-**Number of members:** 10243
+**Number of members:** 10261
 Tech
 **Organizer:** PyData/NumFOCUS
 **Description:** PyData is an educational program of NumFOCUS, a 501(c)3 non-profit organization in the United States. PyData provides a forum for the international co...
 
 #### London Artificial Intelligence & Deep Learning
-**Number of members:** 9382
+**Number of members:** 9466
 Tech
 **Organizer:** Ian Gomez
 **Description:** We’re excited to bring you the latest happenings in AI, Machine Learning, Deep Learning, Data Science and Big Data.  Who are we? We’re H2O.ai (https:/...
 
 #### Data Science London
-**Number of members:** 9348
+**Number of members:** 9353
 Tech
 **Organizer:** Carlos
 **Description:** Data Science London - We're the largest #datascience community in Europe We are&nbsp;a community of data scientists, machine learning geeks and data h...
 
 #### London Futurists
-**Number of members:** 7891
+**Number of members:** 7888
 Tech
 **Organizer:** David Wood
 **Description:** This group is for people who are interested in the future and maybe want to help shape it. The acceleration of technology means that the near future m...
@@ -59,20 +59,20 @@ Tech
 ## Influencers
 <div class=influencers>
 
-#### Herman Narula
-Link: [https://twitter.com/HermanNarula](https://twitter.com/HermanNarula)
+[Herman Narula](https://twitter.com/HermanNarula)
+**Number of followers:** undefined
 
-#### Mustafa Suleyman
-Link: [https://twitter.com/mustafasuleymn](https://twitter.com/mustafasuleymn)
+[Mustafa Suleyman](https://twitter.com/mustafasuleymn)
+**Number of followers:** undefined
 
-#### Demis Hassabis
-Link: [https://twitter.com/demishassabis](https://twitter.com/demishassabis)
+[Demis Hassabis](https://twitter.com/demishassabis)
+**Number of followers:** undefined
 
-#### Ferenc Huszár🇪🇺
-Link: [https://twitter.com/fhuszar](https://twitter.com/fhuszar)
+[Ferenc Huszár🇪🇺](https://twitter.com/fhuszar)
+**Number of followers:** undefined
 
-#### Nathan Benaich
-Link: [https://twitter.com/NathanBenaich](https://twitter.com/NathanBenaich)
+[Nathan Benaich](https://twitter.com/NathanBenaich)
+**Number of followers:** undefined
 
 
 </div>
@@ -81,40 +81,40 @@ Link: [https://twitter.com/NathanBenaich](https://twitter.com/NathanBenaich)
 # Events
 <div class=events>
 
-#### The World According to Jordan Peterson
-##### Wed Oct 02 2019
+#### powerBI.ai 3/5 ; powerBI.ai with Python & Azure Notebooks
+##### Mon Oct 07 2019
 London
-**Organizer:** Jordan Peterson Discussion Group
-**Description:** The aim of this meetup group is to discuss the big issues of the moment in an atmosphere of open inquiry and commitment to truth. We will discuss some...
-Link: [https://www.meetup.com/meetup-group-imLpPNkF/events/sdlbgryznbdb/](https://www.meetup.com/meetup-group-imLpPNkF/events/sdlbgryznbdb/)
+**Organizer:** Power BI Data Scientist & Artificial Intelligence Solutions
+**Description:** By invite only to members of the Q3'19 powerbi.ai course.Lesson 3 of 5 powerbi.ai is dedicated to using Python across the Power BI ecosystem using Azu...
+Link: [https://www.meetup.com/Power-BI-Data-Scientist-Artificial-Intelligence-Solutions/events/265452665/](https://www.meetup.com/Power-BI-Data-Scientist-Artificial-Intelligence-Solutions/events/265452665/)
 
-#### Analytics Network Autumn Event
-##### Thu Oct 03 2019
+#### AI for Good Community Meetup
+##### Tue Oct 08 2019
 London
-**Organizer:** Analytics Network
-**Description:** Please register to this event also using the Eventbrite link:http://bit.ly/AnalyticsNetworkAutumnEvent The Analytics Network, part of the Operational ...
-Link: [https://www.meetup.com/AnalyticsNetwork/events/264411422/](https://www.meetup.com/AnalyticsNetwork/events/264411422/)
+**Organizer:** AI for Good
+**Description:** Regular Tuesday Meetups from the AI for Good Community First time here? Check out our project list to see what is currently happening in the community...
+Link: [https://www.meetup.com/meetup-group-pzvZdizC/events/265371004/](https://www.meetup.com/meetup-group-pzvZdizC/events/265371004/)
 
-#### AI & The Future of Business
-##### Thu Oct 03 2019
+#### Power BI Enterprise Lead 3/5 - Power Platform, AI Builder & Row Level Security
+##### Tue Oct 08 2019
 London
-**Organizer:** UCL Artificial Intelligence Society
-**Description:** AI, Ethics &amp; Our Future - a talk about how the rapid development of AI can be managed ethically. We are proud to announce that this talk will be g...
-Link: [https://www.meetup.com/UCL-Artificial-Intelligence-Society/events/265309899/](https://www.meetup.com/UCL-Artificial-Intelligence-Society/events/265309899/)
+**Organizer:** The Power BI Apprentice
+**Description:** By invite only to members of the Q3'19 Power BI Enterprise Lead course.Lesson 3 of 5 is dedicated to Power Platform architecture with our guest speake...
+Link: [https://www.meetup.com/The-Power-BI-Apprentice/events/265453615/](https://www.meetup.com/The-Power-BI-Apprentice/events/265453615/)
 
-#### ML Paper Club @ Google Campus with nPlan
-##### Thu Oct 03 2019
+#### Meetup #8: The potential of going "viral" - Spreading information online
+##### Tue Oct 08 2019
 London
-**Organizer:** ML Paper Club @ Google Campus with nPlan
-**Description:** IMPORTANT! Due to space limitations we will limit attendance to those who sign up for the meetup. If you are not coming, please remove your RSVP so th...
-Link: [https://www.meetup.com/ML-Paper-Club/events/vxjxhryznbfb/](https://www.meetup.com/ML-Paper-Club/events/vxjxhryznbfb/)
+**Organizer:** West London Ethical Technology Meetup
+**Description:** For the past decade or so, humanity has a new tool available that might be one of the first true equalizers. Viral information spread. Literally anybo...
+Link: [https://www.meetup.com/West-London-Ethical-Technology-Meetup/events/265114201/](https://www.meetup.com/West-London-Ethical-Technology-Meetup/events/265114201/)
 
-#### Deep Learning with JavaScript
-##### Thu Oct 03 2019
+#### BBC Machine Learning Fireside Chats Presents: The AdTech Apocalypse
+##### Wed Oct 09 2019
 London
-**Organizer:** AI JavaScript London
-**Description:** Our next event will showcase two speakers covering some great topics around AI and JavaScript. Location TBC! 6.15pm Doors, pizza, drinks7pm Oliver Zie...
-Link: [https://www.meetup.com/AI-JavaScript-London/events/264991348/](https://www.meetup.com/AI-JavaScript-London/events/264991348/)
+**Organizer:** BBC Machine Learning Fireside Chats
+**Description:** **IMPORTANT NOTICE PLEASE READ**Please register and download your tickets for this event here:https://www.eventbrite.co.uk/e/bbc-machine-learning-fire...
+Link: [https://www.meetup.com/Machine-learning-Fireside-Talks/events/264920222/](https://www.meetup.com/Machine-learning-Fireside-Talks/events/264920222/)
 
 
 </div>

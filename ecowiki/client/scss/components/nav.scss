@@ -3,7 +3,7 @@
 .nav {
 	align-items: stretch;
 	background-color: $header-bg;
-	background: linear-gradient(to right, $bg-primary,$bg-secondary);
+	background: $bg-primary; //linear-gradient(to right, $bg-primary,$bg-secondary);
 	display: flex;
 	min-height: 50px;
 	position: relative;

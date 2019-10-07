@@ -5,7 +5,7 @@
 <div class=groups>
 
 #### GDG La Paz
-**Number of members:** 1547
+**Number of members:** 1548
 Tech
 **Organizer:** Monica Canaza
 **Description:** GDG La Paz es la comunidad de desarrolladores que utilizan tecnologías, plataformas y APIs de Google, ya sea en el ámbito laboral, o en proyectos pers...
@@ -23,7 +23,7 @@ Tech
 **Description:** Este grupo es para cualquier persona interesada en colaborar en la formación de la nueva Economía de los Datos. Su objetivo es conectar mentes curiosa...
 
 #### Data Science Bolivia
-**Number of members:** 127
+**Number of members:** 128
 Tech
 **Organizer:** Fernando Silva
 **Description:** Data Science Bolivia (o simplemente DSB) es una comunidad de Data Scientists en Bolivia. Está abierta a profesionales o estudiantes apasionados de Dat...

@@ -26,13 +26,13 @@ THIS IS LA PAZ AI OVERBIEW TEST THAT WILL BE STORED IN DATABASE!!!
 <div class=groups>
 
 #### Beirut Artificial Intelligence and Data Science Meetup
-**Number of members:** 1162
+**Number of members:** 1164
 Tech
 **Organizer:** Leon
 **Description:** Do you have an interest in Artificial Intelligence whether as a hard core practitioner or a non technical person. Let's meet and discuss how we can be...
 
 #### Quants & Algo Traders Lebanon
-**Number of members:** 40
+**Number of members:** 43
 Tech
 **Organizer:** ali askar
 **Description:** Quantitative, Algorithmic Traders, Mathematicians, Engineers, Data Scientists, and everyone who is interested to know more about the world of Trading....

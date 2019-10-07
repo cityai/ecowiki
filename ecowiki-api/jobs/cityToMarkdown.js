@@ -31,36 +31,52 @@ class MarkdownTransform {
                 const CommunityTemplate = "./data/communitiesTemplate.md";
                 const eventsTemplate = "./data/global-eventsTemplate.md"
 
-                await fs.readFile(CommunityTemplate,async (err,data)=>{
-                    if(err) return console.log(err);
+                await fs.readFile(CommunityTemplate, async (err, data) => {
+                    if (err) return console.log(err);
                     data = data.toString().split("\n");
                     if (community) {
                         data = this.addMultipleLines(data, community, "groups", community.groups.length, "<div class=groups>", ["name", "members", "category", "organizer", "description"]);
                         data = this.addMultipleLines(data, community, "influencers", community.influencers.length, "<div class=influencers>", ["name", "link", "followers"]);
                     }
                     await fs.writeFile(dirPath + "/community.md", "", async err => {
-                        if(err) return console.log(err);
+                        if (err) return console.log(err);
                         for (let i = 0; i < data.length; i++)
                             fs.appendFileSync(dirPath + "/community.md", data[i] + "\n");
                         console.log("Groups and influencers are converted into markdown!")
-                        
+
                     })
                 })
 
-                await fs.readFile(eventsTemplate,async (err,data)=>{
-                    if(err) return console.log(err);
+                await fs.readFile(eventsTemplate, async (err, data) => {
+                    if (err) return console.log(err);
                     data = data.toString().split("\n");
-                    if (city.events)
+                    if (city.events) {
+                        let futEvents = 0;
+                        let pastEvents = 0;
+
+                        for (let i = 0; i < city.events.length; i++) {
+
+                            if (city.events[i].date.getTime() > Date.now())
+                                futEvents += 1;
+                            else
+                                pastEvents += 1;
+                        }
+
+                        data.splice(3, 0, "\n For this AI ecosystem there are currently " + futEvents + " future events that you can participate in, and " + pastEvents +
+                            " events that have already been organized \n");
+
+
                         data = this.addMultipleLines(data, city, "events", city.events.length, "<div class=events>", ["name", "date", "location", "organizer", "description", "link"])
+                    }
                     await fs.writeFile(dirPath + "/events.md", "", async err => {
-                        if(err) return console.log(err);
+                        if (err) return console.log(err);
                         for (let i = 0; i < data.length; i++)
                             fs.appendFileSync(dirPath + "/events.md", data[i] + "\n");
                         console.log("Events are converted into markdown!")
-                        
+
                     })
                 })
-                
+
                 await fs.readFile(filePath, async (err, data) => {
                     if (err) return console.log(err);
                     data = data.toString().split("\n");
@@ -83,7 +99,7 @@ class MarkdownTransform {
                     if (community) {
                         data = this.addMultipleLines(data, community, "groups", 5, "<div class=groups>", ["name", "members", "category", "organizer", "description"]);
                         data = this.addMultipleLines(data, community, "influencers", 5, "<div class=influencers>", ["name", "followers"]);
-                        
+
                     }
                     await fs.writeFile(filePath, "", async err => {
                         if (err) await fs.mkdir(dirPath, err => {
@@ -135,13 +151,11 @@ class MarkdownTransform {
 
                 switch (attributesArray[j]) {
                     case "name":
-                        if(docObj === "influencers")
-                        {    
-                            data.splice(index,0,"[" + document[docObj][i][attributesArray[j]] + "](" + document[docObj][i]["link"] + ")");
+                        if (docObj === "influencers") {
+                            data.splice(index, 0, "[" + document[docObj][i][attributesArray[j]] + "](" + document[docObj][i]["link"] + ")");
                             index++;
                         }
-                        else
-                        {
+                        else {
                             data.splice(index, 0, "#### " + document[docObj][i][attributesArray[j]]);
                             index++;
                         }

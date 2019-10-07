@@ -24,7 +24,7 @@
 <div class=groups>
 
 #### GDG La Paz
-**Number of members:** 1545
+**Number of members:** 1548
 Tech
 **Organizer:** Monica Canaza
 **Description:** GDG La Paz es la comunidad de desarrolladores que utilizan tecnologías, plataformas y APIs de Google, ya sea en el ámbito laboral, o en proyectos pers...
@@ -42,7 +42,7 @@ Tech
 **Description:** Este grupo es para cualquier persona interesada en colaborar en la formación de la nueva Economía de los Datos. Su objetivo es conectar mentes curiosa...
 
 #### Data Science Bolivia
-**Number of members:** 125
+**Number of members:** 128
 Tech
 **Organizer:** Fernando Silva
 **Description:** Data Science Bolivia (o simplemente DSB) es una comunidad de Data Scientists en Bolivia. Está abierta a profesionales o estudiantes apasionados de Dat...
@@ -66,12 +66,12 @@ Tech
 # Events
 <div class=events>
 
-#### Algoritmia Study Jam [Session 2]
-##### Sat Oct 05 2019
+#### Algoritmia Study Jam [Session 3] reprogramado
+##### Sat Oct 12 2019
 La Paz
 **Organizer:** GDG La Paz
 **Description:** Los Study Jams son grupos de estudio dirigidos por una comunidad para estudiantes sobre el contenido de Google Developers y sobre diversos tópicos. ¿C...
-Link: [https://www.meetup.com/GDG-La-Paz/events/265239602/](https://www.meetup.com/GDG-La-Paz/events/265239602/)
+Link: [https://www.meetup.com/GDG-La-Paz/events/265413968/](https://www.meetup.com/GDG-La-Paz/events/265413968/)
 
 #### DevFest XIX La Paz
 ##### Fri Nov 08 2019

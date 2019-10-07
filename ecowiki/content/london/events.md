@@ -1,15 +1,18 @@
 <!-- TITLE: Global Events -->
 <!-- SUBTITLE: A quick summary of Global Events -->
 
+
+ For this AI ecosystem there are currently 46 future events that you can participate in, and 1 events that have already been organized 
+
 # Events
 <div class=events>
 
-#### Strong Safe Artificial Intelligence.
-##### Fri Oct 04 2019
+#### powerBI.ai 3/5 ; powerBI.ai with Python & Azure Notebooks
+##### Mon Oct 07 2019
 London
-**Organizer:** Artificial Intelligence Peer Group
-**Description:** No description provided...
-Link: [https://www.meetup.com/AI-peer-group/events/pzpcwpyznbgb/](https://www.meetup.com/AI-peer-group/events/pzpcwpyznbgb/)
+**Organizer:** Power BI Data Scientist & Artificial Intelligence Solutions
+**Description:** By invite only to members of the Q3'19 powerbi.ai course.Lesson 3 of 5 powerbi.ai is dedicated to using Python across the Power BI ecosystem using Azu...
+Link: [https://www.meetup.com/Power-BI-Data-Scientist-Artificial-Intelligence-Solutions/events/265452665/](https://www.meetup.com/Power-BI-Data-Scientist-Artificial-Intelligence-Solutions/events/265452665/)
 
 #### AI for Good Community Meetup
 ##### Tue Oct 08 2019
@@ -17,6 +20,13 @@ London
 **Organizer:** AI for Good
 **Description:** Regular Tuesday Meetups from the AI for Good Community First time here? Check out our project list to see what is currently happening in the community...
 Link: [https://www.meetup.com/meetup-group-pzvZdizC/events/265371004/](https://www.meetup.com/meetup-group-pzvZdizC/events/265371004/)
+
+#### Power BI Enterprise Lead 3/5 - Power Platform, AI Builder & Row Level Security
+##### Tue Oct 08 2019
+London
+**Organizer:** The Power BI Apprentice
+**Description:** By invite only to members of the Q3'19 Power BI Enterprise Lead course.Lesson 3 of 5 is dedicated to Power Platform architecture with our guest speake...
+Link: [https://www.meetup.com/The-Power-BI-Apprentice/events/265453615/](https://www.meetup.com/The-Power-BI-Apprentice/events/265453615/)
 
 #### Meetup #8: The potential of going "viral" - Spreading information online
 ##### Tue Oct 08 2019
@@ -221,13 +231,6 @@ London
 **Description:** - EVENT DETAILS:Date: October 24th, 2019Address: WeWork The Bower207 Old Street, London, England, ECV1 - ABOUT:Powered by Things Growth, Varsity Ventu...
 Link: [https://www.meetup.com/Varsity-Venture-Forum/events/264124814/](https://www.meetup.com/Varsity-Venture-Forum/events/264124814/)
 
-#### How to start and develop a personal finance and business blog 
-##### Thu Oct 24 2019
-London
-**Organizer:** The Financial Manifesto
-**Description:** If you are thinking about starting a blog about how to save or invest money and how to manage personal finances, please join us for the two-hour works...
-Link: [https://www.meetup.com/The-Financial-Manifesto/events/262711178/](https://www.meetup.com/The-Financial-Manifesto/events/262711178/)
-
 #### Rethinking Work (dinner & discussion)
 ##### Fri Oct 25 2019
 London
@@ -249,19 +252,19 @@ London
 **Description:** What does freedom mean to you? Having the freedom to travel when you feel like it, to choose the people you spend time with or to do the things that y...
 Link: [https://www.meetup.com/LondonBusinessStrategy/events/265212603/](https://www.meetup.com/LondonBusinessStrategy/events/265212603/)
 
+#### Taking Your Python Microservices to the Next Level with a Service Mesh in AWS
+##### Wed Oct 30 2019
+London
+**Organizer:** London Tech Meetups
+**Description:** We are all looking for ways to optimize our work. 📊 It seems that Microservices do this and they become the new norm. ✅ Join this online webinar: htt...
+Link: [https://www.meetup.com/London-Growth-Hacking-Technology/events/265403346/](https://www.meetup.com/London-Growth-Hacking-Technology/events/265403346/)
+
 #### Meetup #9: Book discussion: Atwood's The Testament
 ##### Tue Nov 05 2019
 London
 **Organizer:** West London Ethical Technology Meetup
 **Description:** This is A bit of a different meetup. Upon popular request, we will do a book discussion of Margaret Atwood's sequel to The Handmaid's Tale. Her new bo...
 Link: [https://www.meetup.com/West-London-Ethical-Technology-Meetup/events/264727221/](https://www.meetup.com/West-London-Ethical-Technology-Meetup/events/264727221/)
-
-#### Nov '19 Meetup: Remember, remember.. Einstein helps monitor your data!
-##### Tue Nov 05 2019
-London
-**Organizer:** London Einstein Analytics DataTribe
-**Description:** We're delighted to announce the next London Data Tribe Einstein Analytics meetup is confirmed for Tuesday November 5th from 6pm RSVP's will open 15th ...
-Link: [https://www.meetup.com/London-Einstein-Analytics-Meetup/events/262947803/](https://www.meetup.com/London-Einstein-Analytics-Meetup/events/262947803/)
 
 #### Using Supervised ML Methods to augment intelligent dashboards in Healthcare
 ##### Wed Nov 06 2019
@@ -298,13 +301,6 @@ London
 **Description:** BENCHMARKING AND DATA ANALYTICS FOR IMPROVED PROJECT PERFORMANCE Tim will introduce the subject of Benchmarking and illustrate with professional and p...
 Link: [https://www.meetup.com/London-Project-Data-and-Analytics-meetup/events/263218404/](https://www.meetup.com/London-Project-Data-and-Analytics-meetup/events/263218404/)
 
-#### Women Leading in AI - 2019 Conference
-##### Mon Nov 18 2019
-London
-**Organizer:** AI Ethics London
-**Description:** Hello everyone! A little later than the 'full agenda announced in August', which I had listed here until today (one day before October...). We're happ...
-Link: [https://www.meetup.com/AI-Ethics-London/events/262411077/](https://www.meetup.com/AI-Ethics-London/events/262411077/)
-
 #### AI Investors Reverse Pitch @ ODSC Europe 2019
 ##### Tue Nov 19 2019
 London
@@ -326,12 +322,12 @@ London
 **Description:** Our third HPC &amp; AI MeetUp (London) will be taking place on Tuesday 26th November, between[masked]pm at a venue in central London that will be conf...
 Link: [https://www.meetup.com/HPC-AI/events/263494224/](https://www.meetup.com/HPC-AI/events/263494224/)
 
-#### A £Bn Business Case for Advanced Project Analytics; a story from Venture Capital
-##### Wed Dec 11 2019
+#### Women in London Talk Tech - The Future of Smart Cities
+##### Thu Nov 28 2019
 London
-**Organizer:** London Project Data Analytics Meetup
-**Description:** Over the last year we have seen a number of innovations come through the project data analytics community that elude to the value of advanced project ...
-Link: [https://www.meetup.com/London-Project-Data-and-Analytics-meetup/events/263218377/](https://www.meetup.com/London-Project-Data-and-Analytics-meetup/events/263218377/)
+**Organizer:** London Tech Revolution: Blockchain, Crypto & Tech
+**Description:** To secure your ticket for our fun, friendly &amp; exciting event please visit EventBrite: https://www.eventbrite.com/e/women-in-london-talk-tech-smart...
+Link: [https://www.meetup.com/London-WI-Blockchain-Tech-Crypto/events/265268609/](https://www.meetup.com/London-WI-Blockchain-Tech-Crypto/events/265268609/)
 
 #### Global AI Bootcamp
 ##### Sat Dec 14 2019

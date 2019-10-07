@@ -24,31 +24,31 @@
 <div class=groups>
 
 #### Berlin Machine Learning Group
-**Number of members:** 8318
+**Number of members:** 8334
 Tech
 **Organizer:** Trent McConaghy
 **Description:** A meetup for academics, professionals and hobbyists interested in applications and latest developments in Machine Learning, and AI more broadly. We ta...
 
 #### Big Data Developers in Berlin
-**Number of members:** 3882
+**Number of members:** 3884
 Tech
 **Organizer:** Nancy Berlin
 **Description:** This is an IBM sponsored Big Data meetup group. Geared towards developers, data scientists and ALL Big Data enthusiasts, our meetups provide an opport...
 
 #### Berlin Artificial Intelligence & Deep Learning
-**Number of members:** 2596
+**Number of members:** 2598
 Tech
 **Organizer:** Ian Gomez
 **Description:** We’re excited to bring you the latest happenings in AI, Machine Learning, Deep Learning, Data Science and Big Data.  Who are we? We’re H2O.ai (https:/...
 
 #### meetup.ai [Berlin]
-**Number of members:** 2554
+**Number of members:** 2553
 Tech
 **Organizer:** Rico Meinl
 **Description:**  http://meetupai.com/&nbsp; •&nbsp;Witness AI in Action We believe in creating an open and transparent conversation about Artificial Intelligence. We ...
 
 #### FilmTech Meetup Berlin
-**Number of members:** 2471
+**Number of members:** 2469
 Tech
 **Organizer:** Erwin M. Schmidt
 **Description:** The FilmTech Meetup Berlin is a monthly speaker and networking event with the aim to explore the touch-points between the film, storytelling and techn...
@@ -81,13 +81,6 @@ Tech
 # Events
 <div class=events>
 
-#### Computer Vision Workshop
-##### Fri Oct 04 2019
-Berlin
-**Organizer:** Berlin Computer Vision Group
-**Description:** We will continue working with image classifiers using FastAI and PyTorch. We will also work on the Kaggle challenge "Understanding Clouds from Satelli...
-Link: [https://www.meetup.com/Berlin-Computer-Vision-Group/events/265046069/](https://www.meetup.com/Berlin-Computer-Vision-Group/events/265046069/)
-
 #### RPA Robotic Process Automation Developers Berlin @ Signavio
 ##### Mon Oct 07 2019
 Berlin
@@ -116,6 +109,13 @@ Berlin
 **Description:** Time to go back to the roots. This series of Meetup is all about building, breaking and racing the robots. No powerpoint, no promotions, just the hard...
 Link: [https://www.meetup.com/autonomous-mobility-berlin/events/264820788/](https://www.meetup.com/autonomous-mobility-berlin/events/264820788/)
 
+#### Gnosis Happy Hour in Osaka
+##### Wed Oct 09 2019
+Berlin
+**Organizer:** Gnosis Meetup
+**Description:** Gnosis Happy Hour in OsakaSponsored by the Gnosis Ecosystem Fund One year ago, we launched the Gnosis Ecosystem Fund to support teams building on and ...
+Link: [https://www.meetup.com/gnosispm/events/265311008/](https://www.meetup.com/gnosispm/events/265311008/)
+
 
 </div>
 
@@ -137,11 +137,7 @@ Link: [https://ada.com/](https://ada.com/)
 
 #### omni:us
 Machine Learning, Computer Vision, Artificial Intelligence, Information Technology
-<<<<<<< Updated upstream
-**Investment in USD:** 29,352,853
-=======
 **Investment in USD:** 31,106,221
->>>>>>> Stashed changes
 **Description:** omni:us is an Artificial Intelligence as a Service (AIaaS) provider for cognitive claims management. Built on a fully data-driven approach, omni:us is...
 Link: [http://omnius.com/](http://omnius.com/)
 

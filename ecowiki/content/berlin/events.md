@@ -1,15 +1,11 @@
 <!-- TITLE: Global Events -->
 <!-- SUBTITLE: A quick summary of Global Events -->
 
+
+ For this AI ecosystem there are currently 49 future events that you can participate in, and 2 events that have already been organized 
+
 # Events
 <div class=events>
-
-#### Computer Vision Workshop
-##### Fri Oct 04 2019
-Berlin
-**Organizer:** Berlin Computer Vision Group
-**Description:** We will continue working with image classifiers using FastAI and PyTorch. We will also work on the Kaggle challenge "Understanding Clouds from Satelli...
-Link: [https://www.meetup.com/Berlin-Computer-Vision-Group/events/265046069/](https://www.meetup.com/Berlin-Computer-Vision-Group/events/265046069/)
 
 #### RPA Robotic Process Automation Developers Berlin @ Signavio
 ##### Mon Oct 07 2019
@@ -116,6 +112,13 @@ Berlin
 **Description:** In this session practitioners will share their strategies and hacks to fight fraud. The first speaker on our list is Jan Świerzowicz. Jan is a Product...
 Link: [https://www.meetup.com/PoDojo-Studio-Berlin/events/265149210/](https://www.meetup.com/PoDojo-Studio-Berlin/events/265149210/)
 
+#### Computer Vision Workshop
+##### Fri Oct 18 2019
+Berlin
+**Organizer:** Berlin Computer Vision Group
+**Description:** We will continue working with image classifiers using FastAI and PyTorch. We will also work on the Kaggle challenge "Understanding Clouds from Satelli...
+Link: [https://www.meetup.com/Berlin-Computer-Vision-Group/events/265429584/](https://www.meetup.com/Berlin-Computer-Vision-Group/events/265429584/)
+
 #### AI Agent Basics: Diagonalization Fixed Point Exercises (tiny.cc/amlsg-shared)
 ##### Fri Oct 18 2019
 Berlin
@@ -144,12 +147,26 @@ Berlin
 **Description:** Agenda and speakers to follow ...
 Link: [https://www.meetup.com/AI-x-Mobility-Berlin/events/263057718/](https://www.meetup.com/AI-x-Mobility-Berlin/events/263057718/)
 
+#### What is art, in the age of AI?
+##### Wed Oct 23 2019
+Berlin
+**Organizer:** Big Data, Berlin
+**Description:** "But the fact that we can build airplanes that fly faster and higher than birds does not necessarily explain how birds fly, or how they evolved to fly...
+Link: [https://www.meetup.com/Big-Data-Berlin/events/265453453/](https://www.meetup.com/Big-Data-Berlin/events/265453453/)
+
 #### FIWARE Global Summit 2019
 ##### Wed Oct 23 2019
 Berlin
 **Organizer:** FIWARE
 **Description:** No description provided...
 Link: [https://www.meetup.com/fiware/events/264249585/](https://www.meetup.com/fiware/events/264249585/)
+
+#### DIGITAL-POWER-LÖSUNGEN ZUM ANFASSEN
+##### Wed Oct 23 2019
+Berlin
+**Organizer:** Computacenter Berlin Meetups
+**Description:** Wir unterstützen unsere Kunden bei Beschaffung, Transformation und Management ihrer Clouds und Rechenzentren und bauen Plattformen für bestehende Anwe...
+Link: [https://www.meetup.com/Computacenter-Berlin-Meetups/events/265401147/](https://www.meetup.com/Computacenter-Berlin-Meetups/events/265401147/)
 
 #### IQ@SIBB: Software localization - How to attract global customers?
 ##### Wed Oct 23 2019
@@ -182,7 +199,7 @@ Link: [https://www.meetup.com/Berlin-AI-Tech-Talk/events/264944468/](https://www
 #### FashionTech - Pitches and Get-Together
 ##### Fri Oct 25 2019
 Berlin
-**Organizer:** FashionTech Berlin
+**Organizer:** Fashion Tech - Berlin
 **Description:** Hello dear FashionTechies,after a short break we are back again with a networking/pitching Event at the end of October in Berlin! We have organised se...
 Link: [https://www.meetup.com/FashionTech-Berlin/events/265148598/](https://www.meetup.com/FashionTech-Berlin/events/265148598/)
 
@@ -221,6 +238,13 @@ Berlin
 **Description:** ↓↓↓ --=== Humans must RSVP for this event here. RSVPs on Meetup will not be counted. --=== ↓↓↓ &lt;br/&gt;https://slackcommunity.com/events/details/sl...
 Link: [https://www.meetup.com/slack-platform-community-berlin/events/264991164/](https://www.meetup.com/slack-platform-community-berlin/events/264991164/)
 
+#### Graph Databases 
+##### Tue Oct 29 2019
+Berlin
+**Organizer:** Berlin Women in Machine Learning & Data Science
+**Description:** Women in Machine Learning and Data Science (WiMLDS) in Berlin! WiMLDS meetups aim to inspire, educate, regardless of gender, and support women and gen...
+Link: [https://www.meetup.com/Berlin-Women-in-Machine-Learning-and-Data-Science/events/265411145/](https://www.meetup.com/Berlin-Women-in-Machine-Learning-and-Data-Science/events/265411145/)
+
 #### AI in Action October#2 Meetup @Wayfair
 ##### Tue Oct 29 2019
 Berlin
@@ -249,7 +273,7 @@ Berlin
 **Description:** Talk 1: TBDSpeaker: TBDAbstract: TBDBio: TBD - Talk 2: TBDSpeaker: TBDAbstract: TBDBio: TBD ...
 Link: [https://www.meetup.com/berlin-machine-learning/events/256401042/](https://www.meetup.com/berlin-machine-learning/events/256401042/)
 
-#### DRONEMASTERS Mini Summit @ hub:raum
+#### DRONEMASTERS Mini Summit @ Berlin Science Week
 ##### Tue Nov 05 2019
 Berlin
 **Organizer:** DRONEMASTERS MeetUp

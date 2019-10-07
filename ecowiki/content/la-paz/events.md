@@ -1,15 +1,18 @@
 <!-- TITLE: Global Events -->
 <!-- SUBTITLE: A quick summary of Global Events -->
 
+
+ For this AI ecosystem there are currently 2 future events that you can participate in, and 0 events that have already been organized 
+
 # Events
 <div class=events>
 
-#### Algoritmia Study Jam [Session 2]
-##### Sat Oct 05 2019
+#### Algoritmia Study Jam [Session 3] reprogramado
+##### Sat Oct 12 2019
 La Paz
 **Organizer:** GDG La Paz
 **Description:** Los Study Jams son grupos de estudio dirigidos por una comunidad para estudiantes sobre el contenido de Google Developers y sobre diversos tópicos. ¿C...
-Link: [https://www.meetup.com/GDG-La-Paz/events/265239602/](https://www.meetup.com/GDG-La-Paz/events/265239602/)
+Link: [https://www.meetup.com/GDG-La-Paz/events/265413968/](https://www.meetup.com/GDG-La-Paz/events/265413968/)
 
 #### DevFest XIX La Paz
 ##### Fri Nov 08 2019

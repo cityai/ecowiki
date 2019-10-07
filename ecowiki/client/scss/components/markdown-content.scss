@@ -18,7 +18,7 @@
 	padding: 0 0 20px 0;
   width: 100%;
   overflow: hidden;
-  background:linear-gradient(to right,$bg-primary,$bg-secondary);
+  background:$bg-primary;//linear-gradient(to right,$bg-primary,$bg-secondary);
   padding-left: 46px;
 
 	h1, h2, h3 {
