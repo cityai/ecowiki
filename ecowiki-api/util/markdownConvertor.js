@@ -3,7 +3,7 @@
 class MarkdownConvertor {
     addMultipleLinesFromArray(data, document, n, setctionText, attributesArray) {
         // data = data.toString().split("\n");
-        let documentName = document
+        let documentName = Object.keys({document})[0];
         let index = data.indexOf(setctionText);
         index++;
         data.splice(index, 0, "");
@@ -18,12 +18,12 @@ class MarkdownConvertor {
 
                 switch (attributesArray[j]) {
                     case "name":
-                        if (docObj === "influencers") {
-                            data.splice(index, 0, "[" + document[docObj][i][attributesArray[j]] + "](" + document[docObj][i]["link"] + ")");
+                        if (documentName === "influencers") {
+                            data.splice(index, 0, "[" + document[i][attributesArray[j]] + "](" + document[i]["link"] + ")");
                             index++;
                         }
                         else {
-                            data.splice(index, 0, "#### " + document[docObj][i][attributesArray[j]]);
+                            data.splice(index, 0, "#### " + document[i][attributesArray[j]]);
                             index++;
                         }
                         break;
