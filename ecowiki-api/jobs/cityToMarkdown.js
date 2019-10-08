@@ -97,7 +97,7 @@ class MarkdownTransform {
                     if (city.organizations)
                         data = this.addMultipleLines(data, city, "organizations", 5, "<div class=organizations>", ["name", "category", "founder", "link", "descriptions"]);
                     if (community) {
-                        data = this.addMultipleLines(data, community, "groups", 5, "<div class=groups>", ["name", "members", "category", "organizer", "description"]);
+                        data = this.addMultipleLines(data, community, "groups", 5, "<div class=groups>", ["name", "members", "category", "organizer"]);
                         data = this.addMultipleLines(data, community, "influencers", 5, "<div class=influencers>", ["name", "followers"]);
 
                     }
