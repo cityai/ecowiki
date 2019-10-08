@@ -26,13 +26,13 @@ THIS IS LA PAZ AI OVERBIEW TEST THAT WILL BE STORED IN DATABASE!!!
 <div class=groups>
 
 #### Beirut Artificial Intelligence and Data Science Meetup
-**Number of members:** 1164
+**Number of members:** 1165
 Tech
 **Organizer:** Leon
 **Description:** Do you have an interest in Artificial Intelligence whether as a hard core practitioner or a non technical person. Let's meet and discuss how we can be...
 
 #### Quants & Algo Traders Lebanon
-**Number of members:** 43
+**Number of members:** 44
 Tech
 **Organizer:** ali askar
 **Description:** Quantitative, Algorithmic Traders, Mathematicians, Engineers, Data Scientists, and everyone who is interested to know more about the world of Trading....
@@ -63,17 +63,17 @@ Tech
 # Startups
 <div class=startups>
 
+#### Fig
+Machine Learning, Natural Language Processing, Analytics, Big Data, Artificial Intelligence
+**Investment in USD:** 300,000
+**Description:** Fig offers businesses a chatbot development platform that allows them to have a fully functioning chatbot within minutes. No coding and no conversatio...
+Link: [https://www.figbots.ai](https://www.figbots.ai)
+
 #### Fallound
 Software, Artificial Intelligence, Mobile
 **Investment in USD:** 125,000
 **Description:** Fallound is a software for cars and a standalone app that connects to car navigation systems to find and summarize perfectly timed audio podcast based...
 Link: [https://fallound.com](https://fallound.com)
-
-#### Fig
-Machine Learning, Natural Language Processing, Analytics, Big Data, Artificial Intelligence
-**Investment in USD:** 0
-**Description:** Fig offers businesses a chatbot development platform that allows them to have a fully functioning chatbot within minutes. No coding and no conversatio...
-Link: [https://www.figbots.ai](https://www.figbots.ai)
 
 #### Lexyom
 Legal Tech, Legal, Artificial Intelligence

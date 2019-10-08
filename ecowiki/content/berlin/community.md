@@ -5,13 +5,13 @@
 <div class=groups>
 
 #### Berlin Machine Learning Group
-**Number of members:** 8334
+**Number of members:** 8337
 Tech
 **Organizer:** Trent McConaghy
 **Description:** A meetup for academics, professionals and hobbyists interested in applications and latest developments in Machine Learning, and AI more broadly. We ta...
 
 #### Big Data Developers in Berlin
-**Number of members:** 3884
+**Number of members:** 3883
 Tech
 **Organizer:** Nancy Berlin
 **Description:** This is an IBM sponsored Big Data meetup group. Geared towards developers, data scientists and ALL Big Data enthusiasts, our meetups provide an opport...
@@ -23,13 +23,13 @@ Tech
 **Description:** We’re excited to bring you the latest happenings in AI, Machine Learning, Deep Learning, Data Science and Big Data.  Who are we? We’re H2O.ai (https:/...
 
 #### meetup.ai [Berlin]
-**Number of members:** 2553
+**Number of members:** 2552
 Tech
 **Organizer:** Rico Meinl
 **Description:**  http://meetupai.com/&nbsp; •&nbsp;Witness AI in Action We believe in creating an open and transparent conversation about Artificial Intelligence. We ...
 
 #### FilmTech Meetup Berlin
-**Number of members:** 2469
+**Number of members:** 2470
 Tech
 **Organizer:** Erwin M. Schmidt
 **Description:** The FilmTech Meetup Berlin is a monthly speaker and networking event with the aim to explore the touch-points between the film, storytelling and techn...
@@ -41,13 +41,13 @@ Tech
 **Description:** "I think the best technologies [...] disappear. They fade into the background, and they're relevant when you want to use them, and they get out of the...
 
 #### Data Science Talent Day
-**Number of members:** 1716
+**Number of members:** 1717
 Tech
 **Organizer:** Arun
 **Description:** A talent day for data scientists, and those interested in data science, machine learning, and artificial intelligence. In particular, it serves to ref...
 
 #### Berlin AI
-**Number of members:** 1637
+**Number of members:** 1636
 Tech
 **Organizer:** Christoph Auer-Welsbach
 **Description:** Berlin’s quarterly AI summit for applied: Machine Learning – Deep Learning – Cognitive – Augmented Intelligence – Natural Language Processing – Neural...
@@ -59,19 +59,19 @@ Tech
 **Description:** The Amazon Alexa, Google Home &amp; other Voice Interfaces meetup group is open for everyone who is interested in voice interfaces. Since 2016 we are ...
 
 #### Berlin AI Developers Group
-**Number of members:** 1395
+**Number of members:** 1398
 Tech
 **Organizer:** kevinl
 **Description:** "Learn by Practice". Join us to learn and practice AI, Machine learning, Deep learning and Data Science technology together with like-minded developer...
 
 #### AI in Action Berlin
-**Number of members:** 1315
+**Number of members:** 1343
 Tech
 **Organizer:** Anthony Kelly
 **Description:** The AI in Action Berlin Meetup powered by Alldus AI Workforce Solutions aims to showcase the skills and expertise among industry professionals and aca...
 
 #### Berlin Artificial Intelligence Meetup
-**Number of members:** 1262
+**Number of members:** 1261
 Tech
 **Organizer:** Darja Gutnick
 **Description:** “This is a group for anyone interested in Artificial Intelligence, Machine Learning, Neural Networks etc. All skill levels are welcome, whether you ar...
@@ -95,7 +95,7 @@ Tech
 **Description:** A place for Berlin's Deep Learning community to discuss recent research, applications, tools and ongoing projects. This group is for anyone interested...
 
 #### Startup-Sprechstunde // Pfizer Healthcare Hub Berlin
-**Number of members:** 1048
+**Number of members:** 1049
 Career & Business
 **Organizer:** Vivian Otto
 **Description:** (Please scroll down for the English version) Die Gesundheitsbranche in Deutschland ist komplex, die Pharmabranche auch. Deshalb veranstalten wir im Ra...
@@ -155,7 +155,7 @@ Tech
 **Description:** DEUTSCH: Dies ist eine Gruppe für alle, die mit IT-Firmen aus Berlin &amp; Brandenburg networken wollen. Der SIBB e. V. ist der IT &amp; Digital Busin...
 
 #### Udacity Berlin Meetup
-**Number of members:** 655
+**Number of members:** 654
 Tech
 **Organizer:** Scott Wilder
 **Description:** Welcome to the Udacity Berlin Meetup!  This group is a place for the Udacity community in Berlin to connect, network and share experiences with other ...
@@ -167,7 +167,7 @@ Tech
 **Description:** Meetup for people with data science background who want to work on data together. With discussions about feature engineering, data visualization and a...
 
 #### IBM PowerAI Berlin
-**Number of members:** 634
+**Number of members:** 636
 Tech
 **Organizer:** Marco Schulten
 **Description:** IBM PowerAI Berlin is a group for Data Scientists, Developers, Data Analysts and Business people and everyone else who is interested in artificial int...
@@ -185,7 +185,7 @@ Tech
 **Description:** We are the Mobility Innovators' Club - open to all who are building innovative products and services&nbsp;and all who are deploying, using, and promot...
 
 #### Berlin School of AI
-**Number of members:** 606
+**Number of members:** 605
 Tech
 **Organizer:** Christian Röpke
 **Description:** We are a group of passionate people that like to teach others about Artificial Intelligence. We want to foster the exchange with the local startup sce...
@@ -203,7 +203,7 @@ Tech
 **Description:** Meet other students from Berlin and Brandenburg universities as well as professionals, interested in Artificial Intelligence and related fields like N...
 
 #### Data //  AI // Blockchain Computer Futures Berlin
-**Number of members:** 536
+**Number of members:** 537
 Tech
 **Organizer:** Jens
 **Description:** With Data // AI // Blockchain we create the first of its kind of event in Berlin, showcasing the latest innovations, technologies and business models ...
@@ -215,7 +215,7 @@ Tech
 **Description:** Meetup for all recommender, AI and machine learning fanatics and people who care about good recommendations. This meetup is a place to share knowledge...
 
 #### Disrupt Meetup | Data Science and AI Berlin
-**Number of members:** 524
+**Number of members:** 527
 Tech
 **Organizer:** Maximilian Farber
 **Description:** Welcome to the Disrupt Meetup | Data Science and AI Berlin!  This community discusses current trends in the Data Science, Artificial Intelligence (AI)...
@@ -227,13 +227,13 @@ Tech
 **Description:** This is a Meetup group organized by The Python Quants (&nbsp;http://tpq.io&nbsp;). It was previously called "Python for Big Data Analytics".  The Meet...
 
 #### Grakn Berlin Engineers
-**Number of members:** 510
+**Number of members:** 509
 Tech
 **Organizer:** Haikal Pribadi
 **Description:** Intelligent/Cognitive Systems consume data that are too complex for current databases to handle. Grakn is a hyper-relational database that allows you ...
 
 #### Berlin Applied Machine Learning and Data Science Meetup
-**Number of members:** 482
+**Number of members:** 481
 Tech
 **Organizer:** Thomas
 **Description:** This is a Group for any one interested in Applied Machine Learning and Data Science.In this meetup, we will demystify Data Science and Machine Learnin...
@@ -245,28 +245,28 @@ Tech
 **Description:** We are a local micro community of those interested in advancing their knowledge and experience&nbsp;of Artificial Intelligence. Join our group for a r...
 
 #### Disrupt Meetup | PsychTech Berlin
-**Number of members:** 416
+**Number of members:** 417
 Tech
 **Organizer:** Jennifer Neudorf
 **Description:** This Meetup deals with the intersection of psychology and technology.   We believe Cambridge Analytica, Headspace and therapy apps are the beginning o...
 
 #### Gnosis Meetup
-**Number of members:** 410
+**Number of members:** 411
 Tech
 **Organizer:** Kei Kreutler
 **Description:** Let's shape the future together. The Gnosis Meetup will explore topics around market-driven forecasting technology, open blockchain development, and a...
+
+#### Machine Learning in Healthcare
+**Number of members:** 407
+Tech
+**Organizer:** Vince
+**Description:** Machine learning in healthcare is exciting! However, this type of research in Berlin is fragmented throughout the whole city, with many lonely researc...
 
 #### DFINITY MEETUP BERLIN
 **Number of members:** 407
 Tech
 **Organizer:** Moritz Fuller
 **Description:** DFINITY is building a new kind of public decentralized cloud computing resource, with research dating back to 2014. This rests upon a new blockchain c...
-
-#### Machine Learning in Healthcare
-**Number of members:** 404
-Tech
-**Organizer:** Vince
-**Description:** Machine learning in healthcare is exciting! However, this type of research in Berlin is fragmented throughout the whole city, with many lonely researc...
 
 #### AI x Mobility Berlin
 **Number of members:** 403
@@ -275,7 +275,7 @@ Tech
 **Description:** A regular series of meetups on the intersection of Artificial Intelligence &amp; Mobility.&nbsp;&nbsp;   Our members are interested in:&nbsp; • autono...
 
 #### Berlin DoSE
-**Number of members:** 376
+**Number of members:** 377
 Tech
 **Organizer:** Kristina Müller
 **Description:** Wir sind eine Community rund um agile Softwareentwicklung mit einem großen Blick über den Tellerrand. Für monatliche Abendevents treffen wir uns reihu...
@@ -299,7 +299,7 @@ Tech
 **Description:** Merantix is a platform for commercializing AI in industry. We conceptualize, build and scale machine learning companies through our unique incubation ...
 
 #### Facebook Developer Circles Berlin
-**Number of members:** 357
+**Number of members:** 356
 Tech
 **Organizer:** Raphaël GONCALVES
 **Description:** This is a group for developers in Berlin and surroundings. Our goal is to bring together all the developers in our awesome city. Since we are a learni...
@@ -323,13 +323,13 @@ Tech
 **Description:** At Dalia, we are hosting a series of meet-ups sharing Data Science knowledge and experience. We place data analytics and machine learning in context a...
 
 #### IBM Developer Berlin
-**Number of members:** 307
+**Number of members:** 313
 Tech
 **Organizer:** Miriam Oglesby
 **Description:** Welcome to the IBM Developer meetup in Berlin!  We host hands-on sessions workshops on a range of topics: - Cloud Native Development and Containers - ...
 
 #### Towards & Beyond - Imagining Digital Futures
-**Number of members:** 290
+**Number of members:** 288
 Tech
 **Organizer:** Ajay Brar
 **Description:** Products and services. Roles and job titles. Frameworks and methodologies. These are boxes that structure and limit our thinking. But we are not about...
@@ -359,16 +359,22 @@ Tech
 **Description:** Berlin Data Chat is a new format in which we aim to bring together Data Scientists and developers (or simply interested people) to come by and listen ...
 
 #### Health AI Berlin
-**Number of members:** 247
+**Number of members:** 248
 Tech
 **Organizer:** FMJ Pfister
 **Description:** This is a group for anyone interested in the convergence of data science and healthcare. Our target is bringing curious minds with a background in Dat...
 
 #### Germany Cryptocurrency Club
-**Number of members:** 213
+**Number of members:** 212
 Tech
 **Organizer:** Sandy
 **Description:** Germany Cryptocurrency Club ist eine Gruppe von Menschen, die daran interessiert sind, Bitcoin, Ethereum, ICOs und andere Kryptowährungen im Blockchai...
+
+#### RPA Robotic Process Automation Developers Berlin
+**Number of members:** 212
+Tech
+**Organizer:** moenk
+**Description:** RPA is process automation with software robots to use artificial intelligence (AI) driven programs to simulate human interaction with user interfaces ...
 
 #### Computacenter Berlin Meetups
 **Number of members:** 210
@@ -376,17 +382,17 @@ Tech
 **Organizer:** Lisa Mursal
 **Description:** Computacenter Berlin organisiert Sessions und Hands-on Workshops zu den Themen Softwareentwicklung, DevOps, Cloud Native, BigData, künstliche Intellig...
 
-#### RPA Robotic Process Automation Developers Berlin
-**Number of members:** 210
-Tech
-**Organizer:** moenk
-**Description:** RPA is process automation with software robots to use artificial intelligence (AI) driven programs to simulate human interaction with user interfaces ...
-
 #### KI-Festival
 **Number of members:** 208
 Tech
 **Organizer:** Mirko
 **Description:** ++ Rückblick erstes Festival ++ Wir blicken auf ein erfolgreiches und spannendes erstes KI-Festival, voller Produktivität und kreativer Ideen zurück. ...
+
+#### Tech Art Berlin
+**Number of members:** 197
+Tech
+**Organizer:** Lei
+**Description:** A creative community to connect talents, share resources, and create dialogues on critical issues in technology and art. There will be a (tentatively ...
 
 #### Connected Data Berlin
 **Number of members:** 196
@@ -399,12 +405,6 @@ Tech
 Tech
 **Organizer:** Marcel Münch
 **Description:** China is on the way of becoming a global player and leader in 5 key technologies: 1.) Artificial Intelligence (AI) and linked to that, an entirely new...
-
-#### Tech Art Berlin
-**Number of members:** 194
-Tech
-**Organizer:** Lei
-**Description:** A creative community to connect talents, share resources, and create dialogues on critical issues in technology and art. There will be a (tentatively ...
 
 #### Samurai Technology - Adventures in Building AI/ML Products
 **Number of members:** 188
@@ -419,13 +419,13 @@ Tech
 **Description:** This group is to discuss and solve problems that involve Algorithms and Data structures. We will be discussing different ways of solving a problem and...
 
 #### Data Wholphins
-**Number of members:** 182
+**Number of members:** 183
 Tech
 **Organizer:** Doreen
 **Description:** Many data science projects never make it to production or never get the chance to have an impact on the business.&nbsp;We want to explore how to build...
 
 #### Brand New Thinkers
-**Number of members:** 171
+**Number of members:** 174
 Tech
 **Organizer:** think moto
 **Description:** Hi there, this group is for creatives, technology geeks and business punks who love to think out of the box - everyone is welcome! Following the theme...
@@ -473,7 +473,7 @@ Tech
 **Description:** This is a Rasa community Berlin chapter. We host meetups for existing Rasa users and everyone who is interested in open source conversational AI and c...
 
 #### Berlin Computer Vision Group
-**Number of members:** 142
+**Number of members:** 143
 Tech
 **Organizer:** Antonio Rueda Toicen
 **Description:** This is a group for anyone interested in computer vision.  All skill levels are welcome.  We host free and practical workshops on computer vision with...
@@ -563,7 +563,7 @@ Tech
 **Description:** A group for people interested in talking about and hacking on Istio, a secure service mesh, the latest from Google, IBM, and Lyft. We’re excited about...
 
 #### Slack Platform Community: Berlin
-**Number of members:** 86
+**Number of members:** 87
 Tech
 **Organizer:** Slack Platform Community Meetups
 **Description:** We get together to figure out the next and best things to do with the Slack platform. If you are a developer who is building something interesting or ...
@@ -587,7 +587,7 @@ Tech
 **Description:** The Geektastic CONNECT Berlin is a developer community with it's focus on current topics in software development  On our meetups we'll present talks f...
 
 #### FIWARE
-**Number of members:** 53
+**Number of members:** 54
 Tech
 **Organizer:** Charlotte Kotterman
 **Description:** Are you willing to learn how you can create Smart Solutions faster, easier and cheaper? You are in the right place! FIWARE is an open source movement ...
@@ -612,47 +612,47 @@ Tech
 
 [Pierre Garreau](https://twitter.com/pierre_garreau)
 Link: [https://twitter.com/pierre_garreau](https://twitter.com/pierre_garreau)
-**Number of followers:** undefined
+**Number of followers:** 81
 
 [Caspian Robotics](https://twitter.com/CaspianRobotics)
 Link: [https://twitter.com/CaspianRobotics](https://twitter.com/CaspianRobotics)
-**Number of followers:** undefined
+**Number of followers:** 46
 
 [Fabian Westerheide](https://twitter.com/bootstrappingme)
 Link: [https://twitter.com/bootstrappingme](https://twitter.com/bootstrappingme)
-**Number of followers:** undefined
+**Number of followers:** 2495
 
 [Christoph Auer-Welsbach](https://twitter.com/AWChristoph)
 Link: [https://twitter.com/AWChristoph](https://twitter.com/AWChristoph)
-**Number of followers:** undefined
+**Number of followers:** 2579
 
 [Luc Dudler](https://twitter.com/lucdudler)
 Link: [https://twitter.com/lucdudler](https://twitter.com/lucdudler)
-**Number of followers:** undefined
+**Number of followers:** 558
 
 [Frederik Eichelbaum](https://twitter.com/eichelbaum)
 Link: [https://twitter.com/eichelbaum](https://twitter.com/eichelbaum)
-**Number of followers:** undefined
+**Number of followers:** 118
 
 [Jorge Davila-Chacon](https://twitter.com/jorgedch)
 Link: [https://twitter.com/jorgedch](https://twitter.com/jorgedch)
-**Number of followers:** undefined
+**Number of followers:** 68
 
 [Manuel Koelman](https://twitter.com/manuelkoelman)
 Link: [https://twitter.com/manuelkoelman](https://twitter.com/manuelkoelman)
-**Number of followers:** undefined
+**Number of followers:** 2853
 
 [Ralf Herbrich](https://twitter.com/rherbrich)
 Link: [https://twitter.com/rherbrich](https://twitter.com/rherbrich)
-**Number of followers:** undefined
+**Number of followers:** 2747
 
 [appughar](https://twitter.com/appughar)
 Link: [https://twitter.com/appughar](https://twitter.com/appughar)
-**Number of followers:** undefined
+**Number of followers:** 371
 
 [Ramzi Rizk](https://twitter.com/ramz)
 Link: [https://twitter.com/ramz](https://twitter.com/ramz)
-**Number of followers:** undefined
+**Number of followers:** 3743
 
 
 </div>

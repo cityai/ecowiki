@@ -24,13 +24,13 @@
 <div class=groups>
 
 #### Berlin Machine Learning Group
-**Number of members:** 8334
+**Number of members:** 8337
 Tech
 **Organizer:** Trent McConaghy
 **Description:** A meetup for academics, professionals and hobbyists interested in applications and latest developments in Machine Learning, and AI more broadly. We ta...
 
 #### Big Data Developers in Berlin
-**Number of members:** 3884
+**Number of members:** 3883
 Tech
 **Organizer:** Nancy Berlin
 **Description:** This is an IBM sponsored Big Data meetup group. Geared towards developers, data scientists and ALL Big Data enthusiasts, our meetups provide an opport...
@@ -42,13 +42,13 @@ Tech
 **Description:** We’re excited to bring you the latest happenings in AI, Machine Learning, Deep Learning, Data Science and Big Data.  Who are we? We’re H2O.ai (https:/...
 
 #### meetup.ai [Berlin]
-**Number of members:** 2553
+**Number of members:** 2552
 Tech
 **Organizer:** Rico Meinl
 **Description:**  http://meetupai.com/&nbsp; •&nbsp;Witness AI in Action We believe in creating an open and transparent conversation about Artificial Intelligence. We ...
 
 #### FilmTech Meetup Berlin
-**Number of members:** 2469
+**Number of members:** 2470
 Tech
 **Organizer:** Erwin M. Schmidt
 **Description:** The FilmTech Meetup Berlin is a monthly speaker and networking event with the aim to explore the touch-points between the film, storytelling and techn...
@@ -60,19 +60,19 @@ Tech
 <div class=influencers>
 
 [Pierre Garreau](https://twitter.com/pierre_garreau)
-**Number of followers:** undefined
+**Number of followers:** 81
 
 [Caspian Robotics](https://twitter.com/CaspianRobotics)
-**Number of followers:** undefined
+**Number of followers:** 46
 
 [Fabian Westerheide](https://twitter.com/bootstrappingme)
-**Number of followers:** undefined
+**Number of followers:** 2495
 
 [Christoph Auer-Welsbach](https://twitter.com/AWChristoph)
-**Number of followers:** undefined
+**Number of followers:** 2579
 
 [Luc Dudler](https://twitter.com/lucdudler)
-**Number of followers:** undefined
+**Number of followers:** 558
 
 
 </div>
@@ -80,20 +80,6 @@ Tech
 [See all influencers](./community)
 # Events
 <div class=events>
-
-#### RPA Robotic Process Automation Developers Berlin @ Signavio
-##### Mon Oct 07 2019
-Berlin
-**Organizer:** RPA Robotic Process Automation Developers Berlin
-**Description:** Agenda: · Welcome (Thomas Mönkemeier, Henny Selig) - 10 min · The answer is: BPM and RPA – Gerd Plewka und Michael Hagen (Blue Prism) - 45 min · Scala...
-Link: [https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/264690610/](https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/264690610/)
-
-#### Hyperparameter Optimization Libraries; xAI: Explanations and Opportunities
-##### Mon Oct 07 2019
-Berlin
-**Organizer:** Berlin Machine Learning Group
-**Description:** Talk 1: Hyperparameter Optimization in Python (40 min + 10 min Q&amp;A)Speaker: Jakub Czakon Abstract: Hyperparameter optimization (HPO) is quickly be...
-Link: [https://www.meetup.com/berlin-machine-learning/events/256401038/](https://www.meetup.com/berlin-machine-learning/events/256401038/)
 
 #### AI for Autonomous Mobility 
 ##### Tue Oct 08 2019
@@ -115,6 +101,20 @@ Berlin
 **Organizer:** Gnosis Meetup
 **Description:** Gnosis Happy Hour in OsakaSponsored by the Gnosis Ecosystem Fund One year ago, we launched the Gnosis Ecosystem Fund to support teams building on and ...
 Link: [https://www.meetup.com/gnosispm/events/265311008/](https://www.meetup.com/gnosispm/events/265311008/)
+
+#### Get your Java Microservice up and running!
+##### Wed Oct 09 2019
+Berlin
+**Organizer:** IBM Developer Berlin
+**Description:** We’re continuing our cloud-native theme for our next meetup on October 9th. This time we will focus on Java and Kubernetes. By the end of the meetup, ...
+Link: [https://www.meetup.com/IBM-Developer-Berlin/events/263064734/](https://www.meetup.com/IBM-Developer-Berlin/events/263064734/)
+
+#### Artificial Intelligence - Understanding opportunities and consequences.
+##### Thu Oct 10 2019
+Berlin
+**Organizer:** Digital Skills Training Community
+**Description:** *German description below*You will understand AI and its consequences on the world.It is an opportunity to debunk misconceptions of AI &amp; explore o...
+Link: [https://www.meetup.com/digital-skills-tc/events/265475944/](https://www.meetup.com/digital-skills-tc/events/265475944/)
 
 
 </div>

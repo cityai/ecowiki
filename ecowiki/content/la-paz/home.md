@@ -24,7 +24,7 @@
 <div class=groups>
 
 #### GDG La Paz
-**Number of members:** 1548
+**Number of members:** 1549
 Tech
 **Organizer:** Monica Canaza
 **Description:** GDG La Paz es la comunidad de desarrolladores que utilizan tecnologías, plataformas y APIs de Google, ya sea en el ámbito laboral, o en proyectos pers...
@@ -36,7 +36,7 @@ Tech
 **Description:** WiMLDS's mission is to support and promote women and gender minorities who are practicing, studying or are interested in the fields of machine learnin...
 
 #### Data Economy - La Paz
-**Number of members:** 147
+**Number of members:** 148
 Tech
 **Organizer:** Daniel Lustig
 **Description:** Este grupo es para cualquier persona interesada en colaborar en la formación de la nueva Economía de los Datos. Su objetivo es conectar mentes curiosa...

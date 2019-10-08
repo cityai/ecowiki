@@ -2,24 +2,10 @@
 <!-- SUBTITLE: A quick summary of Global Events -->
 
 
- For this AI ecosystem there are currently 49 future events that you can participate in, and 2 events that have already been organized 
+ For this AI ecosystem there are currently 53 future events that you can participate in, and 1 events that have already been organized 
 
 # Events
 <div class=events>
-
-#### RPA Robotic Process Automation Developers Berlin @ Signavio
-##### Mon Oct 07 2019
-Berlin
-**Organizer:** RPA Robotic Process Automation Developers Berlin
-**Description:** Agenda: · Welcome (Thomas Mönkemeier, Henny Selig) - 10 min · The answer is: BPM and RPA – Gerd Plewka und Michael Hagen (Blue Prism) - 45 min · Scala...
-Link: [https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/264690610/](https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/264690610/)
-
-#### Hyperparameter Optimization Libraries; xAI: Explanations and Opportunities
-##### Mon Oct 07 2019
-Berlin
-**Organizer:** Berlin Machine Learning Group
-**Description:** Talk 1: Hyperparameter Optimization in Python (40 min + 10 min Q&amp;A)Speaker: Jakub Czakon Abstract: Hyperparameter optimization (HPO) is quickly be...
-Link: [https://www.meetup.com/berlin-machine-learning/events/256401038/](https://www.meetup.com/berlin-machine-learning/events/256401038/)
 
 #### AI for Autonomous Mobility 
 ##### Tue Oct 08 2019
@@ -49,7 +35,21 @@ Berlin
 **Description:** We’re continuing our cloud-native theme for our next meetup on October 9th. This time we will focus on Java and Kubernetes. By the end of the meetup, ...
 Link: [https://www.meetup.com/IBM-Developer-Berlin/events/263064734/](https://www.meetup.com/IBM-Developer-Berlin/events/263064734/)
 
-#### Meet Nervos: Berli Blockchain Meetup
+#### Artificial Intelligence - Understanding opportunities and consequences.
+##### Thu Oct 10 2019
+Berlin
+**Organizer:** Digital Skills Training Community
+**Description:** *German description below*You will understand AI and its consequences on the world.It is an opportunity to debunk misconceptions of AI &amp; explore o...
+Link: [https://www.meetup.com/digital-skills-tc/events/265475944/](https://www.meetup.com/digital-skills-tc/events/265475944/)
+
+#### Roundtable Discussions | This Week's Topic: "AI: The Human Part"
+##### Thu Oct 10 2019
+Berlin
+**Organizer:** Thinkers & Drinkers International (DE/Berlin)
+**Description:** This week's topic: "AI: The Human Part" Whether you like it or not, Artificial Intelligence is happening. Now the real question is: are we ready for i...
+Link: [https://www.meetup.com/ThinkersDrinkersInternationalBerlin/events/265471313/](https://www.meetup.com/ThinkersDrinkersInternationalBerlin/events/265471313/)
+
+#### Meet Nervos: Berlin Blockchain Meetup
 ##### Mon Oct 14 2019
 Berlin
 **Organizer:** Binary District Berlin
@@ -266,6 +266,13 @@ Berlin
 **Description:** Getreu dem Motto „Analytics Beyond Bullshitting“, laden wir interessierte Teilnehmer auf eine Entdeckungsreise moderner Location Analytics Ansätze ein...
 Link: [https://www.meetup.com/DataTalks-by-mayato/events/264718705/](https://www.meetup.com/DataTalks-by-mayato/events/264718705/)
 
+#### Kanban Maturity Model
+##### Wed Oct 30 2019
+Berlin
+**Organizer:** Berlin DoSE
+**Description:** Wir freuen uns auf Andreas Bartel von flow Hamburg, der uns vom Kanban Maturity Model/Reifegradmodell berichten wird. Einlass ab 18:30 Start ab 19 Uhr...
+Link: [https://www.meetup.com/Berlin-DoSE/events/265471092/](https://www.meetup.com/Berlin-DoSE/events/265471092/)
+
 #### Berlin ML Group - Topics TBD
 ##### Mon Nov 04 2019
 Berlin
@@ -350,6 +357,13 @@ Berlin
 **Description:** In this meetup, we have two talks about real-time visual analysis. Talk 1: Towards real-time interpretation of the physical world with FPGA and DNNsSp...
 Link: [https://www.meetup.com/berlin-machine-learning/events/256401043/](https://www.meetup.com/berlin-machine-learning/events/256401043/)
 
+#### Exhalation: Stories by Ted Chiang
+##### Wed Dec 04 2019
+Berlin
+**Organizer:** Dystopia, crime and Sci-fi Book Club Berlin
+**Description:** In "The Merchant and the Alchemist's Gate," a portal through time forces a fabric seller in ancient Baghdad to grapple with past mistakes and the temp...
+Link: [https://www.meetup.com/Detective-and-Sci-fi-Book-Club-Berlin/events/265472138/](https://www.meetup.com/Detective-and-Sci-fi-Book-Club-Berlin/events/265472138/)
+
 #### Machine Learning Conference 2019 | Berlin
 ##### Mon Dec 09 2019
 Berlin
@@ -363,6 +377,13 @@ Berlin
 **Organizer:** Voice Conference
 **Description:** Successfully design and develop Voice Assistants and Chatbots Automated voice interactions are on the rise. Are you looking to join into this new era ...
 Link: [https://www.meetup.com/Voice-Conference/events/262964111/](https://www.meetup.com/Voice-Conference/events/262964111/)
+
+#### Tenios GmbH + Internet of Voice auf Chatbotsummit Berlin
+##### Wed Dec 11 2019
+Berlin
+**Organizer:** Internet of Voice - Digitale Sprachassistenten
+**Description:** https://blog.tenios.de/chatbot-summit-2019-berlin ...
+Link: [https://www.meetup.com/digitale-sprachassistenten/events/265497203/](https://www.meetup.com/digitale-sprachassistenten/events/265497203/)
 
 
 </div>

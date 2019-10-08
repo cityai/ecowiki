@@ -2,17 +2,10 @@
 <!-- SUBTITLE: A quick summary of Global Events -->
 
 
- For this AI ecosystem there are currently 46 future events that you can participate in, and 1 events that have already been organized 
+ For this AI ecosystem there are currently 46 future events that you can participate in, and 3 events that have already been organized 
 
 # Events
 <div class=events>
-
-#### powerBI.ai 3/5 ; powerBI.ai with Python & Azure Notebooks
-##### Mon Oct 07 2019
-London
-**Organizer:** Power BI Data Scientist & Artificial Intelligence Solutions
-**Description:** By invite only to members of the Q3'19 powerbi.ai course.Lesson 3 of 5 powerbi.ai is dedicated to using Python across the Power BI ecosystem using Azu...
-Link: [https://www.meetup.com/Power-BI-Data-Scientist-Artificial-Intelligence-Solutions/events/265452665/](https://www.meetup.com/Power-BI-Data-Scientist-Artificial-Intelligence-Solutions/events/265452665/)
 
 #### AI for Good Community Meetup
 ##### Tue Oct 08 2019
@@ -217,6 +210,13 @@ London
 **Description:** **IMPORTANT NOTICE PLEASE READ**Please register and download your tickets for this event here:(https://ti.to/bbc-ml-fireside/too-dangerous-to-ship) RS...
 Link: [https://www.meetup.com/Machine-learning-Fireside-Talks/events/264152677/](https://www.meetup.com/Machine-learning-Fireside-Talks/events/264152677/)
 
+#### Monthly AI Tech Talk - October
+##### Wed Oct 23 2019
+London
+**Organizer:** London AI Developers Group
+**Description:** In this meeting, we are pleased to feature tech leads from innovated companies, successful startups to share their practice experiences and practices ...
+Link: [https://www.meetup.com/London-AI-Tech-Talk/events/264859190/](https://www.meetup.com/London-AI-Tech-Talk/events/264859190/)
+
 #### Networking Drinks
 ##### Thu Oct 24 2019
 London
@@ -230,6 +230,13 @@ London
 **Organizer:** Things Growth Tech Forums
 **Description:** - EVENT DETAILS:Date: October 24th, 2019Address: WeWork The Bower207 Old Street, London, England, ECV1 - ABOUT:Powered by Things Growth, Varsity Ventu...
 Link: [https://www.meetup.com/Varsity-Venture-Forum/events/264124814/](https://www.meetup.com/Varsity-Venture-Forum/events/264124814/)
+
+#### Big Data, Data Viz and ML with Apache Spark and Zeppelin Notebooks
+##### Thu Oct 24 2019
+London
+**Organizer:** IBM Code London
+**Description:** In this hands-on lab, we’ll start with some Apache Spark basics for working with (large) datasets. We’ll explore an example that loads in a data set a...
+Link: [https://www.meetup.com/IBM-Code-London/events/265498200/](https://www.meetup.com/IBM-Code-London/events/265498200/)
 
 #### Rethinking Work (dinner & discussion)
 ##### Fri Oct 25 2019
@@ -251,6 +258,13 @@ London
 **Organizer:** London Business Strategy Meetup
 **Description:** What does freedom mean to you? Having the freedom to travel when you feel like it, to choose the people you spend time with or to do the things that y...
 Link: [https://www.meetup.com/LondonBusinessStrategy/events/265212603/](https://www.meetup.com/LondonBusinessStrategy/events/265212603/)
+
+#### Be a Better Data Scientist! Tips from Software Engineering
+##### Wed Oct 30 2019
+London
+**Organizer:** Artificial Intelligence (AI) Club for Gender Minorities!
+**Description:** SAVE THE DATE - Details and sign-up link to follow. A collaboration event with EmboldenHer, a women in tech-focused organisation based at Theodo UK. T...
+Link: [https://www.meetup.com/ai-club/events/262441143/](https://www.meetup.com/ai-club/events/262441143/)
 
 #### Taking Your Python Microservices to the Next Level with a Service Mesh in AWS
 ##### Wed Oct 30 2019

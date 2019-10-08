@@ -24,31 +24,31 @@
 <div class=groups>
 
 #### Silicon Roundabout
-**Number of members:** 14511
+**Number of members:** 14510
 Tech
 **Organizer:** Luis Carranza
 **Description:** Silicon Roundabout is the biggest tech meetup in London. It’s the ideal place for tech entrepreneurs, developers, and professionals in London to meet,...
 
 #### PyData London Meetup
-**Number of members:** 10261
+**Number of members:** 10258
 Tech
 **Organizer:** PyData/NumFOCUS
 **Description:** PyData is an educational program of NumFOCUS, a 501(c)3 non-profit organization in the United States. PyData provides a forum for the international co...
 
 #### London Artificial Intelligence & Deep Learning
-**Number of members:** 9466
+**Number of members:** 9484
 Tech
 **Organizer:** Ian Gomez
 **Description:** We’re excited to bring you the latest happenings in AI, Machine Learning, Deep Learning, Data Science and Big Data.  Who are we? We’re H2O.ai (https:/...
 
 #### Data Science London
-**Number of members:** 9353
+**Number of members:** 9357
 Tech
 **Organizer:** Carlos
 **Description:** Data Science London - We're the largest #datascience community in Europe We are&nbsp;a community of data scientists, machine learning geeks and data h...
 
 #### London Futurists
-**Number of members:** 7888
+**Number of members:** 7891
 Tech
 **Organizer:** David Wood
 **Description:** This group is for people who are interested in the future and maybe want to help shape it. The acceleration of technology means that the near future m...
@@ -60,19 +60,19 @@ Tech
 <div class=influencers>
 
 [Herman Narula](https://twitter.com/HermanNarula)
-**Number of followers:** undefined
+**Number of followers:** 3275
 
 [Mustafa Suleyman](https://twitter.com/mustafasuleymn)
-**Number of followers:** undefined
+**Number of followers:** 43718
 
 [Demis Hassabis](https://twitter.com/demishassabis)
-**Number of followers:** undefined
+**Number of followers:** 172157
 
 [Ferenc Huszár🇪🇺](https://twitter.com/fhuszar)
-**Number of followers:** undefined
+**Number of followers:** 21041
 
 [Nathan Benaich](https://twitter.com/NathanBenaich)
-**Number of followers:** undefined
+**Number of followers:** 23900
 
 
 </div>
@@ -80,13 +80,6 @@ Tech
 [See all influencers](./community)
 # Events
 <div class=events>
-
-#### powerBI.ai 3/5 ; powerBI.ai with Python & Azure Notebooks
-##### Mon Oct 07 2019
-London
-**Organizer:** Power BI Data Scientist & Artificial Intelligence Solutions
-**Description:** By invite only to members of the Q3'19 powerbi.ai course.Lesson 3 of 5 powerbi.ai is dedicated to using Python across the Power BI ecosystem using Azu...
-Link: [https://www.meetup.com/Power-BI-Data-Scientist-Artificial-Intelligence-Solutions/events/265452665/](https://www.meetup.com/Power-BI-Data-Scientist-Artificial-Intelligence-Solutions/events/265452665/)
 
 #### AI for Good Community Meetup
 ##### Tue Oct 08 2019
@@ -115,6 +108,13 @@ London
 **Organizer:** BBC Machine Learning Fireside Chats
 **Description:** **IMPORTANT NOTICE PLEASE READ**Please register and download your tickets for this event here:https://www.eventbrite.co.uk/e/bbc-machine-learning-fire...
 Link: [https://www.meetup.com/Machine-learning-Fireside-Talks/events/264920222/](https://www.meetup.com/Machine-learning-Fireside-Talks/events/264920222/)
+
+#### Kubernetes with OpenShift (Workshop)
+##### Wed Oct 09 2019
+London
+**Organizer:** IBM Code London
+**Description:** Come and learn OpenShift in this hands-on session which will focus on the developer experience of using Kubernetes with OpenShift. You will learn how ...
+Link: [https://www.meetup.com/IBM-Code-London/events/264950128/](https://www.meetup.com/IBM-Code-London/events/264950128/)
 
 
 </div>
