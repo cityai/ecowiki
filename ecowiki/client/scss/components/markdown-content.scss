@@ -23,7 +23,7 @@
 
 	h1, h2, h3 {
 		font-weight: 800;
-		padding-left:20px; 
+		padding-left:15px; 
 	}
 
 	h1 {
@@ -33,8 +33,8 @@
 		font-size: 40px;
 		color: $content-color-text;
 		//border-bottom: 1px solid black;
-		width: 300px;
-		margin-bottom: 80px;
+		//width: 300px;
+		margin-bottom: 32px;
 
 		padding-bottom: 32px;
 		padding-top: 64px;
@@ -567,7 +567,7 @@
 	}
   	.influencers h4{
 	  	margin:0;
-	  	padding-left:20px;
+	  	padding-left:15px;
 		padding-bottom: 15px;
 		display:inline-block;
 	  	font-weight: 600;
