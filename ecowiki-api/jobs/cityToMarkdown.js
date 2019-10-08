@@ -36,7 +36,7 @@ class MarkdownTransform {
                     data = data.toString().split("\n");
                     if (community) {
                         data = this.addMultipleLines(data, community, "groups", community.groups.length, "<div class=groups>", ["name", "members", "category", "organizer", "description"]);
-                        data = this.addMultipleLines(data, community, "influencers", community.influencers.length, "<div class=influencers>", ["name", "link", "followers"]);
+                        data = this.addMultipleLines(data, community, "influencers", community.influencers.length, "<div class=influencers>", ["name", "followers"]);
                     }
                     await fs.writeFile(dirPath + "/community.md", "", async err => {
                         if (err) return console.log(err);
@@ -66,7 +66,7 @@ class MarkdownTransform {
                             " events that have already been organized \n");
 
 
-                        data = this.addMultipleLines(data, city, "events", city.events.length, "<div class=events>", ["name", "date", "location", "organizer", "description", "link"])
+                        data = this.addMultipleLines(data, city, "events", city.events.length, "<div class=events>", ["name", "date", "location", "organizer", "description"])
                     }
                     await fs.writeFile(dirPath + "/events.md", "", async err => {
                         if (err) return console.log(err);
