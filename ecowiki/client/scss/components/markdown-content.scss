@@ -498,16 +498,17 @@
 	.events   h4{
 		margin:0;
 		padding-left:15px;
-		display:inline;
+		display:block;
 		font-size:20px;
 		font-weight: 600;
 	}
 	  
 	.events h5{
 		display: inline;
-		color: #C80000;
+		color: black;
 		font-size: 20px;
 		font-weight: 300;
+		padding-left: 10px;
 	}
 	.events p{
 		display: block;

@@ -93,7 +93,7 @@ class MarkdownTransform {
                     if (city.startups)
                         data = this.addMultipleLines(data, city, "startups", 3, "<div class=startups>", ["name", "categories", "investment", "description", "link"]);
                     if (city.events)
-                        data = this.addMultipleLines(data, city, "events", 5, "<div class=events>", ["name", "date", "location", "organizer", "description", "link"])
+                        data = this.addMultipleLines(data, city, "events", 5, "<div class=events>", ["name", "date", "location", "organizer", "link"])
                     if (city.organizations)
                         data = this.addMultipleLines(data, city, "organizations", 5, "<div class=organizations>", ["name", "category", "founder", "link", "descriptions"]);
                     if (community) {
@@ -151,7 +151,7 @@ class MarkdownTransform {
 
                 switch (attributesArray[j]) {
                     case "name":
-                        if (docObj === "influencers") {
+                        if (docObj === "influencers" || docObj === "events") {
                             data.splice(index, 0, "[" + document[docObj][i][attributesArray[j]] + "](" + document[docObj][i]["link"] + ")");
                             index++;
                         }

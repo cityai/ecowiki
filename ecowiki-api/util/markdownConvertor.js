@@ -17,7 +17,7 @@ class MarkdownConvertor {
 
                 switch (attributesArray[j]) {
                     case "name":
-                        if (document[i]["followers"]!== undefined) {
+                        if (document[i]["followers"]!== undefined || document[i]["date"] !== undefined) {
                             data.splice(index, 0, "[" + document[i][attributesArray[j]] + "](" + document[i]["link"] + ")");
                             index++;
                         }
