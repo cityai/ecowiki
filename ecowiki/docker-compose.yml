@@ -77,6 +77,10 @@ services:
       - mongo
     networks: 
       - webappnetwork
+    deploy:
+      resources:
+        limits:
+          memory: 350M
 networks: 
   webappnetwork:
     driver: bridge
