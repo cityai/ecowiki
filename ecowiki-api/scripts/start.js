@@ -7,7 +7,7 @@ const http = require('http');
 
 // custom imports
 const env = process.env.NODE_ENV;
-const config = require(`../config/env/${env}.config.json`);
+const config = require(`../config/env/prod.config.json`);
 
 const port = normalizePort(config.port || '3000');
 app.set(port);
