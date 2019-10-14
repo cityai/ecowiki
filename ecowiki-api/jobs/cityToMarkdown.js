@@ -77,12 +77,12 @@ class MarkdownTransform {
                 //     })
                 // })
 
-                await fs.readFile(filePath, async (err, data) => {
-                    if (err) return console.log(err);
-                    data = data.toString().split("\n");
-                    city = await this.analyzePage(data, city);
-                    await this.analyzeOrgs(data, city);
-                })
+                // await fs.readFile(filePath, async (err, data) => {
+                //     if (err) return console.log(err);
+                //     data = data.toString().split("\n");
+                //     city = await this.analyzePage(data, city);
+                //     await this.analyzeOrgs(data, city);
+                // })
                 await fs.readFile(templatePath, async (error, data) => {
                     if (error) return console.log(error);
 
