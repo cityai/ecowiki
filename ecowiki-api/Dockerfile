@@ -6,4 +6,5 @@ USER root
 RUN npm install
 COPY --chown=node:node . ./
 EXPOSE 3000
-CMD ["npm", "start"]
+
+CMD ["node","--max-old-space-size=4096","scripts/start.js","npm", "start"]
