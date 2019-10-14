@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 const env = process.env.NODE_ENV;
-const config = require(`../../config/env/${env}.config.json`);
+const config = require(`../../config/env/prod.config.json`);
 
 
 class SetupDBContext {
