@@ -27,7 +27,7 @@ class MarkdownConvertor {
                         }
                         break;
                     case "followers":
-                        data.splice(index, 0, "**Number of followers:** " + document[i][attributesArray[j]]);
+                        data.splice(index, 0, "**Followers:** " + document[i][attributesArray[j]]);
                         index++;
                         break;
                     case "link":
@@ -41,7 +41,7 @@ class MarkdownConvertor {
                         index++;
                         break;
                     case "members":
-                        data.splice(index, 0, "**Number of members:** " + document[i][attributesArray[j]])
+                        data.splice(index, 0, "**Members:** " + document[i][attributesArray[j]])
                         index++;
                         break;
                     case "investment":
