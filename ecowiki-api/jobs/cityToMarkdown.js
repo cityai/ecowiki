@@ -35,7 +35,7 @@ class MarkdownTransform {
                     if (err) return console.log(err);
                     data = data.toString().split("\n");
                     if (community) {
-                        data = this.addMultipleLines(data, community, "groups", community.groups.length, "<div class=groups>", ["name", "members", "category", "organizer", "description"]);
+                        data = this.addMultipleLines(data, community, "groups", community.groups.length, "<div class=groups>", ["name", "members", "category", "organizer"]);
                         data = this.addMultipleLines(data, community, "influencers", community.influencers.length, "<div class=influencers>", ["name", "followers"]);
                     }
                     await fs.writeFile(dirPath + "/community.md", "", async err => {
@@ -77,12 +77,12 @@ class MarkdownTransform {
                     })
                 })
 
-                // await fs.readFile(filePath, async (err, data) => {
-                //     if (err) return console.log(err);
-                //     data = data.toString().split("\n");
-                //     city = await this.analyzePage(data, city);
-                //     await this.analyzeOrgs(data, city);
-                // })
+                await fs.readFile(filePath, async (err, data) => {
+                    if (err) return console.log(err);
+                    data = data.toString().split("\n");
+                    city = await this.analyzePage(data, city, community);
+                    await this.analyzeOrgs(data, city);
+                })
                 await fs.readFile(templatePath, async (error, data) => {
                     if (error) return console.log(error);
 
@@ -215,11 +215,10 @@ class MarkdownTransform {
         return data;
     }
 
-    async analyzePage(data, city) {
+    async analyzePage(data, city, community) {
         let overview = "";
         let index = data.indexOf("<div class=overview>") + 1;
-        if(index>1)
-        {
+        if (index > 1) {
             for (; index < data.indexOf("</div>"); index++)
                 overview += data[index] + " ";
             if (city.overview !== overview) {
@@ -227,49 +226,48 @@ class MarkdownTransform {
                 await City.updateOne({ name: city.name }, { $set: { overview: city.overview } }, { new: true });
             }
         }
-        let status = "";
+
         let indexState = data.indexOf("<div class=status>") + 1;
-        if(indexState>1)
-        {}
-        while (data[indexState] !== "</div>") {
-            status += data[indexState] + " ";
-            indexState++;
+        if (indexState > 1) {
+            let status = "\nAt this AI Ecosystem you can check out <strong>" + city.events.length + "</strong> AI related events in which you can participate. If you want to get in contact with global AI community" +
+                ", you can find <strong>" + community.influencers.length + "</strong> AI influencers and <strong>" + community.groups.length + "</strong> community groups. Also, see the work and get information" +
+                " about <strong>" + city.startups.length + "</strong> startups that create interesting projects using AI. Also there are <strong>" + city.organizations.length + "</strong> AI related local organizations!\n";
+            data.splice(indexState, 0, status);
         }
-        if (city.status !== status) {
-            city.status = status.trim();
-            await City.updateOne({ name: city.name }, { $set: { status: city.status } }, { new: true });
-        }
+
         return city;
     }
 
     async analyzeOrgs(data, city) {
         let index = data.indexOf('<div class=organizations>');
-        let startIndex = index;
-        while (data[index] !== '</div>')
-            index++;
-        let orgsData = data.slice(startIndex, index);
-        for (let i = 0; i < orgsData.length; i++) {
-            try {
+        if (index > 1) {
+            let startIndex = index;
+            while (data[index] !== '</div>')
+                index++;
+            let orgsData = data.slice(startIndex, index);
+            for (let i = 0; i < orgsData.length; i++) {
+                try {
 
-                if (orgsData[i].includes('#### ')) {
-                    let orgName = orgsData[i].substring(5).trim();
-                    let org = await Organization.findOne({ name: orgName });
-                    if (!org) {
-                        const organization = new Organization({
-                            name: orgName,
-                            category: orgsData[i + 1].trim(),
-                            founder: orgsData[i + 2].substring(14).trim(),
-                            link: orgsData[i + 3].trim(),
-                            description: orgsData[i + 4].substring(16).trim(),
-                            location: city.name,
-                        });
-                        await organization.save();
-                        i = i + 4;
+                    if (orgsData[i].includes('#### ')) {
+                        let orgName = orgsData[i].substring(5).trim();
+                        let org = await Organization.findOne({ name: orgName });
+                        if (!org) {
+                            const organization = new Organization({
+                                name: orgName,
+                                category: orgsData[i + 1].trim(),
+                                founder: orgsData[i + 2].substring(14).trim(),
+                                link: orgsData[i + 3].trim(),
+                                description: orgsData[i + 4].substring(16).trim(),
+                                location: city.name,
+                            });
+                            await organization.save();
+                            i = i + 4;
+                        }
                     }
                 }
-            }
-            catch (err) {
-                console.log(err);
+                catch (err) {
+                    console.log(err);
+                }
             }
         }
 
