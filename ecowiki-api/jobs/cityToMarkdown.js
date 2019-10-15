@@ -80,7 +80,7 @@ class MarkdownTransform {
                 await fs.readFile(filePath, async (err, data) => {
                     if (err) return console.log(err);
                     data = data.toString().split("\n");
-                    city = await this.analyzePage(data, city, community);
+                    city = await this.analyzePage(data, city);
                     await this.analyzeOrgs(data, city);
                 })
                 await fs.readFile(templatePath, async (error, data) => {
@@ -88,6 +88,7 @@ class MarkdownTransform {
 
                     data = data.toString().split("\n");
                     //console.log(city);
+                    data = this.addMetrics(data,city,community);
                     data.splice(0, 0, "<!-- TITLE: " + city.name + " AI -->");
                     data = this.addOneLine(data, city, "overview", "<div class=overview>");
                     if (city.startups)
@@ -215,7 +216,7 @@ class MarkdownTransform {
         return data;
     }
 
-    async analyzePage(data, city, community) {
+    async analyzePage(data, city) {
         let overview = "";
         let index = data.indexOf("<div class=overview>") + 1;
         if (index > 1) {
@@ -227,6 +228,10 @@ class MarkdownTransform {
             }
         }
 
+        return city;
+    }
+
+    addMetrics(data, city, community) {
         let indexState = data.indexOf("<div class=status>") + 1;
         if (indexState > 1) {
             let status = "\nAt this AI Ecosystem you can check out <strong>" + city.events.length + "</strong> AI related events in which you can participate. If you want to get in contact with global AI community" +
@@ -234,8 +239,7 @@ class MarkdownTransform {
                 " about <strong>" + city.startups.length + "</strong> startups that create interesting projects using AI. Also there are <strong>" + city.organizations.length + "</strong> AI related local organizations!\n";
             data.splice(indexState, 0, status);
         }
-
-        return city;
+        return data;
     }
 
     async analyzeOrgs(data, city) {
