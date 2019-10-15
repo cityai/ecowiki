@@ -1,12 +1,12 @@
 <!-- TITLE: Communities -->
 <!-- SUBTITLE: A quick summary of Communities -->
 
-# Groups
-<div class=groups>
+# Influencers
+<div class=influencers>
 
 </div>
 
-# Influencers
-<div class=influencers>
+# Groups
+<div class=groups>
 
 </div>
