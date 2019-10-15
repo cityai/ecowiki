@@ -31,51 +31,51 @@ class MarkdownTransform {
                 const CommunityTemplate = "./data/communitiesTemplate.md";
                 const eventsTemplate = "./data/global-eventsTemplate.md"
 
-                // await fs.readFile(CommunityTemplate, async (err, data) => {
-                //     if (err) return console.log(err);
-                //     data = data.toString().split("\n");
-                //     if (community) {
-                //         data = this.addMultipleLines(data, community, "groups", community.groups.length, "<div class=groups>", ["name", "members", "category", "organizer", "description"]);
-                //         data = this.addMultipleLines(data, community, "influencers", community.influencers.length, "<div class=influencers>", ["name", "followers"]);
-                //     }
-                //     await fs.writeFile(dirPath + "/community.md", "", async err => {
-                //         if (err) return console.log(err);
-                //         for (let i = 0; i < data.length; i++)
-                //             fs.appendFileSync(dirPath + "/community.md", data[i] + "\n");
-                //         console.log("Groups and influencers are converted into markdown!")
+                await fs.readFile(CommunityTemplate, async (err, data) => {
+                    if (err) return console.log(err);
+                    data = data.toString().split("\n");
+                    if (community) {
+                        data = this.addMultipleLines(data, community, "groups", community.groups.length, "<div class=groups>", ["name", "members", "category", "organizer", "description"]);
+                        data = this.addMultipleLines(data, community, "influencers", community.influencers.length, "<div class=influencers>", ["name", "followers"]);
+                    }
+                    await fs.writeFile(dirPath + "/community.md", "", async err => {
+                        if (err) return console.log(err);
+                        for (let i = 0; i < data.length; i++)
+                            fs.appendFileSync(dirPath + "/community.md", data[i] + "\n");
+                        console.log("Groups and influencers are converted into markdown!")
 
-                //     })
-                // })
+                    })
+                })
 
-                // await fs.readFile(eventsTemplate, async (err, data) => {
-                //     if (err) return console.log(err);
-                //     data = data.toString().split("\n");
-                //     if (city.events) {
-                //         let futEvents = 0;
-                //         let pastEvents = 0;
+                await fs.readFile(eventsTemplate, async (err, data) => {
+                    if (err) return console.log(err);
+                    data = data.toString().split("\n");
+                    if (city.events) {
+                        let futEvents = 0;
+                        let pastEvents = 0;
 
-                //         for (let i = 0; i < city.events.length; i++) {
+                        for (let i = 0; i < city.events.length; i++) {
 
-                //             if (city.events[i].date.getTime() > Date.now())
-                //                 futEvents += 1;
-                //             else
-                //                 pastEvents += 1;
-                //         }
+                            if (city.events[i].date.getTime() > Date.now())
+                                futEvents += 1;
+                            else
+                                pastEvents += 1;
+                        }
 
-                //         data.splice(3, 0, "\n For this AI ecosystem there are currently " + futEvents + " future events that you can participate in, and " + pastEvents +
-                //             " events that have already been organized \n");
+                        data.splice(3, 0, "\n For this AI ecosystem there are currently " + futEvents + " future events that you can participate in, and " + pastEvents +
+                            " events that have already been organized \n");
 
 
-                //         data = this.addMultipleLines(data, city, "events", city.events.length, "<div class=events>", ["name", "date", "location", "organizer", "description"])
-                //     }
-                //     await fs.writeFile(dirPath + "/events.md", "", async err => {
-                //         if (err) return console.log(err);
-                //         for (let i = 0; i < data.length; i++)
-                //             fs.appendFileSync(dirPath + "/events.md", data[i] + "\n");
-                //         console.log("Events are converted into markdown!")
+                        data = this.addMultipleLines(data, city, "events", city.events.length, "<div class=events>", ["name", "date", "location", "organizer", "description"])
+                    }
+                    await fs.writeFile(dirPath + "/events.md", "", async err => {
+                        if (err) return console.log(err);
+                        for (let i = 0; i < data.length; i++)
+                            fs.appendFileSync(dirPath + "/events.md", data[i] + "\n");
+                        console.log("Events are converted into markdown!")
 
-                //     })
-                // })
+                    })
+                })
 
                 // await fs.readFile(filePath, async (err, data) => {
                 //     if (err) return console.log(err);
@@ -218,14 +218,19 @@ class MarkdownTransform {
     async analyzePage(data, city) {
         let overview = "";
         let index = data.indexOf("<div class=overview>") + 1;
-        for (; index < data.indexOf("</div>"); index++)
-            overview += data[index] + " ";
-        if (city.overview !== overview) {
-            city.overview = overview.trim();
-            await City.updateOne({ name: city.name }, { $set: { overview: city.overview } }, { new: true });
+        if(index>1)
+        {
+            for (; index < data.indexOf("</div>"); index++)
+                overview += data[index] + " ";
+            if (city.overview !== overview) {
+                city.overview = overview.trim();
+                await City.updateOne({ name: city.name }, { $set: { overview: city.overview } }, { new: true });
+            }
         }
         let status = "";
-        let indexState = data.indexOf("<div class=status>");
+        let indexState = data.indexOf("<div class=status>") + 1;
+        if(indexState>1)
+        {}
         while (data[indexState] !== "</div>") {
             status += data[indexState] + " ";
             indexState++;
