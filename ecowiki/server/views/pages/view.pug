@@ -96,8 +96,8 @@ block content
               img(src=appconfig.host + '/images/ai_wiki_logo_2019.svg' style='width:256px; height:60px;')
             else
               h1.title#title= pageData.meta.title
-            if pageData.meta.subtitle
-              h2.subtitle= pageData.meta.subtitle
+            //- if pageData.meta.subtitle
+            //-   h2.subtitle= pageData.meta.subtitle
           .content.mkcontent(v-pre, class=['is-code-light']) 
             != pageData.html
 
