@@ -5,12 +5,15 @@
 
 <div class=CityPageSpecific>
 
-# Overview
+
+# About
+
+<!-- ADMINS SHOULD WRITE OVERVIEW FOR CITIES IN <div class=overview> SECTION OF ABOUT -->
+
 <div class=overview>
 
 </div>
 
-# About
 <div class=status>
 
 </div>

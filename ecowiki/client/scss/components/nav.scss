@@ -170,7 +170,7 @@
 		transition: color .4s ease;
 		color: $header-color-text;
 		
-		padding-left: 10px;
+		padding-left: 18px;
 
 		i {
 			margin-right: 8px;
@@ -221,6 +221,7 @@
 		input[type=text] {
 			//background-color: $search-color-bg;
 			border:0;
+			border-radius: 0px;
 			box-shadow: unset;
 			background: transparent;
 			border-bottom:1px solid $search-color-border;
