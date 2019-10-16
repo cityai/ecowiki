@@ -3,6 +3,8 @@
 .hero {
 	padding-top: 20px;
 	padding-left: 66px;
+	padding-bottom: 60px;
+
 	background:$bg-primary;//linear-gradient(to right,$bg-primary,$bg-secondary);
 	//border-bottom: 1px solid  $hero-border-color;
 	position: relative;
@@ -14,7 +16,7 @@
 			$set-width:90px;
 			background: linear-gradient(to right,#000000,#C80000);
 			-webkit-background-clip: text;
-			padding-left:20px; 
+			//padding-left:20px; 
 			-webkit-text-fill-color: transparent;	
 		
 		font-weight: 900;
