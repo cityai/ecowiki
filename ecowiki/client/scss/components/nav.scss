@@ -153,6 +153,7 @@
 				background-color: $header-color-text;
 			}
 			img{
+				transition: filter .4s ease;
 				filter: invert(100%) sepia(100%) saturate(2%) hue-rotate(95deg) brightness(104%) contrast(101%);
 			}
 			background-color: $header-color-text;
