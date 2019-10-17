@@ -1,96 +1,94 @@
 @import "../base/variables.scss";
 
 .hero {
-	padding-top: 20px;
-	padding-left: 66px;
-	padding-bottom: 60px;
+  padding-top: 20px;
+  padding-left: 66px;
+  padding-bottom: 60px;
 
-	background:$bg-primary;//linear-gradient(to right,$bg-primary,$bg-secondary);
-	//border-bottom: 1px solid  $hero-border-color;
-	position: relative;
+  background: $bg-primary; //linear-gradient(to right,$bg-primary,$bg-secondary);
+  //border-bottom: 1px solid  $hero-border-color;
+  position: relative;
 
-	h1, h1.title {
-		position: relative;
-		width: max-content;
-			font-size: 70px;
-			$set-width:90px;
-			background: linear-gradient(to right,#000000,#C80000);
-			-webkit-background-clip: text;
-			//padding-left:20px; 
-			-webkit-text-fill-color: transparent;	
-		
-		font-weight: 900;
-	}
+  h1,
+  h1.title {
+    position: relative;
+    width: max-content;
+    font-size: 70px;
+    $set-width: 90px;
+    //background: linear-gradient(to right, #000000, #c80000);
+	background-color: black;
+	text-transform: uppercase;
+	-webkit-background-clip: text;
+    //padding-left:20px;
+    -webkit-text-fill-color: transparent;
 
-	h2 {
-		font-size: 16px;
-		color: $hero-color-h2;
-		border-top: thin solid black;
-		margin-top:80px;
-		padding-bottom: 80px;
-		padding-top:12px;
-		padding-left:20px;
-		font-weight: 400;
-		width: 300px;
-		letter-spacing: 3px;
-	}
+    font-weight: 900;
+  }
+
+  h2 {
+    font-size: 16px;
+    color: $hero-color-h2;
+    border-top: thin solid black;
+    margin-top: 80px;
+    padding-bottom: 80px;
+    padding-top: 12px;
+    padding-left: 20px;
+    font-weight: 400;
+    width: 300px;
+    letter-spacing: 3px;
+  }
 
   .pageicon {
-    position:absolute;
+    position: absolute;
     right: 20px;
     top: 28px;
     font-size: 48px;
-    color: mc('blue-grey', '500');
+    color: mc("blue-grey", "500");
   }
 
-	.hero-menu {
-		position: absolute;
-		right: 20px;
-		bottom: -1px;
-		z-index: 1;
-		display: flex;
+  .hero-menu {
+    position: absolute;
+    right: 20px;
+    bottom: -1px;
+    z-index: 1;
+    display: flex;
 
-		li {
-			display: flex;
-			margin-left: 1px;
+    li {
+      display: flex;
+      margin-left: 1px;
 
-			a, button {
-				background-color: mc('light-blue', '500');
-				color: #FFF;
-				display: inline-flex;
-				align-items: center;
-				justify-content: center;
-				padding: 0 15px;
-				height: 32px;
-				border: 1px solid mc('light-blue', '600');
-				font-family: $core-font-standard;
-				font-size: 13px;
-				transition: all 0.4s ease;
-				cursor: pointer;
-				text-decoration: none;
-				text-transform: uppercase;
+      a,
+      button {
+        background-color: mc("light-blue", "500");
+        color: #fff;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0 15px;
+        height: 32px;
+        border: 1px solid mc("light-blue", "600");
+        font-family: $core-font-standard;
+        font-size: 13px;
+        transition: all 0.4s ease;
+        cursor: pointer;
+        text-decoration: none;
+        text-transform: uppercase;
 
-				i {
-					margin-right: 10px;
-				}
+        i {
+          margin-right: 10px;
+        }
 
-				@each $color, $colorvalue in $material-colors {
-					&.is-#{$color} {
-						background-color: mc($color, '600');
-						border-color: mc($color, '600');
+        @each $color, $colorvalue in $material-colors {
+          &.is-#{$color} {
+            background-color: mc($color, "600");
+            border-color: mc($color, "600");
 
-						&:hover {
-							background-color: mc($color, '800');
-						}
-
-					}
-				}
-
-			}
-
-		}
-
-	}
-
+            &:hover {
+              background-color: mc($color, "800");
+            }
+          }
+        }
+      }
+    }
+  }
 }
-
