@@ -8,7 +8,7 @@
 
 </div>
 
-# AI ecosystems
+# Ecosystems
 
 
 
@@ -39,11 +39,11 @@ BETWEEN EVERY ORGANIZATION SCHEMA SHOULD BE BLANK LINE -->
 
 </div>
 
-# Newest Startups
+# Startups
 <div class=startups>
 
 </div>
 
-# Partners & Friends
+# Partners
 
 

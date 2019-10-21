@@ -3,7 +3,7 @@
 .hero {
   padding-top: 20px;
   padding-left: 66px;
-  padding-bottom: 60px;
+  padding-bottom: 64px;
 
   background: $bg-primary; //linear-gradient(to right,$bg-primary,$bg-secondary);
   //border-bottom: 1px solid  $hero-border-color;
@@ -13,7 +13,7 @@
   h1.title {
     position: relative;
     width: max-content;
-    font-size: 70px;
+    font-size: 64px;
     $set-width: 90px;
     //background: linear-gradient(to right, #000000, #c80000);
 	background-color: black;

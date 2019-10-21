@@ -31,7 +31,7 @@
     //background-color: mc('blue-grey', '50');
     //background: linear-gradient(to bottom, mc('blue-grey', '50'), mc('indigo', '50'));
     //border-bottom: 2px solid mc('indigo', '100');
-    font-size: 40px;
+    font-size: 32px;
     color: $content-color-text;
     //border-bottom: 1px solid black;
     //width: 300px;
@@ -57,9 +57,9 @@
   h2 {
     //background-color: lighten(mc('teal', '50'), 5%);
     color: $content-color-h2;
-    font-size: 26px;
-    padding-top: 15px;
-    padding-bottom: 21px;
+    font-size: 28px;
+    padding-top: 28px;
+    padding-bottom: 28px;
     // letter-spacing: 3px;
     // font-weight: normal;
   }
@@ -492,7 +492,7 @@
     margin: 0;
     padding-left: 15px;
     display: block;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 600;
   }
 
@@ -512,11 +512,11 @@
     padding-left: 10px;
   }
   .events p a {
-    color: #c80000;
+    color: #000;
     font-weight: bold;
     font-size: 20px;
     &:hover {
-      color: #dcdcdc;
+      color: #c80000;
     }
   }
   //--------------------------------------------STARTUPS SECTION
@@ -534,7 +534,7 @@
       }
     }
     h4 {
-      font-size: 20px;
+      font-size: 18px;
       font-weight: 900;
       padding: 20px 15px;
       text-transform: uppercase;
@@ -552,10 +552,13 @@
   }
   //--------------------------------------------INFLUENCERS SECTION
   .influencers {
-    font-size: 16px;
+    font-size: 18px;
   }
   .influencers a.internal-link {
-    color: #c80000;
+    color: #000;
+    &:hover {
+      color: #c80000;
+    }
   }
   .mkcontent .influencers p strong {
     padding-left: 25px;
@@ -566,7 +569,7 @@
     padding-bottom: 15px;
     display: inline-block;
     font-weight: 600;
-    font-size: 16px;
+    font-size: 18px;
   }
   .influencers p {
     display: block;
@@ -580,15 +583,18 @@
     white-space: pre;
   }
   .influencers a {
-    color: #c80000;
+    color: #000;
     font-weight: bold;
+    &:hover {
+      color: #c80000;
+    }
   }
 
   //---------------------------------------------STATUS SECTION
   .status p {
     display: block;
     letter-spacing: 0.5px;
-    font-size: 16px;
+    font-size: 18px;
   }
   //---------------------------------------------ORGANIZATIONS
   .organizations h4 {
