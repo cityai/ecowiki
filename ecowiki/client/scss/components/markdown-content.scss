@@ -530,7 +530,13 @@
       font-size: 16px;
 
       a {
-        color: $content-color-h2;
+        color: #000;
+        font-size: 18px;
+        font-weight: bold;
+        text-transform: uppercase;
+        &:hover {
+          color: #c80000;
+        }
       }
     }
     h4 {
@@ -584,6 +590,7 @@
   }
   .influencers a {
     color: #000;
+    font-size: 18px;
     font-weight: bold;
     &:hover {
       color: #c80000;
