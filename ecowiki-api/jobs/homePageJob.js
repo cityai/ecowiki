@@ -26,7 +26,7 @@ module.exports =async function(){
     //SORTING
     cities = _.sortBy(cities,"name");
     startups = _.sortBy(startups,"investment").reverse();
-    events = _.sortBy(events,"members");
+    events = _.sortBy(events,"date");
 
 
     await fs.readFile(templatePath,async (error,data)=>{
@@ -41,7 +41,7 @@ module.exports =async function(){
         let statusIndex = data.indexOf("<div class=status>") + 1;
         data.splice(statusIndex,0,statusStory);
 
-        data = MarkdownConvertor.addMultipleLinesFromArray(data,startups,10,"<div class=startups>",["name","categories","investment"]);
+        data = MarkdownConvertor.addMultipleLinesFromArray(data,startups,10,"<div class=startups>",["name","categories","investment", "location"]);
         data = MarkdownConvertor.addMultipleLinesFromArray(data,influencers,10,"<div class=influencers>", ["name", "followers"]);
         data = MarkdownConvertor.addMultipleLinesFromArray(data,events,10,"<div class=events>", ["name", "date", "location", "organizer"]);
         data = MarkdownConvertor.addMultipleLinesFromArray(data,organizations,10,"<div class=organizations>", ["name"]);

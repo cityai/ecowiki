@@ -135,6 +135,7 @@
     &:hover {
       color: $content-color-a-hover;
     }
+    &.internal
 
     &.toc-anchor {
       font-size: 80%;
@@ -221,6 +222,9 @@
       align-items: center;
       justify-content: center;
       font-size: 18px;
+      &:hover {
+        color: #c80000;
+      }
     }
     a.toc-anchor {
       padding: 0px;
@@ -602,6 +606,9 @@
     display: block;
     letter-spacing: 0.5px;
     font-size: 18px;
+  }
+  .status strong{
+    columns: #c80000;
   }
   //---------------------------------------------ORGANIZATIONS
   .organizations h4 {
