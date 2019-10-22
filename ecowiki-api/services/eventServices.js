@@ -27,7 +27,7 @@ class EventServices {
                 'refresh_token': refresh
             })
         })
-            .then(json => json.json());
+            .then(json => json.json()).catch(e=>console.log(e));
 
         const access = ans.access_token;
 

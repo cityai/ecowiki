@@ -27,7 +27,7 @@ class StartupServices {
 
             for (let i = 0; i < startups.data.items.length; i++) {
                 const newStartup = await fetch(urlSpecific + startups.data.items[i].properties.permalink + '?user_key=' + process.env.CRUNCHBASE_KEY)
-                .then(res => res.json());
+                .then(res => res.json()).catch(e=>console.log(e));
                 promises.push(newStartup);
             }
             Promise.all(promises).then(async function(results) {
@@ -108,7 +108,7 @@ class StartupServices {
                     };
                 };
             });
-        });
+        }).catch(e=>console.log(e));
         return 'done';
     };
 
