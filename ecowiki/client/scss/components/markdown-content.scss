@@ -627,6 +627,8 @@
 
     display: inline-block;
     a{
+      display: flex;
+      flex-direction: row;
       padding-bottom: 15px;
     }
   }
