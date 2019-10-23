@@ -44,5 +44,9 @@ BETWEEN EVERY ORGANIZATION SCHEMA SHOULD BE BLANK LINE -->
 </div>
 
 # Partners
+<div class=partners>
 
+<img src="../assets/images/Crunchbase_logo.png" style="width:200px; height:100px;"/>
+<img src="../assets/images/peltarion_logotype_horizontal_red.png" style="width:200px; height:100px;" />
+</div>
 

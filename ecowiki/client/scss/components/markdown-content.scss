@@ -556,9 +556,10 @@
     }
   }
   .overview p {
-    font-size: 16px;
+    font-size: 18px;
     color: black;
     display: inherit;
+    letter-spacing: 0.5px;
   }
   //--------------------------------------------INFLUENCERS SECTION
   .influencers {
@@ -618,5 +619,10 @@
   .organizations p {
 	display: block;
 	padding-bottom: 20px;
+  }
+
+  .partners {
+    display: flex;
+    flex-direction: row;
   }
 }
