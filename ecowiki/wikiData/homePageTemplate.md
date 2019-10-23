@@ -39,7 +39,9 @@ BETWEEN EVERY ORGANIZATION SCHEMA SHOULD BE BLANK LINE -->
 </div>
 
 # Startups
+<div class=logoCB>
 Powered by: <img src="/images/Crunchbase_logo.png" style="width:25%; height:25%;"/>
+</div>
 <div class=startups>
 
 </div>
@@ -47,7 +49,7 @@ Powered by: <img src="/images/Crunchbase_logo.png" style="width:25%; height:25%;
 # Partners
 <div class=partners>
 
-<img src="/images/Crunchbase_logo.png" style="width:200px; height:100px;"/>
-<img src="/images/peltarion_logotype_horizontal_red.png" style="width:200px; height:100px;" />
+<img src="/images/Crunchbase_logo.png" style="width:20%; height:20%;"/>
+<img src="/images/peltarion_logotype_horizontal_red.png" style="width:20%; height:20%;" />
 </div>
 
