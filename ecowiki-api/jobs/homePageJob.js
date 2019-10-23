@@ -34,8 +34,8 @@ module.exports =async function(){
         data = data.toString().split("\n");
         console.log(cities)
         console.log(data.indexOf("### A - Z"))
-        let statusStory = "\nAt WikiAI you can check <a href=\"#Ecosystems\"><strong>" + cities.length + "</strong> </a>active ecosystems, and you can find everything related to AI." +
-        " You can check out <strong><a href=\"#Events\" >" + events.length + "</a></strong> AI related events in which you can participate. If you want to get in contact with global AI community" +
+        let statusStory = "\nAt WikiAI you can check <a href=\"#ecosystems\"><strong> " + cities.length + "</strong> </a>active ecosystems, and you can find everything related to AI." +
+        " You can check out <a href=\"#events\" ><strong>" + events.length + "</strong></a> AI related events in which you can participate. If you want to get in contact with global AI community" +
         ", you can find <strong>" + influencers.length + "</strong> AI influencers and <strong>" + groups.length + "</strong> community groups. Also, see the work and get information" + 
         " about <strong>" + startups.length + "</strong> startups that create interesting projects using AI";
         let statusIndex = data.indexOf("<div class=status>") + 1;
