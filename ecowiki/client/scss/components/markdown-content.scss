@@ -625,8 +625,10 @@
 
   .partners p {
 
-    display: flex;
-    flex-direction: row;
+    display: inline-block;
+    a{
+      padding-bottom: 15px;
+    }
   }
   .logoCB{
     padding-top: 20px;
