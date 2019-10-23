@@ -57,9 +57,11 @@
   h2 {
     //background-color: lighten(mc('teal', '50'), 5%);
     color: $content-color-h2;
-    font-size: 28px;
+    font-size: 20px;
     padding-top: 28px;
     padding-bottom: 28px;
+    border-top: 1px solid black;
+    width: 300px;
     // letter-spacing: 3px;
     // font-weight: normal;
   }
@@ -629,5 +631,6 @@
     padding-top: 20px;
     display: flex;  
     flex-direction: column;
+    padding-left: 15px;
   }
 }

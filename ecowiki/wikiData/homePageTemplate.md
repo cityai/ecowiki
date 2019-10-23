@@ -8,10 +8,11 @@
 </div>
 
 # Ecosystems
-
+## A-Z
 
 
 # Events
+## LATEST
 <div class=events>
 
 </div>
@@ -34,13 +35,15 @@ EVERY CHARACTER LIKE # AND * ARE VITAL, SO WE ADVISE YOU TO COPY THE SCHEMA AND 
 BETWEEN EVERY ORGANIZATION SCHEMA SHOULD BE BLANK LINE -->
 
 # Organizations
+## Local organizations
 <div class=organizations>
 
 </div>
 
 # Startups
+## Top startups
 <div class=logoCB>
-Powered by: <img src="/images/Crunchbase_logo.png" style="width:20%; height:20%;"/>
+Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo.png" style="width:10%; height:10%;"/></a>
 </div>
 <div class=startups>
 
