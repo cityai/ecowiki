@@ -12,7 +12,7 @@
 
 
 # Events
-## LATEST
+## Latest
 <div class=events>
 
 </div>
@@ -43,7 +43,7 @@ BETWEEN EVERY ORGANIZATION SCHEMA SHOULD BE BLANK LINE -->
 # Startups
 ## Top startups
 <div class=logoCB>
-Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo.png" style="width:10%; height:10%;"/></a>
+Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo.png" style="width:10%;"/></a>
 </div>
 <div class=startups>
 
@@ -52,7 +52,9 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo.
 # Partners
 <div class=partners>
 
-<img src="/images/Crunchbase_logo.png" style="width:20%; height:20%;"/>
-<img src="/images/peltarion_logotype_horizontal_red.png" style="width:20%; height:20%;" />
+<a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo.png" style="width:20%; height:20%;"/></a>
+<a href="https://peltarion.com/"><img src="/images/peltarion_logotype_horizontal_red.png" style="width:20%;" /></a>
+<a href="https://ticketless.ai/"><img src="/images/Ticketless_logo.png" style="width:20%;" /></a>
+
 </div>
 
