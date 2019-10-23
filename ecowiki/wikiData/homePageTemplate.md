@@ -52,7 +52,7 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo.
 # Partners
 <div class=partners>
 
-<a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo.png" style="width:20%; height:20%;"/></a>
+<a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo.png" style="width:20%;"/></a>
 <a href="https://peltarion.com/"><img src="/images/peltarion_logotype_horizontal_red.png" style="width:20%;" /></a>
 <a href="https://ticketless.ai/"><img src="/images/Ticketless_logo.png" style="width:20%;" /></a>
 
