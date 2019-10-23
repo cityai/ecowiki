@@ -17,7 +17,7 @@ class CheckForCity {
             
             if(!cities.includes(dirArray[i]))
                 {
-                    if([".git", "main","uploads","home.md","cityTemplate.md"].includes(dirArray[i])) continue;
+                    if([".git", "main","uploads","home.md","cityTemplate.md","about.md"].includes(dirArray[i])) continue;
                     const city = new City({name: dirArray[i].replace(/-/g," ").capitalize()})
                     await city.save();
                 }
