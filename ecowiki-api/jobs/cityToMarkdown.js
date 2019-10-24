@@ -23,6 +23,15 @@ class MarkdownTransform {
                 if (community)
                     community.groups = _.sortBy(community.groups, "members").reverse();
                 city.events = _.sortBy(city.events, "date");
+                try{
+                    while(city.events[0].date.getTime() < Date.now())
+                    {
+                        city.events.shift();
+                    }
+                }
+                catch(e){
+                    console.log(e);
+                }
                 city.startups = _.sortBy(city.startups, "investment").reverse();
                 console.log(__dirname, process.cwd());
                 const filePath = path.join(process.cwd(), "content", location.toLowerCase().replace(/ /g, "-"), "home.md");

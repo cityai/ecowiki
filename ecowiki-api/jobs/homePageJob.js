@@ -28,7 +28,15 @@ module.exports =async function(){
     startups = _.sortBy(startups,"investment").reverse();
     events = _.sortBy(events,"date");
     groups = _.sortBy(groups, "members").reverse();
-
+    try{
+        while(city.events[0].date.getTime() < Date.now())
+        {
+            city.events.shift();
+        }
+    }
+    catch(e){
+        console.log(e);
+    }
 
     await fs.readFile(templatePath,async (error,data)=>{
         if (error) throw error;
