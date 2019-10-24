@@ -11,6 +11,11 @@
 ## A-Z
 
 
+# Top Communities
+<div class=groups>
+
+</div>
+
 # Events
 ## Latest
 <div class=events>
