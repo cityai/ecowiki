@@ -21,13 +21,11 @@
 </div>
 
 # Community
-
-## Groups
 <div class=groups>
 
 </div>
 
-## Influencers
+# Influencers
 <div class=influencers>
 
 </div>
