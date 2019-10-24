@@ -17,8 +17,8 @@
 
 </div>
 
-# Community
-<div class=groups>
+# Influencers
+<div class=influencers>
 
 </div>
 
