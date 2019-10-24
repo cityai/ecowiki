@@ -21,7 +21,7 @@ class InfluencerServices{
         });
         
         //Formats the name of city so that it does not have uppercase letters and spacings
-        const listName = location.toLowerCase().replace(/ /g,'-') + '-ai-influencers';
+        const listName = location.toLowerCase().replace(/ /g,'-') + '-ai-infl';
         const params = {owner_screen_name: 'thecityai', slug: listName}; 
         
         await client.get('lists/members',params,async (err,res,response)=>
