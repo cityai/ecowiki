@@ -244,11 +244,22 @@ class MarkdownTransform {
         let indexState = data.indexOf("<div class=status>") + 1;
         if (indexState > 1 && city && community) {
             let status = "\nAt this AI Ecosystem you can check out <strong>" + city.events.length + "</strong> AI related events in which you can participate. If you want to get in contact with global AI community" +
-                ", you can find <strong>" + community.influencers.length + "</strong> AI influencers and <strong>" + community.groups.length + "</strong> community groups. Also, see the work and get information" +
+                ", you can find <strong>" + community.influencers.length + "</strong> AI influencers and <strong>" + community.groups.length + "</strong> community groups with <strong>" + this.numberOfMembers(community) + "</strong> community members. Also, see the work and get information" +
                 " about <strong>" + city.startups.length + "</strong> startups that create interesting projects using AI. Also there are <strong>" + city.organizations.length + "</strong> AI related local organizations!\n";
             data.splice(indexState, 0, status);
         }
         return data;
+    }
+
+    numberOfMembers(community){
+        if(community.groups)
+        {
+            let mem = 0;
+            for(let i =0;i<community.groups.length;i++)
+                mem+= community.groups[i].members;
+            return Math.round(mem*60/100);
+        }
+        else return 0;
     }
 
     async analyzeOrgs(data, city) {
