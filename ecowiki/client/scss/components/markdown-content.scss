@@ -623,13 +623,18 @@
 	padding-bottom: 20px;
   }
 
+  .partners{
+    display: flex;
+    flex-direction: row;
+  }
   .partners p {
 
-    display: inline-block;
+    display: flex;
     a{
       display: flex;
       flex-direction: row;
       padding-bottom: 15px;
+      width: 500px;
     }
   }
   .logoCB{
