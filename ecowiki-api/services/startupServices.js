@@ -107,7 +107,7 @@ class StartupServices {
                         };
                     };
                 };
-            });
+            }).catch(e=>console.log(e));
         }).catch(e=>console.log(e));
         return 'done';
     };
