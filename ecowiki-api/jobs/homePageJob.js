@@ -29,9 +29,9 @@ module.exports =async function(){
     events = _.sortBy(events,"date");
     groups = _.sortBy(groups, "members").reverse();
     try{
-        while(city.events[0].date.getTime() < Date.now())
+        while(events[0].date.getTime() < Date.now())
         {
-            city.events.shift();
+            events.shift();
         }
     }
     catch(e){
