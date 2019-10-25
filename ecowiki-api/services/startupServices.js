@@ -37,7 +37,7 @@ class StartupServices {
                         leader = new Founder({
                             name: results[i].data.relationships.current_team.items[0].relationships.person.properties.first_name + ' ' + results[i].data.relationships.current_team.items[0].relationships.person.properties.last_name,
                             picture: results[i].data.relationships.current_team.items[0].relationships.person.properties.profile_image_url,
-                            link: 'www.crunchbase.com/' + results[i].data.relationships.current_team.items[0].relationships.person.properties.web_path,
+                            link: 'https/www.crunchbase.com/' + results[i].data.relationships.current_team.items[0].relationships.person.properties.web_path,
                             title: results[i].data.relationships.current_team.items[0].properties.title,
                             location: results[i].data.relationships.headquarters.item.properties.city,
                         });
