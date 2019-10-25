@@ -540,8 +540,10 @@
         font-size: 18px;
         font-weight: bold;
         text-transform: uppercase;
+        margin:0;
         &:hover {
           color: #c80000;
+          margin: 0;
         }
       }
     }
