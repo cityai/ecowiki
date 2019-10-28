@@ -7,9 +7,6 @@ defaultEntryPoints = ["http", "https"]
   address = ":443"
     [entryPoints.https.tls]
 
-  [[tls.certificates]]
-    certFile = "/aiwiki.co.pem"
-    keyFile = "/aiwiki.co.key"
 
   [entryPoints.foo]
   address = ":8080"
@@ -17,6 +14,9 @@ defaultEntryPoints = ["http", "https"]
     [entryPoints.foo.auth.basic]
       usersFile = "/.htpasswd"
 
+[[tls.certificates]]
+  certFile = "/aiwiki.co.pem"
+  keyFile = "/aiwiki.co.key"
 [api]
 entryPoint = "foo"
 
