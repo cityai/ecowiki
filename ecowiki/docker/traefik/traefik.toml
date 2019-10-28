@@ -3,6 +3,13 @@ defaultEntryPoints = ["http"]
 [entryPoints]
   [entryPoints.http]
   address = ":80"
+  [entryPoints.https]
+  address = ":443"
+    [entryPoints.https.tls]
+
+  [[tls.certificates]]
+    certFile = "/aiwiki.co.pem"
+    keyFile = "/aiwiki.co.key"
 
   [entryPoints.foo]
   address = ":8080"

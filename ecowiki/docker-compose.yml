@@ -35,11 +35,14 @@ services:
     command: --web --docker --docker.domain=docker.localhost --logLevel=${LEVEL}
     ports:
       - "80:80"
+      - "443:443"
       - "8080:8080"
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
       - ./docker/traefik/.htpasswd:/.htpasswd
       - ./docker/traefik/traefik.toml:/traefik.toml
+      - ./docker/traefik/aiwiki.co.pem:/aiwiki.co.pem
+      - ./docker/traefik/aiwiki.co.key:/aiwiki.co.key
   python:
     image: python
     build: ./docker/python
