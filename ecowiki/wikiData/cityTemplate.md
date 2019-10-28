@@ -5,6 +5,9 @@
 
 <div class=CityPageSpecific>
 
+<div class=status>
+
+</div>
 
 # About
 
