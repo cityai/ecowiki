@@ -54,7 +54,7 @@ module.exports =async function(){
         data = MarkdownConvertor.addMultipleLinesFromArray(data,influencers,10,"<div class=influencers>", ["name", "followers", "location"]);
         data = MarkdownConvertor.addMultipleLinesFromArray(data,groups,10,"<div class=groups>", ["name", "members", "category", "organizer", "location"]);
         data = MarkdownConvertor.addMultipleLinesFromArray(data,events,10,"<div class=events>", ["name", "date", "location", "organizer"]);
-        data = MarkdownConvertor.addMultipleLinesFromArray(data,organizations,10,"<div class=organizations>", ["name", "members", "category", "organizer"]);
+        data = MarkdownConvertor.addMultipleLinesFromArray(data,organizations,10,"<div class=organizations>", ["name", "category", "founder", "link", "description"]);
         data = MarkdownConvertor.addMultipleLinesFromArray(data,cities,cities.length,'## A-Z',["cityLink"]);
         await fs.writeFile(filePath, "", async err => {
             if (err) await fs.mkdir(dirPath, err => {
