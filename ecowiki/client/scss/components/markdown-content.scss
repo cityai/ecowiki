@@ -51,6 +51,7 @@
 
     & + p {
       padding-top: 20px;
+      display: block;
     }
   }
 
@@ -471,6 +472,18 @@
     padding-left: 15px;
     display: block;
   }
+  .groups p a{
+    font-size: 20px;
+    font-weight: 700;
+    color: #000;
+    text-transform: capitalize;
+    line-height: 28px;
+    margin: 20px 0 0 0;
+    display: block;
+    &:hover {
+      color: #c80000;
+    }
+  }
   .groups h4 {
     font-size: 20px;
     font-weight: 700;
@@ -480,7 +493,7 @@
     display: block;
   }
   .groups p {
-    display: inline;
+    display: block;
     font-size: 16px;
     line-height: 28px;
     padding: 5px;
