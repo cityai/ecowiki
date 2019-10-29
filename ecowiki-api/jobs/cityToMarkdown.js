@@ -161,7 +161,7 @@ class MarkdownTransform {
 
                 switch (attributesArray[j]) {
                     case "name":
-                        if (docObj === "influencers" || docObj === "events" || docObj === "startups") {
+                        if (docObj === "influencers" || docObj === "events" || docObj === "startups" || docObj === "groups") {
                             data.splice(index, 0, "[" + document[docObj][i][attributesArray[j]] + "](" + document[docObj][i]["link"] + ")");
                             index++;
                         }
