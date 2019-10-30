@@ -20,7 +20,6 @@
 </div>
 
 # Events
-## Latest
 <div class=events>
 
 </div>
@@ -42,13 +41,11 @@ EVERY CHARACTER LIKE # AND * ARE VITAL, SO WE ADVISE YOU TO COPY THE SCHEMA AND 
 BETWEEN EVERY ORGANIZATION SCHEMA SHOULD BE BLANK LINE -->
 
 # Organizations
-## Local organizations
 <div class=organizations>
 
 </div>
 
 # Startups
-## Top startups
 <div class=logoCB>
 Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo.png" style="width:10%;"/></a>
 </div>
