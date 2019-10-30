@@ -139,7 +139,9 @@
         span {
           display: none;
         }
-
+		&:hover {
+			  color: #c80000;
+		  }
         &:hover {
           i {
             color: #c80000;
