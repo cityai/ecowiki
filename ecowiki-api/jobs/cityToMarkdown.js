@@ -265,7 +265,7 @@ class MarkdownTransform {
             let mem = 0;
             for(let i =0;i<community.groups.length;i++)
                 mem+= community.groups[i].members;
-            return Math.round(mem*60/100);
+            return Math.round(mem*40/100);
         }
         else return 0;
     }
