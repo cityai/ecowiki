@@ -50,7 +50,10 @@
 
 			li {
 				display: block;
-
+				a:hover {
+					color: #c80000;
+					text-decoration: none;
+				}
 				a {
 					display: flex;
 					min-height: 30px;
@@ -60,10 +63,7 @@
 					font-size: 14px;
 					transition: all .4s ease;
 					line-height: 14px;
-					&:hover {
-						color: #c80000;
-						text-decoration: none;
-					}
+					
           cursor: pointer;
 
           &.is-multiline {
