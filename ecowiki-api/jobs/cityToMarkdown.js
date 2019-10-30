@@ -212,6 +212,10 @@ class MarkdownTransform {
                         data.splice(index, 0, "**Organizer:** " + document[docObj][i][attributesArray[j]].toString());
                         index++;
                         break;
+                    case "founder":
+                        data.splice(index, 0, "**Founder:** " + document[docObj][i][attributesArray[j]].toString());
+                        index++;
+                        break;
                     case "location":
                         data.splice(index, 0, "**Location:** " + document[docObj][i][attributesArray[j]].toString());
                         index++;
