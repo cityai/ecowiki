@@ -175,14 +175,8 @@ class MarkdownTransform {
                         index++;
                         break;
                     case "link":
-                        if (docObj == "organizations") {
-                            data.splice(index, 0, document[docObj][i][attributesArray[j]]);
+                            data.splice(index, 0, "**Link:** [" + document[docObj][i][attributesArray[j]] + "](" + document[docObj][i][attributesArray[j]] + ")");
                             index++;
-                        }
-                        else {
-                            data.splice(index, 0, "Link: [" + document[docObj][i][attributesArray[j]] + "](" + document[docObj][i][attributesArray[j]] + ")");
-                            index++;
-                        }
                         break;
                     case "description":
                         if (!document[docObj][i][attributesArray[j]])
@@ -200,7 +194,13 @@ class MarkdownTransform {
                         break;
                     case "categories":
                         if (document[docObj][i][attributesArray[j]]) {
-                            data.splice(index, 0, document[docObj][i][attributesArray[j]].toString().replace(/,/g, ", "));
+                            data.splice(index, 0, "**Categories:** " + document[docObj][i][attributesArray[j]].toString().replace(/,/g, ", "));
+                            index++;
+                        }
+                        break;
+                    case "category":
+                        if (document[docObj][i][attributesArray[j]]) {
+                            data.splice(index, 0, "**Categories:** " + document[docObj][i][attributesArray[j]].toString().replace(/,/g, ", "));
                             index++;
                         }
                         break;
@@ -210,6 +210,10 @@ class MarkdownTransform {
                         break;
                     case "organizer":
                         data.splice(index, 0, "**Organizer:** " + document[docObj][i][attributesArray[j]].toString());
+                        index++;
+                        break;
+                    case "location":
+                        data.splice(index, 0, "**Location:** " + document[docObj][i][attributesArray[j]].toString());
                         index++;
                         break;
                     default:

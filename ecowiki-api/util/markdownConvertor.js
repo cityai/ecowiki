@@ -31,7 +31,7 @@ class MarkdownConvertor {
                         index++;
                         break;
                     case "link":
-                        data.splice(index, 0, "Link: [" + document[i][attributesArray[j]] + "](" + document[i][attributesArray[j]] + ")");
+                        data.splice(index, 0, "**Link:** [" + document[i][attributesArray[j]] + "](" + document[i][attributesArray[j]] + ")");
                         index++;
                         break;
                     case "description":
@@ -61,6 +61,12 @@ class MarkdownConvertor {
                     case "organizer":
                         if(document[i][attributesArray[j]]){
                             data.splice(index, 0, "**Organizer:** " + document[i][attributesArray[j]].toString());
+                            index++;
+                        }
+                        break;
+                    case "location":
+                        if(document[i][attributesArray[j]]){
+                            data.splice(index, 0, "**Location:** " + document[i][attributesArray[j]].toString());
                             index++;
                         }
                         break;
