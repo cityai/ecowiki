@@ -41,6 +41,7 @@ EVERY CHARACTER LIKE # AND * ARE VITAL, SO WE ADVISE YOU TO COPY THE SCHEMA AND 
 BETWEEN EVERY ORGANIZATION SCHEMA SHOULD BE BLANK LINE -->
 
 # Organizations
+Active local organizations and initiatives related to AI
 <div class=organizations>
 
 </div>
