@@ -31,7 +31,7 @@ class GroupServices{
         .then(json=>json.json());
  
         const access = ans.access_token;
-        const groups = await fetch(`https://api.meetup.com/find/groups?&sign=true&photo-host=public&location=`+location+`&text=Artificial intelligence&category=34&order=members&page=100&desc=true&key=212b746b232c1e453431465736a56b`,
+        const groups = await fetch(`https://api.meetup.com/find/groups?&sign=true&photo-host=public&location=`+location+`&text=Artificial intelligence&radius=10&category=34&order=members&page=100&desc=true&key=212b746b232c1e453431465736a56b`,
         {
           method:'GET',
           headers:new Headers({'Authorization':'Bearer ' + access}),
