@@ -60,6 +60,10 @@
 					font-size: 14px;
 					transition: all .4s ease;
 					line-height: 14px;
+					&:hover {
+						color: mc('blue-grey', '400');
+						text-decoration: none;
+					}
           cursor: pointer;
 
           &.is-multiline {
@@ -82,10 +86,7 @@
 						color: mc('blue-grey', '300');
 					}
 
-					&:hover {
-						color: mc('blue-grey', '400');
-						text-decoration: none;
-					}
+					
 
           .is-small {
             flex: 1 0 100%;
@@ -142,11 +143,11 @@
 		&:hover {
 			  color: #c80000;
 		  }
-        &:hover {
-          i {
-            color: #c80000;
-          }
-        }
+        // &:hover {
+        //   i {
+        //     color: #c80000;
+        //   }
+        // }
       }
 
     }
