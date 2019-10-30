@@ -17,7 +17,7 @@ services:
     expose: [3001]
     environment:
       WIKI_ADMIN_EMAIL: admin@example.com
-      HOST: https://aiwiki.co/
+      HOST: https://aiwiki.co
     volumes:
       - ./config.yml:/var/wiki/config.yml
       - ./content:/var/wiki/repo
