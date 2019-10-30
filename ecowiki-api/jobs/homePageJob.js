@@ -28,9 +28,12 @@ module.exports =async function(){
     startups = _.sortBy(startups,"investment").reverse();
     events = _.sortBy(events,"date");
     groups = _.sortBy(groups, "members").reverse();
+
+    let pastEvents = 0;
     try{
         while(events[0].date.getTime() < Date.now())
         {
+            pastEvents = pastEvents + 1;
             events.shift();
         }
     }
@@ -60,6 +63,11 @@ module.exports =async function(){
         let subheadingIndex = data.indexOf("# Ecosystems") + 1;
         let subheadingTextEcosystems = "Check any of the " + cities.length + " unloked AI ecosystems. If yours isn't listed yet contact us at [aiwiki@city.ai](mailto:aiwiki@city.ai)"; 
         data.splice(subheadingIndex,0, subheadingTextEcosystems);
+
+        subheadingIndex = data.indexOf("# Events")+ 1;
+        let subheadingTextEvents = " You can join more then " + events.length +" upcoming events in "+ cities.length + " cities around the world in the coming weeks. In past "+ pastEvents +" events have been organized by the global AI community"
+        data.splice(subheadingIndex,0,subheadingTextEvents);
+        
         await fs.writeFile(filePath, "", async err => {
             if (err) await fs.mkdir(dirPath, err => {
                 if (err) return console.log(err);
