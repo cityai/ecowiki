@@ -136,6 +136,7 @@ class MarkdownTransform {
     addOneLine(data, document, docObj, setctionText) {
         let index = data.indexOf(setctionText);
         index++;
+	console.log("IM HERE");
         if (document[docObj]) {
             data.splice(index, 0, "");
             index++;
@@ -236,9 +237,15 @@ class MarkdownTransform {
     async analyzePage(data, city) {
         let overview = "";
         let index = data.indexOf("<div class=overview>") + 1;
+	console.log("index ",index);
         if (index > 1) {
-            for (; index < data.indexOf("</div>"); index++)
-                overview += data[index] + " ";
+            //for (;data[index].includes("</div>");){
+             while(!data[index].includes("</div")){
+		  overview += data[index] + " ";
+		console.log("on index ",data[index]);
+		index  = index + 1;
+		}
+	    console.log("overbview ",overview);
             if (city.overview !== overview) {
                 city.overview = overview.trim();
                 await City.updateOne({ name: city.name }, { $set: { overview: city.overview } }, { new: true });
