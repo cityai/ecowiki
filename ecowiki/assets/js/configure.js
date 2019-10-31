@@ -43548,7 +43548,7 @@ if (FuseBox.isServer) {
 });
 return ___scope___.entry = "index.js";
 });
-FuseBox.pkg("axios", {"is-buffer":"2.0.3"}, function(___scope___){
+FuseBox.pkg("axios", {"is-buffer":"2.0.4"}, function(___scope___){
 ___scope___.file("index.js", function(exports, require, module, __filename, __dirname){
 
 module.exports = require('./lib/axios');
@@ -45067,7 +45067,7 @@ module.exports = function spread(callback) {
 });
 return ___scope___.entry = "index.js";
 });
-FuseBox.pkg("is-buffer@2.0.3", {}, function(___scope___){
+FuseBox.pkg("is-buffer@2.0.4", {}, function(___scope___){
 ___scope___.file("index.js", function(exports, require, module, __filename, __dirname){
 
 /*!
