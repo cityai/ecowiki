@@ -54,6 +54,12 @@
       display: block;
       color:#c80000;
       padding-bottom: 30px;
+      a{
+        color:#c80000;
+        &:hover{
+          color:black;
+        }
+      }
     }
   }
 
