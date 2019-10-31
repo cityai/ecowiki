@@ -59,8 +59,8 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo.
 Our global Founding Partners who enabled this initiative getting off the ground. A big THANKS for their support!
 <div class=partners>
 
-<a href="https://peltarion.com/"><img src="/images/peltarion_logotype_horizontal_red.png" style="width:20%;" /></a>
-<a href="https://ticketless.ai/"><img src="/images/Ticketless_logo.png" style="width:20%;" /></a>
+<a href="https://peltarion.com/"><img src="/images/peltarion_logotype_horizontal_red.png" style="width:20%;" /><span>A faster deep learning cloud platform - 50 free GPU hours for all AI Wiki friends [here](https://peltarion.com/signup)</span></a>
+<a href="https://ticketless.ai/"><img src="/images/Ticketless_logo.png" style="width:20%;" /><span>Workforce performance management for customer support</span></a>
 
 </div>
 
