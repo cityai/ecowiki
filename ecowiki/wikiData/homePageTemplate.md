@@ -60,12 +60,12 @@ Our global Founding Partners who enabled this initiative getting off the ground.
 <div class=partners>
 
 <p>
-<a href="https://peltarion.com/"><img src="/images/peltarion_logotype_horizontal_red.png" style="width:20%;" /></a>
-<p>A faster deep learning cloud platform - 50 free GPU hours for all AI Wiki friends <a src="https://peltarion.com/signup">here</a></p>
+    <a href="https://peltarion.com/"><img src="/images/peltarion_logotype_horizontal_red.png" style="width:20%;" /></a>
+    <p>A faster deep learning cloud platform - 50 free GPU hours for all AI Wiki friends <a src="https://peltarion.com/signup">here</a></p>
 </p>
 <p>
-<a href="https://ticketless.ai/"><img src="/images/Ticketless_logo.png" style="width:20%;" /></a>
-<p>Workforce performance management for customer support</p>
+    <a href="https://ticketless.ai/"><img src="/images/Ticketless_logo.png" style="width:20%;" /></a>
+    <p>Workforce performance management for customer support</p>
 </p>
 </div>
 
