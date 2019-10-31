@@ -61,7 +61,7 @@ module.exports =async function(){
         data = MarkdownConvertor.addMultipleLinesFromArray(data,cities,cities.length,'<div class=ecosystems>',["cityLink"]);
 
         let subheadingIndex = data.indexOf("# Ecosystems") + 1;
-        let subheadingTextEcosystems = "Check any of the " + cities.length + " unloked AI ecosystems. If yours isn't listed yet contact us at [aiwiki@city.ai](mailto:aiwiki@city.ai)"; 
+        let subheadingTextEcosystems = "Check any of the " + cities.length + " unloked AI ecosystems. If yours isn't listed yet contact us at [contact us](mailto:aiwiki@city.ai)"; 
         data.splice(subheadingIndex,0, subheadingTextEcosystems);
 
         subheadingIndex = data.indexOf("# Events")+ 1;
