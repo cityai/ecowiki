@@ -65,6 +65,10 @@ BETWEEN EVERY ORGANIZATION SCHEMA SHOULD BE BLANK LINE -->
 </div>
 
 # Startups
+
+<div class=logoCB>
+Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo.png" style="width:10%;"/></a>
+</div>
 <div class=startups>
 
 
