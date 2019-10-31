@@ -650,6 +650,11 @@
   .partners{
     display: flex;
     flex-direction: row;
+    span {
+      text-align: inherit;
+      display: inline-grid;
+      width: 50%;
+  }
   }
   .partners p {
 
