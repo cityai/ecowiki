@@ -71,6 +71,11 @@ module.exports =async function(){
         subheadingIndex = data.indexOf("# Top Communities") + 1;
         let subheadingTextCommunity = "Global AI community has "+ groups.length + " active community groups bringing people together around the topic of Artificial Intelligence"
         data.splice(subheadingIndex,0,subheadingTextCommunity);
+
+        subheadingIndex = data.indexOf("# Startups") + 1;
+        let subheadingTextStartups = "Check the newest startups from " + startups.length + " globally, coming out of "+ cities.length +" unlocked AI ecosystems!"
+        data.splice(subheadingIndex,0,subheadingTextStartups);
+        
         await fs.writeFile(filePath, "", async err => {
             if (err) await fs.mkdir(dirPath, err => {
                 if (err) return console.log(err);
