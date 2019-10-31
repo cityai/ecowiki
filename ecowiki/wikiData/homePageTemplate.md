@@ -61,7 +61,7 @@ Our global Founding Partners who enabled this initiative getting off the ground.
 
 <p>
     <a href="https://peltarion.com/"><img src="/images/peltarion_logotype_horizontal_red.png"  /></a>
-    <p>A faster deep learning cloud platform - 50 free GPU hours for all AI Wiki friends <a src="https://peltarion.com/signup">here</a></p>
+    <p>A faster deep learning cloud platform - 50 free GPU hours for all AI Wiki friends <a href="https://peltarion.com/signup">here</a></p>
 </p>
 <p>
     <a href="https://ticketless.ai/"><img src="/images/Ticketless_logo.png"  /></a>
