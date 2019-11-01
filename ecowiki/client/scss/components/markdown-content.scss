@@ -563,7 +563,7 @@
         text-transform: uppercase;
         margin:0;
         &:hover {
-          color: #c80000;
+          color: #c8000c;
           margin: 0;
         }
       }
@@ -662,7 +662,8 @@
     a{
       display: flex;
       flex-direction: row;
-      padding-bottom: 15px;
+      padding-bottom: 18px;
+      width: 20%;
     }    
   }
   .logoCB{
