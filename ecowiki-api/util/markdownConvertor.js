@@ -56,6 +56,12 @@ class MarkdownConvertor {
                             index++;
                         }
                         break;
+                    case "category":
+                        if (document[i][attributesArray[j]]) {
+                            data.splice(index, 0,"**Categories:** " + document[i][attributesArray[j]].toString().replace(/,/g, ", "));
+                            index++;
+                        }
+                        break;
                     case "date":
                         data.splice(index, 0, "##### " + document[i][attributesArray[j]].toString().substring(0, 15));
                         index++;
