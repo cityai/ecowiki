@@ -47,6 +47,8 @@ class MarkdownConvertor {
                     case "investment":
                         data.splice(index, 0, "**Investment in USD:** " + document[i][attributesArray[j]].toString().replace(/(\d)(?=(\d{3})+(?!\d))/g, "$1,"))
                         index++;
+                        data.splice(index,0,"[Get more information via CRUNCHBASE](" + document[docObj][i]["link"] + ")");
+                        index++;
                         break;
                     case "categories":
                         if (document[i][attributesArray[j]]) {
