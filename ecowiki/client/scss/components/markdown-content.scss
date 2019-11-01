@@ -658,7 +658,8 @@
   }
   .partners p {
 
-    display: flex;
+    display: inline;
+    padding: 0;
     a{
       display: flex;
       flex-direction: row;
