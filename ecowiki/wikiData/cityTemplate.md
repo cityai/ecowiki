@@ -16,7 +16,7 @@
     First line of overview should have information of ambassador for specific city. 
     You can find  format HERE:
 
-    <strong>Ambassador:</strong> [Ambassador name](Link to ambassador profile(MUST HAVE http OR https))
+    <strong>CONTACT: [Ambassador name](Link to ambassador profile(MUST HAVE http OR https)) </strong>
 
     You can copy this and change ambassador name and link accordingly!
  -->
