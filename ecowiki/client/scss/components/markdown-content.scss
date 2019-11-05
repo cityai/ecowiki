@@ -658,8 +658,8 @@
   }
 
   .partners{
-    display: flex;
-    flex-direction: row;
+    display: block;
+    padding: 10px 20px;
     span {
       text-align: inherit;
       display: inline-grid;
@@ -669,12 +669,17 @@
   .partners p {
 
     display: inline;
-    padding: 0;
+    padding: 10px 0;
+    br{
+      display: none;
+    }
     a{
       display: flex;
       flex-direction: row;
       padding-bottom: 18px;
       width: 20%;
+      font-weight: bold;
+      font-size: 18px;
     }    
   }
   .logoCB{

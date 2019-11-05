@@ -18,9 +18,11 @@ Our global Founding Partners who enabled this initiative getting off the ground.
 
 [Peltarion](https://peltarion.com/)
 <strong>Scale-Up Founding Partner</strong>
+A faster deep learning cloud platform - 50 free GPU hours for all AI Wiki friends
 
 [Ticketless](https://ticketless.ai/)
 <strong>Startup Founding Partner</strong>
+Workforce performance management for customer support
 
 </div>
 
