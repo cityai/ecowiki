@@ -148,13 +148,13 @@
 			color: $header-bg;
 			text-decoration: none;
 			.small-class,.small-class1, .logoHeader {
-				color: $header-bg;
+				//color: $header-bg;
 				text-decoration: none;
-				background-color: $header-color-text;
+				//background-color: $header-color-text;
 			}
 			img{
 				transition: filter .4s ease;
-				filter: invert(100%) sepia(100%) saturate(2%) hue-rotate(95deg) brightness(104%) contrast(101%);
+				//filter: invert(100%) sepia(100%) saturate(2%) hue-rotate(95deg) brightness(104%) contrast(101%);
 			}
 			background-color: $header-color-text;
 		}
@@ -215,8 +215,8 @@
     }
 
 		&:hover {
-			background-color: $header-color-text-hover;
-			color: #fff;
+			background-color: $header-bg;
+			color: #c80000;
 		}
 	}
 

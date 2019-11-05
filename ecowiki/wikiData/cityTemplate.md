@@ -69,7 +69,7 @@ Active local organizations and initiatives related to AI
 # Startups
 
 <div class=logoCB>
-Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_crop.png" style="width:10%;"/></a>
+Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_crop.png" style="width:20%;"/></a>
 </div>
 <div class=startups>
 
@@ -86,7 +86,7 @@ Our global Founding Partners who enabled this initiative getting off the ground.
 [TomTom](https://www.tomtom.com/)
 <strong>Corporate Partner</strong>
 
-[Peltarion](https://peltarion.com/)
+[Peltarion](https://peltarion.com/signup/)
 <strong>Scale-Up Founding Partner</strong>
 A faster deep learning cloud platform - 50 free GPU hours for all AI Wiki friends
 
