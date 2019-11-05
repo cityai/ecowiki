@@ -215,8 +215,8 @@
     }
 
 		&:hover {
-			background-color: $header-color-text;
-			color: mc('grey','200');
+			background-color: $header-color-text-hover;
+			color: #fff;
 		}
 	}
 

@@ -81,16 +81,17 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 
 Our global Founding Partners who enabled this initiative getting off the ground. A big THANKS for their support!
 <div class=partners>
-<span>
-    <span>
-        <h2>Scale-up Founding Partner</h2>
-        <a href="https://peltarion.com/"><img src="/images/peltarion_logotype_horizontal_red.png"></a>
-        <p>A faster deep learning cloud platform - 50 free GPU hours for all AI Wiki friends <a         href="https://peltarion.com/signup">here</a></p>
-    </span>
-    <span>
-        <h2>Corporate Founding Partner</h2>
-        <a href="https://ticketless.ai/"><img src="/images/Ticketless_logo.png"  /></a>
-        <p>Workforce performance management for customer support</p>
-    </span>
-</span>
+<img src="/images/Partners.png">
+
+[TomTom](https://www.tomtom.com/)
+<strong>Corporate Partner</strong>
+
+[Peltarion](https://peltarion.com/)
+<strong>Scale-Up Founding Partner</strong>
+A faster deep learning cloud platform - 50 free GPU hours for all AI Wiki friends
+
+[Ticketless](https://ticketless.ai/)
+<strong>Startup Founding Partner</strong>
+Workforce performance management for customer support
+
 </div>
