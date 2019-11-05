@@ -101,11 +101,11 @@ class MarkdownTransform {
                     data.splice(0, 0, "<!-- TITLE: " + city.name + " AI -->");
                     data = this.addOneLine(data, city, "overview", "<div class=overview>");
                     if (city.startups)
-                        data = this.addMultipleLines(data, city, "startups", 3, "<div class=startups>", ["name", "categories", "investment"]);
+                        data = this.addMultipleLines(data, city, "startups", 3, "<div class=startups>", ["name", "categories", "investment", "location"]);
                     if (city.events)
                         data = this.addMultipleLines(data, city, "events", 5, "<div class=events>", ["name", "date", "location", "organizer"])
                     if (city.organizations)
-                        data = this.addMultipleLines(data, city, "organizations", 5, "<div class=organizations>", ["name", "category", "founder", "link", "description"]);
+                        data = this.addMultipleLines(data, city, "organizations", 5, "<div class=organizations>", ["name", "category", "founder", "link"]);
                     if (community) {
                         data = this.addMultipleLines(data, community, "groups", 5, "<div class=groups>", ["name", "members", "category", "organizer"]);
                         data = this.addMultipleLines(data, community, "influencers", 5, "<div class=influencers>", ["name", "followers"]);
@@ -191,8 +191,6 @@ class MarkdownTransform {
                         break;
                     case "investment":
                         data.splice(index, 0, "**Investment in USD:** " + document[docObj][i][attributesArray[j]].toString().replace(/(\d)(?=(\d{3})+(?!\d))/g, "$1,"))
-                        index++;
-                        data.splice(index,0,"[Get more information via CRUNCHBASE](" + document[docObj][i]["link"] + ")");
                         index++;
                         break;
                     case "categories":
