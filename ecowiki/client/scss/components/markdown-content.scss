@@ -540,6 +540,9 @@
   .events p strong:nth-of-type(2){
     padding-left: 10px;
   }
+  .events p strong{
+    padding-right: 5px;
+  }
   .events p a {
     color: #000;
     font-weight: bold;

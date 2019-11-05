@@ -97,6 +97,8 @@ class MarkdownTransform {
 
                     data = data.toString().split("\n");
                     //console.log(city);
+                    data = this.addSubheadings(data,city,community);
+
                     data = this.addMetrics(data,city,community);
                     data.splice(0, 0, "<!-- TITLE: " + city.name + " AI -->");
                     data = this.addOneLine(data, city, "overview", "<div class=overview>");
@@ -133,6 +135,28 @@ class MarkdownTransform {
             }).catch(err => { return console.log(err) })
         }
     }
+
+    addSubheadings(data,city,community)
+    {
+        try {
+            let subheadingIndex = data.indexOf("# Community") + 1;
+            let subheadingText = "You can join " + community.groups.length + " active community groups on the topic of Artificial Intelligence"
+            data.splice(subheadingIndex,0,subheadingText);
+
+            subheadingIndex = data.indexOf("# Events") + 1;
+            subheadingText = "You can join " + city.events.length + " locally organized upcoming events";
+            data.splice(subheadingIndex,0,subheadingText);
+
+            subheadingIndex = data.indexOf("# Startups") + 1;
+            subheadingText = "Check the newest startups from " + city.startups.length + " locally";
+            data.splice(subheadingIndex,0,subheadingText);
+
+            return data;
+        } catch (error) {
+            console.log(error);
+        }
+    }
+
     addOneLine(data, document, docObj, setctionText) {
         let index = data.indexOf(setctionText);
         index++;
