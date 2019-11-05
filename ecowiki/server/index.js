@@ -86,7 +86,7 @@ app.use(mw.security)
 // Public Assets
 // ----------------------------------------
 
-app.use(favicon(path.join(ROOTPATH, 'assets', 'favicon.ico')))
+app.use(favicon(path.join(ROOTPATH, 'assets', 'images','AI_red_id_web_avatar.svg')))
 app.use(express.static(path.join(ROOTPATH, 'assets'), {
   index: false,
   maxAge: '7d'
