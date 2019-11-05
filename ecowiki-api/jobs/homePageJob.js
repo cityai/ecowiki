@@ -46,9 +46,9 @@ module.exports =async function(){
         data = data.toString().split("\n");
         console.log(cities)
         console.log(data.indexOf("### A - Z"))
-        let statusStory = "\nAt WikiAI you can check <a href=\"#ecosystems\"><strong> " + cities.length + "</strong></a> active ecosystems, and you can find everything related to AI." +
-        " You can check out <a href=\"#events\" ><strong>" + events.length + "</strong></a> AI related events in which you can participate. If you want to get in contact with global AI community" +
-        ", you can find <a href=\"#community\" ><strong>" + influencers.length + "</strong></a> AI influencers and <strong>" + groups.length + "</strong> community groups. Also, see the work and get information" + 
+        let statusStory = "\nAt WikiAI you can check <a href=\"#ecosystems\"><strong> " + cities.length + "</strong></a> active ecosystems, and you can find everything related to AI.\n" +
+        "You can check out <a href=\"#events\" ><strong>" + events.length + "</strong></a> AI related events in which you can participate.\nIf you want to get in contact with global AI community" +
+        ", you can find <a href=\"#community\" ><strong>" + influencers.length + "</strong></a> AI influencers and <strong>" + groups.length + "</strong> community groups.\nAlso, see the work and get information" + 
         " about <a href=\"#startups\" ><strong>" + startups.length + "</a></strong> startups that create interesting projects using AI";
         let statusIndex = data.indexOf("<div class=status>") + 1;
         data.splice(statusIndex,0,statusStory);
@@ -61,15 +61,15 @@ module.exports =async function(){
         data = MarkdownConvertor.addMultipleLinesFromArray(data,cities,cities.length,'<div class=ecosystems>',["cityLink"]);
 
         let subheadingIndex = data.indexOf("# Ecosystems") + 1;
-        let subheadingTextEcosystems = "Check any of the " + cities.length + " unloked AI ecosystems. If yours isn't listed yet contact us at [contact us](mailto:aiwiki@city.ai)"; 
+        let subheadingTextEcosystems = "Check any of the " + cities.length + " unloked AI ecosystems. If yours isn't listed yet, [contact us](mailto:aiwiki@city.ai)"; 
         data.splice(subheadingIndex,0, subheadingTextEcosystems);
 
         subheadingIndex = data.indexOf("# Events")+ 1;
-        let subheadingTextEvents = " You can join more then " + events.length +" upcoming events in "+ cities.length + " cities around the world in the coming weeks. In past "+ pastEvents +" events have been organized by the global AI community"
+        let subheadingTextEvents = " You can join more then " + events.length +" upcoming events in "+ cities.length + " cities around the world the coming weeks. In past "+ pastEvents +" events have been hosted"
         data.splice(subheadingIndex,0,subheadingTextEvents);
 
         subheadingIndex = data.indexOf("# Top Communities") + 1;
-        let subheadingTextCommunity = "Global AI community has "+ groups.length + " active community groups bringing people together around the topic of Artificial Intelligence"
+        let subheadingTextCommunity = "Globally you can join "+ groups.length + " active community groups in "+ cities.length +" unlocked cities on the topic of Artificial Intelligence"
         data.splice(subheadingIndex,0,subheadingTextCommunity);
 
         subheadingIndex = data.indexOf("# Startups") + 1;

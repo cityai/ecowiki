@@ -25,7 +25,7 @@
 </div>
 
 # Influencers
-Check out the people who are the voice of global AI community
+Check out the voices of the global AI community
 <div class=influencers>
 
 </div>
