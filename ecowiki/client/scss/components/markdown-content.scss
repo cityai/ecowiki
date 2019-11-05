@@ -668,10 +668,13 @@
   }
   .partners p {
 
-    display: inline;
+    display: block;
     padding: 10px 0;
     br{
       display: none;
+    }
+    strong{
+      display: block;
     }
     a{
       display: flex;
