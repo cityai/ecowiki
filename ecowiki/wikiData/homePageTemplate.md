@@ -11,18 +11,17 @@
 
 Our global Founding Partners who enabled this initiative getting off the ground. A big THANKS for their support!
 <div class=partners>
-<span>
-    <span>
-        <h2>Scale-up Founding Partner</h2>
-        <a href="https://peltarion.com/"><img src="/images/peltarion_logotype_horizontal_red.png"></a>
-        <p>A faster deep learning cloud platform - 50 free GPU hours for all AI Wiki friends <a         href="https://peltarion.com/signup">here</a></p>
-    </span>
-    <span>
-        <h2>Startup Founding Partner</h2>
-        <a href="https://ticketless.ai/"><img src="/images/Ticketless_logo.png"  /></a>
-        <p>Workforce performance management for customer support</p>
-    </span>
-</span>
+<img src="/images/Partners.png">
+
+[TomTom](https://www.tomtom.com/)
+<strong>Corporate Partner</strong>
+
+[Peltarion](https://peltarion.com/)
+<strong>Scale-Up Founding Partner</strong>
+
+[Ticketless](https://ticketless.ai/)
+<strong>Startup Founding Partner</strong>
+
 </div>
 
 # Ecosystems
