@@ -70,7 +70,7 @@
     font-size: 20px;
     padding-top: 28px;
     padding-bottom: 28px;
-    border-top: 1px solid black;
+    //border-top: 1px solid black;
     width: 300px;
     // letter-spacing: 3px;
     // font-weight: normal;
@@ -476,6 +476,7 @@
     border: none;
     font-size: 40px;
     padding: 0 15px;
+    padding-top:64px;
   }
   //--------------------------------------------GROUPS SECTION
   .groups {
@@ -662,7 +663,7 @@
     span {
       text-align: inherit;
       display: inline-grid;
-      width: 50%;
+      width: 30%;
   }
   }
   .partners p {
