@@ -24,7 +24,7 @@ module.exports =async function(){
     const templatePath = "./data/homePageTemplate.md";
 
     //SORTING
-    cities = _.sortBy(cities,"name").reverse();
+    cities = _.sortBy(cities,"cityLink").reverse();
     startups = _.sortBy(startups,"investment").reverse();
     events = _.sortBy(events,"date");
     groups = _.sortBy(groups, "members").reverse();
