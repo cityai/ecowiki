@@ -19,10 +19,7 @@
 
 Our global Founding Partners who enabled this initiative getting off the ground. A big THANKS for their support!
 <div class=partners>
-<img src="/images/Partners.png">
-
-[TomTom](https://www.tomtom.com/)
-<strong>Corporate Partner</strong>
+<img src="/images/PartnersForV1.png">
 
 [Peltarion](https://peltarion.com/signup/)
 <strong>Scale-Up Founding Partner</strong>
