@@ -19,7 +19,7 @@
 
 Our global Founding Partners who enabled this initiative getting off the ground. A big THANKS for their support!
 <div class=partners>
-<img src="/images/PartnersForV1.png">
+<img src="/images/PartnersForV1.png" style="width:40%">
 
 [Peltarion](https://peltarion.com/signup/)
 <strong>Scale-Up Founding Partner</strong>
