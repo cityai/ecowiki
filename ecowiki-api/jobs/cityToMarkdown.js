@@ -151,10 +151,8 @@ class MarkdownTransform {
             subheadingText = "Check the newest startups from " + city.startups.length + " locally";
             data.splice(subheadingIndex,0,subheadingText);
 
+        
             return data;
-        } catch (error) {
-            console.log(error);
-        }
     }
 
     addOneLine(data, document, docObj, setctionText) {
