@@ -7,6 +7,14 @@
 
 </div>
 
+
+
+# Ecosystems
+
+<div class=ecosystems>
+
+</div>
+
 # Founding Partners
 
 Our global Founding Partners who enabled this initiative getting off the ground. A big THANKS for their support!
@@ -25,13 +33,6 @@ A faster deep learning cloud platform - 50 free GPU hours for all AI Wiki friend
 Workforce performance management for customer support
 
 </div>
-
-# Ecosystems
-
-<div class=ecosystems>
-
-</div>
-
 
 # Top Communities
 <div class=groups>
