@@ -180,7 +180,10 @@ class MarkdownTransform {
             n = document[docObj].length;
         for (let i = 0; i < n; i++) {
             //There is no data for particular part of the city (e.g no news yet, no organizations...)
-            if (document[docObj].length < 1) continue;
+            if (document[docObj].length < 1){
+                data.splice(index,0,"This section can be updated by the local ambassador. For contact information see the About section of this page");
+                continue;
+                }
 
             for (let j = 0; j < attributesArray.length; j++) {
 
