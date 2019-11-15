@@ -2,353 +2,238 @@
 <!-- SUBTITLE: A quick summary of Global Events -->
 
 
- For this AI ecosystem there are currently 46 future events that you can participate in, and 3 events that have already been organized 
+ For this AI ecosystem there are currently 38 future events that you can participate in, and 0 events that have already been organized 
 
 # Events
 <div class=events>
 
-#### AI for Good Community Meetup
-##### Tue Oct 08 2019
-London
-**Organizer:** AI for Good
-**Description:** Regular Tuesday Meetups from the AI for Good Community First time here? Check out our project list to see what is currently happening in the community...
-Link: [https://www.meetup.com/meetup-group-pzvZdizC/events/265371004/](https://www.meetup.com/meetup-group-pzvZdizC/events/265371004/)
+[Artificial Intelligence for Cyber Security](https://www.meetup.com/AI-and-Cybersecurity/events/266224965/)
+##### Thu Nov 14 2019
+**Location:** London
+**Organizer:** Artificial intelligence and Cyber Security
+**Description:** Hello Our meetup comming on 14th November, and with a very strong lineup and focussed on Artificial Intelligence for Cyber Securityand sharing practic...
 
-#### Power BI Enterprise Lead 3/5 - Power Platform, AI Builder & Row Level Security
-##### Tue Oct 08 2019
-London
-**Organizer:** The Power BI Apprentice
-**Description:** By invite only to members of the Q3'19 Power BI Enterprise Lead course.Lesson 3 of 5 is dedicated to Power Platform architecture with our guest speake...
-Link: [https://www.meetup.com/The-Power-BI-Apprentice/events/265453615/](https://www.meetup.com/The-Power-BI-Apprentice/events/265453615/)
-
-#### Meetup #8: The potential of going "viral" - Spreading information online
-##### Tue Oct 08 2019
-London
-**Organizer:** West London Ethical Technology Meetup
-**Description:** For the past decade or so, humanity has a new tool available that might be one of the first true equalizers. Viral information spread. Literally anybo...
-Link: [https://www.meetup.com/West-London-Ethical-Technology-Meetup/events/265114201/](https://www.meetup.com/West-London-Ethical-Technology-Meetup/events/265114201/)
-
-#### BBC Machine Learning Fireside Chats Presents: The AdTech Apocalypse
-##### Wed Oct 09 2019
-London
-**Organizer:** BBC Machine Learning Fireside Chats
-**Description:** **IMPORTANT NOTICE PLEASE READ**Please register and download your tickets for this event here:https://www.eventbrite.co.uk/e/bbc-machine-learning-fire...
-Link: [https://www.meetup.com/Machine-learning-Fireside-Talks/events/264920222/](https://www.meetup.com/Machine-learning-Fireside-Talks/events/264920222/)
-
-#### Kubernetes with OpenShift (Workshop)
-##### Wed Oct 09 2019
-London
+[Digital Developer Conference :  AI & Cloud](https://www.meetup.com/IBM-Code-London/events/265948599/)
+##### Thu Nov 14 2019
+**Location:** London
 **Organizer:** IBM Code London
-**Description:** Come and learn OpenShift in this hands-on session which will focus on the developer experience of using Kubernetes with OpenShift. You will learn how ...
-Link: [https://www.meetup.com/IBM-Code-London/events/264950128/](https://www.meetup.com/IBM-Code-London/events/264950128/)
+**Description:** We'll be hosting a Digital Developer Conference from London so you can get hands-on experience in cloud native and machine learning technologies from ...
 
-#### The World According to Jordan Peterson
-##### Wed Oct 09 2019
-London
-**Organizer:** Jordan Peterson Discussion Group
-**Description:** The aim of this meetup group is to discuss the big issues of the moment in an atmosphere of open inquiry and commitment to truth. We will discuss some...
-Link: [https://www.meetup.com/meetup-group-imLpPNkF/events/sdlbgryznbmb/](https://www.meetup.com/meetup-group-imLpPNkF/events/sdlbgryznbmb/)
+[Investor office hours with Matt (Anthemis)](https://www.meetup.com/WeWork-Labs-70-Wilson-St-London/events/266183431/)
+##### Thu Nov 14 2019
+**Location:** London
+**Organizer:** WeWork Labs 70 Wilson St., London
+**Description:** No description provided...
 
-#### Hands-on Data Science Workshop + Best Practices for Collaboration 
-##### Thu Oct 10 2019
-London
-**Organizer:** Analytics & Data Science by Dataiku London
-**Description:** Bring your laptops! We'll get our hands dirty with a prediction use case involving Tanzania Water Pumps, guided by Noha Badaway, Data Scientist at Dat...
-Link: [https://www.meetup.com/Analytics-Data-Science-by-Dataiku-London/events/265308640/](https://www.meetup.com/Analytics-Data-Science-by-Dataiku-London/events/265308640/)
-
-#### Interested in RPA/AI, join us for a drink & Meetup with JifJaff & UiPath!  
-##### Thu Oct 10 2019
-London
-**Organizer:** London RPA Robotic process automation and AI  Meetup
-**Description:** A Meetup for companies &amp; developers to explore what RPA / AI can do for your business. Guest speakers from JifJaff, UiPath &amp; client that's usi...
-Link: [https://www.meetup.com/London-RPA-Robotic-process-automation-and-AI-Meetup/events/264779318/](https://www.meetup.com/London-RPA-Robotic-process-automation-and-AI-Meetup/events/264779318/)
-
-#### ML Paper Club @ Google Campus with nPlan
-##### Thu Oct 10 2019
-London
+[ML Paper Club @ Google Campus with nPlan](https://www.meetup.com/ML-Paper-Club/events/vxjxhryzpbsb/)
+##### Thu Nov 14 2019
+**Location:** London
 **Organizer:** ML Paper Club @ Google Campus with nPlan
 **Description:** IMPORTANT! Due to space limitations we will limit attendance to those who sign up for the meetup. If you are not coming, please remove your RSVP so th...
-Link: [https://www.meetup.com/ML-Paper-Club/events/vxjxhryznbnb/](https://www.meetup.com/ML-Paper-Club/events/vxjxhryznbnb/)
 
-#### Make Artificial Intelligence more powerful with Power BI
-##### Fri Oct 11 2019
-London
+[Introduction to AI](https://www.meetup.com/Microsoft-Reactor-London/events/265947481/)
+##### Fri Nov 15 2019
+**Location:** London
 **Organizer:** Microsoft Reactor London
-**Description:** What is this session about? In this workshop, attendees will learn how AI can benefit and transform their business by developing an AI strategy, and l...
-Link: [https://www.meetup.com/Microsoft-Reactor-London/events/265097615/](https://www.meetup.com/Microsoft-Reactor-London/events/265097615/)
+**Description:** Are you a developer who is curious how your computer or phone recognize it's you and not your sibling when you try to unlock the device? With the powe...
 
-#### Machine Learning and Deep Learning Training [First Free Session]
-##### Sat Oct 12 2019
-London
-**Organizer:** Big Data, Analytics, and Artificial Intelligence
-**Description:** Register at: cosoit.com/training/data-science-with-python20% discount code: AI20OFF Online Bootcamp from going Zero to Build Competency in Machine lea...
-Link: [https://www.meetup.com/Artificial-Intelligence-UK/events/dhhhgryznbqb/](https://www.meetup.com/Artificial-Intelligence-UK/events/dhhhgryznbqb/)
+[AI Business Model Innovation & Creative Destruction ](https://www.meetup.com/Creating-Disruptive-Business-Models/events/266340553/)
+##### Fri Nov 15 2019
+**Location:** London
+**Organizer:** Creating Disruptive Business Models
+**Description:** This is a networking and discussion meetup on business models for Artificial Intelligence AI Startups It's ideal for anyone interested in, working in ...
 
-#### You can't see the future without changing your thinking
-##### Sat Oct 12 2019
-London
-**Organizer:** London Futurists
-**Description:** Why do we often fall victim to surprise developments that seem, in retrospect, to be obvious? What mental habits unnecessarily limit our ability to pl...
-Link: [https://www.meetup.com/London-Futurists/events/264786453/](https://www.meetup.com/London-Futurists/events/264786453/)
+[The Past, Present and Future of Quantum Computing](https://www.meetup.com/Deep-Learning-Lab/events/266205120/)
+##### Sat Nov 16 2019
+**Location:** London
+**Organizer:** Deep Learning Lab
+**Description:** ***** This is an event in partnership with the London Futurists Meetup Group. A small fee (£7) is payable to attend this meetup. Please pay in advance...
 
-#### Book Discussion/Social: The Lean Startup
-##### Sun Oct 13 2019
-London
+[Book Discussion/Networking: The Lean Startup](https://www.meetup.com/The-London-Business-Book-Club/events/266187333/)
+##### Sun Nov 17 2019
+**Location:** London
 **Organizer:** The London Business Book Club
-**Description:** Eric Ries' "The Lean Startup" is perhaps the most popular book on starting a business and monetising your ideas. First we discuss for about an hour. T...
-Link: [https://www.meetup.com/The-London-Business-Book-Club/events/262556585/](https://www.meetup.com/The-London-Business-Book-Club/events/262556585/)
+**Description:** "The Lean Startup" is perhaps the most popular book on starting and scaling a business. We discuss and meet likeminded people on google hangouts. Link...
 
-#### [TRAINING] Machine Learning in 3 days: London
-##### Mon Oct 14 2019
-London
-**Organizer:** Artificial Intelligence Experience London
-**Description:** Why this training? This 3-day course will give you a comprehensive overview of various tools, frameworks, and concepts behind machine learning. In jus...
-Link: [https://www.meetup.com/Artificial-Intelligence-Experience-London/events/264395646/](https://www.meetup.com/Artificial-Intelligence-Experience-London/events/264395646/)
-
-#### 29: General Talks - CI CD Cloud build + ML models automation + Firebase + React
-##### Mon Oct 14 2019
-London
-**Organizer:** GDG Cloud London
-**Description:** General Monthly Meetup of GDG Cloud London for October 2019. Tentative agenda: 18:20 - 18:30 - Check in and welcome. 18:40 - Talks. 20:30 - Networking...
-Link: [https://www.meetup.com/gdgcloud/events/261893025/](https://www.meetup.com/gdgcloud/events/261893025/)
-
-#### #LondonAI October Meetup: ML in Healthcare, NASA, Facebook, and Trading
-##### Mon Oct 14 2019
-London
-**Organizer:** London Artificial Intelligence & Deep Learning
-**Description:** Dear Makers, Thanks to our friends from Microsoft, we will return to Microsoft Reactor in October. Agenda:[masked]: Pizza time- Welcoming Remarks by H...
-Link: [https://www.meetup.com/London-Artificial-Intelligence-Deep-Learning/events/264781194/](https://www.meetup.com/London-Artificial-Intelligence-Deep-Learning/events/264781194/)
-
-#### Data Science for Finance Coding Dojo 1
-##### Tue Oct 15 2019
-London
-**Organizer:** Data Science for Finance Coding Dojo
-**Description:** Bring your own laptop with some programming tool available. R Studio and python 3/anaconda are typical choices. Please keep in mind that M&amp;G has n...
-Link: [https://www.meetup.com/Data-Science-for-Finance-Coding-Dojo/events/dvznhryznbtb/](https://www.meetup.com/Data-Science-for-Finance-Coding-Dojo/events/dvznhryznbtb/)
-
-#### Cloud and Open Source workshop day @ Think London
-##### Wed Oct 16 2019
-London
+[How to secure your sensitive data and workload in the cloud](https://www.meetup.com/IBM-Code-London/events/266262320/)
+##### Mon Nov 18 2019
+**Location:** London
 **Organizer:** IBM Code London
-**Description:** TL;DR - We will be hosting the below hands-on workshops at THINK Summit London, on Wednesday 16th October at Olympia London.Please register here if yo...
-Link: [https://www.meetup.com/IBM-Code-London/events/264746099/](https://www.meetup.com/IBM-Code-London/events/264746099/)
+**Description:** We live in a world where every time you share information online it is at significant risk of being compromised. Responsibility for protecting that da...
 
-#### Cloud and Open Source workshops @ Think London Developer Zone
-##### Wed Oct 16 2019
-London
-**Organizer:** Big Data Developers in London
-**Description:** Think Summit, IBM's showcase event for visionaries, forward thinkers and industry experts, returns to London this year with something new for Coders. ...
-Link: [https://www.meetup.com/Big-Data-Developers-in-London/events/265371722/](https://www.meetup.com/Big-Data-Developers-in-London/events/265371722/)
-
-#### BML Presents - Pie & AI London - A Conversation with Dr. Andrew Ng
-##### Thu Oct 17 2019
-London
-**Organizer:** Beginners Machine Learning - London
-**Description:** Welcome to the very first deeplearning.ai Pie &amp; AI webinar meetup in Europe on October 17th, 2019 hosted by Beginners Machine Learning Meetup grou...
-Link: [https://www.meetup.com/beginners-machine-learning-london/events/265298476/](https://www.meetup.com/beginners-machine-learning-london/events/265298476/)
-
-#### The 7 Steps For Developing Your Financial IQ
-##### Thu Oct 17 2019
-London
-**Organizer:** The Financial Manifesto
-**Description:** The workshop "The 7 steps for developing your financial IQ and making your personal finance simply brilliant" is part of a wider undertaking, The Fina...
-Link: [https://www.meetup.com/The-Financial-Manifesto/events/262710677/](https://www.meetup.com/The-Financial-Manifesto/events/262710677/)
-
-#### Innovate with APIs (App Mod #2)
-##### Thu Oct 17 2019
-London
-**Organizer:** IBM Cloud - London
-**Description:** APIs have become a lingua franca across technology. They enable every minute of our digital experience, catalysing revolutions such as the sharing eco...
-Link: [https://www.meetup.com/IBM-Cloud-London/events/264989163/](https://www.meetup.com/IBM-Cloud-London/events/264989163/)
-
-#### Your Data Science Journey : getting started with IBM Watson Studio
-##### Fri Oct 18 2019
-London
-**Organizer:** IBM Cloud - London
-**Description:** Come and meet others interested in data science for a session to get you started with IBM Watson Studio. Bring your own device, sign up for the Watson...
-Link: [https://www.meetup.com/IBM-Cloud-London/events/264063805/](https://www.meetup.com/IBM-Cloud-London/events/264063805/)
-
-#### NASA Space Hackathon for TEENS 2019
-##### Sat Oct 19 2019
-London
-**Organizer:** Teens in Artificial Intelligence
-**Description:** CALLING ALL TEENS AGED 11-18! [DESIGN THINKERS, TECH MENTORS AND ENTREPRENEURS – PLEASE REGISTER TOO!! We need you to help inspire the teens] &gt;&gt;...
-Link: [https://www.meetup.com/teens-in-ai/events/265309395/](https://www.meetup.com/teens-in-ai/events/265309395/)
-
-#### Security in the age of big data (Data Anonymisation & encryption)
-##### Mon Oct 21 2019
-London
-**Organizer:** ODSC London Accelerate AI (X AI)
-**Description:** Please be advised that pre-registration is REQUIRED. Registration link: https://skillsmatter.com/meetups/12921-security-in-the-age-of-big-data-data-an...
-Link: [https://www.meetup.com/London-Accelerate-AI-ODSC/events/265207484/](https://www.meetup.com/London-Accelerate-AI-ODSC/events/265207484/)
-
-#### Women in Voice Talks: Arup Edition
-##### Tue Oct 22 2019
-London
-**Organizer:** Women in Voice London
-**Description:** Women in Voice London is back and this time we have teamed up with design agency Arup. There will be networking, nibbles, drinks and a fabulous speake...
-Link: [https://www.meetup.com/Women-in-Voice-London/events/264775163/](https://www.meetup.com/Women-in-Voice-London/events/264775163/)
-
-#### Adding AI to your Apps
-##### Tue Oct 22 2019
-London
-**Organizer:** Microsoft Reactor London
-**Description:** PLEASE NOTE: RSVPing TO THIS PAGE WILL NOT REGISTER YOU FOR THIS EVENT. &gt;&gt;&gt; REGISTER HERE:https://www.microsoftevents.com/profile/form/index....
-Link: [https://www.meetup.com/Microsoft-Reactor-London/events/264811009/](https://www.meetup.com/Microsoft-Reactor-London/events/264811009/)
-
-#### October meetup
-##### Tue Oct 22 2019
-London
-**Organizer:** Red Sprite
-**Description:** The exciting technical topic for the evening is yet to be decided! We'll update this event with more details nearer the event. The event is completely...
-Link: [https://www.meetup.com/Red-Sprite/events/264219757/](https://www.meetup.com/Red-Sprite/events/264219757/)
-
-#### BBC Machine Learning Fireside Chats Presents: Too dangerous to ship
-##### Wed Oct 23 2019
-London
-**Organizer:** BBC Machine Learning Fireside Chats
-**Description:** **IMPORTANT NOTICE PLEASE READ**Please register and download your tickets for this event here:(https://ti.to/bbc-ml-fireside/too-dangerous-to-ship) RS...
-Link: [https://www.meetup.com/Machine-learning-Fireside-Talks/events/264152677/](https://www.meetup.com/Machine-learning-Fireside-Talks/events/264152677/)
-
-#### Monthly AI Tech Talk - October
-##### Wed Oct 23 2019
-London
-**Organizer:** London AI Developers Group
-**Description:** In this meeting, we are pleased to feature tech leads from innovated companies, successful startups to share their practice experiences and practices ...
-Link: [https://www.meetup.com/London-AI-Tech-Talk/events/264859190/](https://www.meetup.com/London-AI-Tech-Talk/events/264859190/)
-
-#### Networking Drinks
-##### Thu Oct 24 2019
-London
-**Organizer:** Artificial Intelligence Peer Group
-**Description:** No description provided...
-Link: [https://www.meetup.com/AI-peer-group/events/jlrbwqyznbgc/](https://www.meetup.com/AI-peer-group/events/jlrbwqyznbgc/)
-
-#### Varsity Venture Forum, London l October 24th, 2019
-##### Thu Oct 24 2019
-London
-**Organizer:** Things Growth Tech Forums
-**Description:** - EVENT DETAILS:Date: October 24th, 2019Address: WeWork The Bower207 Old Street, London, England, ECV1 - ABOUT:Powered by Things Growth, Varsity Ventu...
-Link: [https://www.meetup.com/Varsity-Venture-Forum/events/264124814/](https://www.meetup.com/Varsity-Venture-Forum/events/264124814/)
-
-#### Big Data, Data Viz and ML with Apache Spark and Zeppelin Notebooks
-##### Thu Oct 24 2019
-London
-**Organizer:** IBM Code London
-**Description:** In this hands-on lab, we’ll start with some Apache Spark basics for working with (large) datasets. We’ll explore an example that loads in a data set a...
-Link: [https://www.meetup.com/IBM-Code-London/events/265498200/](https://www.meetup.com/IBM-Code-London/events/265498200/)
-
-#### Rethinking Work (dinner & discussion)
-##### Fri Oct 25 2019
-London
-**Organizer:** Meaningful Discussions in North London
-**Description:** Here are the Food For Thought videos for this event:http://www.meaningfuldiscussions.org/rethinking-work.html Meaningful Discussions events take place...
-Link: [https://www.meetup.com/MeaningfulDiscussions-N-London/events/265318464/](https://www.meetup.com/MeaningfulDiscussions-N-London/events/265318464/)
-
-#### A guide to the market promise of automagic AI-enabled detection and response
-##### Tue Oct 29 2019
-London
-**Organizer:** Data Science London
-**Description:** No description provided...
-Link: [https://www.meetup.com/Data-Science-London/events/264889520/](https://www.meetup.com/Data-Science-London/events/264889520/)
-
-#### The Best Investment You'll Ever Make
-##### Tue Oct 29 2019
-London
-**Organizer:** London Business Strategy Meetup
-**Description:** What does freedom mean to you? Having the freedom to travel when you feel like it, to choose the people you spend time with or to do the things that y...
-Link: [https://www.meetup.com/LondonBusinessStrategy/events/265212603/](https://www.meetup.com/LondonBusinessStrategy/events/265212603/)
-
-#### Be a Better Data Scientist! Tips from Software Engineering
-##### Wed Oct 30 2019
-London
-**Organizer:** Artificial Intelligence (AI) Club for Gender Minorities!
-**Description:** SAVE THE DATE - Details and sign-up link to follow. A collaboration event with EmboldenHer, a women in tech-focused organisation based at Theodo UK. T...
-Link: [https://www.meetup.com/ai-club/events/262441143/](https://www.meetup.com/ai-club/events/262441143/)
-
-#### Taking Your Python Microservices to the Next Level with a Service Mesh in AWS
-##### Wed Oct 30 2019
-London
-**Organizer:** London Tech Meetups
-**Description:** We are all looking for ways to optimize our work. 📊 It seems that Microservices do this and they become the new norm. ✅ Join this online webinar: htt...
-Link: [https://www.meetup.com/London-Growth-Hacking-Technology/events/265403346/](https://www.meetup.com/London-Growth-Hacking-Technology/events/265403346/)
-
-#### Meetup #9: Book discussion: Atwood's The Testament
-##### Tue Nov 05 2019
-London
-**Organizer:** West London Ethical Technology Meetup
-**Description:** This is A bit of a different meetup. Upon popular request, we will do a book discussion of Margaret Atwood's sequel to The Handmaid's Tale. Her new bo...
-Link: [https://www.meetup.com/West-London-Ethical-Technology-Meetup/events/264727221/](https://www.meetup.com/West-London-Ethical-Technology-Meetup/events/264727221/)
-
-#### Using Supervised ML Methods to augment intelligent dashboards in Healthcare
-##### Wed Nov 06 2019
-London
-**Organizer:** Draper & Dash's AI / ML Meet up
-**Description:** This session will focus on how we use ML to augment our BI dashboards. The agenda will be updated shortly. ...
-Link: [https://www.meetup.com/Wider-AI-ML-Working-Group/events/264611179/](https://www.meetup.com/Wider-AI-ML-Working-Group/events/264611179/)
-
-#### Applied AI & DevOps meets Sky 
-##### Wed Nov 06 2019
-London
-**Organizer:** Applied AI & DevOps
-**Description:** To celebrate our 5th AI and DevOps Meetup, we are very excited to partner with Sky to deliver a programme designed to debate the current trends and pr...
-Link: [https://www.meetup.com/Applied-AI-DevOps/events/265212747/](https://www.meetup.com/Applied-AI-DevOps/events/265212747/)
-
-#### Call for Speakers #LondonAI November Meetup @ Big Data LDN
-##### Wed Nov 13 2019
-London
-**Organizer:** London Artificial Intelligence & Deep Learning
-**Description:** Dear Makers, We will be hosting our November meetup in conjunction with Big Data LDN conference ( https://bigdataldn.com/) again this year. Please not...
-Link: [https://www.meetup.com/London-Artificial-Intelligence-Deep-Learning/events/264782555/](https://www.meetup.com/London-Artificial-Intelligence-Deep-Learning/events/264782555/)
-
-#### OpenShift, Kubernetes, & MiniShift Workshop
-##### Wed Nov 13 2019
-London
-**Organizer:** IBM Cloud - London
-**Description:** When building an open source enterprise solution on the cloud, there is a lot to consider before you get started. Will your solution scale? How resili...
-Link: [https://www.meetup.com/IBM-Cloud-London/events/265210460/](https://www.meetup.com/IBM-Cloud-London/events/265210460/)
-
-#### Beating the Odds & Benchmarking for Data Analytics
-##### Wed Nov 13 2019
-London
-**Organizer:** London Project Data Analytics Meetup
-**Description:** BENCHMARKING AND DATA ANALYTICS FOR IMPROVED PROJECT PERFORMANCE Tim will introduce the subject of Benchmarking and illustrate with professional and p...
-Link: [https://www.meetup.com/London-Project-Data-and-Analytics-meetup/events/263218404/](https://www.meetup.com/London-Project-Data-and-Analytics-meetup/events/263218404/)
-
-#### AI Investors Reverse Pitch @ ODSC Europe 2019
+[AI Investors Reverse Pitch @ ODSC Europe 2019](https://www.meetup.com/London-Data-Science-ODSC/events/264341942/)
 ##### Tue Nov 19 2019
-London
+**Location:** London
 **Organizer:** ODSC London Data Science
 **Description:** Artificial Intelligence and Data Science startups are in hot demand from investors. Hear top investment firms &amp; VCs seeking AI and Data Science St...
-Link: [https://www.meetup.com/London-Data-Science-ODSC/events/264341942/](https://www.meetup.com/London-Data-Science-ODSC/events/264341942/)
 
-#### ODSC EUROPE 2019
+[Master Data Science  - Logistic Regression](https://www.meetup.com/Artificial-Intelligence-UK/events/265908249/)
 ##### Tue Nov 19 2019
-London
+**Location:** London
+**Organizer:** Big Data, Analytics, and Artificial Intelligence
+**Description:** Logistic regression is a classification algorithm used to assign observations to a discrete set of classes. Unlike linear regression which outputs con...
+
+[ODSC EUROPE 2019](https://www.meetup.com/London-Accelerate-AI-ODSC/events/261896735/)
+##### Tue Nov 19 2019
+**Location:** London
 **Organizer:** ODSC London Accelerate AI (X AI)
 **Description:** Buy your ticket at:https://www.eventbrite.com/e/odsc-europe-2019-open-data-science-conference-tickets-54242269087?discount=Meetup19 About the Conferen...
-Link: [https://www.meetup.com/London-Accelerate-AI-ODSC/events/261896735/](https://www.meetup.com/London-Accelerate-AI-ODSC/events/261896735/)
 
-#### HPC & AI MeetUp #3 (London)
+[Intro to Knowledge Graphs with Grakn and Graql](https://www.meetup.com/grakn-london/events/265669718/)
+##### Tue Nov 19 2019
+**Location:** London
+**Organizer:** Grakn London Engineers
+**Description:** ## Introduction to Knowledge Graphs with Grakn and Graql Grakn is a distributed knowledge graph: a logical database to organise large and complex netw...
+
+[[FREE] ODSC Europe 2019 Conference Meetup](https://www.meetup.com/ODSC-London-AI-for-Engineers/events/265681807/)
+##### Wed Nov 20 2019
+**Location:** London
+**Organizer:** ODSC London - AI for Engineers
+**Description:** This event requires registration at the link below: https://www.eventbrite.com/e/conference-meetup-odsc-europe-2019-tickets-77266930469 We are excited...
+
+[Data Science for Finance Coding Dojo 1](https://www.meetup.com/Data-Science-for-Finance-Coding-Dojo/events/dvznhryzpbzb/)
+##### Wed Nov 20 2019
+**Location:** London
+**Organizer:** Data Science for Finance Coding Dojo
+**Description:** Bring your own laptop with some programming tool available. R Studio and python 3/anaconda are typical choices. Please keep in mind that M&amp;G has n...
+
+[Amido x Microsoft: How to bag the best jobs in the tech industry](https://www.meetup.com/Amido-Presents/events/266024459/)
+##### Thu Nov 21 2019
+**Location:** London
+**Organizer:** Amido Presents
+**Description:** On 21st November 2019 from 6.00pm - 8.30pm, Amido will be partnering up with Microsoft giving the inside knowledge of how to stand out from the crowd ...
+
+[Putting the human element back into Artificial Intelligence](https://www.meetup.com/old-street-tech-talks/events/266262147/)
+##### Thu Nov 21 2019
+**Location:** London
+**Organizer:** Old Street Tech Talks
+**Description:** We are back for our last meetup of 2019 and we have a new location so please take note! arrival + beers + food @ 6:30PMtalk kicks off @ 7PM Synopsis: ...
+
+[Career Expo @ ODSC Europe 2019](https://www.meetup.com/ODSC-London-AI-for-Engineers/events/266259849/)
+##### Fri Nov 22 2019
+**Location:** London
+**Organizer:** ODSC London - AI for Engineers
+**Description:** This year’s ODSC Europe brings together the most influential data scientists, practitioners, innovators, and leaders in data science and big data. Reg...
+
+[Let's learn Elasticsearch - workshop for beginners](https://www.meetup.com/ai-club/events/265931552/)
+##### Mon Nov 25 2019
+**Location:** London
+**Organizer:** Artificial Intelligence (AI) Club for Gender Minorities!
+**Description:** Elasticsearch is a distributed, open source search and analytics engine for all types of data, including textual, numerical, geospatial, structured, a...
+
+[Master Data Science - Artificial Neural Networks (ANN)](https://www.meetup.com/Artificial-Intelligence-UK/events/265908209/)
 ##### Tue Nov 26 2019
-London
-**Organizer:** HPC & AI
-**Description:** Our third HPC &amp; AI MeetUp (London) will be taking place on Tuesday 26th November, between[masked]pm at a venue in central London that will be conf...
-Link: [https://www.meetup.com/HPC-AI/events/263494224/](https://www.meetup.com/HPC-AI/events/263494224/)
+**Location:** London
+**Organizer:** Big Data, Analytics, and Artificial Intelligence
+**Description:** To signup, this Online meetup use following Link -https://www.firstonlineuniversity.org/events/master-data-science---artificial-neural-networks-%28ann...
 
-#### Women in London Talk Tech - The Future of Smart Cities
+[Machine Learning with Minishift](https://www.meetup.com/IBM-Code-London/events/266202490/)
+##### Tue Nov 26 2019
+**Location:** London
+**Organizer:** IBM Code London
+**Description:** Between ensuring that the right version Python/Pip are installed on your system, and that it doesn't conflict with other Python/Pip versions on your s...
+
+[Using Supervised ML Methods to augment intelligent dashboards in Healthcare](https://www.meetup.com/Wider-AI-ML-Working-Group/events/264611179/)
+##### Wed Nov 27 2019
+**Location:** London
+**Organizer:** Draper & Dash's AI / ML Meet up
+**Description:** This session will focus on how we use ML to augment our BI dashboards. Agenda-------------------------------------------------------------------------...
+
+[Impactful AI - 4th Meetup](https://www.meetup.com/Impactful-AI-London/events/266380435/)
 ##### Thu Nov 28 2019
-London
+**Location:** London
+**Organizer:** Impactful AI London
+**Description:** In this meetup series, we want to inspire everyone to use or implement Machine Learning and AI not only to serve great causes but also to have a demon...
+
+[Ingest, protect and access your data](https://www.meetup.com/Canary-Wharf-Data-Engineering/events/266047014/)
+##### Thu Nov 28 2019
+**Location:** London
+**Organizer:** Canary Wharf Data Engineering
+**Description:** Hello everyone! This is the 2nd meeting of our group and we're very excited about it. We have 3 talks confirmed, covering a variety of topics. The pro...
+
+[Women in London Talk Tech - The Future of Smart Cities](https://www.meetup.com/London-WI-Blockchain-Tech-Crypto/events/265268609/)
+##### Thu Nov 28 2019
+**Location:** London
 **Organizer:** London Tech Revolution: Blockchain, Crypto & Tech
 **Description:** To secure your ticket for our fun, friendly &amp; exciting event please visit EventBrite: https://www.eventbrite.com/e/women-in-london-talk-tech-smart...
-Link: [https://www.meetup.com/London-WI-Blockchain-Tech-Crypto/events/265268609/](https://www.meetup.com/London-WI-Blockchain-Tech-Crypto/events/265268609/)
 
-#### Global AI Bootcamp
+[AI and creativity Meetup and free workshop](https://www.meetup.com/London-AI-and-Creativity-meetup/events/266359546/)
+##### Mon Dec 02 2019
+**Location:** London
+**Organizer:** London AI, Blockchain and Creativity meetup
+**Description:** Hi everyone! We are planning to organise another meetup in the beginning of December. Confirmed speakers: 1) Chris Callow: Artificial Intelligence in ...
+
+[AI Urban Analytics with Alan Turing Institute](https://www.meetup.com/Machine-Intelligence-Garage/events/266290861/)
+##### Tue Dec 03 2019
+**Location:** London
+**Organizer:** Machine Intelligence Garage
+**Description:** Machine Intelligence Garage (Digital Catapult's AI startup programme) is collaborating with The Alan Turing Institute to bring you an evening of talks...
+
+[AI for Good Community Pre-holidays Meetup](https://www.meetup.com/meetup-group-pzvZdizC/events/266073268/)
+##### Tue Dec 03 2019
+**Location:** London
+**Organizer:** AI for Good
+**Description:** Regular Tuesday Meetups from the AI for Good Community 2019 is almost over, and that calls for a celebration of our hard work and achievements this ye...
+
+[Strong Safe Artificial Intelligence.](https://www.meetup.com/AI-peer-group/events/pzpcwpyzqbjb/)
+##### Fri Dec 06 2019
+**Location:** London
+**Organizer:** Artificial Intelligence Peer Group
+**Description:** No description provided...
+
+[Artificial Intelligence at NeurIPS 2020 - Official NeurIPS Meetup No 1](https://www.meetup.com/Reinforcement-Learning-Community/events/266390920/)
+##### Mon Dec 09 2019
+**Location:** London
+**Organizer:** Reinforcement Learning Community
+**Description:** Hi All, We have proudly partnered with NeurIPS 2020 this year to hold their meetups in London. NeurIPS is the biggest and the most popular conference ...
+
+[Artificial Intelligence at NeurIPS 2020 - Official NeurIPS Meetup No 2 ](https://www.meetup.com/Reinforcement-Learning-Community/events/266390965/)
+##### Tue Dec 10 2019
+**Location:** London
+**Organizer:** Reinforcement Learning Community
+**Description:** Hi All, We have proudly partnered with NeurIPS 2020 this year to hold their meetups in London. NeurIPS is the biggest and the most popular conference ...
+
+[Artificial Intelligence at NeurIPS 2020 - Official NeurIPS Meetup No 3](https://www.meetup.com/Reinforcement-Learning-Community/events/266391020/)
+##### Wed Dec 11 2019
+**Location:** London
+**Organizer:** Reinforcement Learning Community
+**Description:** Hi All, We have proudly partnered with NeurIPS 2020 this year to hold their meetups in London. NeurIPS is the biggest and the most popular conference ...
+
+[How to Outsource & Remote Hire in Tech: the "Startup way" - WORKSHOP](https://www.meetup.com/SiliconRoundabout/events/266072505/)
+##### Wed Dec 11 2019
+**Location:** London
+**Organizer:** Silicon Roundabout
+**Description:** NOTE: You'll need to register on Eventbrite to gain access (check the end the description for the link) How to Outsource &amp; Remote Hire in Tech: th...
+
+[Artificial Intelligence at NeurIPS 2020 - Official NeurIPS Meetup No 4](https://www.meetup.com/Reinforcement-Learning-Community/events/266391063/)
+##### Thu Dec 12 2019
+**Location:** London
+**Organizer:** Reinforcement Learning Community
+**Description:** Hi All, We have proudly partnered with NeurIPS 2020 this year to hold their meetups in London. NeurIPS is the biggest and the most popular conference ...
+
+[Artificial Intelligence at NeurIPS 2020 - Official NeurIPS Meetup No 5](https://www.meetup.com/Reinforcement-Learning-Community/events/266391104/)
+##### Fri Dec 13 2019
+**Location:** London
+**Organizer:** Reinforcement Learning Community
+**Description:** Hi All, We have proudly partnered with NeurIPS 2020 this year to hold their meetups in London. NeurIPS is the biggest and the most popular conference ...
+
+[Machine Learning and Deep Learning Training [First Free Session]](https://www.meetup.com/Artificial-Intelligence-UK/events/dhhhgryzqbsb/)
 ##### Sat Dec 14 2019
-London
+**Location:** London
+**Organizer:** Big Data, Analytics, and Artificial Intelligence
+**Description:** Register at: cosoit.com/training/data-science-with-python20% discount code: AI20OFF Online Bootcamp from going Zero to Build Competency in Machine lea...
+
+[Global AI Bootcamp](https://www.meetup.com/Global-AI-Meetup-London/events/264721116/)
+##### Sat Dec 14 2019
+**Location:** London
 **Organizer:** Global AI Meetup London
 **Description:** The Global AI Bootcamp is a free one-day event organized across the world by local communities that are passionate about artificial intelligence on Mi...
-Link: [https://www.meetup.com/Global-AI-Meetup-London/events/264721116/](https://www.meetup.com/Global-AI-Meetup-London/events/264721116/)
+
+[Analyse real-time data with machine learning on Microsoft Azure](https://www.meetup.com/beginners-machine-learning-london/events/265976590/)
+##### Thu Jan 30 2020
+**Location:** London
+**Organizer:** Beginners Machine Learning - London
+**Description:** In this Beginners Machine Learning workshop, you will get some hands-on experience with machine learning using simulated live data streams on the clou...
 
 
 </div>

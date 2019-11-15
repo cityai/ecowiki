@@ -1,19 +1,39 @@
 <!-- TITLE: Beirut AI -->
-<!-- SUBTITLE: ECOSYSTEM -->
+
 
 
 
 
 <div class=CityPageSpecific>
 
-# Overview
+<div class=status>
+
+At this AI Ecosystem you can check out <strong>0</strong> AI related events in which you can participate.
+Connect with local AI community, represented by <strong>1</strong> influencers and <strong>0</strong> groups with <strong>0</strong> community members.
+Explore the work  of <strong>5</strong> startups focused on generating business solutions using latest AI technologies.
+Also there are <strong>0</strong> AI related local organizations!
+
+
+</div>
+
+# About
+
+<!-- ADMINS SHOULD WRITE OVERVIEW FOR CITIES IN <div class=overview> SECTION OF ABOUT
+
+    First line of overview should have information of ambassador for specific city. 
+    You can find  format HERE:
+
+    <strong>CONTACT: [Ambassador name](Link to ambassador profile(MUST HAVE http OR https)) </strong>
+
+    You can copy this and change ambassador name and link accordingly!
+ -->
+
 <div class=overview>
 
 THIS IS LA PAZ AI OVERBIEW TEST THAT WILL BE STORED IN DATABASE!!!
 
 </div>
 
-# About
 <div class=status>
 
 </div>
@@ -21,70 +41,90 @@ THIS IS LA PAZ AI OVERBIEW TEST THAT WILL BE STORED IN DATABASE!!!
 </div>
 
 # Community
-
-## Groups
+You can join 0 active community groups on the topic of Artificial Intelligence
 <div class=groups>
-
-#### Beirut Artificial Intelligence and Data Science Meetup
-**Number of members:** 1165
-Tech
-**Organizer:** Leon
-**Description:** Do you have an interest in Artificial Intelligence whether as a hard core practitioner or a non technical person. Let's meet and discuss how we can be...
-
-#### Quants & Algo Traders Lebanon
-**Number of members:** 44
-Tech
-**Organizer:** ali askar
-**Description:** Quantitative, Algorithmic Traders, Mathematicians, Engineers, Data Scientists, and everyone who is interested to know more about the world of Trading....
 
 
 </div>
 
-## Influencers
+# Influencers
+Check out the voices of the local AI community
 <div class=influencers>
+
+[Christophe Zoghbi](https://twitter.com/kristoffzoghbi)
+**Followers:** 317
 
 
 </div>
 
 [See all influencers](./community)
 # Events
+You can join 0 locally organized upcoming events
 <div class=events>
 
 
 </div>
 
 [See all events](./events)
+
+<!-- WHEN ADDING NEW ORGANIZATIONS PLEASE FOLLOW THIS SCHEMA
+#### Organization_Name
+Organization_Category
+**Organizer:** Name_Of_Organization_Leader
+Link_To_Organization's_Website_or_Page
+**Description:** Organization's_Description
+NOT FOLLOWING THIS SCHEMA WILL RESULT IN INACCURACY IN DATABASE SO BE CAREFUL!
+EVERY CHARACTER LIKE # AND * ARE VITAL, SO WE ADVISE YOU TO COPY THE SCHEMA AND JUST FILL IN THE DATA IN POSITION
+BETWEEN EVERY ORGANIZATION SCHEMA SHOULD BE BLANK LINE -->
+
 # Organizations
+Active local organizations and initiatives related to AI
 <div class=organizations>
 
 
 </div>
 
 # Startups
+Check the newest startups from 5 locally
+
+<div class=logoCB>
+Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_crop.png" style="width:20%;"/></a>
+</div>
 <div class=startups>
 
-#### Fig
-Machine Learning, Natural Language Processing, Analytics, Big Data, Artificial Intelligence
+[Fig](https://www.crunchbase.com/organization/fig-app)
+**Categories:** Machine Learning, Natural Language Processing, Analytics, Big Data, Artificial Intelligence
 **Investment in USD:** 300,000
-**Description:** Fig offers businesses a chatbot development platform that allows them to have a fully functioning chatbot within minutes. No coding and no conversatio...
-Link: [https://www.figbots.ai](https://www.figbots.ai)
+**Location:** Beirut
 
-#### Fallound
-Software, Artificial Intelligence, Mobile
+[Fallound](https://www.crunchbase.com/organization/fallound)
+**Categories:** Software, Artificial Intelligence, Mobile
 **Investment in USD:** 125,000
-**Description:** Fallound is a software for cars and a standalone app that connects to car navigation systems to find and summarize perfectly timed audio podcast based...
-Link: [https://fallound.com](https://fallound.com)
+**Location:** Beirut
 
-#### Lexyom
-Legal Tech, Legal, Artificial Intelligence
+[Lexyom](https://www.crunchbase.com/organization/lexium)
+**Categories:** Legal Tech, Legal, Artificial Intelligence
 **Investment in USD:** 0
-**Description:** Lexyom is an online platform providing its users with smart legal answers and tailored legal services using artificial intelligence.  Lexyom is a lega...
-Link: [http://www.lexyom.com](http://www.lexyom.com)
+**Location:** Beirut
 
 
 
 </div>
 
 
+# Founding Partners
 
+Our global Founding Partners who enabled this initiative getting off the ground. A big THANKS for their support!
+<div class=partners>
+<img src="/images/PartnersForV1.png" style="width:40%">
+
+[Peltarion](https://peltarion.com/signup/)
+<strong>Scale-Up Founding Partner</strong>
+A faster deep learning cloud platform - 50 free GPU hours for all AI Wiki friends
+
+[Ticketless](https://ticketless.ai/)
+<strong>Startup Founding Partner</strong>
+Workforce performance management for customer support
+
+</div>
 

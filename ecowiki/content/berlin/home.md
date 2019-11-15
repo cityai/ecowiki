@@ -1,17 +1,37 @@
 <!-- TITLE: Berlin AI -->
-<!-- SUBTITLE: ECOSYSTEM -->
+
 
 
 
 
 <div class=CityPageSpecific>
 
-# Overview
-<div class=overview>
+<div class=status>
+
+At this AI Ecosystem you can check out <strong>56</strong> AI related events in which you can participate.
+Connect with local AI community, represented by <strong>12</strong> influencers and <strong>0</strong> groups with <strong>0</strong> community members.
+Explore the work  of <strong>100</strong> startups focused on generating business solutions using latest AI technologies.
+Also there are <strong>0</strong> AI related local organizations!
+
 
 </div>
 
 # About
+
+<!-- ADMINS SHOULD WRITE OVERVIEW FOR CITIES IN <div class=overview> SECTION OF ABOUT
+
+    First line of overview should have information of ambassador for specific city. 
+    You can find  format HERE:
+
+    <strong>CONTACT: [Ambassador name](Link to ambassador profile(MUST HAVE http OR https)) </strong>
+
+    You can copy this and change ambassador name and link accordingly!
+ -->
+
+<div class=overview>
+
+</div>
+
 <div class=status>
 
 </div>
@@ -19,138 +39,127 @@
 </div>
 
 # Community
-
-## Groups
+You can join 0 active community groups on the topic of Artificial Intelligence
 <div class=groups>
-
-#### Berlin Machine Learning Group
-**Number of members:** 8337
-Tech
-**Organizer:** Trent McConaghy
-**Description:** A meetup for academics, professionals and hobbyists interested in applications and latest developments in Machine Learning, and AI more broadly. We ta...
-
-#### Big Data Developers in Berlin
-**Number of members:** 3883
-Tech
-**Organizer:** Nancy Berlin
-**Description:** This is an IBM sponsored Big Data meetup group. Geared towards developers, data scientists and ALL Big Data enthusiasts, our meetups provide an opport...
-
-#### Berlin Artificial Intelligence & Deep Learning
-**Number of members:** 2598
-Tech
-**Organizer:** Ian Gomez
-**Description:** We’re excited to bring you the latest happenings in AI, Machine Learning, Deep Learning, Data Science and Big Data.  Who are we? We’re H2O.ai (https:/...
-
-#### meetup.ai [Berlin]
-**Number of members:** 2552
-Tech
-**Organizer:** Rico Meinl
-**Description:**  http://meetupai.com/&nbsp; •&nbsp;Witness AI in Action We believe in creating an open and transparent conversation about Artificial Intelligence. We ...
-
-#### FilmTech Meetup Berlin
-**Number of members:** 2470
-Tech
-**Organizer:** Erwin M. Schmidt
-**Description:** The FilmTech Meetup Berlin is a monthly speaker and networking event with the aim to explore the touch-points between the film, storytelling and techn...
 
 
 </div>
 
-## Influencers
+# Influencers
+Check out the voices of the local AI community
 <div class=influencers>
 
 [Pierre Garreau](https://twitter.com/pierre_garreau)
-**Number of followers:** 81
+**Followers:** 82
 
 [Caspian Robotics](https://twitter.com/CaspianRobotics)
-**Number of followers:** 46
+**Followers:** 46
 
 [Fabian Westerheide](https://twitter.com/bootstrappingme)
-**Number of followers:** 2495
+**Followers:** 2527
+
+[Nathan Benaich](https://twitter.com/NathanBenaich)
+**Followers:** 24079
 
 [Christoph Auer-Welsbach](https://twitter.com/AWChristoph)
-**Number of followers:** 2579
-
-[Luc Dudler](https://twitter.com/lucdudler)
-**Number of followers:** 558
+**Followers:** 2570
 
 
 </div>
 
 [See all influencers](./community)
 # Events
+You can join 56 locally organized upcoming events
 <div class=events>
 
-#### AI for Autonomous Mobility 
-##### Tue Oct 08 2019
-Berlin
-**Organizer:** Autonomous Mobility Berlin
-**Description:** The AI for Autonomous Mobility meetup is a monthly event by DEEP BERLIN with the purpose of openly gathering people interested and intrigued by autono...
-Link: [https://www.meetup.com/autonomous-mobility-berlin/events/lxzpjryznblb/](https://www.meetup.com/autonomous-mobility-berlin/events/lxzpjryznblb/)
+[Community Day: Cloud Migration, Containers, Kubernetes, and Microservices](https://www.meetup.com/Big-Data-Developers-in-Berlin/events/266267910/)
+##### Thu Nov 14 2019
+**Location:** Berlin
+**Organizer:** Big Data Developers in Berlin
 
-#### Robocars Build and Race
-##### Wed Oct 09 2019
-Berlin
-**Organizer:** Autonomous Mobility Berlin
-**Description:** Time to go back to the roots. This series of Meetup is all about building, breaking and racing the robots. No powerpoint, no promotions, just the hard...
-Link: [https://www.meetup.com/autonomous-mobility-berlin/events/264820788/](https://www.meetup.com/autonomous-mobility-berlin/events/264820788/)
+[Fashion & BeautyTech Berlin: Founders & Funders share their learnings](https://www.meetup.com/BeautyTech-Berlin/events/264717507/)
+##### Thu Nov 14 2019
+**Location:** Berlin
+**Organizer:** BeautyTech Berlin
 
-#### Gnosis Happy Hour in Osaka
-##### Wed Oct 09 2019
-Berlin
-**Organizer:** Gnosis Meetup
-**Description:** Gnosis Happy Hour in OsakaSponsored by the Gnosis Ecosystem Fund One year ago, we launched the Gnosis Ecosystem Fund to support teams building on and ...
-Link: [https://www.meetup.com/gnosispm/events/265311008/](https://www.meetup.com/gnosispm/events/265311008/)
+[Berlin Meets USA - Entering American Digital Health and MedTech Market](https://www.meetup.com/Berlin-Digital-Business-Network-SIBB/events/265896579/)
+##### Thu Nov 14 2019
+**Location:** Berlin
+**Organizer:** 💥 Berlin Digital Business Network @SIBB 💥
 
-#### Get your Java Microservice up and running!
-##### Wed Oct 09 2019
-Berlin
+[Digital Developer Conference: AI & Cloud](https://www.meetup.com/IBM-Developer-Berlin/events/266018959/)
+##### Thu Nov 14 2019
+**Location:** Berlin
 **Organizer:** IBM Developer Berlin
-**Description:** We’re continuing our cloud-native theme for our next meetup on October 9th. This time we will focus on Java and Kubernetes. By the end of the meetup, ...
-Link: [https://www.meetup.com/IBM-Developer-Berlin/events/263064734/](https://www.meetup.com/IBM-Developer-Berlin/events/263064734/)
 
-#### Artificial Intelligence - Understanding opportunities and consequences.
-##### Thu Oct 10 2019
-Berlin
-**Organizer:** Digital Skills Training Community
-**Description:** *German description below*You will understand AI and its consequences on the world.It is an opportunity to debunk misconceptions of AI &amp; explore o...
-Link: [https://www.meetup.com/digital-skills-tc/events/265475944/](https://www.meetup.com/digital-skills-tc/events/265475944/)
+[Computer Vision Workshop](https://www.meetup.com/Berlin-Computer-Vision-Group/events/266232173/)
+##### Fri Nov 15 2019
+**Location:** Berlin
+**Organizer:** Berlin Computer Vision Group
 
 
 </div>
 
 [See all events](./events)
+
+<!-- WHEN ADDING NEW ORGANIZATIONS PLEASE FOLLOW THIS SCHEMA
+#### Organization_Name
+Organization_Category
+**Organizer:** Name_Of_Organization_Leader
+Link_To_Organization's_Website_or_Page
+**Description:** Organization's_Description
+NOT FOLLOWING THIS SCHEMA WILL RESULT IN INACCURACY IN DATABASE SO BE CAREFUL!
+EVERY CHARACTER LIKE # AND * ARE VITAL, SO WE ADVISE YOU TO COPY THE SCHEMA AND JUST FILL IN THE DATA IN POSITION
+BETWEEN EVERY ORGANIZATION SCHEMA SHOULD BE BLANK LINE -->
+
 # Organizations
+Active local organizations and initiatives related to AI
 <div class=organizations>
 
 
 </div>
 
 # Startups
+Check the newest startups from 100 locally
+
+<div class=logoCB>
+Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_crop.png" style="width:20%;"/></a>
+</div>
 <div class=startups>
 
-#### Ada Health
-Health Care, Personal Health, mHealth, Apps, Artificial Intelligence
+[Ada Health](https://www.crunchbase.com/organization/adahealth)
+**Categories:** Health Care, Personal Health, mHealth, Apps, Artificial Intelligence
 **Investment in USD:** 69,269,776
-**Description:** Ada is a global health company founded by doctors, scientists, and industry pioneers to create new possibilities for personal health. Ada’s core syste...
-Link: [https://ada.com/](https://ada.com/)
+**Location:** Berlin
 
-#### omni:us
-Machine Learning, Computer Vision, Artificial Intelligence, Information Technology
-**Investment in USD:** 31,106,221
-**Description:** omni:us is an Artificial Intelligence as a Service (AIaaS) provider for cognitive claims management. Built on a fully data-driven approach, omni:us is...
-Link: [http://omnius.com/](http://omnius.com/)
+[omni:us](https://www.crunchbase.com/organization/omnius)
+**Categories:** Machine Learning, Computer Vision, Artificial Intelligence, Information Technology
+**Investment in USD:** 31,108,773
+**Location:** Berlin
 
-#### Zeitgold
-Financial Services, Small and Medium Businesses, Artificial Intelligence
+[Zeitgold](https://www.crunchbase.com/organization/zeitgold)
+**Categories:** Financial Services, Small and Medium Businesses, Artificial Intelligence
 **Investment in USD:** 27,746,684
-**Description:** Zeitgold frees small businesses from paperwork. By combining experts and artificial intelligence, the company offers an end-to-end solution for managi...
-Link: [https://www.zeitgold.com/](https://www.zeitgold.com/)
+**Location:** Berlin
 
 
 
 </div>
 
 
+# Founding Partners
 
+Our global Founding Partners who enabled this initiative getting off the ground. A big THANKS for their support!
+<div class=partners>
+<img src="/images/PartnersForV1.png" style="width:40%">
+
+[Peltarion](https://peltarion.com/signup/)
+<strong>Scale-Up Founding Partner</strong>
+A faster deep learning cloud platform - 50 free GPU hours for all AI Wiki friends
+
+[Ticketless](https://ticketless.ai/)
+<strong>Startup Founding Partner</strong>
+Workforce performance management for customer support
+
+</div>
 

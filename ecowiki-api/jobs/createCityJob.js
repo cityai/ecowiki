@@ -18,7 +18,7 @@ module.exports = async function createCity(){
         await influencerServices.createInfluencers(cities[i].name)
         await startupServices.createStartups(cities[i].name);
         console.log(2)
-        await groupServices.createGroups(cities[i].name)
+        //await groupServices.createGroups(cities[i].name)
         
         
         await communityServices.createCommunity(cities[i].name)

@@ -1,17 +1,37 @@
 <!-- TITLE: La Paz AI -->
-<!-- SUBTITLE: ECOSYSTEM -->
+
 
 
 
 
 <div class=CityPageSpecific>
 
-# Overview
-<div class=overview>
+<div class=status>
+
+At this AI Ecosystem you can check out <strong>0</strong> AI related events in which you can participate.
+Connect with local AI community, represented by <strong>0</strong> influencers and <strong>0</strong> groups with <strong>0</strong> community members.
+Explore the work  of <strong>0</strong> startups focused on generating business solutions using latest AI technologies.
+Also there are <strong>0</strong> AI related local organizations!
+
 
 </div>
 
 # About
+
+<!-- ADMINS SHOULD WRITE OVERVIEW FOR CITIES IN <div class=overview> SECTION OF ABOUT
+
+    First line of overview should have information of ambassador for specific city. 
+    You can find  format HERE:
+
+    <strong>CONTACT: [Ambassador name](Link to ambassador profile(MUST HAVE http OR https)) </strong>
+
+    You can copy this and change ambassador name and link accordingly!
+ -->
+
+<div class=overview>
+
+</div>
+
 <div class=status>
 
 </div>
@@ -19,44 +39,14 @@
 </div>
 
 # Community
-
-## Groups
+You can join 0 active community groups on the topic of Artificial Intelligence
 <div class=groups>
-
-#### GDG La Paz
-**Number of members:** 1549
-Tech
-**Organizer:** Monica Canaza
-**Description:** GDG La Paz es la comunidad de desarrolladores que utilizan tecnologías, plataformas y APIs de Google, ya sea en el ámbito laboral, o en proyectos pers...
-
-#### La Paz Women in Machine Learning & Data Science
-**Number of members:** 174
-Tech
-**Organizer:** WiMLDS
-**Description:** WiMLDS's mission is to support and promote women and gender minorities who are practicing, studying or are interested in the fields of machine learnin...
-
-#### Data Economy - La Paz
-**Number of members:** 148
-Tech
-**Organizer:** Daniel Lustig
-**Description:** Este grupo es para cualquier persona interesada en colaborar en la formación de la nueva Economía de los Datos. Su objetivo es conectar mentes curiosa...
-
-#### Data Science Bolivia
-**Number of members:** 128
-Tech
-**Organizer:** Fernando Silva
-**Description:** Data Science Bolivia (o simplemente DSB) es una comunidad de Data Scientists en Bolivia. Está abierta a profesionales o estudiantes apasionados de Dat...
-
-#### Kaggle Days Meetup La Paz
-**Number of members:** 115
-Tech
-**Organizer:** Fernando Silva
-**Description:** Data Scientists, Machine Learning Enthusiasts, Kaggle fans... y cualquier persona interesada en participar en competiciones de Machine Learning y Deep...
 
 
 </div>
 
-## Influencers
+# Influencers
+Check out the voices of the local AI community
 <div class=influencers>
 
 
@@ -64,33 +54,37 @@ Tech
 
 [See all influencers](./community)
 # Events
+You can join 0 locally organized upcoming events
 <div class=events>
-
-#### Algoritmia Study Jam [Session 3] reprogramado
-##### Sat Oct 12 2019
-La Paz
-**Organizer:** GDG La Paz
-**Description:** Los Study Jams son grupos de estudio dirigidos por una comunidad para estudiantes sobre el contenido de Google Developers y sobre diversos tópicos. ¿C...
-Link: [https://www.meetup.com/GDG-La-Paz/events/265413968/](https://www.meetup.com/GDG-La-Paz/events/265413968/)
-
-#### DevFest XIX La Paz
-##### Fri Nov 08 2019
-La Paz
-**Organizer:** GDG La Paz
-**Description:** El DevFest es el evento más grande que realizamos cada año donde se centra en la construcción de la comunidad y en el aprendizaje de las nuevas tecnol...
-Link: [https://www.meetup.com/GDG-La-Paz/events/262642062/](https://www.meetup.com/GDG-La-Paz/events/262642062/)
 
 
 </div>
 
 [See all events](./events)
+
+<!-- WHEN ADDING NEW ORGANIZATIONS PLEASE FOLLOW THIS SCHEMA
+#### Organization_Name
+Organization_Category
+**Organizer:** Name_Of_Organization_Leader
+Link_To_Organization's_Website_or_Page
+**Description:** Organization's_Description
+NOT FOLLOWING THIS SCHEMA WILL RESULT IN INACCURACY IN DATABASE SO BE CAREFUL!
+EVERY CHARACTER LIKE # AND * ARE VITAL, SO WE ADVISE YOU TO COPY THE SCHEMA AND JUST FILL IN THE DATA IN POSITION
+BETWEEN EVERY ORGANIZATION SCHEMA SHOULD BE BLANK LINE -->
+
 # Organizations
+Active local organizations and initiatives related to AI
 <div class=organizations>
 
 
 </div>
 
 # Startups
+Check the newest startups from 0 locally
+
+<div class=logoCB>
+Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_crop.png" style="width:20%;"/></a>
+</div>
 <div class=startups>
 
 
@@ -98,5 +92,19 @@ Link: [https://www.meetup.com/GDG-La-Paz/events/262642062/](https://www.meetup.c
 </div>
 
 
+# Founding Partners
 
+Our global Founding Partners who enabled this initiative getting off the ground. A big THANKS for their support!
+<div class=partners>
+<img src="/images/PartnersForV1.png" style="width:40%">
+
+[Peltarion](https://peltarion.com/signup/)
+<strong>Scale-Up Founding Partner</strong>
+A faster deep learning cloud platform - 50 free GPU hours for all AI Wiki friends
+
+[Ticketless](https://ticketless.ai/)
+<strong>Startup Founding Partner</strong>
+Workforce performance management for customer support
+
+</div>
 
