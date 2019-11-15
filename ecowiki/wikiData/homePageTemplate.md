@@ -66,7 +66,7 @@ Active local organizations and initiatives related to AI
 
 # Startups
 <div class=logoCB>
-Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_crop.png" style="width:20%;"/></a>
+Powered by: <a href="https://crunchbase.com/"><img src="/images/crunchbase_logo_aiwiki.png" style="width:20%;"/></a>
 </div>
 <div class=startups>
 
