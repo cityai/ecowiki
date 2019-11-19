@@ -8,7 +8,7 @@
 
 <div class=status>
 
-At this AI Ecosystem you can check out <strong>1</strong> AI related events in which you can participate.
+At this AI Ecosystem you can check out <strong>0</strong> AI related events in which you can participate.
 Connect with local AI community, represented by <strong>3</strong> influencers and <strong>0</strong> groups with <strong>0</strong> community members.
 Explore the work  of <strong>0</strong> startups focused on generating business solutions using latest AI technologies.
 Also there are <strong>0</strong> AI related local organizations!
@@ -42,6 +42,15 @@ Also there are <strong>0</strong> AI related local organizations!
 You can join 0 active community groups on the topic of Artificial Intelligence
 <div class=groups>
 
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
 
 </div>
 
@@ -49,29 +58,46 @@ You can join 0 active community groups on the topic of Artificial Intelligence
 Check out the voices of the local AI community
 <div class=influencers>
 
+<div class=column id=0>
+
+![http://pbs.twimg.com/profile_images/599938400901271553/H_5Eznsf_normal.jpg](http://pbs.twimg.com/profile_images/599938400901271553/H_5Eznsf_normal.jpg){: width=10%}
 [Alejandro Correa B](https://twitter.com/albahnsen)
 **Followers:** 733
 
+
+</div>
+<div class=column id=1>
+
+![http://pbs.twimg.com/profile_images/1134202198143963136/c0gzBQI6_normal.png](http://pbs.twimg.com/profile_images/1134202198143963136/c0gzBQI6_normal.png){: width=10%}
 [Jean Phillip Bernier](https://twitter.com/jean_p_bernier)
 **Followers:** 24
 
+
+</div>
+<div class=column id=2>
+
+![http://pbs.twimg.com/profile_images/713468146687086592/d6O_1IAU_normal.jpg](http://pbs.twimg.com/profile_images/713468146687086592/d6O_1IAU_normal.jpg){: width=10%}
 [Alejandro Betancourt](https://twitter.com/AlejoBt)
 **Followers:** 617
 
 
 </div>
+</div>
 
 [See all influencers](./community)
 # Events
-You can join 1 locally organized upcoming events
+You can join 0 locally organized upcoming events
 <div class=events>
 
-[World Usability Day:  Design Challenge sobre el Cambio Climático. ](https://www.meetup.com/Digital-Experience-Colombia/events/266105801/)
-##### Thu Nov 14 2019
-**Location:** Bogota
-**Organizer:** Meetup de Digital Experience en Colombia
+<div class=column id=0>
 
+</div>
+<div class=column id=1>
 
+</div>
+<div class=column id=2>
+
+</div>
 </div>
 
 [See all events](./events)
@@ -90,7 +116,15 @@ BETWEEN EVERY ORGANIZATION SCHEMA SHOULD BE BLANK LINE -->
 Active local organizations and initiatives related to AI
 <div class=organizations>
 
+<div class=column id=0>
 
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
 </div>
 
 # Startups
@@ -101,7 +135,15 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 </div>
 <div class=startups>
 
+<div class=column id=0>
 
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
 
 </div>
 

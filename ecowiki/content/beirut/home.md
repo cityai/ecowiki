@@ -44,6 +44,15 @@ THIS IS LA PAZ AI OVERBIEW TEST THAT WILL BE STORED IN DATABASE!!!
 You can join 0 active community groups on the topic of Artificial Intelligence
 <div class=groups>
 
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
 
 </div>
 
@@ -51,10 +60,20 @@ You can join 0 active community groups on the topic of Artificial Intelligence
 Check out the voices of the local AI community
 <div class=influencers>
 
+<div class=column id=0>
+
+![http://pbs.twimg.com/profile_images/999401515352653824/RJODfftT_normal.jpg](http://pbs.twimg.com/profile_images/999401515352653824/RJODfftT_normal.jpg){: width=10%}
 [Christophe Zoghbi](https://twitter.com/kristoffzoghbi)
 **Followers:** 317
 
 
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
 </div>
 
 [See all influencers](./community)
@@ -62,7 +81,15 @@ Check out the voices of the local AI community
 You can join 0 locally organized upcoming events
 <div class=events>
 
+<div class=column id=0>
 
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
 </div>
 
 [See all events](./events)
@@ -81,7 +108,15 @@ BETWEEN EVERY ORGANIZATION SCHEMA SHOULD BE BLANK LINE -->
 Active local organizations and initiatives related to AI
 <div class=organizations>
 
+<div class=column id=0>
 
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
 </div>
 
 # Startups
@@ -92,15 +127,37 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 </div>
 <div class=startups>
 
+<div class=column id=0>
+
+[Personafier SAL](https://www.crunchbase.com/organization/personafier-sal)
+**Categories:** Social Media Marketing, Content, Content Marketing, Social Media, Content Discovery, Advertising, Analytics, Artificial Intelligence, Events, News
+**Investment in USD:** 0
+**Location:** Beirut
+
+
 [Fig](https://www.crunchbase.com/organization/fig-app)
 **Categories:** Machine Learning, Natural Language Processing, Analytics, Big Data, Artificial Intelligence
 **Investment in USD:** 300,000
 **Location:** Beirut
 
+
+</div>
+<div class=column id=1>
+
+[MAJ Solution](https://www.crunchbase.com/organization/maj-solution)
+**Categories:** Analytics, Software, Big Data, Artificial Intelligence, Information Technology, Mobile
+**Investment in USD:** 0
+**Location:** Beirut
+
+
 [Fallound](https://www.crunchbase.com/organization/fallound)
 **Categories:** Software, Artificial Intelligence, Mobile
 **Investment in USD:** 125,000
 **Location:** Beirut
+
+
+</div>
+<div class=column id=2>
 
 [Lexyom](https://www.crunchbase.com/organization/lexium)
 **Categories:** Legal Tech, Legal, Artificial Intelligence
@@ -108,6 +165,7 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 **Location:** Beirut
 
 
+</div>
 
 </div>
 

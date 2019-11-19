@@ -42,6 +42,15 @@ Also there are <strong>0</strong> AI related local organizations!
 You can join 0 active community groups on the topic of Artificial Intelligence
 <div class=groups>
 
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
 
 </div>
 
@@ -49,7 +58,15 @@ You can join 0 active community groups on the topic of Artificial Intelligence
 Check out the voices of the local AI community
 <div class=influencers>
 
+<div class=column id=0>
 
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
 </div>
 
 [See all influencers](./community)
@@ -57,7 +74,15 @@ Check out the voices of the local AI community
 You can join 0 locally organized upcoming events
 <div class=events>
 
+<div class=column id=0>
 
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
 </div>
 
 [See all events](./events)
@@ -76,7 +101,15 @@ BETWEEN EVERY ORGANIZATION SCHEMA SHOULD BE BLANK LINE -->
 Active local organizations and initiatives related to AI
 <div class=organizations>
 
+<div class=column id=0>
 
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
 </div>
 
 # Startups
@@ -87,7 +120,15 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 </div>
 <div class=startups>
 
+<div class=column id=0>
 
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
 
 </div>
 

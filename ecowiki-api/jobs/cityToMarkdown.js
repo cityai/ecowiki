@@ -110,7 +110,7 @@ class MarkdownTransform {
                         data = this.addMultipleLines(data, city, "organizations", 20, "<div class=organizations>", ["name", "category", "founder", "link"]);
                     if (community) {
                         data = this.addMultipleLines(data, community, "groups", 20, "<div class=groups>", ["name", "members", "organizer"]);
-                        data = this.addMultipleLines(data, community, "influencers", 20, "<div class=influencers>", ["name", "followers"]);
+                        data = this.addMultipleLines(data, community, "influencers", 20, "<div class=influencers>", ["picture","name", "followers"]);
 
                     }
                     await fs.writeFile(filePath, "", async err => {
@@ -207,6 +207,10 @@ class MarkdownTransform {
                     case "link":
                             data.splice(tempIndex, 0, "**Link:** [" + document[docObj][i][attributesArray[j]] + "](" + document[docObj][i][attributesArray[j]] + ")");
                             tempIndex++;
+                        break;
+                    case "picture":
+                        data.splice(tempIndex, 0, "![" + document[docObj][i][attributesArray[j]] + "](" + document[docObj][i][attributesArray[j]] + "){: width=10%}");
+                        tempIndex++;
                         break;
                     case "description":
                         if (!document[docObj][i][attributesArray[j]])

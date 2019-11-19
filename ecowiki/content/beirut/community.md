@@ -1,11 +1,12 @@
+
+[Christophe Zoghbi](https://twitter.com/kristoffzoghbi)
+**Followers:** 317
+
 <!-- TITLE: Communities -->
 <!-- SUBTITLE: A quick summary of Communities -->
 
 # Influencers
 <div class=influencers>
-
-[Christophe Zoghbi](https://twitter.com/kristoffzoghbi)
-**Followers:** 317
 
 
 </div>
