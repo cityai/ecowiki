@@ -33,18 +33,42 @@ Workforce performance management for customer support
 
 # Top Communities
 <div class=groups>
+<div class=column id=0>
 
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
 </div>
 
 # Events
 <div class=events>
+<div class=column id=0>
 
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
 </div>
 
 # Influencers
 Check out the voices of the global AI community
 <div class=influencers>
+<div class=column id=0>
 
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
 </div>
 
 
@@ -61,7 +85,15 @@ BETWEEN EVERY ORGANIZATION SCHEMA SHOULD BE BLANK LINE -->
 # Organizations
 Active local organizations and initiatives related to AI
 <div class=organizations>
+<div class=column id=0>
 
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
 </div>
 
 # Startups
@@ -69,7 +101,15 @@ Active local organizations and initiatives related to AI
 Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_crop.png" style="width:20%;"/></a>
 </div>
 <div class=startups>
+<div class=column id=0>
 
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
 </div>
 
 

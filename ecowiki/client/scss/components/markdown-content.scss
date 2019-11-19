@@ -483,6 +483,15 @@
     padding-left: 15px;
     display: block;
   }
+  .groups:after{
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .groups .column{
+    float: left;
+    width: 33.33%;
+  }
   .groups p a{
     font-size: 18px;
     font-weight: 700;
@@ -518,6 +527,16 @@
     display: none;
   }
   //--------------------------------------------EVENTS SECTION
+  .events:after{
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .events .column{
+    float: left;
+    width: 33.33%;
+  }
+  
   .events h4 {
     margin: 0;
     padding-left: 15px;
@@ -553,9 +572,17 @@
     }
   }
   //--------------------------------------------STARTUPS SECTION
+  .startups:after{
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .startups .column{
+    float: left;
+    width: 33.33%;
+  }
+  
   .startups {
-    display: flex;
-    flex-direction: column;
     p {
       display: block;
       flex-direction: column;
@@ -598,6 +625,15 @@
   //--------------------------------------------INFLUENCERS SECTION
   .influencers {
     font-size: 18px;
+  }
+  .influencers:after{
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .influencers .column{
+    float: left;
+    width: 33.33%;
   }
   .influencers a.internal-link {
     color: #000;
@@ -647,6 +683,16 @@
     font-weight: bold;
   }
   //---------------------------------------------ORGANIZATIONS
+
+  .organizations:after{
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .organizations .column{
+    float: left;
+    width: 33.33%;
+  }
   .organizations h4 {
     padding-left: 15px;
     font-size: 18px;
@@ -697,5 +743,10 @@
   .aboutSection strong{
     font-weight: bold;
     color: #000;
+  }
+
+  .ecosystems {
+    display: flex;
+    flex-direction: row;
   }
 }

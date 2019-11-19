@@ -103,14 +103,14 @@ class MarkdownTransform {
                     data.splice(0, 0, "<!-- TITLE: " + city.name + " AI -->");
                     data = this.addOneLine(data, city, "overview", "<div class=overview>");
                     if (city.startups)
-                        data = this.addMultipleLines(data, city, "startups", 3, "<div class=startups>", ["name", "categories", "investment", "location"]);
+                        data = this.addMultipleLines(data, city, "startups", 20, "<div class=startups>", ["name", "categories", "investment", "location"]);
                     if (city.events)
-                        data = this.addMultipleLines(data, city, "events", 5, "<div class=events>", ["name", "date", "location", "organizer"])
+                        data = this.addMultipleLines(data, city, "events", 20, "<div class=events>", ["name", "date", "location", "organizer"])
                     if (city.organizations)
-                        data = this.addMultipleLines(data, city, "organizations", 5, "<div class=organizations>", ["name", "category", "founder", "link"]);
+                        data = this.addMultipleLines(data, city, "organizations", 20, "<div class=organizations>", ["name", "category", "founder", "link"]);
                     if (community) {
-                        data = this.addMultipleLines(data, community, "groups", 5, "<div class=groups>", ["name", "members", "organizer"]);
-                        data = this.addMultipleLines(data, community, "influencers", 5, "<div class=influencers>", ["name", "followers"]);
+                        data = this.addMultipleLines(data, community, "groups", 20, "<div class=groups>", ["name", "members", "organizer"]);
+                        data = this.addMultipleLines(data, community, "influencers", 20, "<div class=influencers>", ["name", "followers"]);
 
                     }
                     await fs.writeFile(filePath, "", async err => {
@@ -184,79 +184,81 @@ class MarkdownTransform {
                 data.splice(index,0,"This section can be updated by the local ambassador. For contact information see the About section of this page");
                 continue;
                 }
-
+            let tempIndex = data.indexOf("<div class=column id=" + i%3 + ">", index)+1;
+            data.splice(tempIndex, 0, "");
+            tempIndex++;
             for (let j = 0; j < attributesArray.length; j++) {
 
                 switch (attributesArray[j]) {
                     case "name":
                         if (docObj === "influencers" || docObj === "events" || docObj === "startups" || docObj === "groups") {
-                            data.splice(index, 0, "[" + document[docObj][i][attributesArray[j]] + "](" + document[docObj][i]["link"] + ")");
-                            index++;
+                            data.splice(tempIndex, 0, "[" + document[docObj][i][attributesArray[j]] + "](" + document[docObj][i]["link"] + ")");
+                            tempIndex++;
                         }
                         else {
-                            data.splice(index, 0, "#### " + document[docObj][i][attributesArray[j]]);
-                            index++;
+                            data.splice(tempIndex, 0, "#### " + document[docObj][i][attributesArray[j]]);
+                            tempIndex++;
                         }
                         break;
                     case "followers":
-                        data.splice(index, 0, "**Followers:** " + document[docObj][i][attributesArray[j]]);
-                        index++;
+                        data.splice(tempIndex, 0, "**Followers:** " + document[docObj][i][attributesArray[j]]);
+                        tempIndex++;
                         break;
                     case "link":
-                            data.splice(index, 0, "**Link:** [" + document[docObj][i][attributesArray[j]] + "](" + document[docObj][i][attributesArray[j]] + ")");
-                            index++;
+                            data.splice(tempIndex, 0, "**Link:** [" + document[docObj][i][attributesArray[j]] + "](" + document[docObj][i][attributesArray[j]] + ")");
+                            tempIndex++;
                         break;
                     case "description":
                         if (!document[docObj][i][attributesArray[j]])
                             document[docObj][i][attributesArray[j]] = "No description provided";
-                        data.splice(index, 0, "**Description:** " + document[docObj][i][attributesArray[j]].substring(0, 150).replace(/(\r\n|\n|\r)/gm, " ") + "...");
-                        index++;
+                        data.splice(tempIndex, 0, "**Description:** " + document[docObj][i][attributesArray[j]].substring(0, 150).replace(/(\r\n|\n|\r)/gm, " ") + "...");
+                        tempIndex++;
                         break;
                     case "members":
-                        data.splice(index, 0, "**Members:** " + document[docObj][i][attributesArray[j]])
-                        index++;
+                        data.splice(tempIndex, 0, "**Members:** " + document[docObj][i][attributesArray[j]])
+                        tempIndex++;
                         break;
                     case "investment":
-                        data.splice(index, 0, "**Investment in USD:** " + document[docObj][i][attributesArray[j]].toString().replace(/(\d)(?=(\d{3})+(?!\d))/g, "$1,"))
-                        index++;
+                        data.splice(tempIndex, 0, "**Investment in USD:** " + document[docObj][i][attributesArray[j]].toString().replace(/(\d)(?=(\d{3})+(?!\d))/g, "$1,"))
+                        tempIndex++;
                         break;
                     case "categories":
                         if (document[docObj][i][attributesArray[j]]) {
-                            data.splice(index, 0, "**Categories:** " + document[docObj][i][attributesArray[j]].toString().replace(/,/g, ", "));
-                            index++;
+                            data.splice(tempIndex, 0, "**Categories:** " + document[docObj][i][attributesArray[j]].toString().replace(/,/g, ", "));
+                            tempIndex++;
                         }
                         break;
                     case "category":
                         if (document[docObj][i][attributesArray[j]]) {
-                            data.splice(index, 0, "**Categories:** " + document[docObj][i][attributesArray[j]].toString().replace(/,/g, ", "));
-                            index++;
+                            data.splice(tempIndex, 0, "**Categories:** " + document[docObj][i][attributesArray[j]].toString().replace(/,/g, ", "));
+                            tempIndex++;
                         }
                         break;
                     case "date":
-                        data.splice(index, 0, "##### " + document[docObj][i][attributesArray[j]].toString().substring(0, 15));
-                        index++;
+                        data.splice(tempIndex, 0, "##### " + document[docObj][i][attributesArray[j]].toString().substring(0, 15));
+                        tempIndex++;
                         break;
                     case "organizer":
-                        data.splice(index, 0, "**Organizer:** " + document[docObj][i][attributesArray[j]].toString());
-                        index++;
+                        data.splice(tempIndex, 0, "**Organizer:** " + document[docObj][i][attributesArray[j]].toString());
+                        tempIndex++;
                         break;
                     case "founder":
-                        data.splice(index, 0, "**Founder:** " + document[docObj][i][attributesArray[j]].toString());
-                        index++;
+                        data.splice(tempIndex, 0, "**Founder:** " + document[docObj][i][attributesArray[j]].toString());
+                        tempIndex++;
                         break;
                     case "location":
-                        data.splice(index, 0, "**Location:** " + document[docObj][i][attributesArray[j]].toString());
-                        index++;
+                        data.splice(tempIndex, 0, "**Location:** " + document[docObj][i][attributesArray[j]].toString());
+                        tempIndex++;
                         break;
                     default:
-                        data.splice(index, 0, document[docObj][i][attributesArray[j]]);
-                        index++;
+                        data.splice(tempIndex, 0, document[docObj][i][attributesArray[j]]);
+                        tempIndex++;
 
                 }
 
             }
-            data.splice(index, 0, "");
-            index++;
+            data.splice(tempIndex, 0, "");
+            tempIndex++;
         }
         return data;
     }
