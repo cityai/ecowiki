@@ -33,6 +33,9 @@ services:
   traefik:
     image: traefik:v1.7
     command: --web --docker --docker.domain=docker.localhost --logLevel=${LEVEL}
+    labels:
+      - "traefik.frontend.headers.customResponseHeaders=Access-Control-Allow-Origin:*"
+      - "traefik.backend.headers.customResponseHeaders=Access-Control-Allow-Origin:*"
     ports:
       - "80:80"
       - "443:443"

@@ -13,6 +13,15 @@ defaultEntryPoints = ["http", "https"]
   [entryPoints.foo.auth]
     [entryPoints.foo.auth.basic]
       usersFile = "/.htpasswd"
+[http.middlewares]
+  [http.middlewares.testHeader.headers]
+    accessControlAllowMethods= ["GET", "OPTIONS", "PUT"]
+    accessControlAllowOrigin = "*"
+    customRequestHeaders = "Access-Control-Allow-Origin:*"
+    customResponseHeaders = "Access-Control-Allow-Origin:*"
+    accessControlMaxAge = 100
+    addVaryHeader = true
+    sslRedirect = false
 
 [[tls.certificates]]
   certFile = "/aiwiki.co.pem"

@@ -7,6 +7,10 @@ var startupSchema = mongoose.Schema({
         type: String, 
         required: true
     },
+    picture:{
+        type: String,
+        required: false
+    },
     type:{
         type: String,
         required:true
