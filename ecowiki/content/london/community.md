@@ -1,14 +1,14 @@
 
 [Joanna J Bryson](https://twitter.com/j2bryson)
-**Followers:** 22072
+**Followers:** 22141
 
 
 [Alex Housley](https://twitter.com/ahousley)
-**Followers:** 2568
+**Followers:** 2565
 
 
 [Rodolfo Rosini ☕️✨](https://twitter.com/rodolfor)
-**Followers:** 4344
+**Followers:** 4351
 
 
 [Tarakul Abedin](https://twitter.com/tarakul)
@@ -16,59 +16,59 @@
 
 
 [James Duez](https://twitter.com/jamesduez)
-**Followers:** 1685
+**Followers:** 1691
 
 
 [Dr Adam Rutherford](https://twitter.com/AdamRutherford)
-**Followers:** 74619
+**Followers:** 75044
 
 
 [Ankur Modi](https://twitter.com/ankurmodi)
-**Followers:** 3064
+**Followers:** 3063
 
 
 [Shane Legg](https://twitter.com/ShaneLegg)
-**Followers:** 38938
+**Followers:** 39086
 
 
 [Jamie Qiu](https://twitter.com/jamieqiu)
-**Followers:** 431
+**Followers:** 432
 
 
 [Nige Willson](https://twitter.com/nigewillson)
-**Followers:** 55528
+**Followers:** 55501
 
 
 [Murray Shanahan](https://twitter.com/mpshanahan)
-**Followers:** 9185
+**Followers:** 9205
 
 
 [Ferenc Huszár🇪🇺](https://twitter.com/fhuszar)
-**Followers:** 21552
+**Followers:** 21774
 
 
 [Ian Osband](https://twitter.com/IanOsband)
-**Followers:** 3165
+**Followers:** 3192
 
 
 [AI](https://twitter.com/DeepLearn007)
-**Followers:** 127655
+**Followers:** 127843
 
 
 [Demis Hassabis](https://twitter.com/demishassabis)
-**Followers:** 174250
+**Followers:** 174694
 
 
 [Mustafa Suleyman](https://twitter.com/mustafasuleymn)
-**Followers:** 43874
+**Followers:** 43894
 
 
 [Herman Narula](https://twitter.com/HermanNarula)
-**Followers:** 3344
+**Followers:** 3346
 
 
 [Prof Andy Pardoe #intoAI #AI](https://twitter.com/Pardoe_AI)
-**Followers:** 13681
+**Followers:** 13698
 
 <!-- TITLE: Communities -->
 <!-- SUBTITLE: A quick summary of Communities -->

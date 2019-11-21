@@ -56,36 +56,7 @@ class MarkdownTransform {
                     })
                 })
 
-                await fs.readFile(eventsTemplate, async (err, data) => {
-                    if (err) return console.log(err);
-                    data = data.toString().split("\n");
-                    if (city.events) {
-                        let futEvents = 0;
-                        let pastEvents = 0;
-
-                        for (let i = 0; i < city.events.length; i++) {
-
-                            if (city.events[i].date.getTime() > Date.now())
-                                futEvents += 1;
-                            else
-                                pastEvents += 1;
-                        }
-
-                        data.splice(3, 0, "\n For this AI ecosystem there are currently " + futEvents + " future events that you can participate in, and " + pastEvents +
-                            " events that have already been organized \n");
-
-
-                        data = this.addMultipleLines(data, city, "events", city.events.length, "<div class=events>", ["name", "date", "location", "organizer", "description"])
-                    }
-                    await fs.writeFile(dirPath + "/events.md", "", async err => {
-                        if (err) return console.log(err);
-                        for (let i = 0; i < data.length; i++)
-                            fs.appendFileSync(dirPath + "/events.md", data[i] + "\n");
-                        console.log("Events are converted into markdown!")
-
-                    })
-                })
-
+                
                 await fs.readFile(filePath, async (err, data) => {
                     if (err) return console.log(err);
                     data = data.toString().split("\n");
@@ -103,7 +74,7 @@ class MarkdownTransform {
                     data.splice(0, 0, "<!-- TITLE: " + city.name + " AI -->");
                     data = this.addOneLine(data, city, "overview", "<div class=overview>");
                     if (city.startups)
-                        data = this.addMultipleLines(data, city, "startups", 20, "<div class=startups>", ["name", "categories", "investment", "location"]);
+                        data = this.addMultipleLines(data, city, "startups", 20, "<div class=startups>", ["picture", "name", "categories", "investment", "location"]);
                     if (city.events)
                         data = this.addMultipleLines(data, city, "events", 20, "<div class=events>", ["name", "date", "location", "organizer"])
                     if (city.organizations)
@@ -131,6 +102,50 @@ class MarkdownTransform {
                     })
 
                 })
+
+
+                await fs.readFile(filePath, async (err, data) => {
+                    if (err) return console.log(err);
+                    data = data.toString().split("\n");
+                    if (city.events) {
+                        let index = data.indexOf("<div class=events id=\"list\">") + 2;
+                        console.log(data[index])
+                        let futEvents = 0;
+                        let pastEvents = 0;
+
+                        for (let i = 0; i < city.events.length; i++) {
+
+                            if (city.events[i].date.getTime() > Date.now())
+                                futEvents += 1;
+                            else
+                                pastEvents += 1;
+                        }
+                        console.log(1);
+                        data.splice(index, 0, "\n For this AI ecosystem there are currently " + futEvents + " future events that you can participate in, and " + pastEvents +
+                            " events that have already been organized \n");
+                        console.log(2);
+
+                        data = this.addMultipleLines(data, city, "events", city.events.length, "<summary>See all events</summary>", ["name", "date", "location", "organizer", "description"])
+                        console.log(3);
+                    }
+                    await fs.writeFile(filePath, "", async err => {
+                        if (err) await fs.mkdir(dirPath, err => {
+                            if (err) return console.log(err);
+                            else {
+                                fs.writeFileSync(filePath, "");
+                                for (let i = 0; i < data.length; i++)
+                                    fs.appendFileSync(filePath, data[i] + "\n");
+                                return;
+                            }
+                        })
+                        else {
+                            for (let i = 0; i < data.length; i++)
+                                fs.appendFileSync(filePath, data[i] + "\n");
+                            console.log("Data is converted into markdown!")
+                        }
+                    })
+                })
+
 
             }).catch(err => { return console.log(err) })
         }
@@ -185,8 +200,10 @@ class MarkdownTransform {
                 continue;
                 }
             let tempIndex = data.indexOf("<div class=column id=" + i%3 + ">", index)+1;
+            console.log(tempIndex, " is tempIndex");
             data.splice(tempIndex, 0, "");
             tempIndex++;
+            console.log(data[tempIndex]);
             for (let j = 0; j < attributesArray.length; j++) {
 
                 switch (attributesArray[j]) {

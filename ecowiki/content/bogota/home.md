@@ -8,7 +8,7 @@
 
 <div class=status>
 
-At this AI Ecosystem you can check out <strong>0</strong> AI related events in which you can participate.
+At this AI Ecosystem you can check out <strong>1</strong> AI related events in which you can participate.
 Connect with local AI community, represented by <strong>3</strong> influencers and <strong>0</strong> groups with <strong>0</strong> community members.
 Explore the work  of <strong>0</strong> startups focused on generating business solutions using latest AI technologies.
 Also there are <strong>0</strong> AI related local organizations!
@@ -62,7 +62,7 @@ Check out the voices of the local AI community
 
 ![http://pbs.twimg.com/profile_images/599938400901271553/H_5Eznsf_normal.jpg](http://pbs.twimg.com/profile_images/599938400901271553/H_5Eznsf_normal.jpg){: width=10%}
 [Alejandro Correa B](https://twitter.com/albahnsen)
-**Followers:** 733
+**Followers:** 731
 
 
 </div>
@@ -70,7 +70,7 @@ Check out the voices of the local AI community
 
 ![http://pbs.twimg.com/profile_images/1134202198143963136/c0gzBQI6_normal.png](http://pbs.twimg.com/profile_images/1134202198143963136/c0gzBQI6_normal.png){: width=10%}
 [Jean Phillip Bernier](https://twitter.com/jean_p_bernier)
-**Followers:** 24
+**Followers:** 25
 
 
 </div>
@@ -78,7 +78,7 @@ Check out the voices of the local AI community
 
 ![http://pbs.twimg.com/profile_images/713468146687086592/d6O_1IAU_normal.jpg](http://pbs.twimg.com/profile_images/713468146687086592/d6O_1IAU_normal.jpg){: width=10%}
 [Alejandro Betancourt](https://twitter.com/AlejoBt)
-**Followers:** 617
+**Followers:** 624
 
 
 </div>
@@ -86,10 +86,1243 @@ Check out the voices of the local AI community
 
 [See all influencers](./community)
 # Events
-You can join 0 locally organized upcoming events
+You can join 1 locally organized upcoming events
 <div class=events>
 
 <div class=column id=0>
+
+[(Bogotá) Robotic Process Automation con Rocketbot](https://www.meetup.com/Introduccion-a-Programacion-RPA-con-Rocketbot/events/266445785/)
+##### Fri Nov 22 2019
+**Location:** Bogota
+**Organizer:** Introducción a Programación RPA con Rocketbot
+
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+</div>
+
+<div class=events id="list">
+<details>
+<summary>See all events</summary>
+
+
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+</details>
+</div>
+
+[See all events](./events)
+
+<!-- WHEN ADDING NEW ORGANIZATIONS PLEASE FOLLOW THIS SCHEMA
+#### Organization_Name
+Organization_Category
+**Organizer:** Name_Of_Organization_Leader
+Link_To_Organization's_Website_or_Page
+**Description:** Organization's_Description
+NOT FOLLOWING THIS SCHEMA WILL RESULT IN INACCURACY IN DATABASE SO BE CAREFUL!
+EVERY CHARACTER LIKE # AND * ARE VITAL, SO WE ADVISE YOU TO COPY THE SCHEMA AND JUST FILL IN THE DATA IN POSITION
+BETWEEN EVERY ORGANIZATION SCHEMA SHOULD BE BLANK LINE -->
+
+# Organizations
+Active local organizations and initiatives related to AI
+<div class=organizations>
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+</div>
+
+# Startups
+Check the newest startups from 0 locally
+
+<div class=logoCB>
+Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_crop.png" style="width:20%;"/></a>
+</div>
+<div class=startups>
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+
+</div>
+
+
+# Founding Partners
+
+Our global Founding Partners who enabled this initiative getting off the ground. A big THANKS for their support!
+<div class=partners>
+<img src="/images/PartnersForV1.png" style="width:40%">
+
+[Peltarion](https://peltarion.com/signup/)
+<strong>Scale-Up Founding Partner</strong>
+A faster deep learning cloud platform - 50 free GPU hours for all AI Wiki friends
+
+[Ticketless](https://ticketless.ai/)
+<strong>Startup Founding Partner</strong>
+Workforce performance management for customer support
+
+</div>
+
+<!-- TITLE: Bogota AI -->
+
+
+
+
+
+<div class=CityPageSpecific>
+
+<div class=status>
+
+At this AI Ecosystem you can check out <strong>1</strong> AI related events in which you can participate.
+Connect with local AI community, represented by <strong>3</strong> influencers and <strong>0</strong> groups with <strong>0</strong> community members.
+Explore the work  of <strong>0</strong> startups focused on generating business solutions using latest AI technologies.
+Also there are <strong>0</strong> AI related local organizations!
+
+
+</div>
+
+# About
+
+<!-- ADMINS SHOULD WRITE OVERVIEW FOR CITIES IN <div class=overview> SECTION OF ABOUT
+
+    First line of overview should have information of ambassador for specific city. 
+    You can find  format HERE:
+
+    <strong>CONTACT: [Ambassador name](Link to ambassador profile(MUST HAVE http OR https)) </strong>
+
+    You can copy this and change ambassador name and link accordingly!
+ -->
+
+<div class=overview>
+
+</div>
+
+<div class=status>
+
+</div>
+
+</div>
+
+# Community
+You can join 0 active community groups on the topic of Artificial Intelligence
+<div class=groups>
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+
+</div>
+
+# Influencers
+Check out the voices of the local AI community
+<div class=influencers>
+
+<div class=column id=0>
+
+![http://pbs.twimg.com/profile_images/599938400901271553/H_5Eznsf_normal.jpg](http://pbs.twimg.com/profile_images/599938400901271553/H_5Eznsf_normal.jpg){: width=10%}
+[Alejandro Correa B](https://twitter.com/albahnsen)
+**Followers:** 731
+
+
+</div>
+<div class=column id=1>
+
+![http://pbs.twimg.com/profile_images/1134202198143963136/c0gzBQI6_normal.png](http://pbs.twimg.com/profile_images/1134202198143963136/c0gzBQI6_normal.png){: width=10%}
+[Jean Phillip Bernier](https://twitter.com/jean_p_bernier)
+**Followers:** 25
+
+
+</div>
+<div class=column id=2>
+
+![http://pbs.twimg.com/profile_images/713468146687086592/d6O_1IAU_normal.jpg](http://pbs.twimg.com/profile_images/713468146687086592/d6O_1IAU_normal.jpg){: width=10%}
+[Alejandro Betancourt](https://twitter.com/AlejoBt)
+**Followers:** 624
+
+
+</div>
+</div>
+
+[See all influencers](./community)
+# Events
+You can join 1 locally organized upcoming events
+<div class=events>
+
+<div class=column id=0>
+
+[(Bogotá) Robotic Process Automation con Rocketbot](https://www.meetup.com/Introduccion-a-Programacion-RPA-con-Rocketbot/events/266445785/)
+##### Fri Nov 22 2019
+**Location:** Bogota
+**Organizer:** Introducción a Programación RPA con Rocketbot
+
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+</div>
+
+<div class=events id="list">
+<details>
+
+ For this AI ecosystem there are currently 1 future events that you can participate in, and 0 events that have already been organized 
+
+
+ For this AI ecosystem there are currently 1 future events that you can participate in, and 0 events that have already been organized 
+
+
+ For this AI ecosystem there are currently 1 future events that you can participate in, and 0 events that have already been organized 
+
+<summary>See all events</summary>
+
+
+
+
+
+
+<div class=column id=0>
+
+[(Bogotá) Robotic Process Automation con Rocketbot](https://www.meetup.com/Introduccion-a-Programacion-RPA-con-Rocketbot/events/266445785/)
+##### Fri Nov 22 2019
+**Location:** Bogota
+**Organizer:** Introducción a Programación RPA con Rocketbot
+**Description:** Hola Queremos invitarlos a este meetup para que conozcan nuestra plataforma de RPA "Rocketbot". Rocketbot se utiliza hoy en compañías como Seguros Bol...
+
+
+[(Bogotá) Robotic Process Automation con Rocketbot](https://www.meetup.com/Introduccion-a-Programacion-RPA-con-Rocketbot/events/266445785/)
+##### Fri Nov 22 2019
+**Location:** Bogota
+**Organizer:** Introducción a Programación RPA con Rocketbot
+**Description:** Hola Queremos invitarlos a este meetup para que conozcan nuestra plataforma de RPA "Rocketbot". Rocketbot se utiliza hoy en compañías como Seguros Bol...
+
+
+[(Bogotá) Robotic Process Automation con Rocketbot](https://www.meetup.com/Introduccion-a-Programacion-RPA-con-Rocketbot/events/266445785/)
+##### Fri Nov 22 2019
+**Location:** Bogota
+**Organizer:** Introducción a Programación RPA con Rocketbot
+**Description:** Hola Queremos invitarlos a este meetup para que conozcan nuestra plataforma de RPA "Rocketbot". Rocketbot se utiliza hoy en compañías como Seguros Bol...
+
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+</details>
+</div>
+
+[See all events](./events)
+
+<!-- WHEN ADDING NEW ORGANIZATIONS PLEASE FOLLOW THIS SCHEMA
+#### Organization_Name
+Organization_Category
+**Organizer:** Name_Of_Organization_Leader
+Link_To_Organization's_Website_or_Page
+**Description:** Organization's_Description
+NOT FOLLOWING THIS SCHEMA WILL RESULT IN INACCURACY IN DATABASE SO BE CAREFUL!
+EVERY CHARACTER LIKE # AND * ARE VITAL, SO WE ADVISE YOU TO COPY THE SCHEMA AND JUST FILL IN THE DATA IN POSITION
+BETWEEN EVERY ORGANIZATION SCHEMA SHOULD BE BLANK LINE -->
+
+# Organizations
+Active local organizations and initiatives related to AI
+<div class=organizations>
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+</div>
+
+# Startups
+Check the newest startups from 0 locally
+
+<div class=logoCB>
+Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_crop.png" style="width:20%;"/></a>
+</div>
+<div class=startups>
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+
+</div>
+
+
+# Founding Partners
+
+Our global Founding Partners who enabled this initiative getting off the ground. A big THANKS for their support!
+<div class=partners>
+<img src="/images/PartnersForV1.png" style="width:40%">
+
+[Peltarion](https://peltarion.com/signup/)
+<strong>Scale-Up Founding Partner</strong>
+A faster deep learning cloud platform - 50 free GPU hours for all AI Wiki friends
+
+[Ticketless](https://ticketless.ai/)
+<strong>Startup Founding Partner</strong>
+Workforce performance management for customer support
+
+</div>
+
+<!-- TITLE: Bogota AI -->
+
+
+
+
+
+<div class=CityPageSpecific>
+
+<div class=status>
+
+At this AI Ecosystem you can check out <strong>1</strong> AI related events in which you can participate.
+Connect with local AI community, represented by <strong>3</strong> influencers and <strong>0</strong> groups with <strong>0</strong> community members.
+Explore the work  of <strong>0</strong> startups focused on generating business solutions using latest AI technologies.
+Also there are <strong>0</strong> AI related local organizations!
+
+
+</div>
+
+# About
+
+<!-- ADMINS SHOULD WRITE OVERVIEW FOR CITIES IN <div class=overview> SECTION OF ABOUT
+
+    First line of overview should have information of ambassador for specific city. 
+    You can find  format HERE:
+
+    <strong>CONTACT: [Ambassador name](Link to ambassador profile(MUST HAVE http OR https)) </strong>
+
+    You can copy this and change ambassador name and link accordingly!
+ -->
+
+<div class=overview>
+
+</div>
+
+<div class=status>
+
+</div>
+
+</div>
+
+# Community
+You can join 0 active community groups on the topic of Artificial Intelligence
+<div class=groups>
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+
+</div>
+
+# Influencers
+Check out the voices of the local AI community
+<div class=influencers>
+
+<div class=column id=0>
+
+![http://pbs.twimg.com/profile_images/599938400901271553/H_5Eznsf_normal.jpg](http://pbs.twimg.com/profile_images/599938400901271553/H_5Eznsf_normal.jpg){: width=10%}
+[Alejandro Correa B](https://twitter.com/albahnsen)
+**Followers:** 731
+
+
+</div>
+<div class=column id=1>
+
+![http://pbs.twimg.com/profile_images/1134202198143963136/c0gzBQI6_normal.png](http://pbs.twimg.com/profile_images/1134202198143963136/c0gzBQI6_normal.png){: width=10%}
+[Jean Phillip Bernier](https://twitter.com/jean_p_bernier)
+**Followers:** 25
+
+
+</div>
+<div class=column id=2>
+
+![http://pbs.twimg.com/profile_images/713468146687086592/d6O_1IAU_normal.jpg](http://pbs.twimg.com/profile_images/713468146687086592/d6O_1IAU_normal.jpg){: width=10%}
+[Alejandro Betancourt](https://twitter.com/AlejoBt)
+**Followers:** 624
+
+
+</div>
+</div>
+
+[See all influencers](./community)
+# Events
+You can join 1 locally organized upcoming events
+<div class=events>
+
+<div class=column id=0>
+
+[(Bogotá) Robotic Process Automation con Rocketbot](https://www.meetup.com/Introduccion-a-Programacion-RPA-con-Rocketbot/events/266445785/)
+##### Fri Nov 22 2019
+**Location:** Bogota
+**Organizer:** Introducción a Programación RPA con Rocketbot
+
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+</div>
+
+<div class=events id="list">
+<details>
+
+ For this AI ecosystem there are currently 1 future events that you can participate in, and 0 events that have already been organized 
+
+
+ For this AI ecosystem there are currently 1 future events that you can participate in, and 0 events that have already been organized 
+
+<summary>See all events</summary>
+
+
+<div class=column id=0>
+
+[(Bogotá) Robotic Process Automation con Rocketbot](https://www.meetup.com/Introduccion-a-Programacion-RPA-con-Rocketbot/events/266445785/)
+##### Fri Nov 22 2019
+**Location:** Bogota
+**Organizer:** Introducción a Programación RPA con Rocketbot
+**Description:** Hola Queremos invitarlos a este meetup para que conozcan nuestra plataforma de RPA "Rocketbot". Rocketbot se utiliza hoy en compañías como Seguros Bol...
+
+
+[(Bogotá) Robotic Process Automation con Rocketbot](https://www.meetup.com/Introduccion-a-Programacion-RPA-con-Rocketbot/events/266445785/)
+##### Fri Nov 22 2019
+**Location:** Bogota
+**Organizer:** Introducción a Programación RPA con Rocketbot
+**Description:** Hola Queremos invitarlos a este meetup para que conozcan nuestra plataforma de RPA "Rocketbot". Rocketbot se utiliza hoy en compañías como Seguros Bol...
+
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+</details>
+</div>
+
+[See all events](./events)
+
+<!-- WHEN ADDING NEW ORGANIZATIONS PLEASE FOLLOW THIS SCHEMA
+#### Organization_Name
+Organization_Category
+**Organizer:** Name_Of_Organization_Leader
+Link_To_Organization's_Website_or_Page
+**Description:** Organization's_Description
+NOT FOLLOWING THIS SCHEMA WILL RESULT IN INACCURACY IN DATABASE SO BE CAREFUL!
+EVERY CHARACTER LIKE # AND * ARE VITAL, SO WE ADVISE YOU TO COPY THE SCHEMA AND JUST FILL IN THE DATA IN POSITION
+BETWEEN EVERY ORGANIZATION SCHEMA SHOULD BE BLANK LINE -->
+
+# Organizations
+Active local organizations and initiatives related to AI
+<div class=organizations>
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+</div>
+
+# Startups
+Check the newest startups from 0 locally
+
+<div class=logoCB>
+Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_crop.png" style="width:20%;"/></a>
+</div>
+<div class=startups>
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+
+</div>
+
+
+# Founding Partners
+
+Our global Founding Partners who enabled this initiative getting off the ground. A big THANKS for their support!
+<div class=partners>
+<img src="/images/PartnersForV1.png" style="width:40%">
+
+[Peltarion](https://peltarion.com/signup/)
+<strong>Scale-Up Founding Partner</strong>
+A faster deep learning cloud platform - 50 free GPU hours for all AI Wiki friends
+
+[Ticketless](https://ticketless.ai/)
+<strong>Startup Founding Partner</strong>
+Workforce performance management for customer support
+
+</div>
+
+<!-- TITLE: Bogota AI -->
+
+
+
+
+
+<div class=CityPageSpecific>
+
+<div class=status>
+
+At this AI Ecosystem you can check out <strong>1</strong> AI related events in which you can participate.
+Connect with local AI community, represented by <strong>3</strong> influencers and <strong>0</strong> groups with <strong>0</strong> community members.
+Explore the work  of <strong>0</strong> startups focused on generating business solutions using latest AI technologies.
+Also there are <strong>0</strong> AI related local organizations!
+
+
+</div>
+
+# About
+
+<!-- ADMINS SHOULD WRITE OVERVIEW FOR CITIES IN <div class=overview> SECTION OF ABOUT
+
+    First line of overview should have information of ambassador for specific city. 
+    You can find  format HERE:
+
+    <strong>CONTACT: [Ambassador name](Link to ambassador profile(MUST HAVE http OR https)) </strong>
+
+    You can copy this and change ambassador name and link accordingly!
+ -->
+
+<div class=overview>
+
+</div>
+
+<div class=status>
+
+</div>
+
+</div>
+
+# Community
+You can join 0 active community groups on the topic of Artificial Intelligence
+<div class=groups>
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+
+</div>
+
+# Influencers
+Check out the voices of the local AI community
+<div class=influencers>
+
+<div class=column id=0>
+
+![http://pbs.twimg.com/profile_images/599938400901271553/H_5Eznsf_normal.jpg](http://pbs.twimg.com/profile_images/599938400901271553/H_5Eznsf_normal.jpg){: width=10%}
+[Alejandro Correa B](https://twitter.com/albahnsen)
+**Followers:** 731
+
+
+</div>
+<div class=column id=1>
+
+![http://pbs.twimg.com/profile_images/1134202198143963136/c0gzBQI6_normal.png](http://pbs.twimg.com/profile_images/1134202198143963136/c0gzBQI6_normal.png){: width=10%}
+[Jean Phillip Bernier](https://twitter.com/jean_p_bernier)
+**Followers:** 25
+
+
+</div>
+<div class=column id=2>
+
+![http://pbs.twimg.com/profile_images/713468146687086592/d6O_1IAU_normal.jpg](http://pbs.twimg.com/profile_images/713468146687086592/d6O_1IAU_normal.jpg){: width=10%}
+[Alejandro Betancourt](https://twitter.com/AlejoBt)
+**Followers:** 624
+
+
+</div>
+</div>
+
+[See all influencers](./community)
+# Events
+You can join 1 locally organized upcoming events
+<div class=events>
+
+<div class=column id=0>
+
+[(Bogotá) Robotic Process Automation con Rocketbot](https://www.meetup.com/Introduccion-a-Programacion-RPA-con-Rocketbot/events/266445785/)
+##### Fri Nov 22 2019
+**Location:** Bogota
+**Organizer:** Introducción a Programación RPA con Rocketbot
+
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+</div>
+
+<div class=events id="list">
+<details>
+
+ For this AI ecosystem there are currently 1 future events that you can participate in, and 0 events that have already been organized 
+
+<summary>See all events</summary>
+
+<div class=column id=0>
+
+[(Bogotá) Robotic Process Automation con Rocketbot](https://www.meetup.com/Introduccion-a-Programacion-RPA-con-Rocketbot/events/266445785/)
+##### Fri Nov 22 2019
+**Location:** Bogota
+**Organizer:** Introducción a Programación RPA con Rocketbot
+**Description:** Hola Queremos invitarlos a este meetup para que conozcan nuestra plataforma de RPA "Rocketbot". Rocketbot se utiliza hoy en compañías como Seguros Bol...
+
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+</details>
+</div>
+
+[See all events](./events)
+
+<!-- WHEN ADDING NEW ORGANIZATIONS PLEASE FOLLOW THIS SCHEMA
+#### Organization_Name
+Organization_Category
+**Organizer:** Name_Of_Organization_Leader
+Link_To_Organization's_Website_or_Page
+**Description:** Organization's_Description
+NOT FOLLOWING THIS SCHEMA WILL RESULT IN INACCURACY IN DATABASE SO BE CAREFUL!
+EVERY CHARACTER LIKE # AND * ARE VITAL, SO WE ADVISE YOU TO COPY THE SCHEMA AND JUST FILL IN THE DATA IN POSITION
+BETWEEN EVERY ORGANIZATION SCHEMA SHOULD BE BLANK LINE -->
+
+# Organizations
+Active local organizations and initiatives related to AI
+<div class=organizations>
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+</div>
+
+# Startups
+Check the newest startups from 0 locally
+
+<div class=logoCB>
+Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_crop.png" style="width:20%;"/></a>
+</div>
+<div class=startups>
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+
+</div>
+
+
+# Founding Partners
+
+Our global Founding Partners who enabled this initiative getting off the ground. A big THANKS for their support!
+<div class=partners>
+<img src="/images/PartnersForV1.png" style="width:40%">
+
+[Peltarion](https://peltarion.com/signup/)
+<strong>Scale-Up Founding Partner</strong>
+A faster deep learning cloud platform - 50 free GPU hours for all AI Wiki friends
+
+[Ticketless](https://ticketless.ai/)
+<strong>Startup Founding Partner</strong>
+Workforce performance management for customer support
+
+</div>
+
+<!-- TITLE: Bogota AI -->
+
+
+
+
+
+<div class=CityPageSpecific>
+
+<div class=status>
+
+At this AI Ecosystem you can check out <strong>1</strong> AI related events in which you can participate.
+Connect with local AI community, represented by <strong>3</strong> influencers and <strong>0</strong> groups with <strong>0</strong> community members.
+Explore the work  of <strong>0</strong> startups focused on generating business solutions using latest AI technologies.
+Also there are <strong>0</strong> AI related local organizations!
+
+
+</div>
+
+# About
+
+<!-- ADMINS SHOULD WRITE OVERVIEW FOR CITIES IN <div class=overview> SECTION OF ABOUT
+
+    First line of overview should have information of ambassador for specific city. 
+    You can find  format HERE:
+
+    <strong>CONTACT: [Ambassador name](Link to ambassador profile(MUST HAVE http OR https)) </strong>
+
+    You can copy this and change ambassador name and link accordingly!
+ -->
+
+<div class=overview>
+
+</div>
+
+<div class=status>
+
+</div>
+
+</div>
+
+# Community
+You can join 0 active community groups on the topic of Artificial Intelligence
+<div class=groups>
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+
+</div>
+
+# Influencers
+Check out the voices of the local AI community
+<div class=influencers>
+
+<div class=column id=0>
+
+![http://pbs.twimg.com/profile_images/599938400901271553/H_5Eznsf_normal.jpg](http://pbs.twimg.com/profile_images/599938400901271553/H_5Eznsf_normal.jpg){: width=10%}
+[Alejandro Correa B](https://twitter.com/albahnsen)
+**Followers:** 731
+
+
+</div>
+<div class=column id=1>
+
+![http://pbs.twimg.com/profile_images/1134202198143963136/c0gzBQI6_normal.png](http://pbs.twimg.com/profile_images/1134202198143963136/c0gzBQI6_normal.png){: width=10%}
+[Jean Phillip Bernier](https://twitter.com/jean_p_bernier)
+**Followers:** 25
+
+
+</div>
+<div class=column id=2>
+
+![http://pbs.twimg.com/profile_images/713468146687086592/d6O_1IAU_normal.jpg](http://pbs.twimg.com/profile_images/713468146687086592/d6O_1IAU_normal.jpg){: width=10%}
+[Alejandro Betancourt](https://twitter.com/AlejoBt)
+**Followers:** 624
+
+
+</div>
+</div>
+
+[See all influencers](./community)
+# Events
+You can join 1 locally organized upcoming events
+<div class=events>
+
+<div class=column id=0>
+
+[(Bogotá) Robotic Process Automation con Rocketbot](https://www.meetup.com/Introduccion-a-Programacion-RPA-con-Rocketbot/events/266445785/)
+##### Fri Nov 22 2019
+**Location:** Bogota
+**Organizer:** Introducción a Programación RPA con Rocketbot
+
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+</div>
+
+<div class=events id="list">
+<details>
+
+ For this AI ecosystem there are currently 1 future events that you can participate in, and 0 events that have already been organized 
+
+<summary>See all events</summary>
+
+<div class=column id=0>
+
+[(Bogotá) Robotic Process Automation con Rocketbot](https://www.meetup.com/Introduccion-a-Programacion-RPA-con-Rocketbot/events/266445785/)
+##### Fri Nov 22 2019
+**Location:** Bogota
+**Organizer:** Introducción a Programación RPA con Rocketbot
+**Description:** Hola Queremos invitarlos a este meetup para que conozcan nuestra plataforma de RPA "Rocketbot". Rocketbot se utiliza hoy en compañías como Seguros Bol...
+
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+</details>
+</div>
+
+[See all events](./events)
+
+<!-- WHEN ADDING NEW ORGANIZATIONS PLEASE FOLLOW THIS SCHEMA
+#### Organization_Name
+Organization_Category
+**Organizer:** Name_Of_Organization_Leader
+Link_To_Organization's_Website_or_Page
+**Description:** Organization's_Description
+NOT FOLLOWING THIS SCHEMA WILL RESULT IN INACCURACY IN DATABASE SO BE CAREFUL!
+EVERY CHARACTER LIKE # AND * ARE VITAL, SO WE ADVISE YOU TO COPY THE SCHEMA AND JUST FILL IN THE DATA IN POSITION
+BETWEEN EVERY ORGANIZATION SCHEMA SHOULD BE BLANK LINE -->
+
+# Organizations
+Active local organizations and initiatives related to AI
+<div class=organizations>
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+</div>
+
+# Startups
+Check the newest startups from 0 locally
+
+<div class=logoCB>
+Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_crop.png" style="width:20%;"/></a>
+</div>
+<div class=startups>
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+
+</div>
+
+
+# Founding Partners
+
+Our global Founding Partners who enabled this initiative getting off the ground. A big THANKS for their support!
+<div class=partners>
+<img src="/images/PartnersForV1.png" style="width:40%">
+
+[Peltarion](https://peltarion.com/signup/)
+<strong>Scale-Up Founding Partner</strong>
+A faster deep learning cloud platform - 50 free GPU hours for all AI Wiki friends
+
+[Ticketless](https://ticketless.ai/)
+<strong>Startup Founding Partner</strong>
+Workforce performance management for customer support
+
+</div>
+
+<!-- TITLE: Bogota AI -->
+
+
+
+
+
+<div class=CityPageSpecific>
+
+<div class=status>
+
+At this AI Ecosystem you can check out <strong>1</strong> AI related events in which you can participate.
+Connect with local AI community, represented by <strong>3</strong> influencers and <strong>0</strong> groups with <strong>0</strong> community members.
+Explore the work  of <strong>0</strong> startups focused on generating business solutions using latest AI technologies.
+Also there are <strong>0</strong> AI related local organizations!
+
+
+</div>
+
+# About
+
+<!-- ADMINS SHOULD WRITE OVERVIEW FOR CITIES IN <div class=overview> SECTION OF ABOUT
+
+    First line of overview should have information of ambassador for specific city. 
+    You can find  format HERE:
+
+    <strong>CONTACT: [Ambassador name](Link to ambassador profile(MUST HAVE http OR https)) </strong>
+
+    You can copy this and change ambassador name and link accordingly!
+ -->
+
+<div class=overview>
+
+</div>
+
+<div class=status>
+
+</div>
+
+</div>
+
+# Community
+You can join 0 active community groups on the topic of Artificial Intelligence
+<div class=groups>
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+
+</div>
+
+# Influencers
+Check out the voices of the local AI community
+<div class=influencers>
+
+<div class=column id=0>
+
+![http://pbs.twimg.com/profile_images/599938400901271553/H_5Eznsf_normal.jpg](http://pbs.twimg.com/profile_images/599938400901271553/H_5Eznsf_normal.jpg){: width=10%}
+[Alejandro Correa B](https://twitter.com/albahnsen)
+**Followers:** 731
+
+
+</div>
+<div class=column id=1>
+
+![http://pbs.twimg.com/profile_images/1134202198143963136/c0gzBQI6_normal.png](http://pbs.twimg.com/profile_images/1134202198143963136/c0gzBQI6_normal.png){: width=10%}
+[Jean Phillip Bernier](https://twitter.com/jean_p_bernier)
+**Followers:** 25
+
+
+</div>
+<div class=column id=2>
+
+![http://pbs.twimg.com/profile_images/713468146687086592/d6O_1IAU_normal.jpg](http://pbs.twimg.com/profile_images/713468146687086592/d6O_1IAU_normal.jpg){: width=10%}
+[Alejandro Betancourt](https://twitter.com/AlejoBt)
+**Followers:** 624
+
+
+</div>
+</div>
+
+[See all influencers](./community)
+# Events
+You can join 1 locally organized upcoming events
+<div class=events>
+
+<div class=column id=0>
+
+[(Bogotá) Robotic Process Automation con Rocketbot](https://www.meetup.com/Introduccion-a-Programacion-RPA-con-Rocketbot/events/266445785/)
+##### Fri Nov 22 2019
+**Location:** Bogota
+**Organizer:** Introducción a Programación RPA con Rocketbot
+
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+</div>
+
+<div class=events id="list">
+<details>
+
+ For this AI ecosystem there are currently 1 future events that you can participate in, and 0 events that have already been organized 
+
+<summary>See all events</summary>
+
+<div class=column id=0>
+
+[(Bogotá) Robotic Process Automation con Rocketbot](https://www.meetup.com/Introduccion-a-Programacion-RPA-con-Rocketbot/events/266445785/)
+##### Fri Nov 22 2019
+**Location:** Bogota
+**Organizer:** Introducción a Programación RPA con Rocketbot
+**Description:** Hola Queremos invitarlos a este meetup para que conozcan nuestra plataforma de RPA "Rocketbot". Rocketbot se utiliza hoy en compañías como Seguros Bol...
+
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+</details>
+</div>
+
+[See all events](./events)
+
+<!-- WHEN ADDING NEW ORGANIZATIONS PLEASE FOLLOW THIS SCHEMA
+#### Organization_Name
+Organization_Category
+**Organizer:** Name_Of_Organization_Leader
+Link_To_Organization's_Website_or_Page
+**Description:** Organization's_Description
+NOT FOLLOWING THIS SCHEMA WILL RESULT IN INACCURACY IN DATABASE SO BE CAREFUL!
+EVERY CHARACTER LIKE # AND * ARE VITAL, SO WE ADVISE YOU TO COPY THE SCHEMA AND JUST FILL IN THE DATA IN POSITION
+BETWEEN EVERY ORGANIZATION SCHEMA SHOULD BE BLANK LINE -->
+
+# Organizations
+Active local organizations and initiatives related to AI
+<div class=organizations>
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+</div>
+
+# Startups
+Check the newest startups from 0 locally
+
+<div class=logoCB>
+Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_crop.png" style="width:20%;"/></a>
+</div>
+<div class=startups>
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+
+</div>
+
+
+# Founding Partners
+
+Our global Founding Partners who enabled this initiative getting off the ground. A big THANKS for their support!
+<div class=partners>
+<img src="/images/PartnersForV1.png" style="width:40%">
+
+[Peltarion](https://peltarion.com/signup/)
+<strong>Scale-Up Founding Partner</strong>
+A faster deep learning cloud platform - 50 free GPU hours for all AI Wiki friends
+
+[Ticketless](https://ticketless.ai/)
+<strong>Startup Founding Partner</strong>
+Workforce performance management for customer support
+
+</div>
+
+
+<!-- TITLE: Bogota AI -->
+
+ For this AI ecosystem there are currently 1 future events that you can participate in, and 0 events that have already been organized 
+
+
+
+
+
+
+<div class=CityPageSpecific>
+
+<div class=status>
+
+At this AI Ecosystem you can check out <strong>1</strong> AI related events in which you can participate.
+Connect with local AI community, represented by <strong>3</strong> influencers and <strong>0</strong> groups with <strong>0</strong> community members.
+Explore the work  of <strong>0</strong> startups focused on generating business solutions using latest AI technologies.
+Also there are <strong>0</strong> AI related local organizations!
+
+
+</div>
+
+# About
+
+<!-- ADMINS SHOULD WRITE OVERVIEW FOR CITIES IN <div class=overview> SECTION OF ABOUT
+
+    First line of overview should have information of ambassador for specific city. 
+    You can find  format HERE:
+
+    <strong>CONTACT: [Ambassador name](Link to ambassador profile(MUST HAVE http OR https)) </strong>
+
+    You can copy this and change ambassador name and link accordingly!
+ -->
+
+<div class=overview>
+
+</div>
+
+<div class=status>
+
+</div>
+
+</div>
+
+# Community
+You can join 0 active community groups on the topic of Artificial Intelligence
+<div class=groups>
+
+<div class=column id=0>
+
+[(Bogotá) Robotic Process Automation con Rocketbot](https://www.meetup.com/Introduccion-a-Programacion-RPA-con-Rocketbot/events/266445785/)
+##### Fri Nov 22 2019
+**Location:** Bogota
+**Organizer:** Introducción a Programación RPA con Rocketbot
+**Description:** Hola Queremos invitarlos a este meetup para que conozcan nuestra plataforma de RPA "Rocketbot". Rocketbot se utiliza hoy en compañías como Seguros Bol...
+
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+
+</div>
+
+# Influencers
+Check out the voices of the local AI community
+<div class=influencers>
+
+<div class=column id=0>
+
+![http://pbs.twimg.com/profile_images/599938400901271553/H_5Eznsf_normal.jpg](http://pbs.twimg.com/profile_images/599938400901271553/H_5Eznsf_normal.jpg){: width=10%}
+[Alejandro Correa B](https://twitter.com/albahnsen)
+**Followers:** 731
+
+
+</div>
+<div class=column id=1>
+
+![http://pbs.twimg.com/profile_images/1134202198143963136/c0gzBQI6_normal.png](http://pbs.twimg.com/profile_images/1134202198143963136/c0gzBQI6_normal.png){: width=10%}
+[Jean Phillip Bernier](https://twitter.com/jean_p_bernier)
+**Followers:** 25
+
+
+</div>
+<div class=column id=2>
+
+![http://pbs.twimg.com/profile_images/713468146687086592/d6O_1IAU_normal.jpg](http://pbs.twimg.com/profile_images/713468146687086592/d6O_1IAU_normal.jpg){: width=10%}
+[Alejandro Betancourt](https://twitter.com/AlejoBt)
+**Followers:** 624
+
+
+</div>
+</div>
+
+[See all influencers](./community)
+# Events
+You can join 1 locally organized upcoming events
+<div class=events>
+
+<div class=column id=0>
+
+[(Bogotá) Robotic Process Automation con Rocketbot](https://www.meetup.com/Introduccion-a-Programacion-RPA-con-Rocketbot/events/266445785/)
+##### Fri Nov 22 2019
+**Location:** Bogota
+**Organizer:** Introducción a Programación RPA con Rocketbot
+
 
 </div>
 <div class=column id=1>
@@ -163,4 +1396,580 @@ A faster deep learning cloud platform - 50 free GPU hours for all AI Wiki friend
 Workforce performance management for customer support
 
 </div>
+
+
+
+
+
+
+<!-- TITLE: Bogota AI -->
+
+
+
+
+
+<div class=CityPageSpecific>
+
+<div class=status>
+
+At this AI Ecosystem you can check out <strong>1</strong> AI related events in which you can participate.
+Connect with local AI community, represented by <strong>3</strong> influencers and <strong>0</strong> groups with <strong>0</strong> community members.
+Explore the work  of <strong>0</strong> startups focused on generating business solutions using latest AI technologies.
+Also there are <strong>0</strong> AI related local organizations!
+
+
+</div>
+
+# About
+
+<!-- ADMINS SHOULD WRITE OVERVIEW FOR CITIES IN <div class=overview> SECTION OF ABOUT
+
+    First line of overview should have information of ambassador for specific city. 
+    You can find  format HERE:
+
+    <strong>CONTACT: [Ambassador name](Link to ambassador profile(MUST HAVE http OR https)) </strong>
+
+    You can copy this and change ambassador name and link accordingly!
+ -->
+
+<div class=overview>
+
+</div>
+
+<div class=status>
+
+</div>
+
+</div>
+
+# Community
+You can join 0 active community groups on the topic of Artificial Intelligence
+<div class=groups>
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+
+</div>
+
+# Influencers
+Check out the voices of the local AI community
+<div class=influencers>
+
+<div class=column id=0>
+
+![http://pbs.twimg.com/profile_images/599938400901271553/H_5Eznsf_normal.jpg](http://pbs.twimg.com/profile_images/599938400901271553/H_5Eznsf_normal.jpg){: width=10%}
+[Alejandro Correa B](https://twitter.com/albahnsen)
+**Followers:** 731
+
+
+</div>
+<div class=column id=1>
+
+![http://pbs.twimg.com/profile_images/1134202198143963136/c0gzBQI6_normal.png](http://pbs.twimg.com/profile_images/1134202198143963136/c0gzBQI6_normal.png){: width=10%}
+[Jean Phillip Bernier](https://twitter.com/jean_p_bernier)
+**Followers:** 25
+
+
+</div>
+<div class=column id=2>
+
+![http://pbs.twimg.com/profile_images/713468146687086592/d6O_1IAU_normal.jpg](http://pbs.twimg.com/profile_images/713468146687086592/d6O_1IAU_normal.jpg){: width=10%}
+[Alejandro Betancourt](https://twitter.com/AlejoBt)
+**Followers:** 624
+
+
+</div>
+</div>
+
+[See all influencers](./community)
+# Events
+You can join 1 locally organized upcoming events
+<div class=events>
+
+<div class=column id=0>
+
+[(Bogotá) Robotic Process Automation con Rocketbot](https://www.meetup.com/Introduccion-a-Programacion-RPA-con-Rocketbot/events/266445785/)
+##### Fri Nov 22 2019
+**Location:** Bogota
+**Organizer:** Introducción a Programación RPA con Rocketbot
+
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+</div>
+
+<div class=events id="list">
+<details>
+<summary>See all events</summary>
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+</details>
+</div>
+
+[See all events](./events)
+
+<!-- WHEN ADDING NEW ORGANIZATIONS PLEASE FOLLOW THIS SCHEMA
+#### Organization_Name
+Organization_Category
+**Organizer:** Name_Of_Organization_Leader
+Link_To_Organization's_Website_or_Page
+**Description:** Organization's_Description
+NOT FOLLOWING THIS SCHEMA WILL RESULT IN INACCURACY IN DATABASE SO BE CAREFUL!
+EVERY CHARACTER LIKE # AND * ARE VITAL, SO WE ADVISE YOU TO COPY THE SCHEMA AND JUST FILL IN THE DATA IN POSITION
+BETWEEN EVERY ORGANIZATION SCHEMA SHOULD BE BLANK LINE -->
+
+# Organizations
+Active local organizations and initiatives related to AI
+<div class=organizations>
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+</div>
+
+# Startups
+Check the newest startups from 0 locally
+
+<div class=logoCB>
+Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_crop.png" style="width:20%;"/></a>
+</div>
+<div class=startups>
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+
+</div>
+
+
+# Founding Partners
+
+Our global Founding Partners who enabled this initiative getting off the ground. A big THANKS for their support!
+<div class=partners>
+<img src="/images/PartnersForV1.png" style="width:40%">
+
+[Peltarion](https://peltarion.com/signup/)
+<strong>Scale-Up Founding Partner</strong>
+A faster deep learning cloud platform - 50 free GPU hours for all AI Wiki friends
+
+[Ticketless](https://ticketless.ai/)
+<strong>Startup Founding Partner</strong>
+Workforce performance management for customer support
+
+</div>
+
+
+
+<!-- TITLE: Bogota AI -->
+
+
+
+
+
+<div class=CityPageSpecific>
+
+<div class=status>
+
+At this AI Ecosystem you can check out <strong>1</strong> AI related events in which you can participate.
+Connect with local AI community, represented by <strong>3</strong> influencers and <strong>0</strong> groups with <strong>0</strong> community members.
+Explore the work  of <strong>0</strong> startups focused on generating business solutions using latest AI technologies.
+Also there are <strong>0</strong> AI related local organizations!
+
+
+</div>
+
+# About
+
+<!-- ADMINS SHOULD WRITE OVERVIEW FOR CITIES IN <div class=overview> SECTION OF ABOUT
+
+    First line of overview should have information of ambassador for specific city. 
+    You can find  format HERE:
+
+    <strong>CONTACT: [Ambassador name](Link to ambassador profile(MUST HAVE http OR https)) </strong>
+
+    You can copy this and change ambassador name and link accordingly!
+ -->
+
+<div class=overview>
+
+</div>
+
+<div class=status>
+
+</div>
+
+</div>
+
+# Community
+You can join 0 active community groups on the topic of Artificial Intelligence
+<div class=groups>
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+
+</div>
+
+# Influencers
+Check out the voices of the local AI community
+<div class=influencers>
+
+<div class=column id=0>
+
+![http://pbs.twimg.com/profile_images/599938400901271553/H_5Eznsf_normal.jpg](http://pbs.twimg.com/profile_images/599938400901271553/H_5Eznsf_normal.jpg){: width=10%}
+[Alejandro Correa B](https://twitter.com/albahnsen)
+**Followers:** 731
+
+
+</div>
+<div class=column id=1>
+
+![http://pbs.twimg.com/profile_images/1134202198143963136/c0gzBQI6_normal.png](http://pbs.twimg.com/profile_images/1134202198143963136/c0gzBQI6_normal.png){: width=10%}
+[Jean Phillip Bernier](https://twitter.com/jean_p_bernier)
+**Followers:** 25
+
+
+</div>
+<div class=column id=2>
+
+![http://pbs.twimg.com/profile_images/713468146687086592/d6O_1IAU_normal.jpg](http://pbs.twimg.com/profile_images/713468146687086592/d6O_1IAU_normal.jpg){: width=10%}
+[Alejandro Betancourt](https://twitter.com/AlejoBt)
+**Followers:** 624
+
+
+</div>
+</div>
+
+[See all influencers](./community)
+# Events
+You can join 1 locally organized upcoming events
+<div class=events>
+
+<div class=column id=0>
+
+[(Bogotá) Robotic Process Automation con Rocketbot](https://www.meetup.com/Introduccion-a-Programacion-RPA-con-Rocketbot/events/266445785/)
+##### Fri Nov 22 2019
+**Location:** Bogota
+**Organizer:** Introducción a Programación RPA con Rocketbot
+
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+</div>
+
+<div class=events id="list">
+<details>
+<summary>See all events</summary>
+
+
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+</details>
+</div>
+
+[See all events](./events)
+
+<!-- WHEN ADDING NEW ORGANIZATIONS PLEASE FOLLOW THIS SCHEMA
+#### Organization_Name
+Organization_Category
+**Organizer:** Name_Of_Organization_Leader
+Link_To_Organization's_Website_or_Page
+**Description:** Organization's_Description
+NOT FOLLOWING THIS SCHEMA WILL RESULT IN INACCURACY IN DATABASE SO BE CAREFUL!
+EVERY CHARACTER LIKE # AND * ARE VITAL, SO WE ADVISE YOU TO COPY THE SCHEMA AND JUST FILL IN THE DATA IN POSITION
+BETWEEN EVERY ORGANIZATION SCHEMA SHOULD BE BLANK LINE -->
+
+# Organizations
+Active local organizations and initiatives related to AI
+<div class=organizations>
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+</div>
+
+# Startups
+Check the newest startups from 0 locally
+
+<div class=logoCB>
+Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_crop.png" style="width:20%;"/></a>
+</div>
+<div class=startups>
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+
+</div>
+
+
+# Founding Partners
+
+Our global Founding Partners who enabled this initiative getting off the ground. A big THANKS for their support!
+<div class=partners>
+<img src="/images/PartnersForV1.png" style="width:40%">
+
+[Peltarion](https://peltarion.com/signup/)
+<strong>Scale-Up Founding Partner</strong>
+A faster deep learning cloud platform - 50 free GPU hours for all AI Wiki friends
+
+[Ticketless](https://ticketless.ai/)
+<strong>Startup Founding Partner</strong>
+Workforce performance management for customer support
+
+</div>
+
+
+<!-- TITLE: Bogota AI -->
+
+
+
+
+
+<div class=CityPageSpecific>
+
+<div class=status>
+
+At this AI Ecosystem you can check out <strong>1</strong> AI related events in which you can participate.
+Connect with local AI community, represented by <strong>3</strong> influencers and <strong>0</strong> groups with <strong>0</strong> community members.
+Explore the work  of <strong>0</strong> startups focused on generating business solutions using latest AI technologies.
+Also there are <strong>0</strong> AI related local organizations!
+
+
+</div>
+
+# About
+
+<!-- ADMINS SHOULD WRITE OVERVIEW FOR CITIES IN <div class=overview> SECTION OF ABOUT
+
+    First line of overview should have information of ambassador for specific city. 
+    You can find  format HERE:
+
+    <strong>CONTACT: [Ambassador name](Link to ambassador profile(MUST HAVE http OR https)) </strong>
+
+    You can copy this and change ambassador name and link accordingly!
+ -->
+
+<div class=overview>
+
+</div>
+
+<div class=status>
+
+</div>
+
+</div>
+
+# Community
+You can join 0 active community groups on the topic of Artificial Intelligence
+<div class=groups>
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+
+</div>
+
+# Influencers
+Check out the voices of the local AI community
+<div class=influencers>
+
+<div class=column id=0>
+
+![http://pbs.twimg.com/profile_images/599938400901271553/H_5Eznsf_normal.jpg](http://pbs.twimg.com/profile_images/599938400901271553/H_5Eznsf_normal.jpg){: width=10%}
+[Alejandro Correa B](https://twitter.com/albahnsen)
+**Followers:** 731
+
+
+</div>
+<div class=column id=1>
+
+![http://pbs.twimg.com/profile_images/1134202198143963136/c0gzBQI6_normal.png](http://pbs.twimg.com/profile_images/1134202198143963136/c0gzBQI6_normal.png){: width=10%}
+[Jean Phillip Bernier](https://twitter.com/jean_p_bernier)
+**Followers:** 25
+
+
+</div>
+<div class=column id=2>
+
+![http://pbs.twimg.com/profile_images/713468146687086592/d6O_1IAU_normal.jpg](http://pbs.twimg.com/profile_images/713468146687086592/d6O_1IAU_normal.jpg){: width=10%}
+[Alejandro Betancourt](https://twitter.com/AlejoBt)
+**Followers:** 624
+
+
+</div>
+</div>
+
+[See all influencers](./community)
+# Events
+You can join 1 locally organized upcoming events
+<div class=events>
+
+<div class=column id=0>
+
+[(Bogotá) Robotic Process Automation con Rocketbot](https://www.meetup.com/Introduccion-a-Programacion-RPA-con-Rocketbot/events/266445785/)
+##### Fri Nov 22 2019
+**Location:** Bogota
+**Organizer:** Introducción a Programación RPA con Rocketbot
+
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+</div>
+
+<div class=events id="list">
+<details>
+<summary>See all events</summary>
+
+
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+</details>
+</div>
+
+[See all events](./events)
+
+<!-- WHEN ADDING NEW ORGANIZATIONS PLEASE FOLLOW THIS SCHEMA
+#### Organization_Name
+Organization_Category
+**Organizer:** Name_Of_Organization_Leader
+Link_To_Organization's_Website_or_Page
+**Description:** Organization's_Description
+NOT FOLLOWING THIS SCHEMA WILL RESULT IN INACCURACY IN DATABASE SO BE CAREFUL!
+EVERY CHARACTER LIKE # AND * ARE VITAL, SO WE ADVISE YOU TO COPY THE SCHEMA AND JUST FILL IN THE DATA IN POSITION
+BETWEEN EVERY ORGANIZATION SCHEMA SHOULD BE BLANK LINE -->
+
+# Organizations
+Active local organizations and initiatives related to AI
+<div class=organizations>
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+</div>
+
+# Startups
+Check the newest startups from 0 locally
+
+<div class=logoCB>
+Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_crop.png" style="width:20%;"/></a>
+</div>
+<div class=startups>
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+
+</div>
+
+
+# Founding Partners
+
+Our global Founding Partners who enabled this initiative getting off the ground. A big THANKS for their support!
+<div class=partners>
+<img src="/images/PartnersForV1.png" style="width:40%">
+
+[Peltarion](https://peltarion.com/signup/)
+<strong>Scale-Up Founding Partner</strong>
+A faster deep learning cloud platform - 50 free GPU hours for all AI Wiki friends
+
+[Ticketless](https://ticketless.ai/)
+<strong>Startup Founding Partner</strong>
+Workforce performance management for customer support
+
+</div>
+
 

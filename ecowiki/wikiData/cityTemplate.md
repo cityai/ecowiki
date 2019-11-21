@@ -73,6 +73,24 @@ Check out the voices of the local AI community
 </div>
 </div>
 
+<div class=events id="list">
+<details>
+<summary>See all events</summary>
+
+
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+</details>
+</div>
+
 [See all events](./events)
 
 <!-- WHEN ADDING NEW ORGANIZATIONS PLEASE FOLLOW THIS SCHEMA

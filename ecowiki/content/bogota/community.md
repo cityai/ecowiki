@@ -1,14 +1,14 @@
 
 [Alejandro Betancourt](https://twitter.com/AlejoBt)
-**Followers:** 617
+**Followers:** 624
 
 
 [Jean Phillip Bernier](https://twitter.com/jean_p_bernier)
-**Followers:** 24
+**Followers:** 25
 
 
 [Alejandro Correa B](https://twitter.com/albahnsen)
-**Followers:** 733
+**Followers:** 731
 
 <!-- TITLE: Communities -->
 <!-- SUBTITLE: A quick summary of Communities -->

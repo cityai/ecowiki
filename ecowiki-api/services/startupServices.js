@@ -50,6 +50,11 @@ class StartupServices {
                     };
                     const find = await Startup.findOne({ name: results[i].data.properties.name });
                     if (!find) {
+                        let tempPic;
+                        if(results[i].data.properties.profile_image_url)
+                            tempPic = results[i].data.properties.profile_image_url;
+                        else
+                            tempPic = "/images/startupEmpty.svg.png";
                         if (results[i].data.relationships.funding_rounds.items[0]) {
                             let series = ['A', 'B', 'C', 'D', 'E'];
                             if (series.includes(results[i].data.relationships.funding_rounds.items[0].series) ||
@@ -61,6 +66,7 @@ class StartupServices {
                                     categories: results[i].data.relationships.categories.items.map(item => { return item.properties.name }),
                                     investors: results[i].data.relationships.investors.items.map(item=>{return item.properties.name}),
                                     value: 10,
+                                    picture:tempPic,
                                     type: 'Startup',
                                     investment: results[i].data.properties.total_funding_usd,
                                     description: results[i].data.properties.description,
@@ -78,6 +84,7 @@ class StartupServices {
                                     categories: results[i].data.relationships.categories.items.map(item => { return item.properties.name }),
                                     value: 10,
                                     type: 'Corporation',
+                                    picture:tempPic,
                                     investment: results[i].data.properties.total_funding_usd,
                                     description: results[i].data.properties.description,
                                     link: "https://www.crunchbase.com/" + results[i].data.properties.web_path,
@@ -95,6 +102,7 @@ class StartupServices {
                                 categories: results[i].data.relationships.categories.items.map(item => { return item.properties.name }),
                                 value: 10,
                                 type: 'Startup',
+                                picture:tempPic,
                                 investment: results[i].data.properties.total_funding_usd,
                                 description: results[i].data.properties.description,
                                 link: "https://www.crunchbase.com/" + results[i].data.properties.web_path,

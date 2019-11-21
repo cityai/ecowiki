@@ -1,4 +1,11 @@
 
+[RPA Robotic Process Automation Developers Berlin @ BVG](https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/266616046/)
+##### Mon Feb 17 2020
+**Location:** Berlin
+**Organizer:** RPA Robotic Process Automation Developers Berlin
+**Description:** Tbd. ...
+
+
 [Study Session, vote for new/next content: http://tiny.cc/amlsg-vote](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/ltzxsqybccbcc/)
 ##### Tue Jan 21 2020
 **Location:** Berlin
@@ -6,11 +13,25 @@
 **Description:** No description provided...
 
 
+[RPA Robotic Process Automation Developers Berlin @ Oracle](https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/266551380/)
+##### Mon Jan 13 2020
+**Location:** Berlin
+**Organizer:** RPA Robotic Process Automation Developers Berlin
+**Description:** Agenda:- Welcome - Thomas Mönkemeier - 5 min- RPA and BPM: How do they fit together? - Evgenia Rosa (Oracle) - 30 min- tbd- Networking, Pizza ...
+
+
 [MX paper reading group](https://www.meetup.com/Merantix-AI-Paper-Discussion-Group/events/266105053/)
 ##### Wed Jan 08 2020
 **Location:** Berlin
 **Organizer:** Merantix AI Paper Discussion Group
 **Description:** Two papers will be presented, we will announce this a week before the meeting. ...
+
+
+[(paid) online AI course: Deep Learning for developers](https://www.meetup.com/Berlin-AI-Tech-Talk/events/266485754/)
+##### Tue Jan 07 2020
+**Location:** Berlin
+**Organizer:** Berlin AI Developers Group
+**Description:** We are starting the new session for the popular 4-week AI course: Deep Learning for Developers.This course is online live course. You can listen, watc...
 
 
 [ML Group Berlin - topics TBD](https://www.meetup.com/berlin-machine-learning/events/266381438/)
@@ -25,6 +46,13 @@
 **Location:** Berlin
 **Organizer:** Data Science Retreat
 **Description:** 11 Graduates from Batch 20 of DSR will be presenting their Data Science/Machine Learning prototypes and projects.For hosting and support we thank SAP....
+
+
+[KI Community & Networking](https://www.meetup.com/kicommunity/events/266429343/)
+##### Tue Dec 17 2019
+**Location:** Berlin
+**Organizer:** KI Community & Networking
+**Description:** Hallo und Willkommen zu unserem zweiten KI Community meetup des Jahres. Hier treffen sich unsere Mitglieder um sich auszutauschen und neue Kontakte zu...
 
 
 [RPA Robotic Process Automation Developers Berlin @ itacs](https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/265529454/)
@@ -125,11 +153,32 @@
 **Description:** In "The Merchant and the Alchemist's Gate," a portal through time forces a fabric seller in ancient Baghdad to grapple with past mistakes and the temp...
 
 
+[Berlin AX User Meetup](https://www.meetup.com/AX-Semantics-User-Meetup/events/266490655/)
+##### Wed Dec 04 2019
+**Location:** Berlin
+**Organizer:** User Meetup für Textautomatisierung Berlin – AX Semantics
+**Description:** Lasst uns darüber sprechen, wie ihr AX Semantics nutzen und das Potenzial von Content-Automatisierung ausschöpfen könnt. Erfahrt live, wie andere Unte...
+
+
+[Introduction to Federated Learning](https://www.meetup.com/Federated-Learning/events/266464817/)
+##### Wed Dec 04 2019
+**Location:** Berlin
+**Organizer:** Federated Learning
+**Description:** Hi there and welcome to Federated Learning! This is the kick-off meetup for the freshly created Federated Learning group. You have the opportunity to ...
+
+
 [Robocars Race 2019](https://www.meetup.com/autonomous-mobility-berlin/events/265682596/)
 ##### Wed Dec 04 2019
 **Location:** Berlin
 **Organizer:** Autonomous Mobility Berlin
 **Description:** This day is coming. Autonomous Mobility Berlin presents… The Race 2019! Teams will meet at the track to fight their models and show how precise, fast ...
+
+
+[Forum HR: Building International Collaborative Teams.](https://www.meetup.com/Berlin-Digital-Business-Network-SIBB/events/266381915/)
+##### Tue Dec 03 2019
+**Location:** Berlin
+**Organizer:** 💥 Berlin Digital Business Network @SIBB 💥
+**Description:** As the cliché goes "The success of the company depends on its employees". In the contemporary business world successful companies understand that effe...
 
 
 [Berlin Meets USA - American Teamwork.](https://www.meetup.com/Berlin-Digital-Business-Network-SIBB/events/266381915/)
@@ -146,7 +195,14 @@
 **Description:** *** To guarantee a seat please register through Eventbrite at: http://bit.ly/SmartCityMeetup-IoTintheCity *** In the digital era, a wide range of new ...
 
 
-[Power Point Karaoke - Freies Sprechen bei fremden Inhalten ](https://www.meetup.com/Big-Data-Developers-in-Berlin/events/266080497/)
+[Attention and Augmented Recurrent Neural Networks – Olah](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/ltzxsqyzqbfb/)
+##### Tue Dec 03 2019
+**Location:** Berlin
+**Organizer:** Advanced Machine Learning Study Group
+**Description:** No description provided...
+
+
+[Power Point Karaoke - Freies Sprechen bei fremden Inhalten (aktiv oder passiv) ](https://www.meetup.com/Big-Data-Developers-in-Berlin/events/266080497/)
 ##### Tue Dec 03 2019
 **Location:** Berlin
 **Organizer:** Big Data Developers in Berlin
@@ -160,11 +216,25 @@
 **Description:** In this meetup, we have two talks about real-time visual analysis. Talk 1: Towards real-time interpretation of the physical world with FPGA and DNNsSp...
 
 
+[Computer Vision Workshop](https://www.meetup.com/Berlin-Computer-Vision-Group/events/266592347/)
+##### Fri Nov 29 2019
+**Location:** Berlin
+**Organizer:** Berlin Computer Vision Group
+**Description:** We will continue working with image classifiers using FastAI and PyTorch. We will go through the content on Convolutional Neural Networks (Lecture 5) ...
+
+
 [health:CODE](https://www.meetup.com/DevOps-CODE-Event-Series/events/265091244/)
 ##### Thu Nov 28 2019
 **Location:** Berlin
 **Organizer:** DevOps | CODE Event Series
 **Description:** The leading DevOps and Continuous Delivery event for decision makers in healthcare and life science industries Health:CODE is Europe's unique event ma...
+
+
+[German Language Enthusiasts Meetup at Mano Cafe](https://www.meetup.com/Deutsch-Enthusiasten-in-Berlin/events/266531349/)
+##### Thu Nov 28 2019
+**Location:** Berlin
+**Organizer:** German language enthusiasts (C1 & C2 Sprachniveaus)
+**Description:** This will be our first event. We will meet in this cool Mano Cafe ...
 
 
 [B2B Berlin November 2019](https://www.meetup.com/b2b-berlin/events/265063707/)
@@ -188,11 +258,18 @@
 **Description:** Das Digitale-Versorgung-Gesetz (DVG) – Teil 1:*Status DVG - aktuelles Update*Evidenz, eine Herausforderung für Digitale Gesundheitsanwendungen? (Achtu...
 
 
-[KI Community & Networking](https://www.meetup.com/kicommunity/events/266405530/)
-##### Thu Nov 28 2019
+[Cross over with BIH Digital Health Forum and meetup.ai](https://www.meetup.com/Machine-Learning-in-Healthcare/events/266613482/)
+##### Wed Nov 27 2019
 **Location:** Berlin
-**Organizer:** KI Community & Networking
-**Description:** Hallo und Willkommen zu unserem ersten KI Community meetup des Jahres. Das Event wird bei diesdas.digital in der Oranienstraße 6, im Herzen von Kreuzb...
+**Organizer:** Machine Learning in Healthcare
+**Description:** IMPORTANT: YOU CAN ONLY SIGN UP TO THIS EVENT THROUGH THE EVENTBRITE PAGE: https://www.eventbrite.de/e/bih-digital-health-forum-special-event-november...
+
+
+[Meetup 6 : Pragmatic approaches to high quality Geodata analysis & visualisation](https://www.meetup.com/BerlinR-R-users-group/events/266157696/)
+##### Wed Nov 27 2019
+**Location:** Berlin
+**Organizer:** BerlinR - an R group focused on modern data science
+**Description:** The „tidyfication“ of R fortunately hasn’t spared the realm of geodata. In the course of just a few years packages such as {sf} have drastically simpl...
 
 
 [Around the World in 80 Ways: Deploying a Microservice on OpenShift](https://www.meetup.com/IBM-Developer-Berlin/events/265307720/)
@@ -214,6 +291,27 @@
 **Location:** Berlin
 **Organizer:** IBM AI / Watson Studio User Berlin
 **Description:** Diesmal geht es um die Verbindung von Visual Recognition und Watson Studio. Es werden Fotos von Gußteilen analysiert und damit vorgestellt, wie einfac...
+
+
+[First Binary Talks: The Privacy Trade-off in Healthtech](https://www.meetup.com/meetupai-Berlin/events/266517900/)
+##### Wed Nov 27 2019
+**Location:** Berlin
+**Organizer:** meetup.ai [Berlin]
+**Description:** Dear Friends, Colleagues and Fellow Technologists, The time is finally here, and it is the most wonderful time of the year. We are finally after a few...
+
+
+[Open Standards for Smart Cities and Mobility ](https://www.meetup.com/meetup-group-JOJraBKF/events/266429931/)
+##### Tue Nov 26 2019
+**Location:** Berlin
+**Organizer:** Berlin Open Source Mobility Meetup
+**Description:** Innovation in cities to solve sustainability, livability and shared prosperity challenges requires new types of digital infrastructure including open ...
+
+
+[Deep Reinforcement Learning – 14: Probability and Variational Inference Primer](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/ltzxsqyzpbjc/)
+##### Tue Nov 26 2019
+**Location:** Berlin
+**Organizer:** Advanced Machine Learning Study Group
+**Description:** No description provided...
 
 
 [How to build a data-driven unicorn - Episode No. 1](https://www.meetup.com/AUTO1-Group-Tech-Talks/events/265900298/)
@@ -244,13 +342,6 @@
 **Description:** Hi Everyone! And welcome to the 16th AI in Action Meetup of the year! This time we have Partnered up with Deutsche Bhan and Retresco. The event will t...
 
 
-[Building AI solutions end2end - from setting Data Lake,ML models and  deployment](https://www.meetup.com/Big-Data-Developers-in-Berlin/events/265589169/)
-##### Mon Nov 25 2019
-**Location:** Berlin
-**Organizer:** Big Data Developers in Berlin
-**Description:** Building AI solutions end to end - from setting up a Data Lake, building Machine Learning models and their deployment Abstract:Data analysis, combinin...
-
-
 [Data Natives 2019](https://www.meetup.com/Big-Data-Mumbai/events/266314056/)
 ##### Mon Nov 25 2019
 **Location:** Berlin
@@ -258,11 +349,11 @@
 **Description:** Register with a special 50% discount for the Data Natives meetup community*: http://bit.ly/34BSfWI *ONLY EVENTBRITE REGISTRATIONS ARE VALID, MAKE SURE...
 
 
-[Artificial Intelligence - Understanding opportunities and consequences.](https://www.meetup.com/digital-skills-tc/events/266160854/)
-##### Sat Nov 23 2019
+[Building AI solutions end2end - from setting Data Lake,ML models and  deployment](https://www.meetup.com/Big-Data-Developers-in-Berlin/events/265589169/)
+##### Mon Nov 25 2019
 **Location:** Berlin
-**Organizer:** Digital Skills Training Community
-**Description:** Free Introduction to Artificial Intelligence for beginners In this free, fun, fast-paced, interactive Workshop we will together: -Debunk the main misc...
+**Organizer:** Big Data Developers in Berlin
+**Description:** Building AI solutions end to end - from setting up a Data Lake, building Machine Learning models and their deployment Abstract:Data analysis, combinin...
 
 
 [Shaping the Future of Data Privacy](https://www.meetup.com/Big-Data-Berlin/events/266016349/)
@@ -271,67 +362,11 @@
 **Organizer:** Big Data, Berlin
 **Description:** ONLY EVENTBRITE REGISTRATIONS WILL BE VALID, SIGN UP BELOWhttps://www.eventbrite.co.uk/e/shaping-the-future-of-data-privacy-tickets-75998923827 See al...
 
-
-[Continuous Testing Meetup @ FlixBus - AI in Test Automation](https://www.meetup.com/continuous-testing-meetup-berlin/events/265947716/)
-##### Thu Nov 21 2019
-**Location:** Berlin
-**Organizer:** CTM: Continuous Testing Meetup
-**Description:** Join us for our November Meetup! Special thank you to FlixBus (https://www.flixbus.de/) for hosting our meetup and sponsoring drinks! Agenda: 18:30: O...
-
-
-[AI in Action, DN19 Satellite Event - Using ML to understand Customer LTV](https://www.meetup.com/AI-in-Action-Berlin/events/265527121/)
-##### Thu Nov 21 2019
-**Location:** Berlin
-**Organizer:** AI in Action Berlin
-**Description:** To sign up for this event please sign up using Eventbrite. https://www.eventbrite.co.uk/e/using-data-science-to-understand-customer-lifetime-value-tic...
-
-
-[Continuous Testing Meetup in November @ FlixBus ](https://www.meetup.com/continuous-testing-meetup-berlin/events/265947716/)
-##### Thu Nov 21 2019
-**Location:** Berlin
-**Organizer:** CTM: Continuous Testing Meetup
-**Description:** Join us for our November Meetup! Special thank you to FlixBus (https://www.flixbus.de/) for hosting our meetup and sponsoring drinks! Agenda: 18:30: O...
-
-
-[14th Machine Learning in Healthcare meetup - BIH endorsed, Datanatives Satellite](https://www.meetup.com/Machine-Learning-in-Healthcare/events/265834317/)
-##### Thu Nov 21 2019
-**Location:** Berlin
-**Organizer:** Machine Learning in Healthcare
-**Description:** We are excited to invite you to a special meetup on the 21st of November!We will be a satellite event of the datanatives conference! Vince Madai will ...
-
-
-[Using Data Science to understand Customer Lifetime Value](https://www.meetup.com/Big-Data-Berlin/events/266016153/)
-##### Thu Nov 21 2019
-**Location:** Berlin
-**Organizer:** Big Data, Berlin
-**Description:** ONLY EVENTBRITE REGISTRATIONS WILL BE VALID, SIGN UP BELOWhttps://www.eventbrite.co.uk/e/using-data-science-to-understand-customer-lifetime-value-tick...
-
-
-[Data Driven Digital Transformation](https://www.meetup.com/Berlin-Digital-Business-Network-SIBB/events/265896684/)
-##### Thu Nov 21 2019
-**Location:** Berlin
-**Organizer:** 💥 Berlin Digital Business Network @SIBB 💥
-**Description:** FORUM DIGITAL TRANSFORMATION: DATA DRIVEN DIGITAL TRANSFORMATION Data is a key component for any modern,competitive business environment and its devel...
-
-
-[Art, AI, and Autonomy](https://www.meetup.com/Towards-and-Beyond-Imagining-Digital-Futures/events/266072133/)
-##### Thu Nov 21 2019
-**Location:** Berlin
-**Organizer:** Towards & Beyond - Imagining Digital Futures
-**Description:** Over the past few years, Gene has been building tools for creatives to integrate AI into their practice, as well as running workshops teaching people ...
-
-
-[DataNatives Satellite Event: The intersection of Product and Data ](https://www.meetup.com/beyond-machine/events/265589802/)
-##### Wed Nov 20 2019
-**Location:** Berlin
-**Organizer:** Deep Learning & Machine Learning & Data PM Bootcamps
-**Description:** Please head over here to register on Eventbrite: http://bit.ly/2VESBJ2--------------------------------------------------------------------------------...
-
 <!-- TITLE: Global Events -->
 <!-- SUBTITLE: A quick summary of Global Events -->
 
 
- For this AI ecosystem there are currently 47 future events that you can participate in, and 0 events that have already been organized 
+ For this AI ecosystem there are currently 52 future events that you can participate in, and 0 events that have already been organized 
 
 # Events
 <div class=events>

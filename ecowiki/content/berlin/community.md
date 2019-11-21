@@ -1,18 +1,18 @@
 
 [Ramzi Rizk](https://twitter.com/ramz)
-**Followers:** 3742
+**Followers:** 3746
 
 
 [appughar](https://twitter.com/appughar)
-**Followers:** 378
+**Followers:** 377
 
 
 [Ralf Herbrich](https://twitter.com/rherbrich)
-**Followers:** 2793
+**Followers:** 2798
 
 
 [Manuel Koelman](https://twitter.com/manuelkoelman)
-**Followers:** 2842
+**Followers:** 2844
 
 
 [Jorge Davila-Chacon](https://twitter.com/jorgedch)
@@ -20,23 +20,23 @@
 
 
 [Frederik Eichelbaum](https://twitter.com/eichelbaum)
-**Followers:** 120
+**Followers:** 119
 
 
 [Luc Dudler](https://twitter.com/lucdudler)
-**Followers:** 558
+**Followers:** 557
 
 
 [Christoph Auer-Welsbach](https://twitter.com/AWChristoph)
-**Followers:** 2570
+**Followers:** 2566
 
 
 [Nathan Benaich](https://twitter.com/NathanBenaich)
-**Followers:** 24079
+**Followers:** 24090
 
 
 [Fabian Westerheide](https://twitter.com/bootstrappingme)
-**Followers:** 2527
+**Followers:** 2523
 
 
 [Caspian Robotics](https://twitter.com/CaspianRobotics)
