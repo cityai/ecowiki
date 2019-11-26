@@ -13,6 +13,15 @@ class OrganizationController{
         };
     }
 
+    async addOrganization(req,res){
+        try {
+            const result = await organizationService.addOrganization(req.body);
+            res.send(result);
+        } catch (error) {
+            processError(error,res);
+        }
+    }
+
     async updateOrganization(req, res){
         try{
             const result = await organizationService.updateOrganization(req.body, req.params.id);

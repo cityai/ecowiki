@@ -15,13 +15,26 @@ const POSTgroup = async ()=>{
         organizer: document.getElementById("Organizer").value ,
         category: document.getElementById("Category").value ,
     }
-    console.log(data);
     const res = await postData('http://localhost:3000/api/groups/',data).catch(e=>console.log(e));
     return res;
 }
 
 const POSTorg = async ()=>{
-    
+    let prof = document.getElementById("Highlighted").checked;
+    const data = {
+        name: document.getElementById("Name").value,
+        link: document.getElementById("Link").value,
+        description:"" || document.getElementById("Desc").value ,
+        location: document.getElementById("Location").value,
+        email: document.getElementById("Email").value ,
+        founder: document.getElementById("Founder").value ,
+        category: document.getElementById("Category").value ,
+        profit:prof,
+
+    }
+    console.log(data);
+    const res = await postData('http://localhost:3000/api/organizations/',data).catch(e=>console.log(e));
+    return res;
 }
 
 const POSTevent = async ()=>{

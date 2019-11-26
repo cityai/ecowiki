@@ -28,6 +28,26 @@ class OrganizationServices{
         return organization;
     };
 
+    async addOrganization(body){
+        const find = await Organization.findOne({name:body.name});
+        if(!find){
+            const organization = new Organization({
+                name:body.name,
+                link:body.link,
+                location:body.location,
+                description:body.description,
+                profit:body.profit,
+                founder:body.founder,
+                email:body.email,
+                tags:[],
+                category:body.category,
+            })
+            await organization.save();
+            return console.log("Org added successfully");
+        }
+        return console.log("Org already exists");
+    }
+
     /**
      * Updates an organization with the given id.
      * @param data that we want to update. 

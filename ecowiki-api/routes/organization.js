@@ -5,6 +5,7 @@ const router = express.Router();
 
 router.get('/:location',organizationController.getOrganizations);
 router.post('/:location', organizationController.createOrganization);
+router.post('/',organizationController.addOrganization)
 router.patch('/:id', organizationController.updateOrganization);
 router.delete('/:id',organizationController.deleteOrganization);
 
