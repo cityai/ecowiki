@@ -74,14 +74,16 @@ class MarkdownTransform {
                     data.splice(0, 0, "<!-- TITLE: " + city.name + " AI -->");
                     data = this.addOneLine(data, city, "overview", "<div class=overview>");
                     if (city.startups)
-                        data = this.addMultipleLines(data, city, "startups", 20, "<div class=startups>", ["picture", "name", "categories", "investment", "location"]);
-                    if (city.events)
-                        data = this.addMultipleLines(data, city, "events", 20, "<div class=events>", ["name", "date", "location", "organizer"])
-                    if (city.organizations)
-                        data = this.addMultipleLines(data, city, "organizations", 20, "<div class=organizations>", ["name", "category", "founder", "link"]);
+                        data = this.addMultipleLines(data, city, "startups", 12, "<div class=startups>", ["picture", "name", "categories", "investment", "location"]);
+                    if (city.events){
+                        data = this.addMultipleLines(data, city, "events", 12, "<div class=events>", ["name", "date", "location", "organizer"])
+                        data = this.addMultipleLines(data, city, "events",city.events.length,"<div class=events id=\"list\">",["name", "date", "location", "organizer"]);
+                    }
+                        if (city.organizations)
+                        data = this.addMultipleLines(data, city, "organizations", 12, "<div class=organizations>", ["name", "category", "founder", "link"]);
                     if (community) {
-                        data = this.addMultipleLines(data, community, "groups", 20, "<div class=groups>", ["name", "members", "organizer"]);
-                        data = this.addMultipleLines(data, community, "influencers", 20, "<div class=influencers>", ["picture","name", "followers"]);
+                        data = this.addMultipleLines(data, community, "groups", 12, "<div class=groups>", ["name", "members", "organizer"]);
+                        data = this.addMultipleLines(data, community, "influencers", 12, "<div class=influencers>", ["picture","name", "followers"]);
 
                     }
                     await fs.writeFile(filePath, "", async err => {
@@ -101,49 +103,6 @@ class MarkdownTransform {
                         }
                     })
 
-                })
-
-
-                await fs.readFile(filePath, async (err, data) => {
-                    if (err) return console.log(err);
-                    data = data.toString().split("\n");
-                    if (city.events) {
-                        let index = data.indexOf("<div class=events id=\"list\">") + 2;
-                        console.log(data[index])
-                        let futEvents = 0;
-                        let pastEvents = 0;
-
-                        for (let i = 0; i < city.events.length; i++) {
-
-                            if (city.events[i].date.getTime() > Date.now())
-                                futEvents += 1;
-                            else
-                                pastEvents += 1;
-                        }
-                        console.log(1);
-                        data.splice(index, 0, "\n For this AI ecosystem there are currently " + futEvents + " future events that you can participate in, and " + pastEvents +
-                            " events that have already been organized \n");
-                        console.log(2);
-
-                        data = this.addMultipleLines(data, city, "events", city.events.length, "<summary>See all events</summary>", ["name", "date", "location", "organizer", "description"])
-                        console.log(3);
-                    }
-                    await fs.writeFile(filePath, "", async err => {
-                        if (err) await fs.mkdir(dirPath, err => {
-                            if (err) return console.log(err);
-                            else {
-                                fs.writeFileSync(filePath, "");
-                                for (let i = 0; i < data.length; i++)
-                                    fs.appendFileSync(filePath, data[i] + "\n");
-                                return;
-                            }
-                        })
-                        else {
-                            for (let i = 0; i < data.length; i++)
-                                fs.appendFileSync(filePath, data[i] + "\n");
-                            console.log("Data is converted into markdown!")
-                        }
-                    })
                 })
 
 
@@ -200,10 +159,8 @@ class MarkdownTransform {
                 continue;
                 }
             let tempIndex = data.indexOf("<div class=column id=" + i%3 + ">", index)+1;
-            console.log(tempIndex, " is tempIndex");
             data.splice(tempIndex, 0, "");
             tempIndex++;
-            console.log(data[tempIndex]);
             for (let j = 0; j < attributesArray.length; j++) {
 
                 switch (attributesArray[j]) {

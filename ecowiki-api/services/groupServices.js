@@ -59,6 +59,26 @@ class GroupServices{
         return groups;
     };
 
+    async addGroup(body){
+            const find = await Group.findOne({link: body.link});
+            if(!find){
+            const description = htmlRemover(body.description);
+            
+            const group = new Group({
+                name: body.name,
+                link: body.link,
+                description: description,
+                location: body.location,
+                members: body.members,
+                organizer: body.organizer,
+                category: body.category,
+            });
+           await group.save();
+           return console.log("Group added successfully");
+        }
+        return console.log("Group already in the database");
+    }
+
     /**
      * Returns all groups from the given location.
      * @param location of city, as city name.

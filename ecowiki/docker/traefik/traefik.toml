@@ -15,7 +15,7 @@ defaultEntryPoints = ["http", "https"]
       usersFile = "/.htpasswd"
 [http.middlewares]
   [http.middlewares.testHeader.headers]
-    accessControlAllowMethods= ["GET", "OPTIONS", "PUT"]
+    accessControlAllowMethods= ["GET", "OPTIONS", "PUT", "POST"]
     accessControlAllowOrigin = "*"
     customRequestHeaders = "Access-Control-Allow-Origin:*"
     customResponseHeaders = "Access-Control-Allow-Origin:*"

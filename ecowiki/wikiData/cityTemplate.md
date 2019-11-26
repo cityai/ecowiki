@@ -91,7 +91,6 @@ Check out the voices of the local AI community
 </details>
 </div>
 
-[See all events](./events)
 
 <!-- WHEN ADDING NEW ORGANIZATIONS PLEASE FOLLOW THIS SCHEMA
 #### Organization_Name
