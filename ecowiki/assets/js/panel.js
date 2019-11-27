@@ -56,7 +56,16 @@ const POSTevent = async ()=>{
 }
 
 const POSTinfluencer = async ()=>{
-    console.log("Hey");
+  const data = {
+    name:document.getElementById("Name").value,
+    picture:document.getElementById("Picture").value,
+    location: document.getElementById("Location").value,
+    link: document.getElementById("Link").value,
+    followers: document.getElementById("Followers").value
+  }
+  console.log(data);
+  const res = await postData('http://localhost:3000/api/influencers/',data).catch(e=>console.log(e));
+  return res;
 }
 
 const POSTstartup = async ()=>{

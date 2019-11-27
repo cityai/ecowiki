@@ -13,6 +13,15 @@ class InfluencerController {
         }
     };
 
+    async addInfluencer(req,res){
+        try {
+            const result = await influencerService.addInfluencer(req.body);
+            res.send(result);
+        } catch (error) {
+            processError(error,res);
+        }
+    }
+
     async getInfluencers(req,res){
         try{
             const result = await influencerService.getInfluencers(req.params.location);

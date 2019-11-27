@@ -6,9 +6,9 @@ const router = express.Router();
  * THIS IS THE ROUTE USED TO TEST CRON JOB FOR GETTING DATA FROM EXTERNAL APIs
  *
  **/
-router.post("/:location",influencerController.createInfluncer);
-
-router.get("/:location",influencerController.getInfluencers);
-router.delete("/:id",influencerController.deleteInfluencer);
+router.get('/:location',influencerController.getInfluencers);
+router.post('/',influencerController.addInfluencer);
+router.post('/:location',influencerController.createInfluncer);
+router.delete('/:id',influencerController.deleteInfluencer);
 
 module.exports=router;

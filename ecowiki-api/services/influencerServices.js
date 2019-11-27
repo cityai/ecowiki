@@ -48,6 +48,24 @@ class InfluencerServices{
             return 'Done'
     };
     
+    async addInfluencer(body){
+        const find = await Influencer.findOne({link:body.link});
+        if(!find){
+            const influencer = new Influencer({
+                name:body.name,
+                picture:body.picture,
+                location:body.location,
+                link:body.link,
+                title:'a',
+                tags:[],
+                followers: body.followers
+            });
+            await  influencer.save();
+            return console.log("Influencer succesfully added");
+        }
+        return console.log("Influencer already exists");
+    }
+
     /**
      * Returns all Influencers from the given city.
      * @param location of city, as city name. 
