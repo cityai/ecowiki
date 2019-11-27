@@ -8,9 +8,9 @@
 
 <div class=status>
 
-At this AI Ecosystem you can check out <strong>70</strong> AI related events in which you can participate.
+At this AI Ecosystem you can check out <strong>71</strong> AI related events in which you can participate.
 Connect with local AI community, represented by <strong>18</strong> influencers and <strong>0</strong> groups with <strong>0</strong> community members.
-Explore the work  of <strong>102</strong> startups focused on generating business solutions using latest AI technologies.
+Explore the work  of <strong>104</strong> startups focused on generating business solutions using latest AI technologies.
 Also there are <strong>0</strong> AI related local organizations!
 
 
@@ -131,15 +131,21 @@ Check out the voices of the local AI community
 
 [See all influencers](./community)
 # Events
-You can join 70 locally organized upcoming events
+You can join 71 locally organized upcoming events
 <div class=events>
 
 <div class=column id=0>
 
-[ArtFutura London 2019 - Processing the Future](https://www.meetup.com/Strange-Loop-Society/events/265256843/)
-##### Sat Nov 30 2019
+[AI and creativity Meetup and free workshop](https://www.meetup.com/London-AI-and-Creativity-meetup/events/266359546/)
+##### Mon Dec 02 2019
 **Location:** London
-**Organizer:** Strange Loop Society
+**Organizer:** London AI, Blockchain and Creativity meetup
+
+
+[Creating Disruptive Crypto & Blockchain Business Models](https://www.meetup.com/Creating-Disruptive-Business-Models/events/266340854/)
+##### Fri Nov 29 2019
+**Location:** London
+**Organizer:** Creating Disruptive Business Models
 
 
 [Applying RPA into your business and how to scale up](https://www.meetup.com/RPA-Visionaries-Italy/events/266579216/)
@@ -154,19 +160,19 @@ You can join 70 locally organized upcoming events
 **Organizer:** Impactful AI London
 
 
-[Using Supervised ML Methods to augment intelligent dashboards in Healthcare](https://www.meetup.com/Wider-AI-ML-Working-Group/events/264611179/)
-##### Wed Nov 27 2019
-**Location:** London
-**Organizer:** Draper & Dash's AI / ML Meet up
-
-
 </div>
 <div class=column id=1>
 
-[The future of education, Zoom online conference](https://www.meetup.com/London-Futurists/events/266610312/)
-##### Sun Dec 01 2019
+[Build GCP infrastructure with Terraform](https://www.meetup.com/gdgcloud/events/261893044/)
+##### Mon Dec 02 2019
 **Location:** London
-**Organizer:** London Futurists
+**Organizer:** GDG Cloud London
+
+
+[ArtFutura London 2019 - Processing the Future](https://www.meetup.com/Strange-Loop-Society/events/265256843/)
+##### Sat Nov 30 2019
+**Location:** London
+**Organizer:** Strange Loop Society
 
 
 [Challenging the Machine - ensuring that human voices are always heard](https://www.meetup.com/reputable-AI-Events/events/266632403/)
@@ -181,19 +187,19 @@ You can join 70 locally organized upcoming events
 **Organizer:** Canary Wharf Data Engineering
 
 
-[LondonCV - London's Computer Vision Meetup (27 November)](https://www.meetup.com/LondonCV/events/266540696/)
-##### Wed Nov 27 2019
-**Location:** London
-**Organizer:** LondonCV
-
-
 </div>
 <div class=column id=2>
 
-[AI and creativity Meetup and free workshop](https://www.meetup.com/London-AI-and-Creativity-meetup/events/266359546/)
-##### Mon Dec 02 2019
+[AI Urban Analytics with Alan Turing Institute](https://www.meetup.com/Machine-Intelligence-Garage/events/266290861/)
+##### Tue Dec 03 2019
 **Location:** London
-**Organizer:** London AI, Blockchain and Creativity meetup
+**Organizer:** Machine Intelligence Garage
+
+
+[The future of education, Zoom online conference](https://www.meetup.com/London-Futurists/events/266610312/)
+##### Sun Dec 01 2019
+**Location:** London
+**Organizer:** London Futurists
 
 
 [Is automation essential in 5G?](https://www.meetup.com/CW-events/events/264717056/)
@@ -208,12 +214,6 @@ You can join 70 locally organized upcoming events
 **Organizer:** London Tech Revolution: Blockchain, Crypto & Tech
 
 
-[Weekly ML study session](https://www.meetup.com/MaM-Machine-Learning-Study-Group/events/266724539/)
-##### Wed Nov 27 2019
-**Location:** London
-**Organizer:** MaM Machine Learning Study Group
-
-
 </div>
 </div>
 
@@ -225,6 +225,153 @@ You can join 70 locally organized upcoming events
 
 
 <div class=column id=0>
+
+[Building & Deploying Serverless applications to the Cloud using Nest.js](https://www.meetup.com/Microsoft-Reactor-London/events/265868971/)
+##### Tue Feb 18 2020
+**Location:** London
+**Organizer:** Microsoft Reactor London
+
+
+[Making Your Data Useful for Analysis](https://www.meetup.com/Microsoft-Reactor-London/events/265947719/)
+##### Tue Feb 04 2020
+**Location:** London
+**Organizer:** Microsoft Reactor London
+
+
+[Amido x Microsoft: How to bag the best jobs in the tech industry](https://www.meetup.com/Amido-Presents/events/266024459/)
+##### Thu Jan 30 2020
+**Location:** London
+**Organizer:** Amido Presents
+
+
+[Augmenting Reality - January 2020](https://www.meetup.com/Augmenting-Reality/events/266408785/)
+##### Wed Jan 29 2020
+**Location:** London
+**Organizer:** Augmenting Reality
+
+
+[Microsoft for Startups  |  Marketing Content Strategy](https://www.meetup.com/Microsoft-Reactor-London/events/266671569/)
+##### Thu Jan 16 2020
+**Location:** London
+**Organizer:** Microsoft Reactor London
+
+
+[Microsoft for Startups  |  GDPR & Data Privacy](https://www.meetup.com/Microsoft-Reactor-London/events/266671469/)
+##### Thu Jan 16 2020
+**Location:** London
+**Organizer:** Microsoft Reactor London
+
+
+[Frontier Tech Summit London, 13 Jan 2020 ](https://www.meetup.com/fintechstorm/events/266732898/)
+##### Mon Jan 13 2020
+**Location:** London
+**Organizer:** Fintech Storm - Disruptive Tech - Blockchain, AI, Fintech
+
+
+[Beginners Data Science for Python Developers](https://www.meetup.com/Microsoft-Reactor-London/events/265947497/)
+##### Thu Dec 19 2019
+**Location:** London
+**Organizer:** Microsoft Reactor London
+
+
+[Round 25: Some Round Name](https://www.meetup.com/London-Hack-and-Tell/events/pgstfryzqbwb/)
+##### Tue Dec 17 2019
+**Location:** London
+**Organizer:** London Hack&&Tell
+
+
+[Machine Learning Powered Push Notifications](https://www.meetup.com/Artificial-Intelligence-UK/events/266498710/)
+##### Tue Dec 17 2019
+**Location:** London
+**Organizer:** Big Data, Analytics, and Artificial Intelligence
+
+
+[OpenBanking Challenges and Business Opportunities ](https://www.meetup.com/London-Tech-Entrepreneurs-And-Investors-Network-LION/events/266515585/)
+##### Thu Dec 12 2019
+**Location:** London
+**Organizer:** London Tech Entrepreneurs and Investors Network Lion
+
+
+[How to Outsource & Remote Hire in Tech: the "Startup way" - WORKSHOP](https://www.meetup.com/SiliconRoundabout/events/266072505/)
+##### Wed Dec 11 2019
+**Location:** London
+**Organizer:** Silicon Roundabout
+
+
+[Workshop- Cloud-Native SecOps with Azure Sentinel ](https://www.meetup.com/Microsoft-Reactor-London/events/266044070/)
+##### Tue Dec 10 2019
+**Location:** London
+**Organizer:** Microsoft Reactor London
+
+
+[Tech Startup Journey](https://www.meetup.com/London-Tech-Entrepreneurs-And-Investors-Network-LION/events/266314787/)
+##### Mon Dec 09 2019
+**Location:** London
+**Organizer:** London Tech Entrepreneurs and Investors Network Lion
+
+
+[The Future of Data Science](https://www.meetup.com/SiliconRoundabout/events/266018225/)
+##### Fri Dec 06 2019
+**Location:** London
+**Organizer:** Silicon Roundabout
+
+
+[Microsoft for Startups  |  Hiring for Culture](https://www.meetup.com/Microsoft-Reactor-London/events/266667216/)
+##### Thu Dec 05 2019
+**Location:** London
+**Organizer:** Microsoft Reactor London
+
+
+[Microsoft for Startups  |  Effective Selling](https://www.meetup.com/Microsoft-Reactor-London/events/266668340/)
+##### Wed Dec 04 2019
+**Location:** London
+**Organizer:** Microsoft Reactor London
+
+
+[London Meetup: Deep Dive into TensorFlow #27](https://www.meetup.com/TensorFlow-London/events/266557792/)
+##### Wed Dec 04 2019
+**Location:** London
+**Organizer:** TensorFlow London
+
+
+[Meetup #10: The gap between policies and innovation](https://www.meetup.com/West-London-Ethical-Technology-Meetup/events/266714794/)
+##### Tue Dec 03 2019
+**Location:** London
+**Organizer:** West London Ethical Technology Meetup
+
+
+[AI for Good Community Pre-holidays Meetup](https://www.meetup.com/meetup-group-pzvZdizC/events/266073268/)
+##### Tue Dec 03 2019
+**Location:** London
+**Organizer:** AI for Good
+
+
+[AI and creativity Meetup and free workshop](https://www.meetup.com/London-AI-and-Creativity-meetup/events/266359546/)
+##### Mon Dec 02 2019
+**Location:** London
+**Organizer:** London AI, Blockchain and Creativity meetup
+
+
+[Creating Disruptive Crypto & Blockchain Business Models](https://www.meetup.com/Creating-Disruptive-Business-Models/events/266340854/)
+##### Fri Nov 29 2019
+**Location:** London
+**Organizer:** Creating Disruptive Business Models
+
+
+[Applying RPA into your business and how to scale up](https://www.meetup.com/RPA-Visionaries-Italy/events/266579216/)
+##### Thu Nov 28 2019
+**Location:** London
+**Organizer:** RPA Visionaries - Italy
+
+
+[Impactful AI - 4th Meetup](https://www.meetup.com/Impactful-AI-London/events/266380435/)
+##### Thu Nov 28 2019
+**Location:** London
+**Organizer:** Impactful AI London
+
+
+</div>
+<div class=column id=1>
 
 [[PlaceHolder] Google Stadia Event](https://www.meetup.com/gdgcloud/events/264566678/)
 ##### Fri Feb 21 2020
@@ -254,6 +401,12 @@ You can join 70 locally organized upcoming events
 ##### Tue Jan 21 2020
 **Location:** London
 **Organizer:** London PyTorch Meetup
+
+
+[Microsoft for Startups  |  IP (Tech Due Diligence)](https://www.meetup.com/Microsoft-Reactor-London/events/266671512/)
+##### Thu Jan 16 2020
+**Location:** London
+**Organizer:** Microsoft Reactor London
 
 
 [Scalability of blockchain based platforms : what's the challenge?](https://www.meetup.com/Trustless-Ecosystems/events/ccrqpqyzkbhc/)
@@ -352,26 +505,20 @@ You can join 70 locally organized upcoming events
 **Organizer:** Strange Loop Society
 
 
-[Applying RPA into your business and how to scale up](https://www.meetup.com/RPA-Visionaries-Italy/events/266579216/)
+[Challenging the Machine - ensuring that human voices are always heard](https://www.meetup.com/reputable-AI-Events/events/266632403/)
 ##### Thu Nov 28 2019
 **Location:** London
-**Organizer:** RPA Visionaries - Italy
+**Organizer:** reputable.AI Events
 
 
-[Impactful AI - 4th Meetup](https://www.meetup.com/Impactful-AI-London/events/266380435/)
+[Ingest, protect and access your data](https://www.meetup.com/Canary-Wharf-Data-Engineering/events/266047014/)
 ##### Thu Nov 28 2019
 **Location:** London
-**Organizer:** Impactful AI London
-
-
-[Using Supervised ML Methods to augment intelligent dashboards in Healthcare](https://www.meetup.com/Wider-AI-ML-Working-Group/events/264611179/)
-##### Wed Nov 27 2019
-**Location:** London
-**Organizer:** Draper & Dash's AI / ML Meet up
+**Organizer:** Canary Wharf Data Engineering
 
 
 </div>
-<div class=column id=1>
+<div class=column id=2>
 
 [Day classroom based workshop in quantum computing advances](https://www.meetup.com/London-Quantum-computing-training-and-coding-course/events/265409784/)
 ##### Fri Feb 07 2020
@@ -393,6 +540,12 @@ You can join 70 locally organized upcoming events
 
 [Data modelling in Cosmos DB like a Cosmonaut](https://www.meetup.com/Microsoft-Reactor-London/events/265114125/)
 ##### Thu Jan 23 2020
+**Location:** London
+**Organizer:** Microsoft Reactor London
+
+
+[Microsoft for Startups  |  Sales & Marketing Analytics](https://www.meetup.com/Microsoft-Reactor-London/events/266671538/)
+##### Thu Jan 16 2020
 **Location:** London
 **Organizer:** Microsoft Reactor London
 
@@ -493,147 +646,6 @@ You can join 70 locally organized upcoming events
 **Organizer:** London Futurists
 
 
-[Challenging the Machine - ensuring that human voices are always heard](https://www.meetup.com/reputable-AI-Events/events/266632403/)
-##### Thu Nov 28 2019
-**Location:** London
-**Organizer:** reputable.AI Events
-
-
-[Ingest, protect and access your data](https://www.meetup.com/Canary-Wharf-Data-Engineering/events/266047014/)
-##### Thu Nov 28 2019
-**Location:** London
-**Organizer:** Canary Wharf Data Engineering
-
-
-[LondonCV - London's Computer Vision Meetup (27 November)](https://www.meetup.com/LondonCV/events/266540696/)
-##### Wed Nov 27 2019
-**Location:** London
-**Organizer:** LondonCV
-
-
-</div>
-<div class=column id=2>
-
-[Building & Deploying Serverless applications to the Cloud using Nest.js](https://www.meetup.com/Microsoft-Reactor-London/events/265868971/)
-##### Tue Feb 18 2020
-**Location:** London
-**Organizer:** Microsoft Reactor London
-
-
-[Making Your Data Useful for Analysis](https://www.meetup.com/Microsoft-Reactor-London/events/265947719/)
-##### Tue Feb 04 2020
-**Location:** London
-**Organizer:** Microsoft Reactor London
-
-
-[Amido x Microsoft: How to bag the best jobs in the tech industry](https://www.meetup.com/Amido-Presents/events/266024459/)
-##### Thu Jan 30 2020
-**Location:** London
-**Organizer:** Amido Presents
-
-
-[Augmenting Reality - January 2020](https://www.meetup.com/Augmenting-Reality/events/266408785/)
-##### Wed Jan 29 2020
-**Location:** London
-**Organizer:** Augmenting Reality
-
-
-[Microsoft for Startups  |  GDPR & Data Privacy](https://www.meetup.com/Microsoft-Reactor-London/events/266671469/)
-##### Thu Jan 16 2020
-**Location:** London
-**Organizer:** Microsoft Reactor London
-
-
-[Frontier Tech Summit London, 13 Jan 2020 ](https://www.meetup.com/fintechstorm/events/266732898/)
-##### Mon Jan 13 2020
-**Location:** London
-**Organizer:** Fintech Storm - Disruptive Tech - Blockchain, AI, Fintech
-
-
-[Beginners Data Science for Python Developers](https://www.meetup.com/Microsoft-Reactor-London/events/265947497/)
-##### Thu Dec 19 2019
-**Location:** London
-**Organizer:** Microsoft Reactor London
-
-
-[Round 25: Some Round Name](https://www.meetup.com/London-Hack-and-Tell/events/pgstfryzqbwb/)
-##### Tue Dec 17 2019
-**Location:** London
-**Organizer:** London Hack&&Tell
-
-
-[Machine Learning Powered Push Notifications](https://www.meetup.com/Artificial-Intelligence-UK/events/266498710/)
-##### Tue Dec 17 2019
-**Location:** London
-**Organizer:** Big Data, Analytics, and Artificial Intelligence
-
-
-[OpenBanking Challenges and Business Opportunities ](https://www.meetup.com/London-Tech-Entrepreneurs-And-Investors-Network-LION/events/266515585/)
-##### Thu Dec 12 2019
-**Location:** London
-**Organizer:** London Tech Entrepreneurs and Investors Network Lion
-
-
-[How to Outsource & Remote Hire in Tech: the "Startup way" - WORKSHOP](https://www.meetup.com/SiliconRoundabout/events/266072505/)
-##### Wed Dec 11 2019
-**Location:** London
-**Organizer:** Silicon Roundabout
-
-
-[Workshop- Cloud-Native SecOps with Azure Sentinel ](https://www.meetup.com/Microsoft-Reactor-London/events/266044070/)
-##### Tue Dec 10 2019
-**Location:** London
-**Organizer:** Microsoft Reactor London
-
-
-[Tech Startup Journey](https://www.meetup.com/London-Tech-Entrepreneurs-And-Investors-Network-LION/events/266314787/)
-##### Mon Dec 09 2019
-**Location:** London
-**Organizer:** London Tech Entrepreneurs and Investors Network Lion
-
-
-[The Future of Data Science](https://www.meetup.com/SiliconRoundabout/events/266018225/)
-##### Fri Dec 06 2019
-**Location:** London
-**Organizer:** Silicon Roundabout
-
-
-[Microsoft for Startups  |  Hiring for Culture](https://www.meetup.com/Microsoft-Reactor-London/events/266667216/)
-##### Thu Dec 05 2019
-**Location:** London
-**Organizer:** Microsoft Reactor London
-
-
-[Microsoft for Startups  |  Effective Selling](https://www.meetup.com/Microsoft-Reactor-London/events/266668340/)
-##### Wed Dec 04 2019
-**Location:** London
-**Organizer:** Microsoft Reactor London
-
-
-[London Meetup: Deep Dive into TensorFlow #27](https://www.meetup.com/TensorFlow-London/events/266557792/)
-##### Wed Dec 04 2019
-**Location:** London
-**Organizer:** TensorFlow London
-
-
-[Meetup #10: The gap between policies and innovation](https://www.meetup.com/West-London-Ethical-Technology-Meetup/events/266714794/)
-##### Tue Dec 03 2019
-**Location:** London
-**Organizer:** West London Ethical Technology Meetup
-
-
-[AI for Good Community Pre-holidays Meetup](https://www.meetup.com/meetup-group-pzvZdizC/events/266073268/)
-##### Tue Dec 03 2019
-**Location:** London
-**Organizer:** AI for Good
-
-
-[AI and creativity Meetup and free workshop](https://www.meetup.com/London-AI-and-Creativity-meetup/events/266359546/)
-##### Mon Dec 02 2019
-**Location:** London
-**Organizer:** London AI, Blockchain and Creativity meetup
-
-
 [Is automation essential in 5G?](https://www.meetup.com/CW-events/events/264717056/)
 ##### Thu Nov 28 2019
 **Location:** London
@@ -644,12 +656,6 @@ You can join 70 locally organized upcoming events
 ##### Thu Nov 28 2019
 **Location:** London
 **Organizer:** London Tech Revolution: Blockchain, Crypto & Tech
-
-
-[Weekly ML study session](https://www.meetup.com/MaM-Machine-Learning-Study-Group/events/266724539/)
-##### Wed Nov 27 2019
-**Location:** London
-**Organizer:** MaM Machine Learning Study Group
 
 
 </div>
@@ -683,7 +689,7 @@ Active local organizations and initiatives related to AI
 </div>
 
 # Startups
-Check the newest startups from 102 locally
+Check the newest startups from 104 locally
 
 <div class=logoCB>
 Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_crop.png" style="width:20%;"/></a>

@@ -79,6 +79,31 @@ class EventServices {
         return response;
     };
 
+    async addEvent(body){
+        const find = await Event.findOne({name:body.name});
+        if(!find)
+        {
+            let address = "No address provided!";
+            if(body.address !== "")
+                address = body.address;
+
+            const event = new Event({
+                name: body.name,
+                date: body.date,
+                location: body.location,
+                address: address,
+                organizer: body.organizer,
+                link: body.link,
+                description: body.description,
+                highlighted: body.highlighted,
+                tags: []
+            });
+            await event.save();
+            return console.log("Event added succesfully");
+        }
+        return console.log("Event already exists");
+    }
+
     /**
      * Returns events for the given location.
      * @param location of city, as city name.

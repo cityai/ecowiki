@@ -76,7 +76,7 @@ class GroupServices{
            await group.save();
            return console.log("Group added successfully");
         }
-        return console.log("Group already in the database");
+        return console.log("Group already exists");
     }
 
     /**

@@ -38,7 +38,21 @@ const POSTorg = async ()=>{
 }
 
 const POSTevent = async ()=>{
-    
+    let highlightedEvent = document.getElementById("Highlighted").checked;
+    const data = {
+      name:document.getElementById("Name").value,
+      date:document.getElementById("Date").value,
+      description: document.getElementById("Desc").value,
+      location: document.getElementById("Location").value,
+      address: document.getElementById("Address").value,
+      organizer: document.getElementById("Organizer").value,
+      category: document.getElementById("Category").value,
+      link: document.getElementById("Link").value,
+      highlighted: highlightedEvent
+    }
+    console.log(data);
+    const res = await postData('http://localhost:3000/api/events/',data).catch(e=>console.log(e));
+    return res;
 }
 
 const POSTinfluencer = async ()=>{

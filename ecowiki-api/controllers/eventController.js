@@ -15,6 +15,24 @@ class EventController{
         }
     }
 
+    async getEvents(req,res){
+        try {
+            const result = await eventServices.getEvents(req.params.location);
+            res.send(result);
+        } catch (error) {
+            processError(error,res);
+        }
+    }
+
+    async addEvent(req,res){
+        try {
+            const result = await eventServices.addEvent(req.body);
+            res.send(result);
+        } catch (error) {
+            processError(error,res);
+        }
+    }
+
     async deleteEvent(req, res){
         try{
 

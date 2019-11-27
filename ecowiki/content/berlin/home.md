@@ -8,10 +8,10 @@
 
 <div class=status>
 
-At this AI Ecosystem you can check out <strong>55</strong> AI related events in which you can participate.
+At this AI Ecosystem you can check out <strong>49</strong> AI related events in which you can participate.
 Connect with local AI community, represented by <strong>12</strong> influencers and <strong>3</strong> groups with <strong>166657</strong> community members.
 Explore the work  of <strong>102</strong> startups focused on generating business solutions using latest AI technologies.
-Also there are <strong>0</strong> AI related local organizations!
+Also there are <strong>2</strong> AI related local organizations!
 
 
 </div>
@@ -146,37 +146,22 @@ Check out the voices of the local AI community
 
 [See all influencers](./community)
 # Events
-You can join 55 locally organized upcoming events
+You can join 49 locally organized upcoming events
 <div class=events>
 
 <div class=column id=0>
 
-[B2B Berlin November 2019](https://www.meetup.com/b2b-berlin/events/265063707/)
-##### Thu Nov 28 2019
+[Smart City Meetup - IoT in the City](https://www.meetup.com/Innovators-Berlin-Corporates-Startups/events/266312540/)
+##### Tue Dec 03 2019
 **Location:** Berlin
-**Organizer:** B2B Berlin
+**Organizer:** Innovators Berlin | Corporates & Startups
 
 
-[Around the World in 80 Ways: Deploying a Microservice on Kubernetes / OpenShift](https://www.meetup.com/IBM-Developer-Berlin/events/265307720/)
-##### Wed Nov 27 2019
+[AI for Real-time Visual Analysis ](https://www.meetup.com/berlin-machine-learning/events/256401043/)
+##### Mon Dec 02 2019
 **Location:** Berlin
-**Organizer:** IBM Developer Berlin
+**Organizer:** Berlin Machine Learning Group
 
-
-[Around the World in 80 Ways: Deploying a Microservice on OpenShift](https://www.meetup.com/IBM-Developer-Berlin/events/265307720/)
-##### Wed Nov 27 2019
-**Location:** Berlin
-**Organizer:** IBM Developer Berlin
-
-
-[First Binary Talks: The Privacy Trade-off in Healthtech](https://www.meetup.com/meetupai-Berlin/events/266517900/)
-##### Wed Nov 27 2019
-**Location:** Berlin
-**Organizer:** meetup.ai [Berlin]
-
-
-</div>
-<div class=column id=1>
 
 [German Language Enthusiasts Meetup at Mano Cafe](https://www.meetup.com/Deutsch-Enthusiasten-in-Berlin/events/266531349/)
 ##### Thu Nov 28 2019
@@ -190,20 +175,20 @@ You can join 55 locally organized upcoming events
 **Organizer:** Startup-Sprechstunde // Pfizer Healthcare Hub Berlin
 
 
-[Meetup 6 : Pragmatic approaches to high quality Geodata analysis & visualisation](https://www.meetup.com/BerlinR-R-users-group/events/266157696/)
-##### Wed Nov 27 2019
-**Location:** Berlin
-**Organizer:** BerlinR - an R group focused on modern data science
-
-
-[FIX: Meetup for Watson Studio Users (focussing Visual Recognition)](https://www.meetup.com/IBM-AI-Watson-Studio-User-Berlin/events/264616542/)
-##### Wed Nov 27 2019
-**Location:** Berlin
-**Organizer:** IBM AI / Watson Studio User Berlin
-
-
 </div>
-<div class=column id=2>
+<div class=column id=1>
+
+[Berlin Meets USA - American Teamwork.](https://www.meetup.com/Berlin-Digital-Business-Network-SIBB/events/266381915/)
+##### Tue Dec 03 2019
+**Location:** Berlin
+**Organizer:** 💥 Berlin Digital Business Network @SIBB 💥
+
+
+[Power Point Karaoke - Freies Sprechen bei fremden Inhalten (aktiv oder passiv) ](https://www.meetup.com/Big-Data-Developers-in-Berlin/events/266080497/)
+##### Tue Dec 03 2019
+**Location:** Berlin
+**Organizer:** Big Data Developers in Berlin
+
 
 [health:CODE](https://www.meetup.com/DevOps-CODE-Event-Series/events/265091244/)
 ##### Thu Nov 28 2019
@@ -217,16 +202,31 @@ You can join 55 locally organized upcoming events
 **Organizer:** Big Data Developers in Berlin
 
 
-[Cross over with BIH Digital Health Forum and meetup.ai](https://www.meetup.com/Machine-Learning-in-Healthcare/events/266613482/)
-##### Wed Nov 27 2019
+</div>
+<div class=column id=2>
+
+[Forum HR: Building International Collaborative Teams.](https://www.meetup.com/Berlin-Digital-Business-Network-SIBB/events/266381915/)
+##### Tue Dec 03 2019
 **Location:** Berlin
-**Organizer:** Machine Learning in Healthcare
+**Organizer:** 💥 Berlin Digital Business Network @SIBB 💥
 
 
-[Meetup 6 : Pragmatic approaches to high quality Geodata analysis + visualisation](https://www.meetup.com/BerlinR-R-users-group/events/266157696/)
-##### Wed Nov 27 2019
+[Attention and Augmented Recurrent Neural Networks – Olah](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/ltzxsqyzqbfb/)
+##### Tue Dec 03 2019
 **Location:** Berlin
-**Organizer:** BerlinR - an R group focused on modern data science
+**Organizer:** Advanced Machine Learning Study Group
+
+
+[Computer Vision Workshop](https://www.meetup.com/Berlin-Computer-Vision-Group/events/266592347/)
+##### Fri Nov 29 2019
+**Location:** Berlin
+**Organizer:** Berlin Computer Vision Group
+
+
+[B2B Berlin November 2019](https://www.meetup.com/b2b-berlin/events/265063707/)
+##### Thu Nov 28 2019
+**Location:** Berlin
+**Organizer:** B2B Berlin
 
 
 </div>
@@ -275,117 +275,6 @@ You can join 55 locally organized upcoming events
 ##### Wed Dec 11 2019
 **Location:** Berlin
 **Organizer:** Internet of Voice - Digitale Sprachassistenten
-
-
-[Reproducibility in theory and in praxis](https://www.meetup.com/Berlin-Women-in-Machine-Learning-and-Data-Science/events/266668166/)
-##### Tue Dec 10 2019
-**Location:** Berlin
-**Organizer:** Berlin Women in Machine Learning & Data Science
-
-
-[Google AI workshop #2: machine learning, Tensorflow and NLP](https://www.meetup.com/Berlin-AI-Tech-Talk/events/266670517/)
-##### Mon Dec 09 2019
-**Location:** Berlin
-**Organizer:** Berlin AI Developers Group
-
-
-[Machine Learning Conference 2019 | Berlin](https://www.meetup.com/ML-Conference/events/262807014/)
-##### Mon Dec 09 2019
-**Location:** Berlin
-**Organizer:** ML Conference
-
-
-[🍻Chat with Traders  🍻](https://www.meetup.com/Crypto_Traders_Berlin/events/266739368/)
-##### Thu Dec 05 2019
-**Location:** Berlin
-**Organizer:** Crypto Traders Berlin
-
-
-[Adversarial examples are not bugs & Mastering Atari, Go and Shogi](https://www.meetup.com/Merantix-AI-Paper-Discussion-Group/events/266105030/)
-##### Wed Dec 04 2019
-**Location:** Berlin
-**Organizer:** Merantix AI Paper Discussion Group
-
-
-[Berlin AX User Meetup](https://www.meetup.com/AX-Semantics-User-Meetup/events/266490655/)
-##### Wed Dec 04 2019
-**Location:** Berlin
-**Organizer:** User Meetup für Textautomatisierung Berlin – AX Semantics
-
-
-[Forum HR: Building International Collaborative Teams.](https://www.meetup.com/Berlin-Digital-Business-Network-SIBB/events/266381915/)
-##### Tue Dec 03 2019
-**Location:** Berlin
-**Organizer:** 💥 Berlin Digital Business Network @SIBB 💥
-
-
-[Attention and Augmented Recurrent Neural Networks – Olah](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/ltzxsqyzqbfb/)
-##### Tue Dec 03 2019
-**Location:** Berlin
-**Organizer:** Advanced Machine Learning Study Group
-
-
-[Computer Vision Workshop](https://www.meetup.com/Berlin-Computer-Vision-Group/events/266592347/)
-##### Fri Nov 29 2019
-**Location:** Berlin
-**Organizer:** Berlin Computer Vision Group
-
-
-[B2B Berlin November 2019](https://www.meetup.com/b2b-berlin/events/265063707/)
-##### Thu Nov 28 2019
-**Location:** Berlin
-**Organizer:** B2B Berlin
-
-
-[Around the World in 80 Ways: Deploying a Microservice on Kubernetes / OpenShift](https://www.meetup.com/IBM-Developer-Berlin/events/265307720/)
-##### Wed Nov 27 2019
-**Location:** Berlin
-**Organizer:** IBM Developer Berlin
-
-
-[Around the World in 80 Ways: Deploying a Microservice on OpenShift](https://www.meetup.com/IBM-Developer-Berlin/events/265307720/)
-##### Wed Nov 27 2019
-**Location:** Berlin
-**Organizer:** IBM Developer Berlin
-
-
-[First Binary Talks: The Privacy Trade-off in Healthtech](https://www.meetup.com/meetupai-Berlin/events/266517900/)
-##### Wed Nov 27 2019
-**Location:** Berlin
-**Organizer:** meetup.ai [Berlin]
-
-
-</div>
-<div class=column id=1>
-
-[AI for Business Meetup Berlin No. 3](https://www.meetup.com/meetup-group-ilfJOcru/events/266611983/)
-##### Tue Jan 28 2020
-**Location:** Berlin
-**Organizer:** AI for Marketing - Use cases and Networking Berlin
-
-
-[MX paper reading group](https://www.meetup.com/Merantix-AI-Paper-Discussion-Group/events/266105053/)
-##### Wed Jan 08 2020
-**Location:** Berlin
-**Organizer:** Merantix AI Paper Discussion Group
-
-
-[KI Community & Networking (für User und Fachleute von KI / AI)](https://www.meetup.com/kicommunity/events/266429343/)
-##### Tue Dec 17 2019
-**Location:** Berlin
-**Organizer:** KI Community & Networking
-
-
-[RPA Robotic Process Automation Developers Berlin @ itacs](https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/265529454/)
-##### Mon Dec 16 2019
-**Location:** Berlin
-**Organizer:** RPA Robotic Process Automation Developers Berlin
-
-
-[AI & Blockchain Meetup: Practical Examples of Handling Data with Blockchain & AI](https://www.meetup.com/AI-Blockchain-Meetup-Practical-Examples/events/266316632/)
-##### Thu Dec 12 2019
-**Location:** Berlin
-**Organizer:** AI & Blockchain Meetup: Practical Examples
 
 
 [hubraum Open House & Christmas Market](https://www.meetup.com/Berlin-Tech-Meetup-Group/events/266731832/)
@@ -454,55 +343,43 @@ You can join 55 locally organized upcoming events
 **Organizer:** Startup-Sprechstunde // Pfizer Healthcare Hub Berlin
 
 
-[Meetup 6 : Pragmatic approaches to high quality Geodata analysis & visualisation](https://www.meetup.com/BerlinR-R-users-group/events/266157696/)
-##### Wed Nov 27 2019
-**Location:** Berlin
-**Organizer:** BerlinR - an R group focused on modern data science
-
-
-[FIX: Meetup for Watson Studio Users (focussing Visual Recognition)](https://www.meetup.com/IBM-AI-Watson-Studio-User-Berlin/events/264616542/)
-##### Wed Nov 27 2019
-**Location:** Berlin
-**Organizer:** IBM AI / Watson Studio User Berlin
-
-
 </div>
-<div class=column id=2>
+<div class=column id=1>
 
-[Employee to founder: Start up!](https://www.meetup.com/Mobility-Innovators-Club/events/266658412/)
-##### Thu Jan 30 2020
+[AI for Business Meetup Berlin No. 3](https://www.meetup.com/meetup-group-ilfJOcru/events/266611983/)
+##### Tue Jan 28 2020
 **Location:** Berlin
-**Organizer:** Mobility Innovators' Club
+**Organizer:** AI for Marketing - Use cases and Networking Berlin
 
 
-[RPA Robotic Process Automation Developers Berlin @ Oracle](https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/266551380/)
-##### Mon Jan 13 2020
+[MX paper reading group](https://www.meetup.com/Merantix-AI-Paper-Discussion-Group/events/266105053/)
+##### Wed Jan 08 2020
 **Location:** Berlin
-**Organizer:** RPA Robotic Process Automation Developers Berlin
+**Organizer:** Merantix AI Paper Discussion Group
 
 
-[ML Group Berlin - topics TBD](https://www.meetup.com/berlin-machine-learning/events/266381438/)
-##### Mon Jan 06 2020
-**Location:** Berlin
-**Organizer:** Berlin Machine Learning Group
-
-
-[KI Community & Networking](https://www.meetup.com/kicommunity/events/266429343/)
+[KI Community & Networking (für User und Fachleute von KI / AI)](https://www.meetup.com/kicommunity/events/266429343/)
 ##### Tue Dec 17 2019
 **Location:** Berlin
 **Organizer:** KI Community & Networking
 
 
-[December Meetup @ Scaling Spaces](https://www.meetup.com/Crypto_Traders_Berlin/events/266232193/)
+[RPA Robotic Process Automation Developers Berlin @ itacs](https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/265529454/)
+##### Mon Dec 16 2019
+**Location:** Berlin
+**Organizer:** RPA Robotic Process Automation Developers Berlin
+
+
+[AI & Blockchain Meetup: Practical Examples of Handling Data with Blockchain & AI](https://www.meetup.com/AI-Blockchain-Meetup-Practical-Examples/events/266316632/)
 ##### Thu Dec 12 2019
 **Location:** Berlin
-**Organizer:** Crypto Traders Berlin
+**Organizer:** AI & Blockchain Meetup: Practical Examples
 
 
-[Google AI Tech Talk:  Building real time cross platform video audio ML pipelines](https://www.meetup.com/Berlin-AI-Tech-Talk/events/266328794/)
-##### Wed Dec 11 2019
+[Deep Reinforcement Learning – 15: Connection between Inference and Control](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/ltzxsqyzqbnb/)
+##### Tue Dec 10 2019
 **Location:** Berlin
-**Organizer:** Berlin AI Developers Group
+**Organizer:** Advanced Machine Learning Study Group
 
 
 [AI for Autonomous Mobility ](https://www.meetup.com/autonomous-mobility-berlin/events/ldwljryzqbnb/)
@@ -565,16 +442,103 @@ You can join 55 locally organized upcoming events
 **Organizer:** Big Data Developers in Berlin
 
 
-[Cross over with BIH Digital Health Forum and meetup.ai](https://www.meetup.com/Machine-Learning-in-Healthcare/events/266613482/)
-##### Wed Nov 27 2019
+</div>
+<div class=column id=2>
+
+[Employee to founder: Start up!](https://www.meetup.com/Mobility-Innovators-Club/events/266658412/)
+##### Thu Jan 30 2020
 **Location:** Berlin
-**Organizer:** Machine Learning in Healthcare
+**Organizer:** Mobility Innovators' Club
 
 
-[Meetup 6 : Pragmatic approaches to high quality Geodata analysis + visualisation](https://www.meetup.com/BerlinR-R-users-group/events/266157696/)
-##### Wed Nov 27 2019
+[RPA Robotic Process Automation Developers Berlin @ Oracle](https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/266551380/)
+##### Mon Jan 13 2020
 **Location:** Berlin
-**Organizer:** BerlinR - an R group focused on modern data science
+**Organizer:** RPA Robotic Process Automation Developers Berlin
+
+
+[ML Group Berlin - topics TBD](https://www.meetup.com/berlin-machine-learning/events/266381438/)
+##### Mon Jan 06 2020
+**Location:** Berlin
+**Organizer:** Berlin Machine Learning Group
+
+
+[KI Community & Networking](https://www.meetup.com/kicommunity/events/266429343/)
+##### Tue Dec 17 2019
+**Location:** Berlin
+**Organizer:** KI Community & Networking
+
+
+[December Meetup @ Scaling Spaces](https://www.meetup.com/Crypto_Traders_Berlin/events/266232193/)
+##### Thu Dec 12 2019
+**Location:** Berlin
+**Organizer:** Crypto Traders Berlin
+
+
+[Google AI Tech Talk:  Building real time cross platform video audio ML pipelines](https://www.meetup.com/Berlin-AI-Tech-Talk/events/266328794/)
+##### Wed Dec 11 2019
+**Location:** Berlin
+**Organizer:** Berlin AI Developers Group
+
+
+[Reproducibility in theory and in praxis](https://www.meetup.com/Berlin-Women-in-Machine-Learning-and-Data-Science/events/266668166/)
+##### Tue Dec 10 2019
+**Location:** Berlin
+**Organizer:** Berlin Women in Machine Learning & Data Science
+
+
+[Google AI workshop #2: machine learning, Tensorflow and NLP](https://www.meetup.com/Berlin-AI-Tech-Talk/events/266670517/)
+##### Mon Dec 09 2019
+**Location:** Berlin
+**Organizer:** Berlin AI Developers Group
+
+
+[Machine Learning Conference 2019 | Berlin](https://www.meetup.com/ML-Conference/events/262807014/)
+##### Mon Dec 09 2019
+**Location:** Berlin
+**Organizer:** ML Conference
+
+
+[🍻Chat with Traders  🍻](https://www.meetup.com/Crypto_Traders_Berlin/events/266739368/)
+##### Thu Dec 05 2019
+**Location:** Berlin
+**Organizer:** Crypto Traders Berlin
+
+
+[Adversarial examples are not bugs & Mastering Atari, Go and Shogi](https://www.meetup.com/Merantix-AI-Paper-Discussion-Group/events/266105030/)
+##### Wed Dec 04 2019
+**Location:** Berlin
+**Organizer:** Merantix AI Paper Discussion Group
+
+
+[Berlin AX User Meetup](https://www.meetup.com/AX-Semantics-User-Meetup/events/266490655/)
+##### Wed Dec 04 2019
+**Location:** Berlin
+**Organizer:** User Meetup für Textautomatisierung Berlin – AX Semantics
+
+
+[Forum HR: Building International Collaborative Teams.](https://www.meetup.com/Berlin-Digital-Business-Network-SIBB/events/266381915/)
+##### Tue Dec 03 2019
+**Location:** Berlin
+**Organizer:** 💥 Berlin Digital Business Network @SIBB 💥
+
+
+[Attention and Augmented Recurrent Neural Networks – Olah](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/ltzxsqyzqbfb/)
+##### Tue Dec 03 2019
+**Location:** Berlin
+**Organizer:** Advanced Machine Learning Study Group
+
+
+[Computer Vision Workshop](https://www.meetup.com/Berlin-Computer-Vision-Group/events/266592347/)
+##### Fri Nov 29 2019
+**Location:** Berlin
+**Organizer:** Berlin Computer Vision Group
+
+
+[B2B Berlin November 2019](https://www.meetup.com/b2b-berlin/events/265063707/)
+##### Thu Nov 28 2019
+**Location:** Berlin
+**Organizer:** B2B Berlin
 
 
 </div>
@@ -598,8 +562,20 @@ Active local organizations and initiatives related to AI
 
 <div class=column id=0>
 
+#### Test2Org
+**Categories:** ML
+**Founder:** John doe
+**Link:** [asdasdas](asdasdas)
+
+
 </div>
 <div class=column id=1>
+
+#### Test3Org
+**Categories:** ML
+**Founder:** John doe
+**Link:** [asdasdas](asdasdas)
+
 
 </div>
 <div class=column id=2>
