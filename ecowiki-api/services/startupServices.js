@@ -120,6 +120,30 @@ class StartupServices {
         return 'done';
     };
 
+    async addStartup(body){
+        const find = await Startup.findOne({name:body.name});
+        if(!find){
+            let cat = body.categories.split(",").map(e=>e.trim());
+            const startup = new Startup({
+                name: body.name,
+                categories: cat,
+                value: body.value,
+                type: body.type,
+                picture:body.picture,
+                investment: body.investment,
+                description: body.description,
+                link: body.link,
+                highlighted: body.highlighted,
+                investors: body.investors,
+                location: body.location,
+                tags: []
+            });
+            await  startup.save();
+            return console.log("Startup added succesfully");
+        }
+        return console.log("Startup already exists");
+    }
+
     /**
      * Returns all Startups for given location.
      * @param location of city, as city name.

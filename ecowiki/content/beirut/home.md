@@ -9,8 +9,8 @@
 <div class=status>
 
 At this AI Ecosystem you can check out <strong>0</strong> AI related events in which you can participate.
-Connect with local AI community, represented by <strong>1</strong> influencers and <strong>0</strong> groups with <strong>0</strong> community members.
-Explore the work  of <strong>5</strong> startups focused on generating business solutions using latest AI technologies.
+Connect with local AI community, represented by <strong>2</strong> influencers and <strong>0</strong> groups with <strong>0</strong> community members.
+Explore the work  of <strong>6</strong> startups focused on generating business solutions using latest AI technologies.
 Also there are <strong>0</strong> AI related local organizations!
 
 
@@ -69,6 +69,11 @@ Check out the voices of the local AI community
 
 </div>
 <div class=column id=1>
+
+![link](link){: width=10%}
+[John Dioe](asdasd)
+**Followers:** 213
+
 
 </div>
 <div class=column id=2>
@@ -138,7 +143,7 @@ Active local organizations and initiatives related to AI
 </div>
 
 # Startups
-Check the newest startups from 5 locally
+Check the newest startups from 6 locally
 
 <div class=logoCB>
 Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_crop.png" style="width:20%;"/></a>
@@ -146,6 +151,23 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 <div class=startups>
 
 <div class=column id=0>
+
+![http://public.crunchbase.com/t_api_images/rahttpvoc0bnilkbnh7f](http://public.crunchbase.com/t_api_images/rahttpvoc0bnilkbnh7f){: width=10%}
+[Lexyom](https://www.crunchbase.com/organization/lexium)
+**Categories:** Legal Tech, Legal, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** Beirut
+
+
+![link](link){: width=10%}
+[test 5](liiink)
+**Categories:** ML,  AI
+**Investment in USD:** 452,424
+**Location:** Beirut
+
+
+</div>
+<div class=column id=1>
 
 ![http://public.crunchbase.com/t_api_images/ojcvhjxfkmvtowujk8dt](http://public.crunchbase.com/t_api_images/ojcvhjxfkmvtowujk8dt){: width=10%}
 [Personafier SAL](https://www.crunchbase.com/organization/personafier-sal)
@@ -162,7 +184,7 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 
 
 </div>
-<div class=column id=1>
+<div class=column id=2>
 
 ![/images/startupEmpty.svg.png](/images/startupEmpty.svg.png){: width=10%}
 [MAJ Solution](https://www.crunchbase.com/organization/maj-solution)
@@ -175,16 +197,6 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 [Fallound](https://www.crunchbase.com/organization/fallound)
 **Categories:** Software, Artificial Intelligence, Mobile
 **Investment in USD:** 125,000
-**Location:** Beirut
-
-
-</div>
-<div class=column id=2>
-
-![http://public.crunchbase.com/t_api_images/rahttpvoc0bnilkbnh7f](http://public.crunchbase.com/t_api_images/rahttpvoc0bnilkbnh7f){: width=10%}
-[Lexyom](https://www.crunchbase.com/organization/lexium)
-**Categories:** Legal Tech, Legal, Artificial Intelligence
-**Investment in USD:** 0
 **Location:** Beirut
 
 

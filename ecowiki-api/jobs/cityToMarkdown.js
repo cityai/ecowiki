@@ -37,32 +37,8 @@ class MarkdownTransform {
                 const filePath = path.join(process.cwd(), "content", location.toLowerCase().replace(/ /g, "-"), "home.md");
                 const dirPath = path.join(process.cwd(), "content", location.toLowerCase().replace(/ /g, "-"));
                 const templatePath = "./data/cityTemplate.md";
-                const CommunityTemplate = "./data/communitiesTemplate.md";
-                const eventsTemplate = "./data/global-eventsTemplate.md"
-
-                await fs.readFile(CommunityTemplate, async (err, data) => {
-                    if (err) return console.log(err);
-                    data = data.toString().split("\n");
-                    if (community) {
-                        data = this.addMultipleLines(data, community, "groups", community.groups.length, "<div class=groups>", ["name", "members", "category", "organizer"]);
-                        data = this.addMultipleLines(data, community, "influencers", community.influencers.length, "<div class=influencers>", ["name", "followers"]);
-                    }
-                    await fs.writeFile(dirPath + "/community.md", "", async err => {
-                        if (err) return console.log(err);
-                        for (let i = 0; i < data.length; i++)
-                            fs.appendFileSync(dirPath + "/community.md", data[i] + "\n");
-                        console.log("Groups and influencers are converted into markdown!")
-
-                    })
-                })
 
                 
-                await fs.readFile(filePath, async (err, data) => {
-                    if (err) return console.log(err);
-                    data = data.toString().split("\n");
-                    city = await this.analyzePage(data, city);
-                    await this.analyzeOrgs(data, city);
-                })
                 await fs.readFile(templatePath, async (error, data) => {
                     if (error) return console.log(error);
 
@@ -241,27 +217,6 @@ class MarkdownTransform {
         return data;
     }
 
-    async analyzePage(data, city) {
-        let overview = "";
-        let index = data.indexOf("<div class=overview>") + 1;
-	console.log("index ",index);
-        if (index > 1) {
-            //for (;data[index].includes("</div>");){
-             while(!data[index].includes("</div")){
-		  overview += data[index] + " ";
-		console.log("on index ",data[index]);
-		index  = index + 1;
-		}
-	    console.log("overbview ",overview);
-            if (city.overview !== overview) {
-                city.overview = overview.trim();
-                await City.updateOne({ name: city.name }, { $set: { overview: city.overview } }, { new: true });
-            }
-        }
-
-        return city;
-    }
-
     addMetrics(data, city, community) {
         let indexState = data.indexOf("<div class=status>") + 1;
         if (indexState > 1 && city && community) {
@@ -282,41 +237,6 @@ class MarkdownTransform {
             return Math.round(mem*40/100);
         }
         else return 0;
-    }
-
-    async analyzeOrgs(data, city) {
-        let index = data.indexOf('<div class=organizations>');
-        if (index > 1) {
-            let startIndex = index;
-            while (data[index] !== '</div>')
-                index++;
-            let orgsData = data.slice(startIndex, index);
-            for (let i = 0; i < orgsData.length; i++) {
-                try {
-
-                    if (orgsData[i].includes('#### ')) {
-                        let orgName = orgsData[i].substring(5).trim();
-                        let org = await Organization.findOne({ name: orgName });
-                        if (!org) {
-                            const organization = new Organization({
-                                name: orgName,
-                                category: orgsData[i + 1].trim(),
-                                founder: orgsData[i + 2].substring(14).trim(),
-                                link: orgsData[i + 3].trim(),
-                                description: orgsData[i + 4].substring(16).trim(),
-                                location: city.name,
-                            });
-                            await organization.save();
-                            i = i + 4;
-                        }
-                    }
-                }
-                catch (err) {
-                    console.log(err);
-                }
-            }
-        }
-
     }
 }
 

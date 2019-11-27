@@ -69,7 +69,23 @@ const POSTinfluencer = async ()=>{
 }
 
 const POSTstartup = async ()=>{
-    
+    let highlightedStartup = document.getElementById("Highlighted").checked;
+    const data = {
+      name: document.getElementById("Name").value,
+      categories: document.getElementById("Category").value,
+      value: document.getElementById("Value").value,
+      type: document.getElementById("Type").value,
+      picture:document.getElementById("Picture").value,
+      investment: document.getElementById("Investment").value,
+      description: document.getElementById("Desc").value,
+      link: document.getElementById("Link").value,
+      highlighted: highlightedStartup,
+      investors: document.getElementById("Investors").value,
+      location: document.getElementById("Location").value,
+    }
+    console.log(data);
+    const res = await postData('http://localhost:3000/api/startups/',data).catch(e=>console.log(e));
+    return res;
 }
 
 

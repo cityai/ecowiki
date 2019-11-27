@@ -12,6 +12,15 @@ class StartupController{
         }
     }
 
+    async addStartup(req,res){
+        try {
+            const result = await startupServices.addStartup(req.body);
+            res.send(result);
+        } catch (error) {
+            processError(error,res);
+        }
+    }
+
     async getStartups(req,res){
         try {
             const result = await startupServices.getStartups(req.params.location);
