@@ -154,6 +154,12 @@ class StartupServices {
         return startups;
     };
 
+    async getAllStartups() {
+        const startups = await Startup.find({});
+        if (!startups) throw new ExtError(404, 'There are no startups in the database!');
+        return startups;
+    };
+
     async deleteStartup(id) {
         const startup = await Startup.findByIdAndDelete({ _id: id });
         if(!startup) throw new ExtError(404,'There is no startup with given ID!');

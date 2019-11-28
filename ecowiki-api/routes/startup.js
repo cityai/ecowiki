@@ -8,6 +8,7 @@ const router = express.Router();
  * THIS IS THE ROUTE USED TO TEST CRON JOB FOR GETTING DATA FROM EXTERNAL APIs
  */
 //router.post("/:location",startupController.createStartups);
+router.get('/',startupController.getAllStartups);
 router.get('/:location',startupController.getStartups);
 router.post('/',startupController.addStartup);
 router.delete('/:id',startupController.deleteStartup);

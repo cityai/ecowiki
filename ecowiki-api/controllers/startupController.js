@@ -29,6 +29,14 @@ class StartupController{
             processError(error,res);
         }
     }
+    async getAllStartups(req,res){
+        try {
+            const result = await startupServices.getAllStartups();
+            res.send(result);
+        } catch (error) {
+            processError(error,res);
+        }
+    }
     
     async deleteStartup(req,res){
         try {
