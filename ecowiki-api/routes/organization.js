@@ -3,6 +3,7 @@ const express = require('express');
 
 const router = express.Router();
 
+router.get('/',organizationController.getAllOrganizations)
 router.get('/:location',organizationController.getOrganizations);
 router.post('/:location', organizationController.createOrganization);
 router.post('/',organizationController.addOrganization)

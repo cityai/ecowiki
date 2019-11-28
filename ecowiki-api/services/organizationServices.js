@@ -71,6 +71,12 @@ class OrganizationServices{
         return organizations;
     };
 
+    async getAllOrganizations(){
+        const organizations = await Organization.find({});
+        if(!organizations) throw new ExtError(404, 'There are no organizations in the database!');
+        return organizations;
+    };
+
     /**
      * Deletes an organization with the given id.
      * @param id of organization that we want to delete. 

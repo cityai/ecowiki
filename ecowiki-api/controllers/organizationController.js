@@ -49,6 +49,16 @@ class OrganizationController{
             processError(error,res);
         }
     }
+
+    async getAllOrganizations(req,res){
+        try{
+            const result = await organizationService.getAllOrganizations();
+            res.send(result);
+        }
+        catch(error){
+            processError(error,res);
+        }
+    }
 }
 
 module.exports = new OrganizationController()
