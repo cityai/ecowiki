@@ -1,6 +1,6 @@
 <!-- TITLE: Remove Event -->
 
-<button >SEE ALL EVENTS</button>
+<button class="All" id="Events" onclick="seeAll()">SEE ALL EVENTS</button>
 
 <p id="p"></p>
 

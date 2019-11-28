@@ -143,6 +143,19 @@ const DELETEevent = async ()=>{
 **
 */
 
+const seeAll = async()=>{
+  let ent = document.getElementsByClassName("All")[0].id;
+  let p = document.getElementById("p");
+  console.log('http://localhost:3000/api/' + ent +'/');
+  const response = await fetch('http://localhost:3000/api/' + ent +'/').then(json=>json.json()).catch(e=>console.log(e));
+  p.innerHTML = "id/name<br>"
+  console.log(response);
+  for(let i = 0;i<response.length;i++)
+  {
+    p.innerHTML+= response[i]._id + " &nbsp &nbsp &nbsp &nbsp" + response[i].name + "<br>" ;
+  }
+}
+
 const seeStartups = async()=>{}
 
 const seeGroups = async()=>{}
