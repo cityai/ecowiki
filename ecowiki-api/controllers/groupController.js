@@ -24,6 +24,16 @@ class GroupController{
         };
     };
 
+    async getAllGroups(req, res){
+        try{
+            const result = await groupServices.getAllGroups()
+            res.send(result)
+        }
+        catch(error) {
+            processError(error, res)
+        };
+    };
+
     async addGroup(req,res){
         try {
             const result = await groupServices.addGroup(req.body);

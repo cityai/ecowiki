@@ -89,6 +89,13 @@ class GroupServices{
         return groups;
     };
 
+    async getAllGroups(){
+        const groups = await Group.find({});
+        if(!groups) throw new ExtError(404,'There are no groups in the database');
+        return groups;
+    }
+
+
     /**
      * Deletes a group by the given ID.
      * @param id of group that we want to delete.

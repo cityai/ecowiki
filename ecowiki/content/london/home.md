@@ -8,7 +8,7 @@
 
 <div class=status>
 
-At this AI Ecosystem you can check out <strong>71</strong> AI related events in which you can participate.
+At this AI Ecosystem you can check out <strong>65</strong> AI related events in which you can participate.
 Connect with local AI community, represented by <strong>18</strong> influencers and <strong>0</strong> groups with <strong>0</strong> community members.
 Explore the work  of <strong>104</strong> startups focused on generating business solutions using latest AI technologies.
 Also there are <strong>0</strong> AI related local organizations!
@@ -131,10 +131,22 @@ Check out the voices of the local AI community
 
 [See all influencers](./community)
 # Events
-You can join 71 locally organized upcoming events
+You can join 65 locally organized upcoming events
 <div class=events>
 
 <div class=column id=0>
+
+[Meetup #10: The gap between policies and innovation](https://www.meetup.com/West-London-Ethical-Technology-Meetup/events/266714794/)
+##### Tue Dec 03 2019
+**Location:** London
+**Organizer:** West London Ethical Technology Meetup
+
+
+[AI for Good Community Pre-holidays Meetup](https://www.meetup.com/meetup-group-pzvZdizC/events/266073268/)
+##### Tue Dec 03 2019
+**Location:** London
+**Organizer:** AI for Good
+
 
 [AI and creativity Meetup and free workshop](https://www.meetup.com/London-AI-and-Creativity-meetup/events/266359546/)
 ##### Mon Dec 02 2019
@@ -148,20 +160,20 @@ You can join 71 locally organized upcoming events
 **Organizer:** Creating Disruptive Business Models
 
 
-[Applying RPA into your business and how to scale up](https://www.meetup.com/RPA-Visionaries-Italy/events/266579216/)
-##### Thu Nov 28 2019
-**Location:** London
-**Organizer:** RPA Visionaries - Italy
-
-
-[Impactful AI - 4th Meetup](https://www.meetup.com/Impactful-AI-London/events/266380435/)
-##### Thu Nov 28 2019
-**Location:** London
-**Organizer:** Impactful AI London
-
-
 </div>
 <div class=column id=1>
+
+[Google AI Workshop Series 2: Machine learning, Tensorflow and NLP](https://www.meetup.com/London-AI-Tech-Talk/events/266262125/)
+##### Tue Dec 03 2019
+**Location:** London
+**Organizer:** London AI Developers Group
+
+
+[Become An Organizer At Europe's Largest Digital Meetup](https://www.meetup.com/Digital/events/nwcnpqyzqbfb/)
+##### Tue Dec 03 2019
+**Location:** London
+**Organizer:** Outreach Digital | The Marketing, Analytics, UX & Tech Club
+
 
 [Build GCP infrastructure with Terraform](https://www.meetup.com/gdgcloud/events/261893044/)
 ##### Mon Dec 02 2019
@@ -175,20 +187,20 @@ You can join 71 locally organized upcoming events
 **Organizer:** Strange Loop Society
 
 
-[Challenging the Machine - ensuring that human voices are always heard](https://www.meetup.com/reputable-AI-Events/events/266632403/)
-##### Thu Nov 28 2019
-**Location:** London
-**Organizer:** reputable.AI Events
-
-
-[Ingest, protect and access your data](https://www.meetup.com/Canary-Wharf-Data-Engineering/events/266047014/)
-##### Thu Nov 28 2019
-**Location:** London
-**Organizer:** Canary Wharf Data Engineering
-
-
 </div>
 <div class=column id=2>
+
+[Data Visualization Principles for Artificial Intelligence in Business](https://www.meetup.com/London-Accelerate-AI-ODSC/events/266467990/)
+##### Wed Dec 04 2019
+**Location:** London
+**Organizer:** ODSC London Accelerate AI (X AI)
+
+
+[PyData London - 61st meetup](https://www.meetup.com/PyData-London-Meetup/events/266613828/)
+##### Tue Dec 03 2019
+**Location:** London
+**Organizer:** PyData London Meetup
+
 
 [AI Urban Analytics with Alan Turing Institute](https://www.meetup.com/Machine-Intelligence-Garage/events/266290861/)
 ##### Tue Dec 03 2019
@@ -200,18 +212,6 @@ You can join 71 locally organized upcoming events
 ##### Sun Dec 01 2019
 **Location:** London
 **Organizer:** London Futurists
-
-
-[Is automation essential in 5G?](https://www.meetup.com/CW-events/events/264717056/)
-##### Thu Nov 28 2019
-**Location:** London
-**Organizer:** CW Events
-
-
-[Women in London Talk Tech - The Future of Smart Cities](https://www.meetup.com/London-WI-Blockchain-Tech-Crypto/events/265268609/)
-##### Thu Nov 28 2019
-**Location:** London
-**Organizer:** London Tech Revolution: Blockchain, Crypto & Tech
 
 
 </div>
@@ -358,18 +358,6 @@ You can join 71 locally organized upcoming events
 **Organizer:** Creating Disruptive Business Models
 
 
-[Applying RPA into your business and how to scale up](https://www.meetup.com/RPA-Visionaries-Italy/events/266579216/)
-##### Thu Nov 28 2019
-**Location:** London
-**Organizer:** RPA Visionaries - Italy
-
-
-[Impactful AI - 4th Meetup](https://www.meetup.com/Impactful-AI-London/events/266380435/)
-##### Thu Nov 28 2019
-**Location:** London
-**Organizer:** Impactful AI London
-
-
 </div>
 <div class=column id=1>
 
@@ -505,18 +493,6 @@ You can join 71 locally organized upcoming events
 **Organizer:** Strange Loop Society
 
 
-[Challenging the Machine - ensuring that human voices are always heard](https://www.meetup.com/reputable-AI-Events/events/266632403/)
-##### Thu Nov 28 2019
-**Location:** London
-**Organizer:** reputable.AI Events
-
-
-[Ingest, protect and access your data](https://www.meetup.com/Canary-Wharf-Data-Engineering/events/266047014/)
-##### Thu Nov 28 2019
-**Location:** London
-**Organizer:** Canary Wharf Data Engineering
-
-
 </div>
 <div class=column id=2>
 
@@ -644,18 +620,6 @@ You can join 71 locally organized upcoming events
 ##### Sun Dec 01 2019
 **Location:** London
 **Organizer:** London Futurists
-
-
-[Is automation essential in 5G?](https://www.meetup.com/CW-events/events/264717056/)
-##### Thu Nov 28 2019
-**Location:** London
-**Organizer:** CW Events
-
-
-[Women in London Talk Tech - The Future of Smart Cities](https://www.meetup.com/London-WI-Blockchain-Tech-Crypto/events/265268609/)
-##### Thu Nov 28 2019
-**Location:** London
-**Organizer:** London Tech Revolution: Blockchain, Crypto & Tech
 
 
 </div>
