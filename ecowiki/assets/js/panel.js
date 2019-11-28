@@ -5,6 +5,14 @@ const userAction = async () => {
     
   }
 
+/*
+**
+    POST route handlers for adding Startups, Influencers,
+    Groups, Organizations and Events directly to database
+    via admin panel!
+**
+*/
+
 const POSTgroup = async ()=>{
     const data = {
         name: document.getElementById("Name").value,
@@ -89,6 +97,69 @@ const POSTstartup = async ()=>{
 }
 
 
+/*
+**
+    DELETE route handlers for removing Startups, Influencers,
+    Groups, Organizations and Events directly to database
+    via admin panel!
+**
+*/
+
+const DELETEstartup = async ()=>{
+  let id = document.getElementById("ID").value;
+  const res = await deleteData("http://localhost:3000/api/startups/",id).catch(e=>console.log(e));
+  return res;
+}
+
+const DELETEgroup = async ()=>{
+  let id = document.getElementById("ID").value;
+  const res = await deleteData("http://localhost:3000/api/groups/",id).catch(e=>console.log(e));
+  return res;
+}
+
+const DELETEorg = async ()=>{
+  let id = document.getElementById("ID").value;
+  const res = await deleteData("http://localhost:3000/api/organizations/",id).catch(e=>console.log(e));
+  return res;
+}
+
+const DELETEinfluencer = async ()=>{
+  let id = document.getElementById("ID").value;
+  const res = await deleteData("http://localhost:3000/api/influencers/",id).catch(e=>console.log(e));
+  return res;
+}
+
+const DELETEevent = async ()=>{
+  let id = document.getElementById("ID").value;
+  const res = await deleteData("http://localhost:3000/api/events/",id).catch(e=>console.log(e));
+  return res;
+}
+
+/*
+**
+    Logic for buttons which are used to 
+    see all Events, Startups, Influencers
+    Organizations or Groups
+**
+*/
+
+const seeStartups = async()=>{}
+
+const seeGroups = async()=>{}
+
+const seeInfluencers = async()=>{}
+
+const seeOrgs = async()=>{}
+
+const seeEvents =async()=>{}
+
+
+/*
+**
+    HTTP requests handlers
+**
+*/
+
 async function postData(url = '', data = {}) {
     // Default options are marked with *
     const response = await fetch(url, {
@@ -102,6 +173,22 @@ async function postData(url = '', data = {}) {
         'Content-Type': 'application/json',
       },
       body: JSON.stringify(data) // body data type must match "Content-Type" header
+    });
+    return await response.json(); // parses JSON response into native JavaScript objects
+  }
+
+  async function deleteData(url = '', id="") {
+    // Default options are marked with *
+    const response = await fetch(url + id, {
+      method: 'DELETE', // *GET, POST, PUT, DELETE, etc.
+      mode: 'cors',
+      credentials: 'same-origin',
+      redirect: 'follow', // manual, *follow, error
+      referrer: 'no-referrer',
+      headers: {
+        // 'Access-Control-Allow-Headers': 'content-type'
+        'Content-Type': 'application/json',
+      },
     });
     return await response.json(); // parses JSON response into native JavaScript objects
   }

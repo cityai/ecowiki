@@ -23,6 +23,15 @@ class EventController{
             processError(error,res);
         }
     }
+    
+    async getAllEvents(req,res){
+        try {
+            const result = await eventServices.getAllEvents();
+            res.send(result);
+        } catch (error) {
+            processError(error,res)
+        }
+    }
 
     async addEvent(req,res){
         try {

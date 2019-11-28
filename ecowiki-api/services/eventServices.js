@@ -114,6 +114,12 @@ class EventServices {
         return event;
     };
 
+    async getAllEvents(){
+        const events = await Event.find({});
+        if(!events) throw new ExtError(404,'There are no events in the database');
+        return events;
+    }
+
     /**
      * Deletes an event from database by the given id.
      * @param id of event that we want to delete.
