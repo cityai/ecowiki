@@ -32,6 +32,16 @@ class InfluencerController {
         }
     };
 
+    async getAllInfluencers(req,res){
+        try{
+            const result = await influencerService.getAllInfluencers();
+            res.send(result)
+        }
+        catch(error){
+            processError(error, res)
+        }
+    };
+
     async deleteInfluencer(req,res){
         try{
             const result = await influencerService.deleteInfluencer(req.params.id);

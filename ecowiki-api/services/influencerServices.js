@@ -72,9 +72,15 @@ class InfluencerServices{
      */
     async getInfluencers(location){
         const influencers = await Influencer.find({location:location});
-        if(!influencers) throw new extError(404,'There are no influencersr for this city');
+        if(!influencers) throw new extError(404,'There are no influencers for this city');
         return influencers;
     };
+
+    async getAllInfluencers(){
+        const influencers = await Influencer.find({});
+        if(!influencers) throw new extError(404,'There are no influencers in the database');
+        return influencers;
+    }
 
     /**
      * Deletes an influencer with the given id.
