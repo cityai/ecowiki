@@ -11,6 +11,7 @@ router.get('/',groupController.getAllGroups);
 router.get('/:location', groupController.getGroups);
 router.post('/:location/', groupController.createGroup);
 router.post('/',groupController.addGroup)
+router.patch('/:id',groupController.updateGroup);
 router.delete('/:id',groupController.deleteGroup);
 
 module.exports = router;

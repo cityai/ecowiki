@@ -11,6 +11,7 @@ const router = express.Router();
 router.get('/',startupController.getAllStartups);
 router.get('/:location',startupController.getStartups);
 router.post('/',startupController.addStartup);
+router.patch('/:id',startupController.updateStartup);
 router.delete('/:id',startupController.deleteStartup);
 
 module.exports = router;

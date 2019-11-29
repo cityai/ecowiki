@@ -124,7 +124,7 @@ class EventServices {
         const event = await Event.findOneAndUpdate({_id: id},{
             $set: data
         }, {new:true});
-        if(!event) throw new ExtError(404, 'The organization with the given ID was not found!');
+        if(!event) throw new ExtError(404, 'The event with the given ID was not found!');
         return event;
     };
 

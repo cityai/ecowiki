@@ -43,6 +43,15 @@ class GroupController{
         }
     }
 
+    async updateGroup(req,res){
+        try {
+            const result = await groupServices.updateGroup(req.body,req.params.id);
+            res.send(result);
+        } catch (error) {
+            processError(error,res);            
+        }
+    }
+
     async deleteGroup(req,res){
         try{
             const result = await groupServices.deleteGroup(req.params.id)

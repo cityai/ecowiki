@@ -10,6 +10,7 @@ router.get('/',influencerController.getAllInfluencers);
 router.get('/:location',influencerController.getInfluencers);
 router.post('/',influencerController.addInfluencer);
 router.post('/:location',influencerController.createInfluncer);
+router.patch('/:id',influencerController.updateInfluencer)
 router.delete('/:id',influencerController.deleteInfluencer);
 
 module.exports=router;

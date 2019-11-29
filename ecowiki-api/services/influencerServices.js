@@ -82,6 +82,14 @@ class InfluencerServices{
         return influencers;
     }
 
+    async updateInfluencer(data, id){
+        const influencer = await Influencer.findOneAndUpdate({_id: id},{
+            $set: data
+        }, {new:true});
+        if(!influencer) throw new ExtError(404, 'The influencer with the given ID was not found!');
+        return influencer;
+    };
+
     /**
      * Deletes an influencer with the given id.
      * @param id of influencer that we want to delete.  

@@ -144,6 +144,14 @@ class StartupServices {
         return console.log("Startup already exists");
     }
 
+    async updateStartup(data, id){
+        const startup = await Startup.findOneAndUpdate({_id: id},{
+            $set: data
+        }, {new:true});
+        if(!startup) throw new ExtError(404, 'The statup with the given ID was not found!');
+        return startup;
+    };
+
     /**
      * Returns all Startups for given location.
      * @param location of city, as city name.

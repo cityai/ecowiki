@@ -95,7 +95,14 @@ class GroupServices{
         return groups;
     }
 
-
+    async updateGroup(data, id){
+        const group = await Group.findOneAndUpdate({_id: id},{
+            $set: data
+        }, {new:true});
+        if(!group) throw new ExtError(404, 'The group with the given ID was not found!');
+        return group;
+    };
+    
     /**
      * Deletes a group by the given ID.
      * @param id of group that we want to delete.
