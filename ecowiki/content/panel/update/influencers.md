@@ -1,5 +1,12 @@
 <!-- TITLE: Update Influencer -->
 
+<button class="All" id="Influencers" onclick="seeAll()">SEE ALL INFLUENCERS</button>
+
+<p id="p"></p>
+
+<input type="text" id="ID" placeholder="Required"><br>
+Enter the Id of the instance you want to update!
+
 ## Name
 
 <input type="text" id="Name" placeholder="Required" ><br>
@@ -22,4 +29,4 @@
 <input type="text" id="Followers" placeholder="Not Required"><br>
 
 
-<button onclick="POSTinfluencer()" >SUMBIT</button>
+<button onclick="PATCHinfluencer()" >SUMBIT</button>

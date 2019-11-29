@@ -1,5 +1,12 @@
 <!-- TITLE: Update Startup -->
 
+<button class="All" id="Startups" onclick="seeAll()">SEE ALL STARTUPS</button>
+
+<p id="p"></p>
+
+<input type="text" id="ID" placeholder="Required"><br>
+Enter the Id of the instance you want to update!
+
 ## Name
 
 <input type="text" id="Name" placeholder="Required" ><br>
@@ -47,4 +54,4 @@ Is this event highlighted (Default is unchecked)  |
 <textarea id="Desc" placeholder="Not Required" rows="7" style="resize: none" ></textarea><br>
 
 
-<button onclick="POSTstartup()" >SUMBIT</button>
+<button onclick="PATCHstartup()" >SUMBIT</button>

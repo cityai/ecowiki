@@ -8,8 +8,8 @@
 
 <div class=status>
 
-At this AI Ecosystem you can check out <strong>49</strong> AI related events in which you can participate.
-Connect with local AI community, represented by <strong>12</strong> influencers and <strong>3</strong> groups with <strong>166657</strong> community members.
+At this AI Ecosystem you can check out <strong>50</strong> AI related events in which you can participate.
+Connect with local AI community, represented by <strong>13</strong> influencers and <strong>3</strong> groups with <strong>448</strong> community members.
 Explore the work  of <strong>102</strong> startups focused on generating business solutions using latest AI technologies.
 Also there are <strong>2</strong> AI related local organizations!
 
@@ -44,25 +44,25 @@ You can join 3 active community groups on the topic of Artificial Intelligence
 
 <div class=column id=0>
 
-[terr](bmn)
-**Members:** 415645
-**Organizer:** john
-
-
-</div>
-<div class=column id=1>
-
 [test](vbnmbnm)
 **Members:** 542
 **Organizer:** Tism
 
 
 </div>
-<div class=column id=2>
+<div class=column id=1>
 
 [asdasd](asdfasd)
 **Members:** 456
 **Organizer:** John Doe
+
+
+</div>
+<div class=column id=2>
+
+[testUPDATE](bmn)
+**Members:** 123
+**Organizer:** john
 
 
 </div>
@@ -146,7 +146,7 @@ Check out the voices of the local AI community
 
 [See all influencers](./community)
 # Events
-You can join 49 locally organized upcoming events
+You can join 50 locally organized upcoming events
 <div class=events>
 
 <div class=column id=0>
@@ -241,34 +241,34 @@ You can join 49 locally organized upcoming events
 
 <div class=column id=0>
 
-[A Tale of Data And Growth Failure](https://www.meetup.com/beyond-machine/events/266806499/)
-##### Thu Feb 20 2020
+[RPA Robotic Process Automation Developers Berlin @ BVG](https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/266616046/)
+##### Mon Feb 17 2020
 **Location:** Berlin
-**Organizer:** Deep Learning & Machine Learning & Data PM Bootcamps
+**Organizer:** RPA Robotic Process Automation Developers Berlin
 
 
-[She In Tech - Edition 3](https://www.meetup.com/datachaindc/events/266780265/)
-##### Tue Feb 11 2020
+[Employee to founder: Start up!](https://www.meetup.com/Mobility-Innovators-Club/events/266658412/)
+##### Thu Jan 30 2020
 **Location:** Berlin
-**Organizer:** DATACHAIN FOUNDATION
+**Organizer:** Mobility Innovators' Club
 
 
-[Study Session, vote for new/next content: http://tiny.cc/amlsg-vote](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/ltzxsqybccbcc/)
-##### Tue Jan 21 2020
+[Introduction to Analyzing Business Data with Python](https://www.meetup.com/Data-Science-Retreat/events/266805753/)
+##### Tue Jan 14 2020
 **Location:** Berlin
-**Organizer:** Advanced Machine Learning Study Group
+**Organizer:** Data Science Retreat
 
 
-[MX paper reading group](https://www.meetup.com/Merantix-AI-Paper-Discussion-Group/events/266105053/)
-##### Wed Jan 08 2020
+[(paid) online AI course: Deep Learning for developers](https://www.meetup.com/Berlin-AI-Tech-Talk/events/266485754/)
+##### Tue Jan 07 2020
 **Location:** Berlin
-**Organizer:** Merantix AI Paper Discussion Group
+**Organizer:** Berlin AI Developers Group
 
 
-[KI Community & Networking (für User und Fachleute von KI / AI)](https://www.meetup.com/kicommunity/events/266429343/)
+[Data Science Demo Day ](https://www.meetup.com/Data-Science-Retreat/events/266022546/)
 ##### Tue Dec 17 2019
 **Location:** Berlin
-**Organizer:** KI Community & Networking
+**Organizer:** Data Science Retreat
 
 
 [Not itacs](https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/265529454/)
@@ -346,34 +346,40 @@ You can join 49 locally organized upcoming events
 </div>
 <div class=column id=1>
 
-[Braincities Open Lab - Live & Public Podcast, Berlin](https://www.meetup.com/datachaindc/events/266776928/)
-##### Thu Feb 13 2020
+[A Tale of Data And Growth Failure](https://www.meetup.com/beyond-machine/events/266806499/)
+##### Thu Feb 20 2020
+**Location:** Berlin
+**Organizer:** Deep Learning & Machine Learning & Data PM Bootcamps
+
+
+[She In Tech - Edition 3](https://www.meetup.com/datachaindc/events/266780265/)
+##### Tue Feb 11 2020
 **Location:** Berlin
 **Organizer:** DATACHAIN FOUNDATION
 
 
-[AI for Business Meetup Berlin No. 3](https://www.meetup.com/meetup-group-ilfJOcru/events/266611983/)
-##### Tue Jan 28 2020
+[Study Session, vote for new/next content: http://tiny.cc/amlsg-vote](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/ltzxsqybccbcc/)
+##### Tue Jan 21 2020
 **Location:** Berlin
-**Organizer:** AI for Marketing - Use cases and Networking Berlin
+**Organizer:** Advanced Machine Learning Study Group
 
 
-[RPA Robotic Process Automation Developers Berlin @ Oracle](https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/266551380/)
-##### Mon Jan 13 2020
+[MX paper reading group](https://www.meetup.com/Merantix-AI-Paper-Discussion-Group/events/266105053/)
+##### Wed Jan 08 2020
 **Location:** Berlin
-**Organizer:** RPA Robotic Process Automation Developers Berlin
+**Organizer:** Merantix AI Paper Discussion Group
 
 
-[ML Group Berlin - topics TBD](https://www.meetup.com/berlin-machine-learning/events/266381438/)
-##### Mon Jan 06 2020
-**Location:** Berlin
-**Organizer:** Berlin Machine Learning Group
-
-
-[KI Community & Networking](https://www.meetup.com/kicommunity/events/266429343/)
+[KI Community & Networking (für User und Fachleute von KI / AI)](https://www.meetup.com/kicommunity/events/266429343/)
 ##### Tue Dec 17 2019
 **Location:** Berlin
 **Organizer:** KI Community & Networking
+
+
+[RPA Robotic Process Automation Developers Berlin @ itacs](https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/265529454/)
+##### Mon Dec 16 2019
+**Location:** Berlin
+**Organizer:** RPA Robotic Process Automation Developers Berlin
 
 
 [NeurlPS workshop - Machine learning for Autonomous Driving](https://www.meetup.com/autonomous-mobility-berlin/events/266206644/)
@@ -445,34 +451,34 @@ You can join 49 locally organized upcoming events
 </div>
 <div class=column id=2>
 
-[RPA Robotic Process Automation Developers Berlin @ BVG](https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/266616046/)
-##### Mon Feb 17 2020
+[Braincities Open Lab - Live & Public Podcast, Berlin](https://www.meetup.com/datachaindc/events/266776928/)
+##### Thu Feb 13 2020
+**Location:** Berlin
+**Organizer:** DATACHAIN FOUNDATION
+
+
+[AI for Business Meetup Berlin No. 3](https://www.meetup.com/meetup-group-ilfJOcru/events/266611983/)
+##### Tue Jan 28 2020
+**Location:** Berlin
+**Organizer:** AI for Marketing - Use cases and Networking Berlin
+
+
+[RPA Robotic Process Automation Developers Berlin @ Oracle](https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/266551380/)
+##### Mon Jan 13 2020
 **Location:** Berlin
 **Organizer:** RPA Robotic Process Automation Developers Berlin
 
 
-[Employee to founder: Start up!](https://www.meetup.com/Mobility-Innovators-Club/events/266658412/)
-##### Thu Jan 30 2020
+[ML Group Berlin - topics TBD](https://www.meetup.com/berlin-machine-learning/events/266381438/)
+##### Mon Jan 06 2020
 **Location:** Berlin
-**Organizer:** Mobility Innovators' Club
+**Organizer:** Berlin Machine Learning Group
 
 
-[Introduction to Analyzing Business Data with Python](https://www.meetup.com/Data-Science-Retreat/events/266805753/)
-##### Tue Jan 14 2020
-**Location:** Berlin
-**Organizer:** Data Science Retreat
-
-
-[(paid) online AI course: Deep Learning for developers](https://www.meetup.com/Berlin-AI-Tech-Talk/events/266485754/)
-##### Tue Jan 07 2020
-**Location:** Berlin
-**Organizer:** Berlin AI Developers Group
-
-
-[Data Science Demo Day ](https://www.meetup.com/Data-Science-Retreat/events/266022546/)
+[KI Community & Networking](https://www.meetup.com/kicommunity/events/266429343/)
 ##### Tue Dec 17 2019
 **Location:** Berlin
-**Organizer:** Data Science Retreat
+**Organizer:** KI Community & Networking
 
 
 [Global AI BootCamp](https://www.meetup.com/Berlin-Microsoft-Azure-Meetup/events/266789462/)
@@ -562,9 +568,9 @@ Active local organizations and initiatives related to AI
 
 <div class=column id=0>
 
-#### Test2Org
+#### TestUPDATEE
 **Categories:** ML
-**Founder:** John doe
+**Founder:** ISIDOR GEJ
 **Link:** [asdasdas](asdasdas)
 
 

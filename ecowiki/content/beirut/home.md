@@ -10,7 +10,7 @@
 
 At this AI Ecosystem you can check out <strong>0</strong> AI related events in which you can participate.
 Connect with local AI community, represented by <strong>2</strong> influencers and <strong>0</strong> groups with <strong>0</strong> community members.
-Explore the work  of <strong>6</strong> startups focused on generating business solutions using latest AI technologies.
+Explore the work  of <strong>7</strong> startups focused on generating business solutions using latest AI technologies.
 Also there are <strong>0</strong> AI related local organizations!
 
 
@@ -63,8 +63,8 @@ Check out the voices of the local AI community
 <div class=column id=0>
 
 ![http://pbs.twimg.com/profile_images/999401515352653824/RJODfftT_normal.jpg](http://pbs.twimg.com/profile_images/999401515352653824/RJODfftT_normal.jpg){: width=10%}
-[Christophe Zoghbi](https://twitter.com/kristoffzoghbi)
-**Followers:** 319
+[zohbi](https://twitter.com/kristoffzoghbi)
+**Followers:** 111
 
 
 </div>
@@ -143,7 +143,7 @@ Active local organizations and initiatives related to AI
 </div>
 
 # Startups
-Check the newest startups from 6 locally
+Check the newest startups from 7 locally
 
 <div class=logoCB>
 Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_crop.png" style="width:20%;"/></a>
@@ -152,9 +152,16 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 
 <div class=column id=0>
 
-![http://public.crunchbase.com/t_api_images/rahttpvoc0bnilkbnh7f](http://public.crunchbase.com/t_api_images/rahttpvoc0bnilkbnh7f){: width=10%}
-[Lexyom](https://www.crunchbase.com/organization/lexium)
-**Categories:** Legal Tech, Legal, Artificial Intelligence
+![/images/startupEmpty.svg.png](/images/startupEmpty.svg.png){: width=10%}
+[ISIDOR solution](https://www.crunchbase.com/organization/maj-solution)
+**Categories:** Analytics, Software, Big Data, Artificial Intelligence, Information Technology, Mobile
+**Investment in USD:** -5,666
+**Location:** Beirut
+
+
+![/images/startupEmpty.svg.png](/images/startupEmpty.svg.png){: width=10%}
+[MAJ Solution](https://www.crunchbase.com/organization/maj-solution)
+**Categories:** Analytics, Software, Big Data, Artificial Intelligence, Information Technology, Mobile
 **Investment in USD:** 0
 **Location:** Beirut
 
@@ -169,9 +176,9 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 </div>
 <div class=column id=1>
 
-![http://public.crunchbase.com/t_api_images/ojcvhjxfkmvtowujk8dt](http://public.crunchbase.com/t_api_images/ojcvhjxfkmvtowujk8dt){: width=10%}
-[Personafier SAL](https://www.crunchbase.com/organization/personafier-sal)
-**Categories:** Social Media Marketing, Content, Content Marketing, Social Media, Content Discovery, Advertising, Analytics, Artificial Intelligence, Events, News
+![http://public.crunchbase.com/t_api_images/rahttpvoc0bnilkbnh7f](http://public.crunchbase.com/t_api_images/rahttpvoc0bnilkbnh7f){: width=10%}
+[Lexyom](https://www.crunchbase.com/organization/lexium)
+**Categories:** Legal Tech, Legal, Artificial Intelligence
 **Investment in USD:** 0
 **Location:** Beirut
 
@@ -186,9 +193,9 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 </div>
 <div class=column id=2>
 
-![/images/startupEmpty.svg.png](/images/startupEmpty.svg.png){: width=10%}
-[MAJ Solution](https://www.crunchbase.com/organization/maj-solution)
-**Categories:** Analytics, Software, Big Data, Artificial Intelligence, Information Technology, Mobile
+![http://public.crunchbase.com/t_api_images/ojcvhjxfkmvtowujk8dt](http://public.crunchbase.com/t_api_images/ojcvhjxfkmvtowujk8dt){: width=10%}
+[Personafier SAL](https://www.crunchbase.com/organization/personafier-sal)
+**Categories:** Social Media Marketing, Content, Content Marketing, Social Media, Content Discovery, Advertising, Analytics, Artificial Intelligence, Events, News
 **Investment in USD:** 0
 **Location:** Beirut
 

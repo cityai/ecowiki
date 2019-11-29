@@ -1,5 +1,13 @@
 <!-- TITLE: Update Group -->
 
+<button class="All" id="Groups" onclick="seeAll()">SEE ALL GROUPS</button>
+
+<p id="p"></p>
+
+<input type="text" id="ID" placeholder="Required"><br>
+Enter the Id of the instance you want to update!
+
+
 ## Name
 
 <input type="text" id="Name" placeholder="Required" ><br>
@@ -29,7 +37,5 @@
 <input type="text" id="Category" placeholder="Required"><br>
 
 
-<button onclick="POSTgroup()" >SUMBIT</button>
+<button onclick="PATCHgroup()" >SUMBIT</button>
 
-
-<p id="p"></p>

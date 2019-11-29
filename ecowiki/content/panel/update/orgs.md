@@ -1,5 +1,12 @@
 <!-- TITLE: Update Organization -->
 
+<button class="All" id="Organizations" onclick="seeAll()">SEE ALL ORGANIZATION</button>
+
+<p id="p"></p>
+
+<input type="text" id="ID" placeholder="Required"><br>
+Enter the Id of the instance you want to update!
+
 ## Name
 
 <input type="text" id="Name" placeholder="Required" ><br>
@@ -34,4 +41,4 @@
 Is this organization profit or non-profit  |
 <input type="checkbox" id="Highlighted" placeholder="Required"><br>
 
-<button onclick="POSTorg()" >SUMBIT</button>
+<button onclick="PATCHorg()" >SUMBIT</button>
