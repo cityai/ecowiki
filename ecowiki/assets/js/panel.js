@@ -108,24 +108,28 @@ const POSTstartup = async ()=>{
 const DELETEstartup = async ()=>{
   let id = document.getElementById("ID").value;
   const res = await deleteData("http://localhost:3000/api/startups/",id).catch(e=>{console.log(e);alert("Something went wrong");});
+  alert("Success");
   return res;
 }
 
 const DELETEgroup = async ()=>{
   let id = document.getElementById("ID").value;
   const res = await deleteData("http://localhost:3000/api/groups/",id).catch(e=>{console.log(e);alert("Something went wrong");});
+  alert("Success");
   return res;
 }
 
 const DELETEorg = async ()=>{
   let id = document.getElementById("ID").value;
   const res = await deleteData("http://localhost:3000/api/organizations/",id).catch(e=>{console.log(e);alert("Something went wrong");});
+  alert("Success");
   return res;
 }
 
 const DELETEinfluencer = async ()=>{
   let id = document.getElementById("ID").value;
   const res = await deleteData("http://localhost:3000/api/influencers/",id).catch(e=>{console.log(e);alert("Something went wrong");});
+  alert("Success");
   return res;
 }
 
@@ -135,6 +139,24 @@ const DELETEevent = async ()=>{
   alert("Success");
   return res;
 }
+
+/*
+**
+    PATCH route handlers for removing Startups, Influencers,
+    Groups, Organizations and Events directly to database
+    via admin panel!
+**
+*/
+
+const PATCHstartup = async ()=>{}
+
+const PATCHgroup = async ()=>{}
+
+const PATCHorg = async ()=>{}
+
+const PATCHinfluencer = async ()=>{}
+
+const PATCHevent = async ()=>{}
 
 /*
 **
