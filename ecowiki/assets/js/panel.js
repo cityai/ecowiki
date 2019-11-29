@@ -23,7 +23,7 @@ const POSTgroup = async ()=>{
         organizer: document.getElementById("Organizer").value ,
         category: document.getElementById("Category").value ,
     }
-    const res = await postData('http://localhost:3000/api/groups/',data).catch(e=>console.log(e));
+    const res = await postData('http://localhost:3000/api/groups/',data).catch(e=>{console.log(e);alert("Something went wrong");});
     return res;
 }
 
@@ -41,7 +41,7 @@ const POSTorg = async ()=>{
 
     }
     console.log(data);
-    const res = await postData('http://localhost:3000/api/organizations/',data).catch(e=>console.log(e));
+    const res = await postData('http://localhost:3000/api/organizations/',data).catch(e=>{console.log(e);alert("Something went wrong");});
     return res;
 }
 
@@ -59,7 +59,7 @@ const POSTevent = async ()=>{
       highlighted: highlightedEvent
     }
     console.log(data);
-    const res = await postData('http://localhost:3000/api/events/',data).catch(e=>console.log(e));
+    const res = await postData('http://localhost:3000/api/events/',data).catch(e=>{console.log(e);alert("Something went wrong");});
     return res;
 }
 
@@ -72,7 +72,7 @@ const POSTinfluencer = async ()=>{
     followers: document.getElementById("Followers").value
   }
   console.log(data);
-  const res = await postData('http://localhost:3000/api/influencers/',data).catch(e=>console.log(e));
+  const res = await postData('http://localhost:3000/api/influencers/',data).catch(e=>{console.log(e);alert("Something went wrong");});
   return res;
 }
 
@@ -92,7 +92,7 @@ const POSTstartup = async ()=>{
       location: document.getElementById("Location").value,
     }
     console.log(data);
-    const res = await postData('http://localhost:3000/api/startups/',data).catch(e=>console.log(e));
+    const res = await postData('http://localhost:3000/api/startups/',data).catch(e=>{console.log(e);alert("Something went wrong");});
     return res;
 }
 
@@ -107,31 +107,32 @@ const POSTstartup = async ()=>{
 
 const DELETEstartup = async ()=>{
   let id = document.getElementById("ID").value;
-  const res = await deleteData("http://localhost:3000/api/startups/",id).catch(e=>console.log(e));
+  const res = await deleteData("http://localhost:3000/api/startups/",id).catch(e=>{console.log(e);alert("Something went wrong");});
   return res;
 }
 
 const DELETEgroup = async ()=>{
   let id = document.getElementById("ID").value;
-  const res = await deleteData("http://localhost:3000/api/groups/",id).catch(e=>console.log(e));
+  const res = await deleteData("http://localhost:3000/api/groups/",id).catch(e=>{console.log(e);alert("Something went wrong");});
   return res;
 }
 
 const DELETEorg = async ()=>{
   let id = document.getElementById("ID").value;
-  const res = await deleteData("http://localhost:3000/api/organizations/",id).catch(e=>console.log(e));
+  const res = await deleteData("http://localhost:3000/api/organizations/",id).catch(e=>{console.log(e);alert("Something went wrong");});
   return res;
 }
 
 const DELETEinfluencer = async ()=>{
   let id = document.getElementById("ID").value;
-  const res = await deleteData("http://localhost:3000/api/influencers/",id).catch(e=>console.log(e));
+  const res = await deleteData("http://localhost:3000/api/influencers/",id).catch(e=>{console.log(e);alert("Something went wrong");});
   return res;
 }
 
 const DELETEevent = async ()=>{
   let id = document.getElementById("ID").value;
-  const res = await deleteData("http://localhost:3000/api/events/",id).catch(e=>console.log(e));
+  const res = await deleteData("http://localhost:3000/api/events/",id).catch(e=>{console.log(e);alert("Something went wrong");});
+  alert("Success");
   return res;
 }
 
@@ -147,7 +148,7 @@ const seeAll = async()=>{
   let ent = document.getElementsByClassName("All")[0].id;
   let p = document.getElementById("p");
   console.log('http://localhost:3000/api/' + ent +'/');
-  const response = await fetch('http://localhost:3000/api/' + ent +'/').then(json=>json.json()).catch(e=>console.log(e));
+  const response = await fetch('http://localhost:3000/api/' + ent +'/').then(json=>json.json()).catch(e=>{console.log(e);alert("Something went wrong");});
   p.innerHTML = "id/name<br>"
   console.log(response);
   for(let i = 0;i<response.length;i++)
@@ -155,17 +156,6 @@ const seeAll = async()=>{
     p.innerHTML+= response[i]._id + " &nbsp &nbsp &nbsp &nbsp" + response[i].name + "<br>" ;
   }
 }
-
-const seeStartups = async()=>{}
-
-const seeGroups = async()=>{}
-
-const seeInfluencers = async()=>{}
-
-const seeOrgs = async()=>{}
-
-const seeEvents =async()=>{}
-
 
 /*
 **
@@ -203,5 +193,6 @@ async function postData(url = '', data = {}) {
         'Content-Type': 'application/json',
       },
     });
+
     return await response.json(); // parses JSON response into native JavaScript objects
   }

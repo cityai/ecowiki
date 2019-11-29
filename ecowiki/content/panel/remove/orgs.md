@@ -1,10 +1,10 @@
 <!-- TITLE: Remove Organization -->
 
-<button >SEE ALL ORGANIZATION</button>
+<button class="All" id="Organizations" onclick="seeAll()">SEE ALL ORGANIZATION</button>
 
 <p id="p"></p>
 
 <input type="text" id="ID" placeholder="Required"><br>
 Enter the Id of the instance you want to delete!
 
-<button id="delete">SUMBIT</button>
+<button id="delete" onclick="DELETEorg()">SUMBIT</button>
