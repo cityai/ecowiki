@@ -42,6 +42,15 @@ class EventController{
         }
     }
 
+    async updateEvent(req,res){
+        try {
+            const result = await eventServices.updateEvent(req.body,req.params.id);
+            res.send(result);
+        } catch (error) {
+            processError(error,res);
+        }
+    }
+
     async deleteEvent(req, res){
         try{
 

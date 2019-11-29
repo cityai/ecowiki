@@ -156,7 +156,29 @@ const PATCHorg = async ()=>{}
 
 const PATCHinfluencer = async ()=>{}
 
-const PATCHevent = async ()=>{}
+const PATCHevent = async ()=>{
+  let id = document.getElementById("ID").value;
+  let highlightedEvent = document.getElementById("Highlighted").checked;
+  const data = {
+    name:document.getElementById("Name").value,
+    date:document.getElementById("Date").value,
+    description: document.getElementById("Desc").value,
+    location: document.getElementById("Location").value,
+    address: document.getElementById("Address").value,
+    organizer: document.getElementById("Organizer").value,
+    category: document.getElementById("Category").value,
+    link: document.getElementById("Link").value,
+    highlighted: highlightedEvent
+  }
+  Object.keys(data).forEach(key=>{
+    if(data[key] === "")
+      delete data[key];
+  });
+
+  const res = await patchData("http://localhost:3000/api/events/",id,data).catch(e=>{console.log(e);alert("Something went wrong");});
+  alert("Success");
+  return res;
+}
 
 /*
 **
@@ -216,5 +238,22 @@ async function postData(url = '', data = {}) {
       },
     });
 
+    return await response.json(); // parses JSON response into native JavaScript objects
+  }
+
+  async function patchData(url = '',id="", data = {}) {
+    // Default options are marked with *
+    const response = await fetch(url + id, {
+      method: 'PATCH', // *GET, POST, PUT, DELETE, etc.
+      mode: 'cors',
+      credentials: 'same-origin',
+      redirect: 'follow', // manual, *follow, error
+      referrer: 'no-referrer',
+      headers: {
+        // 'Access-Control-Allow-Headers': 'content-type'
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify(data) // body data type must match "Content-Type" header
+    });
     return await response.json(); // parses JSON response into native JavaScript objects
   }

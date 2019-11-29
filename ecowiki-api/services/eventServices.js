@@ -120,6 +120,14 @@ class EventServices {
         return events;
     }
 
+    async updateEvent(data, id){
+        const event = await Event.findOneAndUpdate({_id: id},{
+            $set: data
+        }, {new:true});
+        if(!event) throw new ExtError(404, 'The organization with the given ID was not found!');
+        return event;
+    };
+
     /**
      * Deletes an event from database by the given id.
      * @param id of event that we want to delete.

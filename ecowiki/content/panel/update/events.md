@@ -1,5 +1,12 @@
 <!-- TITLE: Update Event -->
 
+<button class="All" id="Events" onclick="seeAll()">SEE ALL EVENTS</button>
+
+<p id="p"></p>
+
+<input type="text" id="ID" placeholder="Required"><br>
+Enter the Id of the instance you want to update!
+
 ## Name
 
 <input type="text" id="Name" placeholder="Required" ><br>
@@ -39,4 +46,4 @@ Is this event highlighted (Default is unchecked)  |
 <input type="checkbox" id="Highlighted" placeholder="Required"><br>
 
 
-<button onclick="POSTevent()" >SUMBIT</button>
+<button onclick="PATCHevent()" >SUMBIT</button>

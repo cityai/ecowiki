@@ -271,7 +271,7 @@ You can join 49 locally organized upcoming events
 **Organizer:** KI Community & Networking
 
 
-[RPA Robotic Process Automation Developers Berlin @ itacs](https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/265529454/)
+[Not itacs](https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/265529454/)
 ##### Mon Dec 16 2019
 **Location:** Berlin
 **Organizer:** RPA Robotic Process Automation Developers Berlin
