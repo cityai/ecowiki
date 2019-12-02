@@ -51,16 +51,19 @@ class MarkdownTransform {
                     data = this.addOneLine(data, city, "overview", "<div class=overview>");
                     if (city.startups)
                         data = this.addMultipleLines(data, city, "startups", 12, "<div class=startups>", ["picture", "name", "categories", "investment", "location"]);
+                        data = this.addMultipleLines(data, city, "startups", city.startups.length, "<div class=startups id=\"list\">", ["picture", "name", "categories", "investment", "location"]);
                     if (city.events){
                         data = this.addMultipleLines(data, city, "events", 12, "<div class=events>", ["name", "date", "location", "organizer"])
                         data = this.addMultipleLines(data, city, "events",city.events.length,"<div class=events id=\"list\">",["name", "date", "location", "organizer"]);
                     }
                         if (city.organizations)
                         data = this.addMultipleLines(data, city, "organizations", 12, "<div class=organizations>", ["name", "category", "founder", "link"]);
+                        data = this.addMultipleLines(data, city, "organizations", city.organizations.length, "<div class=organizations id=\"list\">", ["name", "category", "founder", "link"]);
                     if (community) {
                         data = this.addMultipleLines(data, community, "groups", 12, "<div class=groups>", ["name", "members", "organizer"]);
+                        data = this.addMultipleLines(data, community, "groups", community.groups.length, "<div class=groups id=\"list\">", ["name", "members", "organizer"]);
                         data = this.addMultipleLines(data, community, "influencers", 12, "<div class=influencers>", ["picture","name", "followers"]);
-
+                        data = this.addMultipleLines(data, community, "influencers", community.influencers.length, "<div class=influencers id=\"list\">", ["picture","name", "followers"]);
                     }
                     await fs.writeFile(filePath, "", async err => {
                         if (err) await fs.mkdir(dirPath, err => {

@@ -54,6 +54,26 @@ You can join 0 active community groups on the topic of Artificial Intelligence
 
 </div>
 
+<div class=groups id="list">
+
+<details>
+<summary class="sum">See all groups</summary>
+
+
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+</details>
+
+</div>
+
 # Influencers
 Check out the voices of the local AI community
 <div class=influencers>
@@ -84,7 +104,43 @@ Check out the voices of the local AI community
 </div>
 </div>
 
-[See all influencers](./community)
+<div class=influencers id="list">
+
+<details>
+<summary class="sum">See all influencers</summary>
+
+
+
+<div class=column id=0>
+
+![http://pbs.twimg.com/profile_images/599938400901271553/H_5Eznsf_normal.jpg](http://pbs.twimg.com/profile_images/599938400901271553/H_5Eznsf_normal.jpg){: width=10%}
+[Alejandro Correa B](https://twitter.com/albahnsen)
+**Followers:** 731
+
+
+</div>
+<div class=column id=1>
+
+![http://pbs.twimg.com/profile_images/1134202198143963136/c0gzBQI6_normal.png](http://pbs.twimg.com/profile_images/1134202198143963136/c0gzBQI6_normal.png){: width=10%}
+[Jean Phillip Bernier](https://twitter.com/jean_p_bernier)
+**Followers:** 25
+
+
+</div>
+<div class=column id=2>
+
+![http://pbs.twimg.com/profile_images/713468146687086592/d6O_1IAU_normal.jpg](http://pbs.twimg.com/profile_images/713468146687086592/d6O_1IAU_normal.jpg){: width=10%}
+[Alejandro Betancourt](https://twitter.com/AlejoBt)
+**Followers:** 624
+
+
+</div>
+</details>
+
+
+</div>
+
+
 # Events
 You can join 0 locally organized upcoming events
 <div class=events>
@@ -103,7 +159,7 @@ You can join 0 locally organized upcoming events
 <div class=events id="list">
 
 <details>
-<summary>See all events</summary>
+<summary class="sum">See all events</summary>
 
 
 
@@ -145,6 +201,28 @@ Active local organizations and initiatives related to AI
 </div>
 </div>
 
+<div class=organizations id="list">
+
+<details>
+<summary class="sum">See all organizations</summary>
+
+
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+</details>
+
+
+</div>
+
+
 # Startups
 Check the newest startups from 0 locally
 
@@ -162,6 +240,24 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 <div class=column id=2>
 
 </div>
+
+</div>
+
+<div class=startups id="list">
+
+<details>
+<summary class="sum">See all startups</summary>
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+</details>
 
 </div>
 

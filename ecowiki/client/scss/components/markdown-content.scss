@@ -36,7 +36,7 @@
     //border-bottom: 1px solid black;
     //width: 300px;
     margin-bottom: 15px;
-    margin-left: -5px;
+    margin-left: 10px;
     //padding-bottom: 32px;
     padding-top: 64px;
     &:first-child {
@@ -54,6 +54,7 @@
       display: block;
       color:#c80000;
       padding-bottom: 30px;
+      padding-left: 30px;
       a{
         color:#000;
         margin:0;
@@ -482,6 +483,9 @@
   .groups {
     padding-left: 15px;
     display: block;
+    details summary{
+      padding-left: 0;
+    }
   }
   .groups:after{
     content: "";
@@ -680,6 +684,7 @@
     display: block;
     letter-spacing: 0.5px;
     font-size: 18px;
+    padding-left: 30px;
   }
   .status strong{
     color: #c80000;
@@ -737,7 +742,7 @@
     padding-top: 20px;
     display: flex;  
     flex-direction: column;
-    padding-left: 15px;
+    padding-left: 30px;
   }
 
   .aboutSection p {
@@ -752,4 +757,5 @@
     display: flex;
     flex-direction: row;
   }
+
 }

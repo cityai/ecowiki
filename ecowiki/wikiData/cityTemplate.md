@@ -45,6 +45,25 @@
 
 </div>
 
+<div class=groups id="list">
+<details>
+<summary class="sum">See all groups</summary>
+
+
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+</details>
+
+</div>
+
 # Influencers
 Check out the voices of the local AI community
 <div class=influencers>
@@ -59,7 +78,27 @@ Check out the voices of the local AI community
 </div>
 </div>
 
-[See all influencers](./community)
+<div class=influencers id="list">
+<details>
+<summary class="sum">See all influencers</summary>
+
+
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+</details>
+
+
+</div>
+
+
 # Events
 <div class=events>
 <div class=column id=0>
@@ -75,7 +114,7 @@ Check out the voices of the local AI community
 
 <div class=events id="list">
 <details>
-<summary>See all events</summary>
+<summary class="sum">See all events</summary>
 
 
 
@@ -116,6 +155,27 @@ Active local organizations and initiatives related to AI
 </div>
 </div>
 
+<div class=organizations id="list">
+<details>
+<summary class="sum">See all organizations</summary>
+
+
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+</details>
+
+
+</div>
+
+
 # Startups
 
 <div class=logoCB>
@@ -131,6 +191,23 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 <div class=column id=2>
 
 </div>
+
+</div>
+
+<div class=startups id="list">
+<details>
+<summary class="sum">See all startups</summary>
+
+<div class=column id=0>
+
+</div>
+<div class=column id=1>
+
+</div>
+<div class=column id=2>
+
+</div>
+</details>
 
 </div>
 

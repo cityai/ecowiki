@@ -6,9 +6,9 @@
 <div class=status>
 
 Discover <a href="#ecosystems"><strong> 5</strong></a> active ecosystems, from various regions of the world.
-Find out more about <a href="#events" ><strong>72</strong></a> recent events that cover AI related subjects and best practices.
-Connect with the global AI communityrepresented by <a href="#community" ><strong>34</strong></a> influencers and <strong>0</strong> groups.
-Explore the work of <a href="#startups" ><strong>205</a></strong> startups focused on generating business solutions using the latest AI technologies.
+Find out more about <a href="#events" ><strong>122</strong></a> recent events that cover AI related subjects and best practices.
+Connect with the global AI communityrepresented by <a href="#community" ><strong>35</strong></a> influencers and <strong>3</strong> groups.
+Explore the work of <a href="#startups" ><strong>216</a></strong> startups focused on generating business solutions using the latest AI technologies.
 
 </div>
 
@@ -54,90 +54,108 @@ Workforce performance management for customer support
 </div>
 
 # Top Communities
-Globally you can join 0 active community groups in 5 unlocked cities on the topic of Artificial Intelligence
+Globally you can join 3 active community groups in 5 unlocked cities on the topic of Artificial Intelligence
 <div class=groups>
 
 <div class=column id=0>
 
+[test](vbnmbnm)
+**Members:** 542
+**Organizer:** Tism
+**Location:** Berlin
+
+
 </div>
 <div class=column id=1>
 
+[asdasd](asdfasd)
+**Members:** 456
+**Organizer:** John Doe
+**Location:** Berlin
+
+
 </div>
 <div class=column id=2>
+
+[testUPDATE](bmn)
+**Members:** 123
+**Organizer:** john
+**Location:** Berlin
+
 
 </div>
 </div>
 
 # Events
- You can join more then 72 upcoming events in 5 cities around the world the coming weeks. In past 42 events have been hosted
+ You can join more then 122 upcoming events in 5 cities around the world the coming weeks. In past 74 events have been hosted
 <div class=events>
 
 <div class=column id=0>
 
-[Amido x Microsoft: How to bag the best jobs in the tech industry](https://www.meetup.com/Amido-Presents/events/266024459/)
-##### Thu Nov 21 2019
+[Meetup #10: The gap between policies and innovation](https://www.meetup.com/West-London-Ethical-Technology-Meetup/events/266714794/)
+##### Tue Dec 03 2019
 **Location:** London
-**Organizer:** Amido Presents
+**Organizer:** West London Ethical Technology Meetup
 
 
-[14th Machine Learning in Healthcare meetup - BIH endorsed, Datanatives Satellite](https://www.meetup.com/Machine-Learning-in-Healthcare/events/265834317/)
-##### Thu Nov 21 2019
+[Become An Organizer At Europe's Largest Digital Meetup](https://www.meetup.com/Digital/events/nwcnpqyzqbfb/)
+##### Tue Dec 03 2019
+**Location:** London
+**Organizer:** Outreach Digital | The Marketing, Analytics, UX & Tech Club
+
+
+[Berlin Meets USA - American Teamwork.](https://www.meetup.com/Berlin-Digital-Business-Network-SIBB/events/266381915/)
+##### Tue Dec 03 2019
 **Location:** Berlin
-**Organizer:** Machine Learning in Healthcare
+**Organizer:** 💥 Berlin Digital Business Network @SIBB 💥
 
 
-[Art, AI, and Autonomy](https://www.meetup.com/Towards-and-Beyond-Imagining-Digital-Futures/events/266072133/)
-##### Thu Nov 21 2019
+[Power Point Karaoke - Freies Sprechen bei fremden Inhalten (aktiv oder passiv) ](https://www.meetup.com/Big-Data-Developers-in-Berlin/events/266080497/)
+##### Tue Dec 03 2019
 **Location:** Berlin
-**Organizer:** Towards & Beyond - Imagining Digital Futures
-
-
-[DataNatives Satellite Event: The intersection of Product and Data ](https://www.meetup.com/beyond-machine/events/265589802/)
-##### Wed Nov 20 2019
-**Location:** Berlin
-**Organizer:** Deep Learning & Machine Learning & Data PM Bootcamps
+**Organizer:** Big Data Developers in Berlin
 
 
 </div>
 <div class=column id=1>
 
-[Continuous Testing Meetup in November @ FlixBus ](https://www.meetup.com/continuous-testing-meetup-berlin/events/265947716/)
-##### Thu Nov 21 2019
-**Location:** Berlin
-**Organizer:** CTM: Continuous Testing Meetup
-
-
-[Data Driven Digital Transformation](https://www.meetup.com/Berlin-Digital-Business-Network-SIBB/events/265896684/)
-##### Thu Nov 21 2019
+[Forum HR: Building International Collaborative Teams.](https://www.meetup.com/Berlin-Digital-Business-Network-SIBB/events/266381915/)
+##### Tue Dec 03 2019
 **Location:** Berlin
 **Organizer:** 💥 Berlin Digital Business Network @SIBB 💥
 
 
-[[FREE] ODSC Europe 2019 Conference Meetup](https://www.meetup.com/ODSC-London-AI-for-Engineers/events/265681807/)
-##### Wed Nov 20 2019
+[AI Urban Analytics with Alan Turing Institute](https://www.meetup.com/Machine-Intelligence-Garage/events/266290861/)
+##### Tue Dec 03 2019
 **Location:** London
-**Organizer:** ODSC London - AI for Engineers
+**Organizer:** Machine Intelligence Garage
+
+
+[Attention and Augmented Recurrent Neural Networks – Olah](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/ltzxsqyzqbfb/)
+##### Tue Dec 03 2019
+**Location:** Berlin
+**Organizer:** Advanced Machine Learning Study Group
 
 
 </div>
 <div class=column id=2>
 
-[AI in Action, DN19 Satellite Event - Using ML to understand Customer LTV](https://www.meetup.com/AI-in-Action-Berlin/events/265527121/)
-##### Thu Nov 21 2019
-**Location:** Berlin
-**Organizer:** AI in Action Berlin
-
-
-[Using Data Science to understand Customer Lifetime Value](https://www.meetup.com/Big-Data-Berlin/events/266016153/)
-##### Thu Nov 21 2019
-**Location:** Berlin
-**Organizer:** Big Data, Berlin
-
-
-[Data Science for Finance Coding Dojo 1](https://www.meetup.com/Data-Science-for-Finance-Coding-Dojo/events/dvznhryzpbzb/)
-##### Wed Nov 20 2019
+[PyData London - 61st meetup](https://www.meetup.com/PyData-London-Meetup/events/266613828/)
+##### Tue Dec 03 2019
 **Location:** London
-**Organizer:** Data Science for Finance Coding Dojo
+**Organizer:** PyData London Meetup
+
+
+[AI for Good Community Pre-holidays Meetup](https://www.meetup.com/meetup-group-pzvZdizC/events/266073268/)
+##### Tue Dec 03 2019
+**Location:** London
+**Organizer:** AI for Good
+
+
+[Smart City Meetup - IoT in the City](https://www.meetup.com/Innovators-Berlin-Corporates-Startups/events/266312540/)
+##### Tue Dec 03 2019
+**Location:** Berlin
+**Organizer:** Innovators Berlin | Corporates & Startups
 
 
 </div>
@@ -150,35 +168,35 @@ Check out the voices of the global AI community
 <div class=column id=0>
 
 [Manuel Koelman](https://twitter.com/manuelkoelman)
-**Followers:** 2842
+**Followers:** 2844
 **Location:** Berlin
 
 
 [Luc Dudler](https://twitter.com/lucdudler)
-**Followers:** 558
+**Followers:** 557
 **Location:** Berlin
 
 
 [Fabian Westerheide](https://twitter.com/bootstrappingme)
-**Followers:** 2527
+**Followers:** 2523
 **Location:** Berlin
 
 
-[Christophe Zoghbi](https://twitter.com/kristoffzoghbi)
-**Followers:** 317
-**Location:** Beirut
+[zohbi](https://twitter.com/kristoffzoghbi)
+**Followers:** 111
+**Location:** Berlin
 
 
 </div>
 <div class=column id=1>
 
 [Frederik Eichelbaum](https://twitter.com/eichelbaum)
-**Followers:** 120
+**Followers:** 119
 **Location:** Berlin
 
 
 [Nathan Benaich](https://twitter.com/NathanBenaich)
-**Followers:** 24079
+**Followers:** 24090
 **Location:** Berlin
 
 
@@ -196,7 +214,7 @@ Check out the voices of the global AI community
 
 
 [Christoph Auer-Welsbach](https://twitter.com/AWChristoph)
-**Followers:** 2570
+**Followers:** 2566
 **Location:** Berlin
 
 
@@ -225,8 +243,20 @@ Active local organizations and initiatives related to AI
 
 <div class=column id=0>
 
+#### TestUPDATEE
+**Categories:** ML
+**Founder:** Jhn doe
+**Link:** [asdasdas](asdasdas)
+
+
 </div>
 <div class=column id=1>
+
+#### Test3Org
+**Categories:** ML
+**Founder:** John doe
+**Link:** [asdasdas](asdasdas)
+
 
 </div>
 <div class=column id=2>
@@ -235,61 +265,13 @@ Active local organizations and initiatives related to AI
 </div>
 
 # Startups
-Check the newest startups from 205 globally, coming out of 5 unlocked AI ecosystems!
+Check the newest startups from 216 globally, coming out of 5 unlocked AI ecosystems!
 <div class=logoCB>
 Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_crop.png" style="width:20%;"/></a>
 </div>
 <div class=startups>
 
 <div class=column id=0>
-
-[Hero Labs](https://www.crunchbase.com/organization/hero-laboratories)
-**Categories:** Artificial Intelligence, Information Technology, Manufacturing, Product Research
-**Investment in USD:** 3,166,648
-**Location:** London
-
-
-[HeyJobs](https://www.crunchbase.com/organization/heyjobs)
-**Categories:** Recruiting, Human Resources, Software, Artificial Intelligence, Information Technology
-**Investment in USD:** 15,000,000
-**Location:** Berlin
-
-
-[MXC Foundation](https://www.crunchbase.com/organization/mxc-foundation)
-**Categories:** Association, Cryptocurrency, Artificial Intelligence, Information Technology, Information Services
-**Investment in USD:** 26,350,659
-**Location:** Berlin
-
-
-[Ada Health](https://www.crunchbase.com/organization/adahealth)
-**Categories:** Health Care, Personal Health, mHealth, Apps, Artificial Intelligence
-**Investment in USD:** 69,269,776
-**Location:** Berlin
-
-
-</div>
-<div class=column id=1>
-
-[Tillhub](https://www.crunchbase.com/organization/tillhub)
-**Categories:** Internet, Point of Sale, Cloud Computing, Artificial Intelligence, Cloud Data Services
-**Investment in USD:** 8,219,540
-**Location:** Berlin
-
-
-[i2x](https://www.crunchbase.com/organization/i2x-0963)
-**Categories:** Internet, Machine Learning, Artificial Intelligence, Information Technology
-**Investment in USD:** 16,393,505
-**Location:** Berlin
-
-
-[omni:us](https://www.crunchbase.com/organization/omnius)
-**Categories:** Machine Learning, Computer Vision, Artificial Intelligence, Information Technology
-**Investment in USD:** 31,108,773
-**Location:** Berlin
-
-
-</div>
-<div class=column id=2>
 
 [XAIN](https://www.crunchbase.com/organization/xain-group)
 **Categories:** Cyber Security, SaaS, Machine Learning, Infrastructure, Software, Artificial Intelligence, Privacy
@@ -306,6 +288,54 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 [Zeitgold](https://www.crunchbase.com/organization/zeitgold)
 **Categories:** Financial Services, Small and Medium Businesses, Artificial Intelligence
 **Investment in USD:** 27,746,684
+**Location:** Berlin
+
+
+[Ada Health](https://www.crunchbase.com/organization/adahealth)
+**Categories:** Health Care, Personal Health, mHealth, Apps, Artificial Intelligence
+**Investment in USD:** 69,269,776
+**Location:** Berlin
+
+
+</div>
+<div class=column id=1>
+
+[HeyJobs](https://www.crunchbase.com/organization/heyjobs)
+**Categories:** Recruiting, Human Resources, Software, Artificial Intelligence, Information Technology
+**Investment in USD:** 15,000,000
+**Location:** Berlin
+
+
+[MXC Foundation](https://www.crunchbase.com/organization/mxc-foundation)
+**Categories:** Association, Cryptocurrency, Artificial Intelligence, Information Technology, Information Services
+**Investment in USD:** 26,350,659
+**Location:** Berlin
+
+
+[Supplier.ai](https://www.crunchbase.com/organization/supplier-ai)
+**Categories:** Procurement, Supply Chain Management, Facilities Support Services, Artificial Intelligence, Property Management, Cloud Data Services, Information Technology
+**Investment in USD:** 67,000,000
+**Location:** London
+
+
+</div>
+<div class=column id=2>
+
+[Tillhub](https://www.crunchbase.com/organization/tillhub)
+**Categories:** Internet, Point of Sale, Cloud Computing, Artificial Intelligence, Cloud Data Services
+**Investment in USD:** 8,219,540
+**Location:** Berlin
+
+
+[i2x](https://www.crunchbase.com/organization/i2x-0963)
+**Categories:** Internet, Machine Learning, Artificial Intelligence, Information Technology
+**Investment in USD:** 16,393,505
+**Location:** Berlin
+
+
+[omni:us](https://www.crunchbase.com/organization/omnius)
+**Categories:** Machine Learning, Software Engineering, Computer Vision, Insurance, Artificial Intelligence, Information Technology, InsurTech
+**Investment in USD:** 31,108,773
 **Location:** Berlin
 
 
