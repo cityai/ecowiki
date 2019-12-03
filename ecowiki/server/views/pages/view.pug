@@ -25,7 +25,7 @@ block rootNavRight
       i.nc-icon-outline.ui-2_time
       span= t('nav.history')
     if rights.write
-      a.button(href='/edit/' + pageData.meta.path)
+      a.button(href='/panel/panel')
         i.nc-icon-outline.ui-1_edit-76
         span= t('nav.edit')
       a.button(v-on:click='$store.dispatch("modalCreatePage/open")')

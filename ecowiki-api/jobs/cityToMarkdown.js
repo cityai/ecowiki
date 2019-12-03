@@ -5,7 +5,6 @@ const _ = require("underscore");
 
 const City = require("../models/city");
 const Community = require("../models/community");
-const Organization = require("../models/organization");
 
 class MarkdownTransform {
 

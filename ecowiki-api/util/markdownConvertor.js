@@ -13,6 +13,7 @@ class MarkdownConvertor {
             //There is no data for particular part of the city (e.g no news yet, no organizations...)
             if (document.length < 1) continue;
             let tempIndex = data.indexOf("<div class=column id=" + i%3 + ">", index)+1;
+            tempIndex = data.indexOf("</div>",tempIndex)-1;
             if(setctionText === '<div class=ecosystems>')
                 tempIndex = index;
             data.splice(tempIndex, 0, "");
@@ -36,6 +37,10 @@ class MarkdownConvertor {
                         break;
                     case "link":
                         data.splice(tempIndex, 0, "**Link:** [" + document[i][attributesArray[j]] + "](" + document[i][attributesArray[j]] + ")");
+                        tempIndex++;
+                        break;
+                    case "picture":
+                        data.splice(tempIndex, 0, "![" + document[i][attributesArray[j]] + "](" + document[i][attributesArray[j]] + "){: width=10%}");
                         tempIndex++;
                         break;
                     case "description":
