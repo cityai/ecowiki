@@ -6,7 +6,7 @@
 <div class=status>
 
 Discover <a href="#ecosystems"><strong> 5</strong></a> active ecosystems, from various regions of the world.
-Find out more about <a href="#events" ><strong>113</strong></a> recent events that cover AI related subjects and best practices.
+Find out more about <a href="#events" ><strong>114</strong></a> recent events that cover AI related subjects and best practices.
 Connect with the global AI communityrepresented by <a href="#community" ><strong>35</strong></a> influencers and <strong>3</strong> groups.
 Explore the work of <a href="#startups" ><strong>216</a></strong> startups focused on generating business solutions using the latest AI technologies.
 
@@ -41,15 +41,22 @@ Check any of the 5 unloked AI ecosystems. If yours isn't listed yet, [contact us
 
 Our global Founding Partners who enabled this initiative getting off the ground. A big THANKS for their support!
 <div class=partners>
-<img src="/images/PartnersForV1.png" style="width:40%">
+<div class=column id=0>
+<img src="/images/peltarion_logotype_horizontal_red.png" style="width:20%">
 
 [Peltarion](https://peltarion.com/signup/)
 <strong>Scale-Up Founding Partner</strong>
 A faster deep learning cloud platform - 50 free GPU hours for all AI Wiki friends
+</div>
+
+<div class=column id=1>
+
+<img src="/images/Ticketless_logo.png" style="width:20%">
 
 [Ticketless](https://ticketless.ai/)
 <strong>Startup Founding Partner</strong>
 Workforce performance management for customer support
+</div>
 
 </div>
 
@@ -87,7 +94,7 @@ Globally you can join 3 active community groups in 5 unlocked cities on the topi
 </div>
 
 # Events
- You can join more then 113 upcoming events in 5 cities around the world the coming weeks. In past 86 events have been hosted
+ You can join more then 114 upcoming events in 5 cities around the world the coming weeks. In past 86 events have been hosted
 <div class=events>
 
 <div class=column id=0>

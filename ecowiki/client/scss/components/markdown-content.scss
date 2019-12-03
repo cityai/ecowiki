@@ -711,14 +711,27 @@
 	padding-bottom: 20px;
   }
 
+  // .partners{
+  //   display: block;
+  //   padding: 10px 20px;
+  //   span {
+  //     text-align: inherit;
+  //     display: inline-grid;
+  //     width: 30%;
+  // }
+  // }
+
   .partners{
-    display: block;
-    padding: 10px 20px;
-    span {
-      text-align: inherit;
-      display: inline-grid;
-      width: 30%;
+    padding-left: 25px;
   }
+  .partners:after{
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .partners .column{
+    float: left;
+    width: 50%;
   }
   .partners p {
 

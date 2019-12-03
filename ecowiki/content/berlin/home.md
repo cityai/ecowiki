@@ -8,7 +8,7 @@
 
 <div class=status>
 
-At this AI Ecosystem you can check out <strong>45</strong> AI related events in which you can participate.
+At this AI Ecosystem you can check out <strong>46</strong> AI related events in which you can participate.
 Connect with local AI community, represented by <strong>13</strong> influencers and <strong>3</strong> groups with <strong>448</strong> community members.
 Explore the work  of <strong>103</strong> startups focused on generating business solutions using latest AI technologies.
 Also there are <strong>2</strong> AI related local organizations!
@@ -192,7 +192,7 @@ Check out the voices of the local AI community
 
 
 # Events
-You can join 45 locally organized upcoming events
+You can join 46 locally organized upcoming events
 <div class=events>
 
 <div class=column id=0>
@@ -341,16 +341,22 @@ You can join 45 locally organized upcoming events
 **Organizer:** Data Science Retreat
 
 
-[Employee to founder: Start up!](https://www.meetup.com/Mobility-Innovators-Club/events/266658412/)
-##### Thu Jan 30 2020
+[AI for Business Meetup Berlin No. 3](https://www.meetup.com/meetup-group-ilfJOcru/events/266611983/)
+##### Tue Jan 28 2020
 **Location:** Berlin
-**Organizer:** Mobility Innovators' Club
+**Organizer:** AI for Marketing - Use cases and Networking Berlin
 
 
-[Braincities Open Lab - Live & Public Podcast, Berlin](https://www.meetup.com/datachaindc/events/266776928/)
-##### Thu Feb 13 2020
+[AI in Action @Sennder](https://www.meetup.com/AI-in-Action-Berlin/events/266889865/)
+##### Wed Feb 12 2020
 **Location:** Berlin
-**Organizer:** DATACHAIN FOUNDATION
+**Organizer:** AI in Action Berlin
+
+
+[A Tale of Data And Growth Failure](https://www.meetup.com/beyond-machine/events/266806499/)
+##### Thu Feb 20 2020
+**Location:** Berlin
+**Organizer:** Deep Learning & Machine Learning & Data PM Bootcamps
 
 
 </div>
@@ -404,22 +410,22 @@ You can join 45 locally organized upcoming events
 **Organizer:** Merantix AI Paper Discussion Group
 
 
-[Study Session, vote for new/next content: http://tiny.cc/amlsg-vote](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/ltzxsqybccbcc/)
-##### Tue Jan 21 2020
+[Data Wholphins Meetup @Merantix](https://www.meetup.com/meetup-group-UtDDgfus/events/266914266/)
+##### Wed Jan 15 2020
 **Location:** Berlin
-**Organizer:** Advanced Machine Learning Study Group
+**Organizer:** Data Wholphins
 
 
-[She In Tech - Edition 3](https://www.meetup.com/datachaindc/events/266780265/)
-##### Tue Feb 11 2020
+[Employee to founder: Start up!](https://www.meetup.com/Mobility-Innovators-Club/events/266658412/)
+##### Thu Jan 30 2020
+**Location:** Berlin
+**Organizer:** Mobility Innovators' Club
+
+
+[Braincities Open Lab - Live & Public Podcast, Berlin](https://www.meetup.com/datachaindc/events/266776928/)
+##### Thu Feb 13 2020
 **Location:** Berlin
 **Organizer:** DATACHAIN FOUNDATION
-
-
-[RPA Robotic Process Automation Developers Berlin @ BVG](https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/266616046/)
-##### Mon Feb 17 2020
-**Location:** Berlin
-**Organizer:** RPA Robotic Process Automation Developers Berlin
 
 
 </div>
@@ -473,22 +479,22 @@ You can join 45 locally organized upcoming events
 **Organizer:** RPA Robotic Process Automation Developers Berlin
 
 
-[AI for Business Meetup Berlin No. 3](https://www.meetup.com/meetup-group-ilfJOcru/events/266611983/)
-##### Tue Jan 28 2020
+[Study Session, vote for new/next content: http://tiny.cc/amlsg-vote](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/ltzxsqybccbcc/)
+##### Tue Jan 21 2020
 **Location:** Berlin
-**Organizer:** AI for Marketing - Use cases and Networking Berlin
+**Organizer:** Advanced Machine Learning Study Group
 
 
-[AI in Action @Sennder](https://www.meetup.com/AI-in-Action-Berlin/events/266889865/)
-##### Wed Feb 12 2020
+[She In Tech - Edition 3](https://www.meetup.com/datachaindc/events/266780265/)
+##### Tue Feb 11 2020
 **Location:** Berlin
-**Organizer:** AI in Action Berlin
+**Organizer:** DATACHAIN FOUNDATION
 
 
-[A Tale of Data And Growth Failure](https://www.meetup.com/beyond-machine/events/266806499/)
-##### Thu Feb 20 2020
+[RPA Robotic Process Automation Developers Berlin @ BVG](https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/266616046/)
+##### Mon Feb 17 2020
 **Location:** Berlin
-**Organizer:** Deep Learning & Machine Learning & Data PM Bootcamps
+**Organizer:** RPA Robotic Process Automation Developers Berlin
 
 
 </div>
