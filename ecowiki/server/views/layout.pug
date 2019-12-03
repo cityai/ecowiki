@@ -36,13 +36,15 @@ html
     script(type='text/javascript', src=appconfig.host + '/js/vendor.js')
     script(type='text/javascript', src=appconfig.host + '/js/app.js')
     script(type='text/javascript', src=appconfig.host + '/js/panel.js')
+    script(type='text/javascript', src=appconfig.host + '/js/newTab.js')
+
 
     
 
 
     block head
 
-  body(class={ 'rtl': appconfig.langRtl })
+  body(class={ 'rtl': appconfig.langRtl } onload="externalLinks()")
     #root.has-stickynav(class=['is-primary-' + appconfig.theme.primary, 'is-alternate-' + appconfig.theme.alt])
       include ./common/header.pug
       alert

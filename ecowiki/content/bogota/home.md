@@ -113,26 +113,11 @@ Check out the voices of the local AI community
 
 <div class=column id=0>
 
-![http://pbs.twimg.com/profile_images/599938400901271553/H_5Eznsf_normal.jpg](http://pbs.twimg.com/profile_images/599938400901271553/H_5Eznsf_normal.jpg){: width=10%}
-[Alejandro Correa B](https://twitter.com/albahnsen)
-**Followers:** 731
-
-
 </div>
 <div class=column id=1>
 
-![http://pbs.twimg.com/profile_images/1134202198143963136/c0gzBQI6_normal.png](http://pbs.twimg.com/profile_images/1134202198143963136/c0gzBQI6_normal.png){: width=10%}
-[Jean Phillip Bernier](https://twitter.com/jean_p_bernier)
-**Followers:** 25
-
-
 </div>
 <div class=column id=2>
-
-![http://pbs.twimg.com/profile_images/713468146687086592/d6O_1IAU_normal.jpg](http://pbs.twimg.com/profile_images/713468146687086592/d6O_1IAU_normal.jpg){: width=10%}
-[Alejandro Betancourt](https://twitter.com/AlejoBt)
-**Followers:** 624
-
 
 </div>
 </details>

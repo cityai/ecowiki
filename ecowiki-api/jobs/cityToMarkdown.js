@@ -131,13 +131,16 @@ class MarkdownTransform {
         index++;
         if (n > document[docObj].length)
             n = document[docObj].length;
-        for (let i = 0; i < n; i++) {
+        //If it is list that we are writing, don't write the first 12 of the section (because it's already up)
+        let k = setctionText.includes("id=\"list\"") ? 12 : 0;
+        for (let i = k; i < n; i++) {
             //There is no data for particular part of the city (e.g no news yet, no organizations...)
             if (document[docObj].length < 1){
                 data.splice(index,0,"This section can be updated by the local ambassador. For contact information see the About section of this page");
                 continue;
                 }
             let tempIndex = data.indexOf("<div class=column id=" + i%3 + ">", index)+1;
+            tempIndex = data.indexOf("</div>",tempIndex)-1;
             data.splice(tempIndex, 0, "");
             tempIndex++;
             for (let j = 0; j < attributesArray.length; j++) {

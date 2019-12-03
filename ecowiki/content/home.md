@@ -6,7 +6,7 @@
 <div class=status>
 
 Discover <a href="#ecosystems"><strong> 5</strong></a> active ecosystems, from various regions of the world.
-Find out more about <a href="#events" ><strong>122</strong></a> recent events that cover AI related subjects and best practices.
+Find out more about <a href="#events" ><strong>113</strong></a> recent events that cover AI related subjects and best practices.
 Connect with the global AI communityrepresented by <a href="#community" ><strong>35</strong></a> influencers and <strong>3</strong> groups.
 Explore the work of <a href="#startups" ><strong>216</a></strong> startups focused on generating business solutions using the latest AI technologies.
 
@@ -87,75 +87,75 @@ Globally you can join 3 active community groups in 5 unlocked cities on the topi
 </div>
 
 # Events
- You can join more then 122 upcoming events in 5 cities around the world the coming weeks. In past 74 events have been hosted
+ You can join more then 113 upcoming events in 5 cities around the world the coming weeks. In past 86 events have been hosted
 <div class=events>
 
 <div class=column id=0>
 
-[Meetup #10: The gap between policies and innovation](https://www.meetup.com/West-London-Ethical-Technology-Meetup/events/266714794/)
-##### Tue Dec 03 2019
+[Microsoft for Startups  |  Going Global (SALES)](https://www.meetup.com/Microsoft-Reactor-London/events/266668295/)
+##### Wed Dec 04 2019
 **Location:** London
-**Organizer:** West London Ethical Technology Meetup
+**Organizer:** Microsoft Reactor London
 
 
-[Become An Organizer At Europe's Largest Digital Meetup](https://www.meetup.com/Digital/events/nwcnpqyzqbfb/)
-##### Tue Dec 03 2019
-**Location:** London
-**Organizer:** Outreach Digital | The Marketing, Analytics, UX & Tech Club
-
-
-[Berlin Meets USA - American Teamwork.](https://www.meetup.com/Berlin-Digital-Business-Network-SIBB/events/266381915/)
-##### Tue Dec 03 2019
+[Voice Meetup Berlin #3 2019 #winteredition](https://www.meetup.com/Berlin-Voice-Interfaces/events/266577449/)
+##### Wed Dec 04 2019
 **Location:** Berlin
-**Organizer:** 💥 Berlin Digital Business Network @SIBB 💥
+**Organizer:** Amazon Alexa, Google Home & other Voice Interfaces - Berlin
 
 
-[Power Point Karaoke - Freies Sprechen bei fremden Inhalten (aktiv oder passiv) ](https://www.meetup.com/Big-Data-Developers-in-Berlin/events/266080497/)
-##### Tue Dec 03 2019
+[Exhalation: Stories by Ted Chiang](https://www.meetup.com/Detective-and-Sci-fi-Book-Club-Berlin/events/265472138/)
+##### Wed Dec 04 2019
 **Location:** Berlin
-**Organizer:** Big Data Developers in Berlin
+**Organizer:** Dystopia, crime and Sci-fi Book Club Berlin
+
+
+[Robocars Race 2019](https://www.meetup.com/autonomous-mobility-berlin/events/265682596/)
+##### Wed Dec 04 2019
+**Location:** Berlin
+**Organizer:** Autonomous Mobility Berlin
 
 
 </div>
 <div class=column id=1>
 
-[Forum HR: Building International Collaborative Teams.](https://www.meetup.com/Berlin-Digital-Business-Network-SIBB/events/266381915/)
-##### Tue Dec 03 2019
-**Location:** Berlin
-**Organizer:** 💥 Berlin Digital Business Network @SIBB 💥
-
-
-[AI Urban Analytics with Alan Turing Institute](https://www.meetup.com/Machine-Intelligence-Garage/events/266290861/)
-##### Tue Dec 03 2019
+[Microsoft for Startups  |  Culture for Scaling](https://www.meetup.com/Microsoft-Reactor-London/events/266668210/)
+##### Wed Dec 04 2019
 **Location:** London
-**Organizer:** Machine Intelligence Garage
+**Organizer:** Microsoft Reactor London
 
 
-[Attention and Augmented Recurrent Neural Networks – Olah](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/ltzxsqyzqbfb/)
-##### Tue Dec 03 2019
+[Data Visualization Principles for Artificial Intelligence in Business](https://www.meetup.com/London-Accelerate-AI-ODSC/events/266467990/)
+##### Wed Dec 04 2019
+**Location:** London
+**Organizer:** ODSC London Accelerate AI (X AI)
+
+
+[Introduction to Federated Learning](https://www.meetup.com/Federated-Learning/events/266464817/)
+##### Wed Dec 04 2019
 **Location:** Berlin
-**Organizer:** Advanced Machine Learning Study Group
+**Organizer:** Federated Learning
 
 
 </div>
 <div class=column id=2>
 
-[PyData London - 61st meetup](https://www.meetup.com/PyData-London-Meetup/events/266613828/)
-##### Tue Dec 03 2019
-**Location:** London
-**Organizer:** PyData London Meetup
-
-
-[AI for Good Community Pre-holidays Meetup](https://www.meetup.com/meetup-group-pzvZdizC/events/266073268/)
-##### Tue Dec 03 2019
-**Location:** London
-**Organizer:** AI for Good
-
-
-[Smart City Meetup - IoT in the City](https://www.meetup.com/Innovators-Berlin-Corporates-Startups/events/266312540/)
-##### Tue Dec 03 2019
+[Adversarial examples are not bugs & Mastering Atari, Go and Shogi](https://www.meetup.com/Merantix-AI-Paper-Discussion-Group/events/266105030/)
+##### Wed Dec 04 2019
 **Location:** Berlin
-**Organizer:** Innovators Berlin | Corporates & Startups
+**Organizer:** Merantix AI Paper Discussion Group
+
+
+[London Meetup: Deep Dive into TensorFlow #27](https://www.meetup.com/TensorFlow-London/events/266557792/)
+##### Wed Dec 04 2019
+**Location:** London
+**Organizer:** TensorFlow London
+
+
+[Berlin AX User Meetup](https://www.meetup.com/AX-Semantics-User-Meetup/events/266490655/)
+##### Wed Dec 04 2019
+**Location:** Berlin
+**Organizer:** User Meetup für Textautomatisierung Berlin – AX Semantics
 
 
 </div>
