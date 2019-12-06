@@ -59,7 +59,7 @@ class MarkdownConvertor {
                         break;
                     case "categories":
                         if (document[i][attributesArray[j]]) {
-                            data.splice(tempIndex, 0,"**Categories:** " + document[i][attributesArray[j]].toString().replace(/,/g, ", "));
+                            data.splice(tempIndex, 0,"**Activity:** " + document[i][attributesArray[j]].toString().replace(/,/g, ", "));
                             tempIndex++;
                         }
                         break;
@@ -81,13 +81,13 @@ class MarkdownConvertor {
                         break;
                     case "founder":
                         if(document[i][attributesArray[j]]){
-                            data.splice(tempIndex, 0, "**Founder:** " + document[i][attributesArray[j]].toString());
+                            data.splice(tempIndex, 0, "**Founded by:** " + document[i][attributesArray[j]].toString());
                             tempIndex++;
                         }
                         break;
                     case "location":
                         if(document[i][attributesArray[j]]){
-                            data.splice(tempIndex, 0, "**Location:** " + document[i][attributesArray[j]].toString());
+                            data.splice(tempIndex, 0, "**Location:** [" + document[i][attributesArray[j]].toString() + "](/" + document[i][attributesArray[j]].toString() + "/home/)");
                             tempIndex++;
                         }
                         break;

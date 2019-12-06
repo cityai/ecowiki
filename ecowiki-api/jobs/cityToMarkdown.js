@@ -56,7 +56,7 @@ class MarkdownTransform {
                         data = this.addMultipleLines(data, city, "events",city.events.length,"<div class=events id=\"list\">",["name", "date", "location", "organizer"]);
                     }
                         if (city.organizations)
-                        data = this.addMultipleLines(data, city, "organizations", 12, "<div class=organizations>", ["name", "category", "founder", "link"]);
+                        data = this.addMultipleLines(data, city, "organizations", 12, "<div class=organizations>", ["name","location", "category", "founder", "link"]);
                         data = this.addMultipleLines(data, city, "organizations", city.organizations.length, "<div class=organizations id=\"list\">", ["name", "category", "founder", "link"]);
                     if (community) {
                         data = this.addMultipleLines(data, community, "groups", 12, "<div class=groups>", ["name", "members", "organizer"]);
@@ -160,7 +160,9 @@ class MarkdownTransform {
                         tempIndex++;
                         break;
                     case "link":
-                            data.splice(tempIndex, 0, "**Link:** [" + document[docObj][i][attributesArray[j]] + "](" + document[docObj][i][attributesArray[j]] + ")");
+                            if(docObj === "organizations")
+                                data.splice(tempIndex, 0, "**Website:** [" + document[docObj][i][attributesArray[j]] + "](" + document[docObj][i][attributesArray[j]] + ")");
+                            else data.splice(tempIndex, 0, "**Link:** [" + document[docObj][i][attributesArray[j]] + "](" + document[docObj][i][attributesArray[j]] + ")");
                             tempIndex++;
                         break;
                     case "picture":
@@ -183,7 +185,7 @@ class MarkdownTransform {
                         break;
                     case "categories":
                         if (document[docObj][i][attributesArray[j]]) {
-                            data.splice(tempIndex, 0, "**Categories:** " + document[docObj][i][attributesArray[j]].toString().replace(/,/g, ", "));
+                            data.splice(tempIndex, 0, "**Activity:** " + document[docObj][i][attributesArray[j]].toString().replace(/,/g, ", "));
                             tempIndex++;
                         }
                         break;
@@ -202,11 +204,13 @@ class MarkdownTransform {
                         tempIndex++;
                         break;
                     case "founder":
-                        data.splice(tempIndex, 0, "**Founder:** " + document[docObj][i][attributesArray[j]].toString());
+                        data.splice(tempIndex, 0, "**Founded by:** " + document[docObj][i][attributesArray[j]].toString());
                         tempIndex++;
                         break;
                     case "location":
-                        data.splice(tempIndex, 0, "**Location:** " + document[docObj][i][attributesArray[j]].toString());
+                        // data.splice(tempIndex, 0, "**Location:** " + document[docObj][i][attributesArray[j]].toString());
+                        data.splice(tempIndex, 0, "**Location:** [" + document[docObj][i][attributesArray[j]].toString() + "](/" + document[docObj][i][attributesArray[j]].toString() + "/home/)");
+
                         tempIndex++;
                         break;
                     default:

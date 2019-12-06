@@ -1,5 +1,12 @@
 @import "../base/variables.scss";
-
+::selection{
+  background-color: black;
+  color: white;
+}
+::-moz-selection{
+  background-color: black;
+  color: white;
+}
 .hero {
   padding-top: 20px;
   padding-left: 76px;
@@ -13,7 +20,7 @@
   h1.title {
     position: relative;
     width: max-content;
-    font-size: 64px;
+    font-size: 72px;
     $set-width: 90px;
     //background: linear-gradient(to right, #000000, #c80000);
 	background-color: black;

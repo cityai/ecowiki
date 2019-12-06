@@ -119,7 +119,7 @@ You can join 2 locally organized upcoming events
 
 [Inteligencia Artificial cambiando nuestro entorno empresaria](https://www.meetup.com/La-Paz-Women-in-Machine-Learning-and-Data-Science/events/266896586/)
 ##### Sat Dec 07 2019
-**Location:** La Paz
+**Location:** [La Paz](/La Paz/home/)
 **Organizer:** La Paz Women in Machine Learning & Data Science
 
 
@@ -128,7 +128,7 @@ You can join 2 locally organized upcoming events
 
 [ Flutter Interact - Viewing Party La Paz](https://www.meetup.com/GDG-La-Paz/events/266480695/)
 ##### Wed Dec 11 2019
-**Location:** La Paz
+**Location:** [La Paz](/La Paz/home/)
 **Organizer:** GDG La Paz
 
 

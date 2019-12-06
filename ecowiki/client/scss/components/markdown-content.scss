@@ -1,5 +1,15 @@
 @import "../base/variables.scss";
 
+
+::-moz-selection {
+  background-color: black;
+  color: white;
+}
+::selection {
+  background-color: black;
+  color: white;
+}
+
 .has-mkcontent {
   width: 100%;
   overflow: hidden;
@@ -31,8 +41,9 @@
     //background-color: mc('blue-grey', '50');
     //background: linear-gradient(to bottom, mc('blue-grey', '50'), mc('indigo', '50'));
     //border-bottom: 2px solid mc('indigo', '100');
-    font-size: 32px;
+    font-size: 36px;
     color: $content-color-text;
+    font-weight: 900;
     //border-bottom: 1px solid black;
     //width: 300px;
     margin-bottom: 15px;
@@ -52,7 +63,7 @@
     & + p {
       padding-top: 20px;
       display: block;
-      color:#c80000;
+      color:black;
       padding-bottom: 30px;
       padding-left: 30px;
       a{
@@ -229,12 +240,12 @@
     }
 
     a.internal-link {
-      width: 300px;
-      height: 25px;
-      margin: 10px;
+      // width: 300px;
+      // height: 25px;
+      // margin: 10px;
       align-items: center;
       justify-content: center;
-      font-size: 18px;
+      font-size: 16px;
       &:hover {
         color: #c80000;
       }
@@ -507,6 +518,14 @@
     &:hover {
       color: #c80000;
     }
+    
+  }
+
+  .groups p a.internal-link{
+    display: inline;
+    margin:0;
+    font-size: 16px;
+
   }
   .groups h4 {
     font-size: 18px;
@@ -574,6 +593,10 @@
     &:hover {
       color: #c80000;
     }
+    
+  }
+  .events p a.internal-link{
+    font-size: 16px;
   }
   //--------------------------------------------STARTUPS SECTION
   .startups:after{
@@ -603,6 +626,10 @@
           color: #c8000c;
           margin: 0;
         }
+        
+      }
+      a.internal-link{
+        font-size: 16px;
       }
     }
     h4 {
@@ -641,6 +668,7 @@
   }
   .influencers a.internal-link {
     color: #000;
+    font-size: 16px;
     &:hover {
       color: #c80000;
     }
@@ -678,12 +706,11 @@
       color: #c80000;
     }
   }
-
   //---------------------------------------------STATUS SECTION
   .status p {
     display: block;
     letter-spacing: 0.5px;
-    font-size: 18px;
+    font-size: 16px;
     padding-left: 30px;
   }
   .status strong{
@@ -705,6 +732,9 @@
     padding-left: 15px;
     font-size: 18px;
     color: mc('grey','800');
+  }
+  .organizations a.internal-link{
+    font-weight: bold;
   }
   .organizations p {
 	display: block;
