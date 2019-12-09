@@ -75,6 +75,95 @@
       }
     }
   }
+  h1::before{
+    content: " ";
+    background-image: url("/images/icons/ecosystems.svg");
+    background-size: 100% 100%;
+    width: 32px;
+    height: 32px;
+    display: block;
+    left: -40px;
+    position: relative;
+    top: 40px;
+    opacity: 20%;
+    }
+    #ecosystems::before{
+      background-image: url("/images/icons/ecosystems.svg");
+    }
+
+    #founding-partners::before{
+      background-image: url("/images/icons/founding partners.svg");
+    }
+    #top-communities::before{
+      background-image: url("/images/icons/top communities.svg");
+    }
+    #influencers::before{
+      background-image: url("/images/icons/influencers.svg");
+
+    }
+    #events::before{
+      background-image: url("/images/icons/events.svg");
+    }
+
+    #organizations::before{
+      background-image: url("/images/icons/organizations.svg");
+    }
+
+    #startups::before{
+      background-image: url("/images/icons/startups.svg");
+    }
+
+    h1::after{
+      content: " ";
+      background-image: url("/images/structures/ecosystems_structure.svg");
+      background-size: 100% 100%;
+      width: 400px;
+      height: 32px;
+      display: inline-block;
+      left: 20px;
+      position: relative;
+      opacity: 20%;
+      }
+
+
+      #ecosystems::after{
+        background-image: url("/images/structures/ecosystems_structure.svg");
+      }
+  
+      #founding-partners::after{
+        background-image: url("/images/structures/founding partners_structure.svg");
+      }
+      #top-communities::after{
+        background-image: url("/images/structures/top communities_structure.svg");
+      }
+      #influencers::after{
+        background-image: url("/images/structures/influencers_structure.svg");
+  
+      }
+      #events::after{
+        background-image: url("/images/structures/events_structure.svg");
+      }
+  
+      #organizations::after{
+        background-image: url("/images/structures/organizations_structure.svg");
+      }
+  
+      #startups::after{
+        background-image: url("/images/structures/startups_structure.svg");
+      }
+
+    // h1::after{
+    //   content: " ";
+    //   background-image: url("/images/structures/ecosystems_structure.svg");
+    //   background-size: 100% 100%;
+    //   width: 400px;
+    //   height: 32px;
+    //   display: block;
+    //   left: calc(#{width} * 1.778);
+    //   top: 40px;
+    //   position: relative;
+    //   }
+
 
   h2 {
     //background-color: lighten(mc('teal', '50'), 5%);

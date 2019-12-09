@@ -6,7 +6,7 @@
 <div class=status>
 
 Discover <a href="#ecosystems"><strong> 5</strong></a> active ecosystems, from various regions of the world.
-Find out more about <a href="#events" ><strong>120</strong></a> recent events that cover AI related subjects and best practices.
+Find out more about <a href="#events" ><strong>121</strong></a> recent events that cover AI related subjects and best practices.
 Connect with the global AI communityrepresented by <a href="#community" ><strong>35</strong></a> influencers and <strong>3</strong> groups.
 Explore the work of <a href="#startups" ><strong>222</a></strong> startups focused on generating business solutions using the latest AI technologies.
 
@@ -14,8 +14,10 @@ Explore the work of <a href="#startups" ><strong>222</a></strong> startups focus
 
 
 
+
 # Ecosystems
 Check any of the 5 unloked AI ecosystems. If yours isn't listed yet, [contact us](mailto:aiwiki@city.ai)
+
 
 <div class=ecosystems>
 
@@ -94,7 +96,7 @@ Globally you can join 3 active community groups in 5 unlocked cities on the topi
 </div>
 
 # Events
- You can join more then 120 upcoming events in 5 cities around the world the coming weeks. In past 108 events have been hosted
+ You can join more then 121 upcoming events in 5 cities around the world the coming weeks. In past 108 events have been hosted
 <div class=events>
 
 <div class=column id=0>

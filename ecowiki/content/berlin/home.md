@@ -8,7 +8,7 @@
 
 <div class=status>
 
-At this AI Ecosystem you can check out <strong>49</strong> AI related events in which you can participate.
+At this AI Ecosystem you can check out <strong>50</strong> AI related events in which you can participate.
 Connect with local AI community, represented by <strong>13</strong> influencers and <strong>3</strong> groups with <strong>448</strong> community members.
 Explore the work  of <strong>103</strong> startups focused on generating business solutions using latest AI technologies.
 Also there are <strong>2</strong> AI related local organizations!
@@ -192,7 +192,7 @@ Check out the voices of the local AI community
 
 
 # Events
-You can join 49 locally organized upcoming events
+You can join 50 locally organized upcoming events
 <div class=events>
 
 <div class=column id=0>
@@ -311,6 +311,87 @@ You can join 49 locally organized upcoming events
 **Organizer:** Data Science Retreat
 
 
+[Machine learning for Autonomous Driving - NeurlPS workshop live stream](https://www.meetup.com/autonomous-mobility-berlin/events/266206644/)
+##### Sat Dec 14 2019
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Autonomous Mobility Berlin
+
+
+[KI Community & Networking](https://www.meetup.com/kicommunity/events/266429343/)
+##### Tue Dec 17 2019
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** KI Community & Networking
+
+
+[KI Community & Networking - für Interessierte und Anwender von KI](https://www.meetup.com/kicommunity/events/266429343/)
+##### Tue Dec 17 2019
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** KI Community & Networking
+
+
+[(paid) online AI course: Deep Learning for developers](https://www.meetup.com/Berlin-AI-Tech-Talk/events/266485754/)
+##### Tue Jan 07 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Berlin AI Developers Group
+
+
+[Introduction to Analyzing Business Data with Python](https://www.meetup.com/Data-Science-Retreat/events/266805753/)
+##### Tue Jan 14 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Data Science Retreat
+
+
+[Study Session, vote for new/next content: http://tiny.cc/amlsg-vote](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/ltzxsqybccbcc/)
+##### Tue Jan 21 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Advanced Machine Learning Study Group
+
+
+[Scikit-learn Open Source Sprint](https://www.meetup.com/Berlin-Women-in-Machine-Learning-and-Data-Science/events/266968335/)
+##### Sat Jan 25 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Berlin Women in Machine Learning & Data Science
+
+
+[She In Tech - Edition 3](https://www.meetup.com/datachaindc/events/266780265/)
+##### Tue Feb 11 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** DATACHAIN FOUNDATION
+
+
+[RPA Robotic Process Automation Developers Berlin @ BVG](https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/266616046/)
+##### Mon Feb 17 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** RPA Robotic Process Automation Developers Berlin
+
+
+</div>
+<div class=column id=1>
+
+[Google AI Tech Talk:  Building real time cross platform video audio ML pipelines](https://www.meetup.com/Berlin-AI-Tech-Talk/events/266328794/)
+##### Wed Dec 11 2019
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Berlin AI Developers Group
+
+
+[AI & Blockchain Meetup: Practical Examples of Handling Data with Blockchain & AI](https://www.meetup.com/AI-Blockchain-Meetup-Practical-Examples/events/266316632/)
+##### Thu Dec 12 2019
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** AI & Blockchain Meetup: Practical Examples
+
+
+[15th Machine Learning in Healthcare meetup - BIH endorsed](https://www.meetup.com/Machine-Learning-in-Healthcare/events/266928881/)
+##### Thu Dec 12 2019
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Machine Learning in Healthcare
+
+
+[NeurlPS workshop - Machine learning for Autonomous Driving](https://www.meetup.com/autonomous-mobility-berlin/events/266206644/)
+##### Sat Dec 14 2019
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Autonomous Mobility Berlin
+
+
 [Not itacs](https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/265529454/)
 ##### Mon Dec 16 2019
 **Location:** [Berlin](/Berlin/home/)
@@ -366,30 +447,30 @@ You can join 49 locally organized upcoming events
 
 
 </div>
-<div class=column id=1>
+<div class=column id=2>
 
-[Google AI Tech Talk:  Building real time cross platform video audio ML pipelines](https://www.meetup.com/Berlin-AI-Tech-Talk/events/266328794/)
+[Tenios GmbH + Internet of Voice auf Chatbotsummit Berlin](https://www.meetup.com/digitale-sprachassistenten/events/265497203/)
 ##### Wed Dec 11 2019
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** Berlin AI Developers Group
+**Organizer:** Internet of Voice - Digitale Sprachassistenten
 
 
-[AI & Blockchain Meetup: Practical Examples of Handling Data with Blockchain & AI](https://www.meetup.com/AI-Blockchain-Meetup-Practical-Examples/events/266316632/)
+[December Meetup @ Scaling Spaces](https://www.meetup.com/Crypto_Traders_Berlin/events/266232193/)
 ##### Thu Dec 12 2019
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** AI & Blockchain Meetup: Practical Examples
+**Organizer:** Crypto Traders Berlin
 
 
-[15th Machine Learning in Healthcare meetup - BIH endorsed](https://www.meetup.com/Machine-Learning-in-Healthcare/events/266928881/)
+[Think-ART-salon](https://www.meetup.com/ping-pong-between-ART-knowledge/events/266943294/)
 ##### Thu Dec 12 2019
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** Machine Learning in Healthcare
+**Organizer:** Ping-Pong Between Art+Knowledge
 
 
-[NeurlPS workshop - Machine learning for Autonomous Driving](https://www.meetup.com/autonomous-mobility-berlin/events/266206644/)
+[Global AI BootCamp](https://www.meetup.com/Berlin-Microsoft-Azure-Meetup/events/266789462/)
 ##### Sat Dec 14 2019
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** Autonomous Mobility Berlin
+**Organizer:** Azure Meetup Berlin
 
 
 [RPA Robotic Process Automation Developers Berlin @ itacs](https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/265529454/)
@@ -438,81 +519,6 @@ You can join 49 locally organized upcoming events
 ##### Thu Feb 13 2020
 **Location:** [Berlin](/Berlin/home/)
 **Organizer:** DATACHAIN FOUNDATION
-
-
-</div>
-<div class=column id=2>
-
-[Tenios GmbH + Internet of Voice auf Chatbotsummit Berlin](https://www.meetup.com/digitale-sprachassistenten/events/265497203/)
-##### Wed Dec 11 2019
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Internet of Voice - Digitale Sprachassistenten
-
-
-[December Meetup @ Scaling Spaces](https://www.meetup.com/Crypto_Traders_Berlin/events/266232193/)
-##### Thu Dec 12 2019
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Crypto Traders Berlin
-
-
-[Think-ART-salon](https://www.meetup.com/ping-pong-between-ART-knowledge/events/266943294/)
-##### Thu Dec 12 2019
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Ping-Pong Between Art+Knowledge
-
-
-[Global AI BootCamp](https://www.meetup.com/Berlin-Microsoft-Azure-Meetup/events/266789462/)
-##### Sat Dec 14 2019
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Azure Meetup Berlin
-
-
-[KI Community & Networking](https://www.meetup.com/kicommunity/events/266429343/)
-##### Tue Dec 17 2019
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** KI Community & Networking
-
-
-[KI Community & Networking - für Interessierte und Anwender von KI](https://www.meetup.com/kicommunity/events/266429343/)
-##### Tue Dec 17 2019
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** KI Community & Networking
-
-
-[(paid) online AI course: Deep Learning for developers](https://www.meetup.com/Berlin-AI-Tech-Talk/events/266485754/)
-##### Tue Jan 07 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Berlin AI Developers Group
-
-
-[Introduction to Analyzing Business Data with Python](https://www.meetup.com/Data-Science-Retreat/events/266805753/)
-##### Tue Jan 14 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Data Science Retreat
-
-
-[Study Session, vote for new/next content: http://tiny.cc/amlsg-vote](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/ltzxsqybccbcc/)
-##### Tue Jan 21 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Advanced Machine Learning Study Group
-
-
-[Scikit-learn Open Source Sprint](https://www.meetup.com/Berlin-Women-in-Machine-Learning-and-Data-Science/events/266968335/)
-##### Sat Jan 25 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Berlin Women in Machine Learning & Data Science
-
-
-[She In Tech - Edition 3](https://www.meetup.com/datachaindc/events/266780265/)
-##### Tue Feb 11 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** DATACHAIN FOUNDATION
-
-
-[RPA Robotic Process Automation Developers Berlin @ BVG](https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/266616046/)
-##### Mon Feb 17 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** RPA Robotic Process Automation Developers Berlin
 
 
 </div>
