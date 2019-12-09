@@ -61,7 +61,7 @@
 		}*/
 
     & + p {
-      padding-top: 20px;
+      padding-top: 0;
       display: block;
       color:black;
       padding-bottom: 30px;
@@ -665,12 +665,13 @@
     padding-left: 15px;
   }
   .events p:nth-of-type(2n) {
+    display: block;
     padding-top: 0px;
     padding-bottom: 30px;
     font-size: 16px;
   }
   .events p strong:nth-of-type(2){
-    padding-left: 10px;
+    padding-left: 0;
   }
   .events p strong{
     padding-right: 5px;
