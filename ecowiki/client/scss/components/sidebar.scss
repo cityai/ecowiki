@@ -66,35 +66,33 @@
 					display: block;
 					left: -10px;
 					position: relative;
-					top: 0;
-					opacity: 20%;
-					
+					top: 0;					
 					}
 	
 					a[href="#ecosystems"]::before{
-						background-image: url("/images/sidebarShapes/ecosystems_shape.svg");
+						background-image: url("/images/sidebarShapes/ecosystems_red_contour_shape.svg");
 					  }
 				  
 					  a[href="#founding-partners"]::before{
-						background-image: url("/images/sidebarShapes/founding partners_shape.svg");
+						background-image: url("/images/sidebarShapes/founding partners_red_contour_shape.svg");
 					  }
 					  a[href="#top-communities"]::before{
-						background-image: url("/images/sidebarShapes/top communities_shape.svg");
+						background-image: url("/images/sidebarShapes/top communities_red_contour_shape.svg");
 					  }
 					  a[href="#events"]::before{
-						background-image: url("/images/sidebarShapes/events_shape.svg");
+						background-image: url("/images/sidebarShapes/events_red_contour_shape.svg");
 				  
 					  }
 					  a[href="#influencers"]::before{
-						background-image: url("/images/sidebarShapes/influencers_shape.svg");
+						background-image: url("/images/sidebarShapes/influencers_red_contour_shape.svg");
 					  }
 				  
 					  a[href="#organizations"]::before{
-						background-image: url("/images/sidebarShapes/organizations_shape.svg");
+						background-image: url("/images/sidebarShapes/organizations_red_contour_shape.svg");
 					  }
 				  
 					  a[href="#startups"]::before{
-						background-image: url("/images/sidebarShapes/startups_shape.svg");
+						background-image: url("/images/sidebarShapes/startups_red_contour_shape.svg");
 					  }
 				a {
 					display: flex;

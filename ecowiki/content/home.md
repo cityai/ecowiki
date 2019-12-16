@@ -2,10 +2,12 @@
 
 
 
+<div class="embed-container"><iframe width="1920" height="1080" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AI Ecosystem Map" src="//www.arcgis.com/apps/Embed/index.html?webmap=e9485697909c40baad34647d8d0dbb85&extent=-102.7441,-27.2974,102.7441,65.9089&zoom=true&previewImage=false&scale=true&search=true&searchextent=false&disable_scroll=false&theme=light"></iframe></div>
+
 
 <div class=status>
 <div class=column>
-<a href="#ecosystems"><strong>5</strong></a>
+<a href="#ecosystems"><strong>6</strong></a>
 </div>
 <div class=column>
 <a href="#events" ><strong>92</strong></a>
@@ -33,7 +35,7 @@
 
 
 # Ecosystems
-Check any of the 5 unloked AI ecosystems. If yours isn't listed yet, [contact us](mailto:aiwiki@city.ai)
+Check any of the 6 unloked AI ecosystems. If yours isn't listed yet, [contact us](mailto:aiwiki@city.ai)
 
 
 <div class=ecosystems>
@@ -47,6 +49,9 @@ Check any of the 5 unloked AI ecosystems. If yours isn't listed yet, [contact us
 
 
 [Bogota](/bogota/home)
+
+
+[Home Copy.md](/home-copy.md/home)
 
 
 [La Paz](/la-paz/home)
@@ -80,7 +85,7 @@ Workforce performance management for customer support
 </div>
 
 # Top Communities
-Globally you can join 3 active community groups in 5 unlocked cities on the topic of Artificial Intelligence
+Globally you can join 3 active community groups in 6 unlocked cities on the topic of Artificial Intelligence
 <div class=groups>
 
 <div class=column id=0>
@@ -113,7 +118,7 @@ Globally you can join 3 active community groups in 5 unlocked cities on the topi
 </div>
 
 # Events
- You can join more then 92 upcoming events in 5 cities around the world the coming weeks. In past 172 events have been hosted
+ You can join more then 92 upcoming events in 6 cities around the world the coming weeks. In past 172 events have been hosted
 <div class=events>
 
 <div class=column id=0>
@@ -327,7 +332,7 @@ Active local organizations and initiatives related to AI
 </div>
 
 # Startups
-Check the newest startups from 225 globally, coming out of 5 unlocked AI ecosystems!
+Check the newest startups from 225 globally, coming out of 6 unlocked AI ecosystems!
 <div class=logoCB>
 Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_crop.png" style="width:20%;"/></a>
 </div>
