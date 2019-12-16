@@ -5,40 +5,27 @@
 
 <div class=status>
 <div class=column>
-<a href="#ecosystems"><strong> 5</strong></a>
+<a href="#ecosystems"><strong>5</strong></a>
 </div>
 <div class=column>
- <a href="#events" ><strong>102</strong></a>
+<a href="#events" ><strong>92</strong></a>
 </div>
- <div class=column>
+<div class=column>
 <a href="#community" ><strong>35</strong></a>
 </div>
 <div class=column>
- <a href="#startups" ><strong>223</a></strong> 
+<a href="#startups" ><strong>225</a></strong>
 </div>
 <div class=column>
- <a href="#community" ><strong>3</a></strong> 
+<a href="#community" ><strong>3</a></strong>
 </div>
-
-
 </div>
 <div class=status>
-<div class=column>
-Active Ecosystems
-</div>
-<div class=column>
-Recent Events 
-</div>
- <div class=column>
- Influencers
-</div>
-<div class=column>
- Startups
-</div>
-<div class=column>
- Community Groups
-</div>
-
+<div class=column>CITIES</div>
+<div class=column>EVENTS</div>
+<div class=column>INFLUENCERS</div>
+<div class=column>STARTUPS</div>
+<div class=column>GROUPS</div></div>
 
 </div>
 
@@ -126,87 +113,87 @@ Globally you can join 3 active community groups in 5 unlocked cities on the topi
 </div>
 
 # Events
- You can join more then 102 upcoming events in 5 cities around the world the coming weeks. In past 151 events have been hosted
+ You can join more then 92 upcoming events in 5 cities around the world the coming weeks. In past 172 events have been hosted
 <div class=events>
 
 <div class=column id=0>
 
-[AI & Blockchain Meetup: Practical Examples of Handling Data with Blockchain & AI](https://www.meetup.com/AI-Blockchain-Meetup-Practical-Examples/events/266316632/)
-##### Thu Dec 12 2019
+[KI Community & Networking](https://www.meetup.com/kicommunity/events/266429343/)
+##### Tue Dec 17 2019
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** AI & Blockchain Meetup: Practical Examples
+**Organizer:** KI Community & Networking
 
 
-[OpenBanking Challenges and Business Opportunities ](https://www.meetup.com/London-Tech-Entrepreneurs-And-Investors-Network-LION/events/266515585/)
-##### Thu Dec 12 2019
+[Building Software That Recognizes You](https://www.meetup.com/Microsoft-Reactor-London/events/265947486/)
+##### Tue Dec 17 2019
 **Location:** [London](/London/home/)
-**Organizer:** London Tech Entrepreneurs and Investors Network Lion
+**Organizer:** Microsoft Reactor London
 
 
-[15th Machine Learning in Healthcare meetup - BIH endorsed](https://www.meetup.com/Machine-Learning-in-Healthcare/events/266928881/)
-##### Thu Dec 12 2019
+[KI Community & Networking (für User und Fachleute von KI / AI)](https://www.meetup.com/kicommunity/events/266429343/)
+##### Tue Dec 17 2019
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** Machine Learning in Healthcare
+**Organizer:** KI Community & Networking
 
 
-[Creatiing Disruptive Travel and Tourism Business Models](https://www.meetup.com/Creating-Disruptive-Business-Models/events/266340939/)
-##### Fri Dec 13 2019
-**Location:** [London](/London/home/)
-**Organizer:** Creating Disruptive Business Models
+[Tutorial on Variational Autoencoders – Carl Doersch (https://u.nu/3j-s)](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/ltzxsqyzqbwb/)
+##### Tue Dec 17 2019
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Advanced Machine Learning Study Group
 
 
 </div>
 <div class=column id=1>
 
-[December Meetup @ Scaling Spaces](https://www.meetup.com/Crypto_Traders_Berlin/events/266232193/)
-##### Thu Dec 12 2019
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Crypto Traders Berlin
-
-
-[Microsoft for Startups  |  Co-selling](https://www.meetup.com/Microsoft-Reactor-London/events/266781942/)
-##### Thu Dec 12 2019
-**Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
-
-
-[Think-ART-salon](https://www.meetup.com/ping-pong-between-ART-knowledge/events/266943294/)
-##### Thu Dec 12 2019
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Ping-Pong Between Art+Knowledge
-
-
-[Creative Writing with GPT2](https://www.meetup.com/Data-Science-Retreat/events/266914666/)
-##### Fri Dec 13 2019
+[Data Science Demo Day ](https://www.meetup.com/Data-Science-Retreat/events/266022546/)
+##### Tue Dec 17 2019
 **Location:** [Berlin](/Berlin/home/)
 **Organizer:** Data Science Retreat
+
+
+[Consciousness, Mental Health and Technology - Pre-holiday drinks](https://www.meetup.com/London-Consciousness-Hacking/events/266460868/)
+##### Tue Dec 17 2019
+**Location:** [London](/London/home/)
+**Organizer:** London Consciousness Hacking
+
+
+[December 17th Meetup @ Wavemaker : Call for Speakers!](https://www.meetup.com/Messaging-Bots-London/events/266825075/)
+##### Tue Dec 17 2019
+**Location:** [London](/London/home/)
+**Organizer:** Chatbots & Voice Assistants London
+
+
+[Project LookOut: International Polish-German E-Commerce Meetup](https://www.meetup.com/Berlin-Digital-Business-Network-SIBB/events/266996555/)
+##### Tue Dec 17 2019
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** 💥 Berlin Digital Business Network @SIBB 💥
 
 
 </div>
 <div class=column id=2>
 
-[Google AI Tech Talk: Building real time cross platform video audio ML pipelines](https://www.meetup.com/London-AI-Tech-Talk/events/266329038/)
-##### Thu Dec 12 2019
+[Machine Learning Powered Push Notifications](https://www.meetup.com/Artificial-Intelligence-UK/events/266498710/)
+##### Tue Dec 17 2019
 **Location:** [London](/London/home/)
-**Organizer:** London AI Developers Group
+**Organizer:** Big Data, Analytics, and Artificial Intelligence
 
 
-[Hands On: DEX Review [DeFi]](https://www.meetup.com/Crypto_Traders_Berlin/events/266232193/)
-##### Thu Dec 12 2019
+[Round 25: Some Round Name](https://www.meetup.com/London-Hack-and-Tell/events/pgstfryzqbwb/)
+##### Tue Dec 17 2019
+**Location:** [London](/London/home/)
+**Organizer:** London Hack&&Tell
+
+
+[KI Community & Networking - für Interessierte und Anwender von KI](https://www.meetup.com/kicommunity/events/266429343/)
+##### Tue Dec 17 2019
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** Crypto Traders Berlin
+**Organizer:** KI Community & Networking
 
 
-[Transformación Digital y Automatización con RPA](https://www.meetup.com/Introduccion-a-Programacion-RPA-con-Rocketbot/events/266942085/)
-##### Thu Dec 12 2019
-**Location:** [Bogota](/Bogota/home/)
-**Organizer:** Introducción a Programación RPA con Rocketbot
-
-
-[NeurlPS workshop - Machine learning for Autonomous Driving](https://www.meetup.com/autonomous-mobility-berlin/events/266206644/)
-##### Sat Dec 14 2019
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Autonomous Mobility Berlin
+[Building Software That Recognises You](https://www.meetup.com/Microsoft-Reactor-London/events/265947486/)
+##### Tue Dec 17 2019
+**Location:** [London](/London/home/)
+**Organizer:** Microsoft Reactor London
 
 
 </div>
@@ -340,7 +327,7 @@ Active local organizations and initiatives related to AI
 </div>
 
 # Startups
-Check the newest startups from 223 globally, coming out of 5 unlocked AI ecosystems!
+Check the newest startups from 225 globally, coming out of 5 unlocked AI ecosystems!
 <div class=logoCB>
 Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_crop.png" style="width:20%;"/></a>
 </div>

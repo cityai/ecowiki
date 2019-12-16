@@ -229,10 +229,11 @@ class MarkdownTransform {
     addMetrics(data, city, community) {
         let indexState = data.indexOf("<div class=status>") + 1;
         if (indexState > 1 && city && community) {
-            let status = "\nAt this AI Ecosystem you can check out <strong>" + city.events.length + "</strong> AI related events in which you can participate.\nConnect with local AI community" +
-                ", represented by <strong>" + community.influencers.length + "</strong> influencers and <strong>" + community.groups.length + "</strong> groups with <strong>" + this.numberOfMembers(community) + "</strong> community members.\nExplore the work " +
-                " of <strong>" + city.startups.length + "</strong> startups focused on generating business solutions using latest AI technologies.\nAlso there are <strong>" + city.organizations.length + "</strong> AI related local organizations!\n";
-            data.splice(indexState, 0, status);
+            let statusStory = "<div class=column>\n<a href=\"#ecosystems\"><strong>" + this.numberOfMembers(community) + "</strong></a>\n</div>\n<div class=column>\n<a href=\"#events\" ><strong>"+city.events.length+"</strong></a>"+
+        "\n</div>\n<div class=column>\n<a href=\"#community\" ><strong>"+ community.influencers.length +"</strong></a>\n</div>\n<div class=column>\n<a href=\"#startups\" ><strong>"+city.startups.length +"</a></strong>"+ 
+        "\n</div>\n<div class=column>\n<a href=\"#community\" ><strong>"+ community.groups.length +"</a></strong>\n</div>\n</div>\n<div class=status>\n<div class=column>COMMUNITY MEMBERS</div>"+
+        "\n<div class=column>EVENTS</div>\n<div class=column>INFLUENCERS</div>\n<div class=column>STARTUPS</div>\n<div class=column>GROUPS</div>"+ "</div>";
+            data.splice(indexState, 0, statusStory);
         }
         return data;
     }

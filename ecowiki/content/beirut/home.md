@@ -7,12 +7,28 @@
 <div class=CityPageSpecific>
 
 <div class=status>
-
-At this AI Ecosystem you can check out <strong>0</strong> AI related events in which you can participate.
-Connect with local AI community, represented by <strong>2</strong> influencers and <strong>0</strong> groups with <strong>0</strong> community members.
-Explore the work  of <strong>7</strong> startups focused on generating business solutions using latest AI technologies.
-Also there are <strong>0</strong> AI related local organizations!
-
+<div class=column>
+<a href="#ecosystems"><strong>0</strong></a>
+</div>
+<div class=column>
+<a href="#events" ><strong>0</strong></a>
+</div>
+<div class=column>
+<a href="#community" ><strong>2</strong></a>
+</div>
+<div class=column>
+<a href="#startups" ><strong>7</a></strong>
+</div>
+<div class=column>
+<a href="#community" ><strong>0</a></strong>
+</div>
+</div>
+<div class=status>
+<div class=column>COMMUNITY MEMBERS</div>
+<div class=column>EVENTS</div>
+<div class=column>INFLUENCERS</div>
+<div class=column>STARTUPS</div>
+<div class=column>GROUPS</div></div>
 
 </div>
 
