@@ -72,8 +72,9 @@ block content
             //- .sidebar-label
             //-   h4 ALL PAGES
             ul.sidebar-menu
-              li.is-hidden-until-scroll: a(href='#root', title='Top of Page')
+              li.is-hidden-until-scroll: a( id='#root',href='#root', title='Top of Page')
                 i.icon-arrow-up2
+              +tocMenu(pageData.tree)
               //- +tocMenu(pageData.tree)
               //- li: a(href="/main/cities") Cities By Regions
               //- li: a(href="/main/communities") All Communities
@@ -87,10 +88,10 @@ block content
           aside.sidebar-pagecontents
             //- .sidebar-label
             //-   h4 PAGE CONTENTS
-            ul.sidebar-menu
-              li.is-hidden-until-scroll: a(href='#root', title='Top of Page')
-                i.icon-arrow-up2
-              +tocMenu(pageData.tree)
+            //- ul.sidebar-menu
+            //-   li.is-hidden-until-scroll: a(href='#root', title='Top of Page')
+            //-     i.icon-arrow-up2
+            //-   +tocMenu(pageData.tree)
         .column
           .hero
             if pageData.meta.title == 'AI WIKI'

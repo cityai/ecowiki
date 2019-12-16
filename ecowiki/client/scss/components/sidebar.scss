@@ -6,12 +6,12 @@
 	color: mc('blue-grey', '50');
 	width: 204px;
 	max-width: 204px;
-	min-height: calc(100vh - 120px);
+	min-height: 20px;//calc(100vh - 120px);
   transition: background-color 1s ease;
   //border-right: 1px solid black;
 
 	aside {
-    padding: 180px 0 0 0;
+    padding: 220px 0 0 0;
     background-color: $sidebar-color-bg;
 		&:last-child {
 			padding-bottom: 20px;
@@ -47,6 +47,9 @@
 		}
 
 		.sidebar-menu {
+			position: -webkit-sticky; /* Safari */
+  			position: sticky;
+  			top: 0;
 
 			li {
 				display: block;
@@ -54,6 +57,45 @@
 					color: #c80000;
 					text-decoration: none;
 				}
+				a::before{
+					content: " ";
+					//background-image: url("/images/sidebarShapes/ecosystems_shape.svg");
+					background-size: 100% 100%;
+					width: 16px;
+					height: 16px;
+					display: block;
+					left: -10px;
+					position: relative;
+					top: 0;
+					opacity: 20%;
+					
+					}
+	
+					a[href="#ecosystems"]::before{
+						background-image: url("/images/sidebarShapes/ecosystems_shape.svg");
+					  }
+				  
+					  a[href="#founding-partners"]::before{
+						background-image: url("/images/sidebarShapes/founding partners_shape.svg");
+					  }
+					  a[href="#top-communities"]::before{
+						background-image: url("/images/sidebarShapes/top communities_shape.svg");
+					  }
+					  a[href="#events"]::before{
+						background-image: url("/images/sidebarShapes/events_shape.svg");
+				  
+					  }
+					  a[href="#influencers"]::before{
+						background-image: url("/images/sidebarShapes/influencers_shape.svg");
+					  }
+				  
+					  a[href="#organizations"]::before{
+						background-image: url("/images/sidebarShapes/organizations_shape.svg");
+					  }
+				  
+					  a[href="#startups"]::before{
+						background-image: url("/images/sidebarShapes/startups_shape.svg");
+					  }
 				a {
 					display: flex;
 					min-height: 30px;
@@ -96,6 +138,8 @@
           }
 
 				}
+
+				
 
 				> ul {
 					// border-top: 1px solid lighten(mc('blue-grey', '900'), 3%);

@@ -46,10 +46,10 @@ module.exports =async function(){
         data = data.toString().split("\n");
         console.log(cities)
         console.log(data.indexOf("### A - Z"))
-        let statusStory = "\nDiscover <a href=\"#ecosystems\"><strong> " + cities.length + "</strong></a> active ecosystems, from various regions of the world.\n" +
-        "Find out more about <a href=\"#events\" ><strong>" + events.length + "</strong></a> recent events that cover AI related subjects and best practices.\nConnect with the global AI community" +
-        "represented by <a href=\"#community\" ><strong>" + influencers.length + "</strong></a> influencers and <strong>" + groups.length + "</strong> groups.\nExplore the work of" + 
-        " <a href=\"#startups\" ><strong>" + startups.length + "</a></strong> startups focused on generating business solutions using the latest AI technologies.";
+        let statusStory = "<div class=column>\nDiscover <a href=\"#ecosystems\"><strong> " + cities.length + "</strong></a> active ecosystems, from various regions of the world.\n</div>\n" +
+        "<div class=column>\nFind out more about <a href=\"#events\" ><strong>" + events.length + "</strong></a> recent events that cover AI related subjects and best practices.\n</div>\n <div class=column>\nConnect with the global AI community" +
+        "represented by <a href=\"#community\" ><strong>" + influencers.length + "</strong></a> influencers and <strong>" + groups.length + "</strong> groups.\n</div>\n<div class=column>\nExplore the work of" + 
+        " <a href=\"#startups\" ><strong>" + startups.length + "</a></strong> startups focused on generating business solutions using the latest AI technologies.\n</div>\n";
         let statusIndex = data.indexOf("<div class=status>") + 1;
         data.splice(statusIndex,0,statusStory);
 

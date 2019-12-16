@@ -20,12 +20,12 @@ html {
 }
 
 body {
-	background-color: lighten(mc('blue-grey','50'), 5%);
+	background-color: $bg-primary;
   height: 100%;
 }
 
 main {
-	background-color: lighten(mc('blue-grey','50'), 5%);
+	background-color: $bg-primary;
 }
 
 a {
@@ -103,7 +103,9 @@ a {
 
 .is-hidden-touch {
   @include touch {
-    display: none !important;
+    max-width: 30px;
+    float: left;
+
   }
 }
 

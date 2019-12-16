@@ -8,7 +8,7 @@
 
 <div class=status>
 
-At this AI Ecosystem you can check out <strong>2</strong> AI related events in which you can participate.
+At this AI Ecosystem you can check out <strong>0</strong> AI related events in which you can participate.
 Connect with local AI community, represented by <strong>0</strong> influencers and <strong>0</strong> groups with <strong>0</strong> community members.
 Explore the work  of <strong>0</strong> startups focused on generating business solutions using latest AI technologies.
 Also there are <strong>0</strong> AI related local organizations!
@@ -112,25 +112,13 @@ Check out the voices of the local AI community
 
 
 # Events
-You can join 2 locally organized upcoming events
+You can join 0 locally organized upcoming events
 <div class=events>
 
 <div class=column id=0>
 
-[Inteligencia Artificial cambiando nuestro entorno empresaria](https://www.meetup.com/La-Paz-Women-in-Machine-Learning-and-Data-Science/events/266896586/)
-##### Sat Dec 07 2019
-**Location:** [La Paz](/La Paz/home/)
-**Organizer:** La Paz Women in Machine Learning & Data Science
-
-
 </div>
 <div class=column id=1>
-
-[ Flutter Interact - Viewing Party La Paz](https://www.meetup.com/GDG-La-Paz/events/266480695/)
-##### Wed Dec 11 2019
-**Location:** [La Paz](/La Paz/home/)
-**Organizer:** GDG La Paz
-
 
 </div>
 <div class=column id=2>

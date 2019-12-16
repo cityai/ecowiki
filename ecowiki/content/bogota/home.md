@@ -8,7 +8,7 @@
 
 <div class=status>
 
-At this AI Ecosystem you can check out <strong>2</strong> AI related events in which you can participate.
+At this AI Ecosystem you can check out <strong>1</strong> AI related events in which you can participate.
 Connect with local AI community, represented by <strong>3</strong> influencers and <strong>0</strong> groups with <strong>0</strong> community members.
 Explore the work  of <strong>0</strong> startups focused on generating business solutions using latest AI technologies.
 Also there are <strong>0</strong> AI related local organizations!
@@ -127,25 +127,19 @@ Check out the voices of the local AI community
 
 
 # Events
-You can join 2 locally organized upcoming events
+You can join 1 locally organized upcoming events
 <div class=events>
 
 <div class=column id=0>
-
-[Transformación Digital y Automatización con RPA](https://www.meetup.com/Introduccion-a-Programacion-RPA-con-Rocketbot/events/266942085/)
-##### Thu Dec 12 2019
-**Location:** [Bogota](/Bogota/home/)
-**Organizer:** Introducción a Programación RPA con Rocketbot
-
-
-</div>
-<div class=column id=1>
 
 [AIHub # 10 Inteligencia Artificial](https://www.meetup.com/ai_hub/events/266945708/)
 ##### Thu Dec 19 2019
 **Location:** [Bogota](/Bogota/home/)
 **Organizer:** AI Hub
 
+
+</div>
+<div class=column id=1>
 
 </div>
 <div class=column id=2>
