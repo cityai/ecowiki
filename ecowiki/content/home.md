@@ -2,15 +2,13 @@
 
 
 
-<div class="embed-container"><iframe width="1920" height="1080" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AI Ecosystem Map" src="//www.arcgis.com/apps/Embed/index.html?webmap=e9485697909c40baad34647d8d0dbb85&extent=-102.7441,-27.2974,102.7441,65.9089&zoom=true&previewImage=false&scale=true&search=true&searchextent=false&disable_scroll=false&theme=light"></iframe></div>
-
 
 <div class=status>
 <div class=column>
 <a href="#ecosystems"><strong>6</strong></a>
 </div>
 <div class=column>
-<a href="#events" ><strong>92</strong></a>
+<a href="#events" ><strong>77</strong></a>
 </div>
 <div class=column>
 <a href="#community" ><strong>35</strong></a>
@@ -118,87 +116,87 @@ Globally you can join 3 active community groups in 6 unlocked cities on the topi
 </div>
 
 # Events
- You can join more then 92 upcoming events in 6 cities around the world the coming weeks. In past 172 events have been hosted
+ You can join more then 77 upcoming events in 6 cities around the world the coming weeks. In past 189 events have been hosted
 <div class=events>
 
 <div class=column id=0>
 
-[KI Community & Networking](https://www.meetup.com/kicommunity/events/266429343/)
-##### Tue Dec 17 2019
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** KI Community & Networking
-
-
-[Building Software That Recognizes You](https://www.meetup.com/Microsoft-Reactor-London/events/265947486/)
-##### Tue Dec 17 2019
+[The World According to Jordan Peterson](https://www.meetup.com/meetup-group-imLpPNkF/events/sdlbgryzqbxb/)
+##### Wed Dec 18 2019
 **Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
+**Organizer:** Jordan Peterson Discussion Group
 
 
-[KI Community & Networking (für User und Fachleute von KI / AI)](https://www.meetup.com/kicommunity/events/266429343/)
-##### Tue Dec 17 2019
+[CRO | Best practices for A/B-testing on a limited budget](https://www.meetup.com/Digital/events/266983544/)
+##### Wed Dec 18 2019
+**Location:** [London](/London/home/)
+**Organizer:** Outreach Digital | The Marketing, Analytics, UX & Tech Club
+
+
+[What every (future) CTO needs to know](https://www.meetup.com/London-TechDebates/events/266917746/)
+##### Thu Dec 19 2019
+**Location:** [London](/London/home/)
+**Organizer:** London Tech Debates
+
+
+[(paid) online AI course: Deep Learning for developers](https://www.meetup.com/Berlin-AI-Tech-Talk/events/266485754/)
+##### Tue Jan 07 2020
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** KI Community & Networking
-
-
-[Tutorial on Variational Autoencoders – Carl Doersch (https://u.nu/3j-s)](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/ltzxsqyzqbwb/)
-##### Tue Dec 17 2019
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Advanced Machine Learning Study Group
+**Organizer:** Berlin AI Developers Group
 
 
 </div>
 <div class=column id=1>
 
-[Data Science Demo Day ](https://www.meetup.com/Data-Science-Retreat/events/266022546/)
-##### Tue Dec 17 2019
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Data Science Retreat
-
-
-[Consciousness, Mental Health and Technology - Pre-holiday drinks](https://www.meetup.com/London-Consciousness-Hacking/events/266460868/)
-##### Tue Dec 17 2019
+[Introduction to Python for Data Science](https://www.meetup.com/Microsoft-Reactor-London/events/265947492/)
+##### Wed Dec 18 2019
 **Location:** [London](/London/home/)
-**Organizer:** London Consciousness Hacking
+**Organizer:** Microsoft Reactor London
 
 
-[December 17th Meetup @ Wavemaker : Call for Speakers!](https://www.meetup.com/Messaging-Bots-London/events/266825075/)
-##### Tue Dec 17 2019
+[Beginners Data Science for Python Developers](https://www.meetup.com/Microsoft-Reactor-London/events/265947497/)
+##### Thu Dec 19 2019
 **Location:** [London](/London/home/)
-**Organizer:** Chatbots & Voice Assistants London
+**Organizer:** Microsoft Reactor London
 
 
-[Project LookOut: International Polish-German E-Commerce Meetup](https://www.meetup.com/Berlin-Digital-Business-Network-SIBB/events/266996555/)
-##### Tue Dec 17 2019
+[Creating Disruptive Fintech Business Models](https://www.meetup.com/Creating-Disruptive-Business-Models/events/266340957/)
+##### Fri Dec 20 2019
+**Location:** [London](/London/home/)
+**Organizer:** Creating Disruptive Business Models
+
+
+[Deep Reinforcement Learning – 16: Inverse Reinforcement Learning](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/ltzxsqybccbkb/)
+##### Tue Jan 07 2020
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** 💥 Berlin Digital Business Network @SIBB 💥
+**Organizer:** Advanced Machine Learning Study Group
 
 
 </div>
 <div class=column id=2>
 
-[Machine Learning Powered Push Notifications](https://www.meetup.com/Artificial-Intelligence-UK/events/266498710/)
-##### Tue Dec 17 2019
+[Elanim Ecosystem with Kodiri: Coding workshop: Create a ReactJs app](https://www.meetup.com/London-Blockchain-Network/events/266925748/)
+##### Wed Dec 18 2019
 **Location:** [London](/London/home/)
-**Organizer:** Big Data, Analytics, and Artificial Intelligence
+**Organizer:** London Blockchain Network
 
 
-[Round 25: Some Round Name](https://www.meetup.com/London-Hack-and-Tell/events/pgstfryzqbwb/)
-##### Tue Dec 17 2019
-**Location:** [London](/London/home/)
-**Organizer:** London Hack&&Tell
+[AIHub # 10 Inteligencia Artificial](https://www.meetup.com/ai_hub/events/266945708/)
+##### Thu Dec 19 2019
+**Location:** [Bogota](/Bogota/home/)
+**Organizer:** AI Hub
 
 
-[KI Community & Networking - für Interessierte und Anwender von KI](https://www.meetup.com/kicommunity/events/266429343/)
-##### Tue Dec 17 2019
+[ML Group Berlin - topics TBD](https://www.meetup.com/berlin-machine-learning/events/266381438/)
+##### Mon Jan 06 2020
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** KI Community & Networking
+**Organizer:** Berlin Machine Learning Group
 
 
-[Building Software That Recognises You](https://www.meetup.com/Microsoft-Reactor-London/events/265947486/)
-##### Tue Dec 17 2019
-**Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
+[MX paper reading group](https://www.meetup.com/Merantix-AI-Paper-Discussion-Group/events/266105053/)
+##### Wed Jan 08 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Merantix AI Paper Discussion Group
 
 
 </div>
