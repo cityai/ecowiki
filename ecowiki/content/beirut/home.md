@@ -69,6 +69,10 @@ You can join 0 active community groups on the topic of Artificial Intelligence
 <div class=column id=2>
 
 </div>
+<div class=column id=3>
+
+</div>
+
 
 </div>
 
@@ -88,6 +92,10 @@ You can join 0 active community groups on the topic of Artificial Intelligence
 <div class=column id=2>
 
 </div>
+<div class=column id=3>
+
+</div>
+
 </details>
 
 </div>
@@ -98,7 +106,7 @@ Check out the voices of the local AI community
 
 <div class=column id=0>
 
-![http://pbs.twimg.com/profile_images/999401515352653824/RJODfftT_normal.jpg](http://pbs.twimg.com/profile_images/999401515352653824/RJODfftT_normal.jpg){: width=10%}
+![http://pbs.twimg.com/profile_images/999401515352653824/RJODfftT_normal.jpg](http://pbs.twimg.com/profile_images/999401515352653824/RJODfftT_normal.jpg){: width=15%}
 [zohbi](https://twitter.com/kristoffzoghbi)
 **Followers:** 111
 
@@ -106,7 +114,7 @@ Check out the voices of the local AI community
 </div>
 <div class=column id=1>
 
-![link](link){: width=10%}
+![link](link){: width=15%}
 [John Dioe](asdasd)
 **Followers:** 213
 
@@ -115,6 +123,10 @@ Check out the voices of the local AI community
 <div class=column id=2>
 
 </div>
+<div class=column id=3>
+
+</div>
+
 </div>
 
 <div class=influencers id="list">
@@ -133,6 +145,10 @@ Check out the voices of the local AI community
 <div class=column id=2>
 
 </div>
+<div class=column id=3>
+
+</div>
+
 </details>
 
 
@@ -152,6 +168,10 @@ You can join 0 locally organized upcoming events
 <div class=column id=2>
 
 </div>
+<div class=column id=3>
+
+</div>
+
 </div>
 
 <div class=events id="list">
@@ -168,6 +188,9 @@ You can join 0 locally organized upcoming events
 
 </div>
 <div class=column id=2>
+
+</div>
+<div class=column id=3>
 
 </div>
 </details>
@@ -197,6 +220,9 @@ Active local organizations and initiatives related to AI
 <div class=column id=2>
 
 </div>
+<div class=column id=3>
+
+</div>
 </div>
 
 <div class=organizations id="list">
@@ -215,6 +241,9 @@ Active local organizations and initiatives related to AI
 <div class=column id=2>
 
 </div>
+<div class=column id=3>
+
+</div>
 </details>
 
 
@@ -231,38 +260,14 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 
 <div class=column id=0>
 
-![link](link){: width=10%}
+![link](link){: width=15%}
 [test 5](liiink)
 **Activity:** ML,  AI
 **Investment in USD:** 452,424
 **Location:** [Beirut](/Beirut/home/)
 
 
-![/images/startupEmpty.svg.png](/images/startupEmpty.svg.png){: width=10%}
-[MAJ Solution](https://www.crunchbase.com/organization/maj-solution)
-**Activity:** Analytics, Software, Big Data, Artificial Intelligence, Information Technology, Mobile
-**Investment in USD:** 0
-**Location:** [Beirut](/Beirut/home/)
-
-
-![/images/startupEmpty.svg.png](/images/startupEmpty.svg.png){: width=10%}
-[ISIDOR solution](https://www.crunchbase.com/organization/maj-solution)
-**Activity:** Analytics, Software, Big Data, Artificial Intelligence, Information Technology, Mobile
-**Investment in USD:** -5,666
-**Location:** [Beirut](/Beirut/home/)
-
-
-</div>
-<div class=column id=1>
-
-![http://public.crunchbase.com/t_api_images/bnabzzftteru5nnkmiaa](http://public.crunchbase.com/t_api_images/bnabzzftteru5nnkmiaa){: width=10%}
-[Fig](https://www.crunchbase.com/organization/fig-app)
-**Activity:** Machine Learning, Natural Language Processing, Analytics, Big Data, Artificial Intelligence
-**Investment in USD:** 300,000
-**Location:** [Beirut](/Beirut/home/)
-
-
-![http://public.crunchbase.com/t_api_images/rahttpvoc0bnilkbnh7f](http://public.crunchbase.com/t_api_images/rahttpvoc0bnilkbnh7f){: width=10%}
+![http://public.crunchbase.com/t_api_images/rahttpvoc0bnilkbnh7f](http://public.crunchbase.com/t_api_images/rahttpvoc0bnilkbnh7f){: width=15%}
 [Lexyom](https://www.crunchbase.com/organization/lexium)
 **Activity:** Legal Tech, Legal, Artificial Intelligence
 **Investment in USD:** 0
@@ -270,18 +275,45 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 
 
 </div>
+<div class=column id=1>
+
+![http://public.crunchbase.com/t_api_images/bnabzzftteru5nnkmiaa](http://public.crunchbase.com/t_api_images/bnabzzftteru5nnkmiaa){: width=15%}
+[Fig](https://www.crunchbase.com/organization/fig-app)
+**Activity:** Machine Learning, Natural Language Processing, Analytics, Big Data, Artificial Intelligence
+**Investment in USD:** 300,000
+**Location:** [Beirut](/Beirut/home/)
+
+
+![http://public.crunchbase.com/t_api_images/ojcvhjxfkmvtowujk8dt](http://public.crunchbase.com/t_api_images/ojcvhjxfkmvtowujk8dt){: width=15%}
+[Personafier SAL](https://www.crunchbase.com/organization/personafier-sal)
+**Activity:** Social Media Marketing, Content, Content Marketing, Social Media, Content Discovery, Advertising, Analytics, Artificial Intelligence, Events, News
+**Investment in USD:** 0
+**Location:** [Beirut](/Beirut/home/)
+
+
+</div>
 <div class=column id=2>
 
-![http://public.crunchbase.com/t_api_images/cz5aynlw7caupuarvtxh](http://public.crunchbase.com/t_api_images/cz5aynlw7caupuarvtxh){: width=10%}
+![http://public.crunchbase.com/t_api_images/cz5aynlw7caupuarvtxh](http://public.crunchbase.com/t_api_images/cz5aynlw7caupuarvtxh){: width=15%}
 [Fallound](https://www.crunchbase.com/organization/fallound)
 **Activity:** Software, Artificial Intelligence, Mobile
 **Investment in USD:** 125,000
 **Location:** [Beirut](/Beirut/home/)
 
 
-![http://public.crunchbase.com/t_api_images/ojcvhjxfkmvtowujk8dt](http://public.crunchbase.com/t_api_images/ojcvhjxfkmvtowujk8dt){: width=10%}
-[Personafier SAL](https://www.crunchbase.com/organization/personafier-sal)
-**Activity:** Social Media Marketing, Content, Content Marketing, Social Media, Content Discovery, Advertising, Analytics, Artificial Intelligence, Events, News
+![/images/startupEmpty.svg.png](/images/startupEmpty.svg.png){: width=15%}
+[ISIDOR solution](https://www.crunchbase.com/organization/maj-solution)
+**Activity:** Analytics, Software, Big Data, Artificial Intelligence, Information Technology, Mobile
+**Investment in USD:** -5,666
+**Location:** [Beirut](/Beirut/home/)
+
+
+</div>
+<div class=column id=3>
+
+![/images/startupEmpty.svg.png](/images/startupEmpty.svg.png){: width=15%}
+[MAJ Solution](https://www.crunchbase.com/organization/maj-solution)
+**Activity:** Analytics, Software, Big Data, Artificial Intelligence, Information Technology, Mobile
 **Investment in USD:** 0
 **Location:** [Beirut](/Beirut/home/)
 
@@ -302,6 +334,9 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 
 </div>
 <div class=column id=2>
+
+</div>
+<div class=column id=3>
 
 </div>
 </details>
@@ -332,5 +367,4 @@ Workforce performance management for customer support
 
 </div>
 
-<div class="embed-container"><iframe width="1920" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AI Ecosystem Map" src="//www.arcgis.com/apps/Embed/index.html?webmap=e9485697909c40baad34647d8d0dbb85&extent=-102.7441,-27.2974,102.7441,65.9089&zoom=true&previewImage=false&scale=true&search=true&searchextent=false&disable_scroll=true&theme=light"></iframe></div>
-
+<div class="embed-container"><small><a href="//www.arcgis.com/apps/Embed/index.html?webmap=e9485697909c40baad34647d8d0dbb85&extent=-138.4992,-28.8823,127.2821,65.165&zoom=true&scale=true&search=true&searchextent=true&disable_scroll=true&theme=light" style="color:#0000FF;text-align:left" target="_blank">View larger map</a></small><br><iframe width="1280" height="360" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AI Ecosystem Map" src="//www.arcgis.com/apps/Embed/index.html?webmap=e9485697909c40baad34647d8d0dbb85&extent=-138.4992,-28.8823,127.2821,65.165&zoom=true&previewImage=false&scale=true&search=true&searchextent=true&disable_scroll=true&theme=light"></iframe></div>

@@ -11,7 +11,7 @@
 <a href="#ecosystems"><strong>0</strong></a>
 </div>
 <div class=column>
-<a href="#events" ><strong>1</strong></a>
+<a href="#events" ><strong>0</strong></a>
 </div>
 <div class=column>
 <a href="#community" ><strong>3</strong></a>
@@ -67,6 +67,10 @@ You can join 0 active community groups on the topic of Artificial Intelligence
 <div class=column id=2>
 
 </div>
+<div class=column id=3>
+
+</div>
+
 
 </div>
 
@@ -86,6 +90,10 @@ You can join 0 active community groups on the topic of Artificial Intelligence
 <div class=column id=2>
 
 </div>
+<div class=column id=3>
+
+</div>
+
 </details>
 
 </div>
@@ -96,7 +104,7 @@ Check out the voices of the local AI community
 
 <div class=column id=0>
 
-![http://pbs.twimg.com/profile_images/599938400901271553/H_5Eznsf_normal.jpg](http://pbs.twimg.com/profile_images/599938400901271553/H_5Eznsf_normal.jpg){: width=10%}
+![http://pbs.twimg.com/profile_images/599938400901271553/H_5Eznsf_normal.jpg](http://pbs.twimg.com/profile_images/599938400901271553/H_5Eznsf_normal.jpg){: width=15%}
 [Alejandro Correa B](https://twitter.com/albahnsen)
 **Followers:** 731
 
@@ -104,7 +112,7 @@ Check out the voices of the local AI community
 </div>
 <div class=column id=1>
 
-![http://pbs.twimg.com/profile_images/1134202198143963136/c0gzBQI6_normal.png](http://pbs.twimg.com/profile_images/1134202198143963136/c0gzBQI6_normal.png){: width=10%}
+![http://pbs.twimg.com/profile_images/1134202198143963136/c0gzBQI6_normal.png](http://pbs.twimg.com/profile_images/1134202198143963136/c0gzBQI6_normal.png){: width=15%}
 [Jean Phillip Bernier](https://twitter.com/jean_p_bernier)
 **Followers:** 25
 
@@ -112,12 +120,16 @@ Check out the voices of the local AI community
 </div>
 <div class=column id=2>
 
-![http://pbs.twimg.com/profile_images/713468146687086592/d6O_1IAU_normal.jpg](http://pbs.twimg.com/profile_images/713468146687086592/d6O_1IAU_normal.jpg){: width=10%}
+![http://pbs.twimg.com/profile_images/713468146687086592/d6O_1IAU_normal.jpg](http://pbs.twimg.com/profile_images/713468146687086592/d6O_1IAU_normal.jpg){: width=15%}
 [Alejandro Betancourt](https://twitter.com/AlejoBt)
 **Followers:** 624
 
 
 </div>
+<div class=column id=3>
+
+</div>
+
 </div>
 
 <div class=influencers id="list">
@@ -136,6 +148,10 @@ Check out the voices of the local AI community
 <div class=column id=2>
 
 </div>
+<div class=column id=3>
+
+</div>
+
 </details>
 
 
@@ -143,16 +159,10 @@ Check out the voices of the local AI community
 
 
 # Events
-You can join 1 locally organized upcoming events
+You can join 0 locally organized upcoming events
 <div class=events>
 
 <div class=column id=0>
-
-[AIHub # 10 Inteligencia Artificial](https://www.meetup.com/ai_hub/events/266945708/)
-##### Thu Dec 19 2019
-**Location:** [Bogota](/Bogota/home/)
-**Organizer:** AI Hub
-
 
 </div>
 <div class=column id=1>
@@ -161,6 +171,10 @@ You can join 1 locally organized upcoming events
 <div class=column id=2>
 
 </div>
+<div class=column id=3>
+
+</div>
+
 </div>
 
 <div class=events id="list">
@@ -177,6 +191,9 @@ You can join 1 locally organized upcoming events
 
 </div>
 <div class=column id=2>
+
+</div>
+<div class=column id=3>
 
 </div>
 </details>
@@ -206,6 +223,9 @@ Active local organizations and initiatives related to AI
 <div class=column id=2>
 
 </div>
+<div class=column id=3>
+
+</div>
 </div>
 
 <div class=organizations id="list">
@@ -222,6 +242,9 @@ Active local organizations and initiatives related to AI
 
 </div>
 <div class=column id=2>
+
+</div>
+<div class=column id=3>
 
 </div>
 </details>
@@ -247,6 +270,9 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 <div class=column id=2>
 
 </div>
+<div class=column id=3>
+
+</div>
 
 </div>
 
@@ -262,6 +288,9 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 
 </div>
 <div class=column id=2>
+
+</div>
+<div class=column id=3>
 
 </div>
 </details>
@@ -292,5 +321,4 @@ Workforce performance management for customer support
 
 </div>
 
-<div class="embed-container"><iframe width="1920" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AI Ecosystem Map" src="//www.arcgis.com/apps/Embed/index.html?webmap=e9485697909c40baad34647d8d0dbb85&extent=-102.7441,-27.2974,102.7441,65.9089&zoom=true&previewImage=false&scale=true&search=true&searchextent=false&disable_scroll=true&theme=light"></iframe></div>
-
+<div class="embed-container"><small><a href="//www.arcgis.com/apps/Embed/index.html?webmap=e9485697909c40baad34647d8d0dbb85&extent=-138.4992,-28.8823,127.2821,65.165&zoom=true&scale=true&search=true&searchextent=true&disable_scroll=true&theme=light" style="color:#0000FF;text-align:left" target="_blank">View larger map</a></small><br><iframe width="1280" height="360" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AI Ecosystem Map" src="//www.arcgis.com/apps/Embed/index.html?webmap=e9485697909c40baad34647d8d0dbb85&extent=-138.4992,-28.8823,127.2821,65.165&zoom=true&previewImage=false&scale=true&search=true&searchextent=true&disable_scroll=true&theme=light"></iframe></div>

@@ -12,7 +12,7 @@ class MarkdownConvertor {
         for (let i = 0; i < n; i++) {
             //There is no data for particular part of the city (e.g no news yet, no organizations...)
             if (document.length < 1) continue;
-            let tempIndex = data.indexOf("<div class=column id=" + i%3 + ">", index)+1;
+            let tempIndex = data.indexOf("<div class=column id=" + i%4 + ">", index)+1;
             tempIndex = data.indexOf("</div>",tempIndex)-1;
             if(setctionText === '<div class=ecosystems>')
                 tempIndex = index;
@@ -40,7 +40,7 @@ class MarkdownConvertor {
                         tempIndex++;
                         break;
                     case "picture":
-                        data.splice(tempIndex, 0, "![" + document[i][attributesArray[j]] + "](" + document[i][attributesArray[j]] + "){: width=10%}");
+                        data.splice(tempIndex, 0, "![" + document[i][attributesArray[j]] + "](" + document[i][attributesArray[j]] + "){: width=15%}");
                         tempIndex++;
                         break;
                     case "description":

@@ -82,9 +82,9 @@
     width: 32px;
     height: 32px;
     display: block;
-    left: -40px;
+    left: -50px;
     position: relative;
-    top: 40px;
+    top:90px;
     opacity: 20%;
     }
     #ecosystems::before{
@@ -120,42 +120,43 @@
       content: " ";
       //background-image: url("/images/structures/ecosystems_structure.svg");
       background-size: 100% 100%;
-      width: 400px;
-      height: 32px;
+      width: 1192px;
+      height: 85px;
       display: inline-block;
+      top: 5px;
       left: 20px;
       position: relative;
-      opacity: 20%;
+      opacity: 100%;
       }
 
 
       #ecosystems::after{
-        background-image: url("/images/structures/ecosystems_structure.svg");
+        background-image: url("/images/structures/ecosystems_structures.png");
       }
   
       #founding-partners::after{
-        background-image: url("/images/structures/founding partners_structure.svg");
+        background-image: url("/images/structures/founding partners_structures.png");
       }
       #top-communities::after{
-        background-image: url("/images/structures/top communities_structure.svg");
+        background-image: url("/images/structures/top communities_structures.png");
       }
       #community::after{
-        background-image: url("/images/structures/top communities_structure.svg");
+        background-image: url("/images/structures/top communities_structures.png");
       }
       #influencers::after{
-        background-image: url("/images/structures/influencers_structure.svg");
+        background-image: url("/images/structures/influencers_structures.png");
   
       }
       #events::after{
-        background-image: url("/images/structures/events_structure.svg");
+        background-image: url("/images/structures/events_structures.png");
       }
   
       #organizations::after{
-        background-image: url("/images/structures/organizations_structure.svg");
+        background-image: url("/images/structures/organizations_structures.png");
       }
   
       #startups::after{
-        background-image: url("/images/structures/startups_structure.svg");
+        background-image: url("/images/structures/startups_structures.png");
       }
 
     // h1::after{
@@ -589,9 +590,16 @@
   .groups {
     padding-left: 15px;
     display: block;
+    background: white;
+    margin-right: 100px;
     details summary{
       padding-left: 0;
     }
+  }
+
+  .groups ~ .groups {
+    background: 0;
+    margin-right: 0;
   }
   .groups:after{
     content: "";
@@ -600,7 +608,7 @@
   }
   .groups .column{
     float: left;
-    width: 33.33%;
+    width: 25%;
   }
   .groups p a{
     font-size: 18px;
@@ -617,11 +625,18 @@
   }
 
   .groups p a.internal-link{
-    display: inline;
+    display: block;
     margin:0;
     font-size: 16px;
 
   }
+
+  .groups p a.internal-link:nth-of-type(2){
+    display: inline;
+    font-weight: normal;
+    text-decoration-line: underline;
+  }
+
   .groups h4 {
     font-size: 18px;
     font-weight: 700;
@@ -645,6 +660,15 @@
     display: none;
   }
   //--------------------------------------------EVENTS SECTION
+  
+  .events{
+    background: white;
+    margin-right: 100px;
+  }
+  .events ~ .events{
+    background:0;
+    margin-right: 0;
+  }
   .events:after{
     content: "";
     display: table;
@@ -652,7 +676,7 @@
   }
   .events .column{
     float: left;
-    width: 33.33%;
+    width: 25%;
   }
   
   .events h4 {
@@ -693,8 +717,11 @@
   }
   .events p a.internal-link{
     font-size: 16px;
+    font-weight: normal;
+    text-decoration-line: underline;
   }
   //--------------------------------------------STARTUPS SECTION
+
   .startups:after{
     content: "";
     display: table;
@@ -702,15 +729,22 @@
   }
   .startups .column{
     float: left;
-    width: 33.33%;
+    width: 25%;
   }
-  
+ 
+  .startups ~ .startups{
+    background: 0;
+    margin-right: 0;
+  }
   .startups {
+    background: white;
+    margin-right: 100px;
     p {
       display: block;
       flex-direction: column;
       flex: 0;
       font-size: 16px;
+      padding-bottom: 50px;
 
       a {
         color: #000;
@@ -726,6 +760,8 @@
       }
       a.internal-link{
         font-size: 16px;
+        font-weight: normal;
+        text-decoration-line: underline;
       }
     }
     h4 {
@@ -752,6 +788,12 @@
   //--------------------------------------------INFLUENCERS SECTION
   .influencers {
     font-size: 18px;
+    background: white;
+    margin-right: 100px;
+  }
+  .influencers ~ .influencers{
+    background: 0;
+    margin-right: 0;
   }
   .influencers:after{
     content: "";
@@ -760,11 +802,13 @@
   }
   .influencers .column{
     float: left;
-    width: 33.33%;
+    width: 25%;
   }
   .influencers a.internal-link {
     color: #000;
     font-size: 16px;
+    font-weight: normal;
+    text-decoration-line: underline;
     &:hover {
       color: #c80000;
     }
@@ -827,7 +871,14 @@
     font-size: 48px;
   }
   //---------------------------------------------ORGANIZATIONS
-
+  .organizations{
+    background: white;
+    margin-right: 100px;
+  }
+  .organizations ~ .organizations{
+    background: 0;
+    margin-right: 0;
+  }
   .organizations:after{
     content: "";
     display: table;
@@ -835,7 +886,7 @@
   }
   .organizations .column{
     float: left;
-    width: 33.33%;
+    width: 25%;
   }
   .organizations h4 {
     padding-left: 15px;
@@ -843,7 +894,9 @@
     color: mc('grey','800');
   }
   .organizations a.internal-link{
-    font-weight: bold;
+    font-weight: normal;
+    text-decoration-line: underline;
+
   }
   .organizations p {
 	display: block;
@@ -911,8 +964,8 @@
   }
   //---------------------------------------------------------------MAP
   .embed-container {
-    position: relative;
-    padding-bottom: 56%; 
+    position: relative; 
+    padding-bottom: 28%; 
     height: 0; 
     max-width: 100%;
   } 

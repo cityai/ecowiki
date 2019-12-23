@@ -51,6 +51,10 @@ Workforce performance management for customer support
 <div class=column id=2>
 
 </div>
+<div class=column id=3>
+
+</div>
+
 </div>
 
 # Events
@@ -64,6 +68,10 @@ Workforce performance management for customer support
 <div class=column id=2>
 
 </div>
+<div class=column id=3>
+
+</div>
+
 </div>
 
 # Influencers
@@ -78,6 +86,10 @@ Check out the voices of the global AI community
 <div class=column id=2>
 
 </div>
+<div class=column id=3>
+
+</div>
+
 </div>
 
 
@@ -103,6 +115,10 @@ Active local organizations and initiatives related to AI
 <div class=column id=2>
 
 </div>
+<div class=column id=3>
+
+</div>
+
 </div>
 
 # Startups
@@ -119,6 +135,10 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 <div class=column id=2>
 
 </div>
+<div class=column id=3>
+
+</div>
+
 </div>
 
 

@@ -138,7 +138,7 @@ class MarkdownTransform {
                 data.splice(index,0,"This section can be updated by the local ambassador. For contact information see the About section of this page");
                 continue;
                 }
-            let tempIndex = data.indexOf("<div class=column id=" + i%3 + ">", index)+1;
+            let tempIndex = data.indexOf("<div class=column id=" + i%4 + ">", index)+1;
             tempIndex = data.indexOf("</div>",tempIndex)-1;
             data.splice(tempIndex, 0, "");
             tempIndex++;
@@ -166,7 +166,7 @@ class MarkdownTransform {
                             tempIndex++;
                         break;
                     case "picture":
-                        data.splice(tempIndex, 0, "![" + document[docObj][i][attributesArray[j]] + "](" + document[docObj][i][attributesArray[j]] + "){: width=10%}");
+                        data.splice(tempIndex, 0, "![" + document[docObj][i][attributesArray[j]] + "](" + document[docObj][i][attributesArray[j]] + "){: width=15%}");
                         tempIndex++;
                         break;
                     case "description":

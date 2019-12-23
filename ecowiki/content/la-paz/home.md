@@ -67,6 +67,10 @@ You can join 0 active community groups on the topic of Artificial Intelligence
 <div class=column id=2>
 
 </div>
+<div class=column id=3>
+
+</div>
+
 
 </div>
 
@@ -86,6 +90,10 @@ You can join 0 active community groups on the topic of Artificial Intelligence
 <div class=column id=2>
 
 </div>
+<div class=column id=3>
+
+</div>
+
 </details>
 
 </div>
@@ -103,6 +111,10 @@ Check out the voices of the local AI community
 <div class=column id=2>
 
 </div>
+<div class=column id=3>
+
+</div>
+
 </div>
 
 <div class=influencers id="list">
@@ -121,6 +133,10 @@ Check out the voices of the local AI community
 <div class=column id=2>
 
 </div>
+<div class=column id=3>
+
+</div>
+
 </details>
 
 
@@ -140,6 +156,10 @@ You can join 0 locally organized upcoming events
 <div class=column id=2>
 
 </div>
+<div class=column id=3>
+
+</div>
+
 </div>
 
 <div class=events id="list">
@@ -156,6 +176,9 @@ You can join 0 locally organized upcoming events
 
 </div>
 <div class=column id=2>
+
+</div>
+<div class=column id=3>
 
 </div>
 </details>
@@ -185,6 +208,9 @@ Active local organizations and initiatives related to AI
 <div class=column id=2>
 
 </div>
+<div class=column id=3>
+
+</div>
 </div>
 
 <div class=organizations id="list">
@@ -201,6 +227,9 @@ Active local organizations and initiatives related to AI
 
 </div>
 <div class=column id=2>
+
+</div>
+<div class=column id=3>
 
 </div>
 </details>
@@ -226,6 +255,9 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 <div class=column id=2>
 
 </div>
+<div class=column id=3>
+
+</div>
 
 </div>
 
@@ -241,6 +273,9 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 
 </div>
 <div class=column id=2>
+
+</div>
+<div class=column id=3>
 
 </div>
 </details>
@@ -271,5 +306,4 @@ Workforce performance management for customer support
 
 </div>
 
-<div class="embed-container"><iframe width="1920" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AI Ecosystem Map" src="//www.arcgis.com/apps/Embed/index.html?webmap=e9485697909c40baad34647d8d0dbb85&extent=-102.7441,-27.2974,102.7441,65.9089&zoom=true&previewImage=false&scale=true&search=true&searchextent=false&disable_scroll=true&theme=light"></iframe></div>
-
+<div class="embed-container"><small><a href="//www.arcgis.com/apps/Embed/index.html?webmap=e9485697909c40baad34647d8d0dbb85&extent=-138.4992,-28.8823,127.2821,65.165&zoom=true&scale=true&search=true&searchextent=true&disable_scroll=true&theme=light" style="color:#0000FF;text-align:left" target="_blank">View larger map</a></small><br><iframe width="1280" height="360" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AI Ecosystem Map" src="//www.arcgis.com/apps/Embed/index.html?webmap=e9485697909c40baad34647d8d0dbb85&extent=-138.4992,-28.8823,127.2821,65.165&zoom=true&previewImage=false&scale=true&search=true&searchextent=true&disable_scroll=true&theme=light"></iframe></div>
