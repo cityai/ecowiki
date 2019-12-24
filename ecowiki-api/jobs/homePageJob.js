@@ -65,15 +65,15 @@ module.exports =async function(){
         data.splice(subheadingIndex,0, subheadingTextEcosystems);
 
         subheadingIndex = data.indexOf("# Events")+ 1;
-        let subheadingTextEvents = " You can join more then " + events.length +" upcoming events in "+ cities.length + " cities around the world the coming weeks. In past "+ pastEvents +" events have been hosted"
+        let subheadingTextEvents =  events.length + "upcoming AI-related events. In past "+ pastEvents +" events have been hosted"
         data.splice(subheadingIndex,0,subheadingTextEvents);
 
         subheadingIndex = data.indexOf("# Top Communities") + 1;
-        let subheadingTextCommunity = "Globally you can join "+ groups.length + " active community groups in "+ cities.length +" unlocked cities on the topic of Artificial Intelligence"
+        let subheadingTextCommunity = "Connect with " +groups.length+" community groups promoting the best practices in AI."
         data.splice(subheadingIndex,0,subheadingTextCommunity);
 
         subheadingIndex = data.indexOf("# Startups") + 1;
-        let subheadingTextStartups = "Check the newest startups from " + startups.length + " globally, coming out of "+ cities.length +" unlocked AI ecosystems!"
+        let subheadingTextStartups = "Explore the newest startups working with AI technologies, from a total of "+ startups.length+" companies." 
         data.splice(subheadingIndex,0,subheadingTextStartups);
         
         await fs.writeFile(filePath, "", async err => {

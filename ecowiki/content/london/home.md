@@ -99,7 +99,7 @@ You can join 0 active community groups on the topic of Artificial Intelligence
 </div>
 
 # Influencers
-Check out the voices of the local AI community
+The voices of the local AI community
 <div class=influencers>
 
 <div class=column id=0>
@@ -1562,7 +1562,7 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 
 # Founding Partners
 
-Our global Founding Partners who enabled this initiative getting off the ground. A big THANKS for their support!
+Thanks to our global supporters, this initiative will keep evolving.
 <div class=partners>
 <div class=column id=0>
 <img src="/images/peltarion_logotype_horizontal_red.png" style="width:20%">

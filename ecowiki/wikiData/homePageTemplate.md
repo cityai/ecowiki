@@ -19,7 +19,7 @@
 
 # Founding Partners
 
-Our global Founding Partners who enabled this initiative getting off the ground. A big THANKS for their support!
+Thanks to our global supporters, this initiative will keep evolving.
 <div class=partners>
 <div class=column id=0>
 <img src="/images/peltarion_logotype_horizontal_red.png" style="width:20%">
@@ -75,7 +75,7 @@ Workforce performance management for customer support
 </div>
 
 # Influencers
-Check out the voices of the global AI community
+The voices of the global AI community
 <div class=influencers>
 <div class=column id=0>
 

@@ -92,15 +92,16 @@ class MarkdownTransform {
     {
         try {
             let subheadingIndex = data.indexOf("# Community") + 1;
-            let subheadingText = "You can join " + community.groups.length + " active community groups on the topic of Artificial Intelligence"
+            let subheadingText = "Connect with " + community.groups.length + " community groups promoting the best practices in AI."
             data.splice(subheadingIndex,0,subheadingText);
 
             subheadingIndex = data.indexOf("# Events") + 1;
-            subheadingText = "You can join " + city.events.length + " locally organized upcoming events";
+            subheadingText = city.events.length + " upcoming AI-related events.";
             data.splice(subheadingIndex,0,subheadingText);
 
             subheadingIndex = data.indexOf("# Startups") + 1;
-            subheadingText = "Check the newest startups from " + city.startups.length + " locally";
+            subheadingText = "Explore the newest startups working with AI technologies, from a total of "+ city.startups.length +" companies.";
+
             data.splice(subheadingIndex,0,subheadingText);
 
         } catch (error) {
