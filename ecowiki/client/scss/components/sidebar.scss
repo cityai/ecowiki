@@ -1,6 +1,83 @@
 @import "../base/variables.scss";
 
+.secHeader{
+	position: fixed;
+	top: 0px;
+	display: flex;
+	justify-content: center;
+	z-index: 3;
+	background:#f0f1f2;
+	padding: 60px 15pc 0 15pc;
+	text-decoration-line: unset;
+	@media only screen and (max-width: 800px){
+		padding: 3.75pc 12pc 0 10pc;
+	}
+li{
+	padding-right: 40px;
+	display: block;
+				  a::before{
+					  content: " ";
+					  //background-image: url("/images/sidebarShapes/ecosystems_shape.svg");
+					  background-size: 100% 100%;
+					  width: 16px;
+					  height: 16px;
+					  display: block;
+					  left: -10px;
+					  position: relative;
+					  top: 0;					
+					  }
+	  
+					  a[href="#ecosystems"]::before{
+						  background-image: url("/images/sidebarShapes/ecosystems_red_contour_shape.svg");
+						}
+					
+						a[href="#founding-partners"]::before{
+						  background-image: url("/images/sidebarShapes/founding partners_red_contour_shape.svg");
+						}
+						a[href="#top-communities"]::before{
+						  background-image: url("/images/sidebarShapes/top communities_red_contour_shape.svg");
+						}
+						a[href="#community"]::before{
+						  background-image: url("/images/sidebarShapes/top communities_red_contour_shape.svg");
+						}
+						a[href="#events"]::before{
+						  background-image: url("/images/sidebarShapes/events_red_contour_shape.svg");
+					
+						}
+						a[href="#influencers"]::before{
+						  background-image: url("/images/sidebarShapes/influencers_red_contour_shape.svg");
+						}
+					
+						a[href="#organizations"]::before{
+						  background-image: url("/images/sidebarShapes/organizations_red_contour_shape.svg");
+						}
+					
+						a[href="#startups"]::before{
+						  background-image: url("/images/sidebarShapes/startups_red_contour_shape.svg");
+						}
+				  a {
+					  display: flex;
+					  min-height: 30px;
+					  align-items: center;
+					  padding: 5px 23px;
+					  color: black;
+					  font-size: 14px;
+					  transition: all .4s ease;
+					  line-height: 14px;
+					  
+			cursor: pointer;
+				  }
+				  @media only screen and (max-width: 800px){
 
+					  a{
+						line-height: 0;
+						font-size: 0;
+						color:transparent;
+						padding: 5px 10px;
+					  }
+				  }
+}
+}
 .sidebar {
 	background-color: $sidebar-color-bg;
 	color: mc('blue-grey', '50');

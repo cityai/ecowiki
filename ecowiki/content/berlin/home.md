@@ -11,7 +11,7 @@
 <a href="#ecosystems"><strong>448</strong></a>
 </div>
 <div class=column>
-<a href="#events" ><strong>31</strong></a>
+<a href="#events" ><strong>32</strong></a>
 </div>
 <div class=column>
 <a href="#community" ><strong>13</strong></a>
@@ -224,7 +224,7 @@ Check out the voices of the local AI community
 
 
 # Events
-You can join 31 locally organized upcoming events
+You can join 32 locally organized upcoming events
 <div class=events>
 
 <div class=column id=0>
@@ -329,6 +329,39 @@ You can join 31 locally organized upcoming events
 **Organizer:** Berlin DoSE
 
 
+[AI in Action @PubNative](https://www.meetup.com/AI-in-Action-Berlin/events/266941016/)
+##### Wed Jan 22 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** AI in Action Berlin
+
+
+[BIA welcomes 2020 & FUTURE CITY Incubator launch](https://www.meetup.com/Innovators-Berlin-Corporates-Startups/events/267319338/)
+##### Tue Jan 28 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Innovators Berlin | Corporates & Startups
+
+
+[Employee to founder: Start up!](https://www.meetup.com/Mobility-Innovators-Club/events/266658412/)
+##### Thu Jan 30 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Mobility Innovators' Club
+
+
+[Braincities Open Lab - Live & Public Podcast, Berlin](https://www.meetup.com/datachaindc/events/266776928/)
+##### Thu Feb 13 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** DATACHAIN FOUNDATION
+
+
+</div>
+<div class=column id=1>
+
+[Study Session, vote for new/next content: http://tiny.cc/amlsg-vote](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/ltzxsqybccbcc/)
+##### Tue Jan 21 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Advanced Machine Learning Study Group
+
+
 [Deep Tech Meetup #7 - Evolution of Representations in the Transformer](https://www.meetup.com/Bots-Berlin-Build-better-conversational-interfaces-with-AI/events/267058207/)
 ##### Wed Jan 22 2020
 **Location:** [Berlin](/Berlin/home/)
@@ -354,12 +387,12 @@ You can join 31 locally organized upcoming events
 
 
 </div>
-<div class=column id=1>
+<div class=column id=2>
 
-[Study Session, vote for new/next content: http://tiny.cc/amlsg-vote](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/ltzxsqybccbcc/)
+[Pre-sprint preparation (Scikit-learn Open Source Sprint)](https://www.meetup.com/Berlin-Women-in-Machine-Learning-and-Data-Science/events/266968449/)
 ##### Tue Jan 21 2020
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** Advanced Machine Learning Study Group
+**Organizer:** Berlin Women in Machine Learning & Data Science
 
 
 [Scikit-learn Open Source Sprint](https://www.meetup.com/Berlin-Women-in-Machine-Learning-and-Data-Science/events/266968335/)
@@ -387,12 +420,12 @@ You can join 31 locally organized upcoming events
 
 
 </div>
-<div class=column id=2>
+<div class=column id=3>
 
-[Pre-sprint preparation (Scikit-learn Open Source Sprint)](https://www.meetup.com/Berlin-Women-in-Machine-Learning-and-Data-Science/events/266968449/)
+[Navigating the Music Tech Landscape in Europe with all its players](https://www.meetup.com/Startup-Grind-Berlin/events/267385849/)
 ##### Tue Jan 21 2020
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** Berlin Women in Machine Learning & Data Science
+**Organizer:** Startup Grind Berlin
 
 
 [AI for Business Meetup Berlin No. 3](https://www.meetup.com/meetup-group-ilfJOcru/events/266611983/)
@@ -417,33 +450,6 @@ You can join 31 locally organized upcoming events
 ##### Wed Feb 26 2020
 **Location:** [Berlin](/Berlin/home/)
 **Organizer:** AI in Action Berlin
-
-
-</div>
-<div class=column id=3>
-
-[AI in Action @PubNative](https://www.meetup.com/AI-in-Action-Berlin/events/266941016/)
-##### Wed Jan 22 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** AI in Action Berlin
-
-
-[BIA welcomes 2020 & FUTURE CITY Incubator launch](https://www.meetup.com/Innovators-Berlin-Corporates-Startups/events/267319338/)
-##### Tue Jan 28 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Innovators Berlin | Corporates & Startups
-
-
-[Employee to founder: Start up!](https://www.meetup.com/Mobility-Innovators-Club/events/266658412/)
-##### Thu Jan 30 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Mobility Innovators' Club
-
-
-[Braincities Open Lab - Live & Public Podcast, Berlin](https://www.meetup.com/datachaindc/events/266776928/)
-##### Thu Feb 13 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** DATACHAIN FOUNDATION
 
 
 </div>

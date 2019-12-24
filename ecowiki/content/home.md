@@ -8,7 +8,7 @@
 <a href="#ecosystems"><strong>6</strong></a>
 </div>
 <div class=column>
-<a href="#events" ><strong>97</strong></a>
+<a href="#events" ><strong>98</strong></a>
 </div>
 <div class=column>
 <a href="#community" ><strong>35</strong></a>
@@ -120,7 +120,7 @@ Globally you can join 3 active community groups in 6 unlocked cities on the topi
 </div>
 
 # Events
- You can join more then 97 upcoming events in 6 cities around the world the coming weeks. In past 197 events have been hosted
+ You can join more then 98 upcoming events in 6 cities around the world the coming weeks. In past 197 events have been hosted
 <div class=events>
 
 <div class=column id=0>
