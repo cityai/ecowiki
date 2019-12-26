@@ -7,6 +7,15 @@
   background-color: black;
   color: white;
 }
+
+@media only screen and (max-width: 480px){
+  .hero{
+    img{
+      width: 200px;
+    }
+  }
+}
+
 .hero {
   padding-top: 20px;
   padding-left: 76px;

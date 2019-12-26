@@ -232,10 +232,10 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 
 </div>
 
-<div class=startups id="list">
 
 <details>
 <summary class="sum">See all startups</summary>
+<div class=startups id="list">
 
 <div class=column id=0>
 
@@ -249,9 +249,10 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 <div class=column id=3>
 
 </div>
+</div>
 </details>
 
-</div>
+
 
 
 # Founding Partners

@@ -86,6 +86,12 @@
     position: relative;
     top:90px;
     opacity: 20%;
+    
+    }
+    @media only screen and (max-width: 1024px){
+      h1::before{
+      top:40px;
+      }
     }
     #ecosystems::before{
       background-image: url("/images/icons/ecosystems.svg");
@@ -127,6 +133,11 @@
       left: 20px;
       position: relative;
       opacity: 100%;
+      }
+      @media only screen and (max-width: 1024px){
+        h1::after{
+        left:-100px;
+        }
       }
 
 
@@ -325,6 +336,9 @@
 
   p {
     padding: 10px 20px;
+    @media only screen and (max-width: 480px){
+      padding: 0;
+    }
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -332,7 +346,7 @@
     font-size: 16px;
     color: black;
     &:first-child {
-      padding-top: 20px;
+      //padding-top: 20px;
     }
 
     a.internal-link {
@@ -579,7 +593,16 @@
       }
     }
   }
-
+  //--------------------------------------------LIST SELECTOR CSS 
+  #list { 
+    background: 0;
+    margin-right: 100px;
+    @media only screen and (max-width: 480px){
+      margin: 0;
+    }
+  }
+  
+  //--------------------------------------------
   .CityPageSpecific h1 {
     border: none;
     font-size: 40px;
@@ -605,10 +628,14 @@
     content: "";
     display: table;
     clear: both;
+    
   }
   .groups .column{
     float: left;
     width: 25%;
+    @media only screen and (max-width: 1024px){
+      width: 50%;
+    }
   }
   .groups p a{
     font-size: 18px;
@@ -673,10 +700,23 @@
     content: "";
     display: table;
     clear: both;
+   
   }
+
+  @media only screen and (max-width: 1024px){
+    .events > [class*=column]:nth-child(2n+1) {
+      clear: both;
+      margin-left: 0;
+  }
+
+  }
+
   .events .column{
     float: left;
     width: 25%;
+    @media only screen and (max-width: 1024px){
+      width: 50%;
+    }
   }
   
   .events h4 {
@@ -721,21 +761,33 @@
     text-decoration-line: underline;
   }
   //--------------------------------------------STARTUPS SECTION
-
+  
   .startups:after{
     content: "";
     display: table;
     clear: both;
   }
+
+  @media only screen and (max-width: 1024px){
+    .startups > [class*=column]:nth-child(2n+1) {
+      clear: both;
+      margin-left: 0;
+  }
+  .startups{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  }
+
   .startups .column{
     float: left;
     width: 25%;
+    @media only screen and (max-width: 1024px){
+        flex: 50%;
+        max-width: 50%;
+    }
   }
  
-  .startups ~ .startups{
-    background: 0;
-    margin-right: 0;
-  }
   .startups {
     background: white;
     margin-right: 100px;
@@ -799,10 +851,16 @@
     content: "";
     display: table;
     clear: both;
+    @media only screen and (max-width: 1024px){
+      margin-left: 0;
+    }
   }
   .influencers .column{
     float: left;
     width: 25%;
+    @media only screen and (max-width: 1024px){
+      width: 50%;
+    }
   }
   .influencers a.internal-link {
     color: #000;
@@ -857,6 +915,9 @@
     width: 20%;
     font-size: 16px;
     font-weight: bold;
+    @media only screen and (max-width: 480px){
+      font-size: 10px;
+    }
   }
   .status p {
     display: block;
@@ -869,6 +930,9 @@
     color: #c80000;
     font-weight: bold;
     font-size: 48px;
+    @media only screen and (max-width: 480px){
+      font-size:32px;
+    }
   }
   //---------------------------------------------ORGANIZATIONS
   .organizations{
@@ -887,6 +951,9 @@
   .organizations .column{
     float: left;
     width: 25%;
+    @media only screen and (max-width: 1024px){
+      width: 50%;
+    }
   }
   .organizations h4 {
     padding-left: 15px;

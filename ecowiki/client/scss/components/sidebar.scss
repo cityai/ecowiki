@@ -9,8 +9,11 @@
 	background:#f0f1f2;
 	padding: 60px 15pc 0 15pc;
 	text-decoration-line: unset;
-	@media only screen and (max-width: 800px){
+	@media only screen and (max-width: 1024px){
 		padding: 3.75pc 12pc 0 10pc;
+	}
+	@media only screen and (max-width: 480px){
+		padding: 4pc 12pc 0 5pc;
 	}
 li{
 	padding-right: 40px;
@@ -67,7 +70,7 @@ li{
 					  
 			cursor: pointer;
 				  }
-				  @media only screen and (max-width: 800px){
+				  @media only screen and (max-width: 1024px){
 
 					  a{
 						line-height: 0;
@@ -76,7 +79,20 @@ li{
 						padding: 5px 10px;
 					  }
 				  }
-}
+				  @media only screen and (max-width: 480px){
+
+					a{
+					  line-height: 0;
+					  font-size: 0;
+					  color:transparent;
+					  padding: 5px 10px;
+					}
+				}
+
+				@media only screen and (max-width: 480px){
+					padding-right: 20px;
+				}
+			}
 }
 .sidebar {
 	background-color: $sidebar-color-bg;

@@ -11,7 +11,7 @@
 <a href="#ecosystems"><strong>0</strong></a>
 </div>
 <div class=column>
-<a href="#events" ><strong>66</strong></a>
+<a href="#events" ><strong>65</strong></a>
 </div>
 <div class=column>
 <a href="#community" ><strong>18</strong></a>
@@ -55,7 +55,7 @@
 </div>
 
 # Community
-You can join 0 active community groups on the topic of Artificial Intelligence
+Connect with 0 community groups promoting the best practices in AI.
 <div class=groups>
 
 <div class=column id=0>
@@ -234,31 +234,10 @@ The voices of the local AI community
 
 
 # Events
-You can join 66 locally organized upcoming events
+65 upcoming AI-related events.
 <div class=events>
 
 <div class=column id=0>
-
-[Networking Drinks](https://www.meetup.com/AI-peer-group/events/jlrbwqyzqbjc/)
-##### Thu Dec 26 2019
-**Location:** [London](/London/home/)
-**Organizer:** Artificial Intelligence Peer Group
-
-
-[UX Academy - Introduction to UX Design Workshop (January 2020)](https://www.meetup.com/MobileUXLondon/events/267221093/)
-##### Thu Jan 09 2020
-**Location:** [London](/London/home/)
-**Organizer:** Mobile UX London
-
-
-[Frontier Tech Summit London, 13 Jan 2020 ](https://www.meetup.com/fintechstorm/events/266732898/)
-##### Mon Jan 13 2020
-**Location:** [London](/London/home/)
-**Organizer:** Fintech Storm - Disruptive Tech - Blockchain, AI, Fintech
-
-
-</div>
-<div class=column id=1>
 
 [PyData London - 62nd meetup](https://www.meetup.com/PyData-London-Meetup/events/267356017/)
 ##### Tue Jan 07 2020
@@ -279,7 +258,7 @@ You can join 66 locally organized upcoming events
 
 
 </div>
-<div class=column id=2>
+<div class=column id=1>
 
 [AWS DeepRacer Community: London Meetup #4 - Introduction 101 & Track Racing!](https://www.meetup.com/AWS-DeepRacer-Community-London/events/266578583/)
 ##### Wed Jan 08 2020
@@ -300,7 +279,7 @@ You can join 66 locally organized upcoming events
 
 
 </div>
-<div class=column id=3>
+<div class=column id=2>
 
 [The World According To Jordan Peterson](https://www.meetup.com/The-World-According-to-Jordan-Peterson/events/qwftlrybccblb/)
 ##### Wed Jan 08 2020
@@ -321,6 +300,27 @@ You can join 66 locally organized upcoming events
 
 
 </div>
+<div class=column id=3>
+
+[UX Academy - Introduction to UX Design Workshop (January 2020)](https://www.meetup.com/MobileUXLondon/events/267221093/)
+##### Thu Jan 09 2020
+**Location:** [London](/London/home/)
+**Organizer:** Mobile UX London
+
+
+[Frontier Tech Summit London, 13 Jan 2020 ](https://www.meetup.com/fintechstorm/events/266732898/)
+##### Mon Jan 13 2020
+**Location:** [London](/London/home/)
+**Organizer:** Fintech Storm - Disruptive Tech - Blockchain, AI, Fintech
+
+
+[Two journeys on data and Einstein to enable your business](https://www.meetup.com/London-Einstein-Analytics-Meetup/events/266972544/)
+##### Tue Jan 14 2020
+**Location:** [London](/London/home/)
+**Organizer:** London Einstein Analytics DataTribe
+
+
+</div>
 
 </div>
 
@@ -332,93 +332,6 @@ You can join 66 locally organized upcoming events
 
 
 <div class=column id=0>
-
-[Two journeys on data and Einstein to enable your business](https://www.meetup.com/London-Einstein-Analytics-Meetup/events/266972544/)
-##### Tue Jan 14 2020
-**Location:** [London](/London/home/)
-**Organizer:** London Einstein Analytics DataTribe
-
-
-[UX Academy - Introduction to Conversational Design Workshop (January 2020)](https://www.meetup.com/MobileUXLondon/events/267221118/)
-##### Wed Jan 15 2020
-**Location:** [London](/London/home/)
-**Organizer:** Mobile UX London
-
-
-[Scalability of blockchain based platforms : what's the challenge?](https://www.meetup.com/Trustless-Ecosystems/events/ccrqpqyzkbhc/)
-##### Thu Jan 16 2020
-**Location:** [London](/London/home/)
-**Organizer:** #TrustlessEcosystems: platforms empowered by AI & blockchain
-
-
-[Microsoft for Startups  |  Sales & Marketing Analytics](https://www.meetup.com/Microsoft-Reactor-London/events/266671538/)
-##### Thu Jan 16 2020
-**Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
-
-
-[Global Diversity CFP Day ](https://www.meetup.com/Microsoft-Reactor-London/events/267136302/)
-##### Sat Jan 18 2020
-**Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
-
-
-[Microsoft Startups | ScaleUp Graduation](https://www.meetup.com/Microsoft-Reactor-London/events/267258659/)
-##### Tue Jan 21 2020
-**Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
-
-
-[London ABM Meetup](https://www.meetup.com/London-Agent-based-Modelling-Meetup/events/267271176/)
-##### Thu Jan 23 2020
-**Location:** [London](/London/home/)
-**Organizer:** London Agent-based Modelling Meetup
-
-
-[Authentication Without Passwords](https://www.meetup.com/Microsoft-Reactor-London/events/267316718/)
-##### Tue Jan 28 2020
-**Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
-
-
-[UX Academy - 8 Weeks Beginner UX Course](https://www.meetup.com/MobileUXLondon/events/264693056/)
-##### Wed Jan 29 2020
-**Location:** [London](/London/home/)
-**Organizer:** Mobile UX London
-
-
-[Making Your Data Useful for Analysis](https://www.meetup.com/Microsoft-Reactor-London/events/265947719/)
-##### Tue Feb 04 2020
-**Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
-
-
-[Augmenting Reality - February 2020](https://www.meetup.com/Augmenting-Reality/events/266408785/)
-##### Thu Feb 06 2020
-**Location:** [London](/London/home/)
-**Organizer:** Augmenting Reality
-
-
-[Grakn Cosmos (Day 2): Knowledge Graph in ML, NLP, Biotech, Security, Robotics](https://www.meetup.com/grakn-london/events/267341588/)
-##### Fri Feb 07 2020
-**Location:** [London](/London/home/)
-**Organizer:** Grakn London Engineers
-
-
-[Mini Workshop: Build your 1st Twitter Bot with Azure Serverless & Github actions](https://www.meetup.com/Microsoft-Reactor-London/events/267316785/)
-##### Tue Feb 18 2020
-**Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
-
-
-[[Placeholder] IWD Women Techmakers 2020](https://www.meetup.com/gdgcloud/events/266592748/)
-##### Mon Mar 02 2020
-**Location:** [London](/London/home/)
-**Organizer:** GDG Cloud London
-
-
-</div>
-<div class=column id=1>
 
 [Introduction to Go (Golang)](https://www.meetup.com/Red-Sprite/events/267292994/)
 ##### Tue Jan 14 2020
@@ -505,7 +418,7 @@ You can join 66 locally organized upcoming events
 
 
 </div>
-<div class=column id=2>
+<div class=column id=1>
 
 [Azure Workshop: Kubernetes in a Day](https://www.meetup.com/Microsoft-Reactor-London/events/267087661/)
 ##### Wed Jan 15 2020
@@ -586,7 +499,7 @@ You can join 66 locally organized upcoming events
 
 
 </div>
-<div class=column id=3>
+<div class=column id=2>
 
 [Microsoft for Startups Tech Evening](https://www.meetup.com/Microsoft-Reactor-London/events/267088116/)
 ##### Wed Jan 15 2020
@@ -667,6 +580,87 @@ You can join 66 locally organized upcoming events
 
 
 </div>
+<div class=column id=3>
+
+[UX Academy - Introduction to Conversational Design Workshop (January 2020)](https://www.meetup.com/MobileUXLondon/events/267221118/)
+##### Wed Jan 15 2020
+**Location:** [London](/London/home/)
+**Organizer:** Mobile UX London
+
+
+[Scalability of blockchain based platforms : what's the challenge?](https://www.meetup.com/Trustless-Ecosystems/events/ccrqpqyzkbhc/)
+##### Thu Jan 16 2020
+**Location:** [London](/London/home/)
+**Organizer:** #TrustlessEcosystems: platforms empowered by AI & blockchain
+
+
+[Microsoft for Startups  |  Sales & Marketing Analytics](https://www.meetup.com/Microsoft-Reactor-London/events/266671538/)
+##### Thu Jan 16 2020
+**Location:** [London](/London/home/)
+**Organizer:** Microsoft Reactor London
+
+
+[Global Diversity CFP Day ](https://www.meetup.com/Microsoft-Reactor-London/events/267136302/)
+##### Sat Jan 18 2020
+**Location:** [London](/London/home/)
+**Organizer:** Microsoft Reactor London
+
+
+[Microsoft Startups | ScaleUp Graduation](https://www.meetup.com/Microsoft-Reactor-London/events/267258659/)
+##### Tue Jan 21 2020
+**Location:** [London](/London/home/)
+**Organizer:** Microsoft Reactor London
+
+
+[London ABM Meetup](https://www.meetup.com/London-Agent-based-Modelling-Meetup/events/267271176/)
+##### Thu Jan 23 2020
+**Location:** [London](/London/home/)
+**Organizer:** London Agent-based Modelling Meetup
+
+
+[Authentication Without Passwords](https://www.meetup.com/Microsoft-Reactor-London/events/267316718/)
+##### Tue Jan 28 2020
+**Location:** [London](/London/home/)
+**Organizer:** Microsoft Reactor London
+
+
+[UX Academy - 8 Weeks Beginner UX Course](https://www.meetup.com/MobileUXLondon/events/264693056/)
+##### Wed Jan 29 2020
+**Location:** [London](/London/home/)
+**Organizer:** Mobile UX London
+
+
+[Making Your Data Useful for Analysis](https://www.meetup.com/Microsoft-Reactor-London/events/265947719/)
+##### Tue Feb 04 2020
+**Location:** [London](/London/home/)
+**Organizer:** Microsoft Reactor London
+
+
+[Augmenting Reality - February 2020](https://www.meetup.com/Augmenting-Reality/events/266408785/)
+##### Thu Feb 06 2020
+**Location:** [London](/London/home/)
+**Organizer:** Augmenting Reality
+
+
+[Grakn Cosmos (Day 2): Knowledge Graph in ML, NLP, Biotech, Security, Robotics](https://www.meetup.com/grakn-london/events/267341588/)
+##### Fri Feb 07 2020
+**Location:** [London](/London/home/)
+**Organizer:** Grakn London Engineers
+
+
+[Mini Workshop: Build your 1st Twitter Bot with Azure Serverless & Github actions](https://www.meetup.com/Microsoft-Reactor-London/events/267316785/)
+##### Tue Feb 18 2020
+**Location:** [London](/London/home/)
+**Organizer:** Microsoft Reactor London
+
+
+[[Placeholder] IWD Women Techmakers 2020](https://www.meetup.com/gdgcloud/events/266592748/)
+##### Mon Mar 02 2020
+**Location:** [London](/London/home/)
+**Organizer:** GDG Cloud London
+
+
+</div>
 </details>
 </div>
 
@@ -725,7 +719,7 @@ Active local organizations and initiatives related to AI
 
 
 # Startups
-Check the newest startups from 113 locally
+Explore the newest startups working with AI technologies, from a total of 113 companies.
 
 <div class=logoCB>
 Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_crop.png" style="width:20%;"/></a>
@@ -831,10 +825,10 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 
 </div>
 
-<div class=startups id="list">
 
 <details>
 <summary class="sum">See all startups</summary>
+<div class=startups id="list">
 
 <div class=column id=0>
 
@@ -1555,9 +1549,10 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 
 
 </div>
+</div>
 </details>
 
-</div>
+
 
 
 # Founding Partners

@@ -8,7 +8,7 @@
 <a href="#ecosystems"><strong>6</strong></a>
 </div>
 <div class=column>
-<a href="#events" ><strong>98</strong></a>
+<a href="#events" ><strong>97</strong></a>
 </div>
 <div class=column>
 <a href="#community" ><strong>35</strong></a>
@@ -83,7 +83,7 @@ Workforce performance management for customer support
 </div>
 
 # Top Communities
-Globally you can join 3 active community groups in 6 unlocked cities on the topic of Artificial Intelligence
+Connect with 3 community groups promoting the best practices in AI.
 <div class=groups>
 
 <div class=column id=0>
@@ -120,31 +120,10 @@ Globally you can join 3 active community groups in 6 unlocked cities on the topi
 </div>
 
 # Events
- You can join more then 98 upcoming events in 6 cities around the world the coming weeks. In past 197 events have been hosted
+97upcoming AI-related events. In past 198 events have been hosted
 <div class=events>
 
 <div class=column id=0>
-
-[Networking Drinks](https://www.meetup.com/AI-peer-group/events/jlrbwqyzqbjc/)
-##### Thu Dec 26 2019
-**Location:** [London](/London/home/)
-**Organizer:** Artificial Intelligence Peer Group
-
-
-[Deep Reinforcement Learning – 16: Inverse Reinforcement Learning](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/ltzxsqybccbkb/)
-##### Tue Jan 07 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Advanced Machine Learning Study Group
-
-
-[The World According To Jordan Peterson](https://www.meetup.com/The-World-According-to-Jordan-Peterson/events/qwftlrybccblb/)
-##### Wed Jan 08 2020
-**Location:** [London](/London/home/)
-**Organizer:** The World According to Jordan Peterson
-
-
-</div>
-<div class=column id=1>
 
 [NeurIPS 2019 Videos: Bengio System 1/2 DL](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/267255202/)
 ##### Thu Jan 02 2020
@@ -165,7 +144,7 @@ Globally you can join 3 active community groups in 6 unlocked cities on the topi
 
 
 </div>
-<div class=column id=2>
+<div class=column id=1>
 
 [ML Group Berlin - topics TBD](https://www.meetup.com/berlin-machine-learning/events/266381438/)
 ##### Mon Jan 06 2020
@@ -186,7 +165,7 @@ Globally you can join 3 active community groups in 6 unlocked cities on the topi
 
 
 </div>
-<div class=column id=3>
+<div class=column id=2>
 
 [(paid) online AI course: Deep Learning for developers](https://www.meetup.com/Berlin-AI-Tech-Talk/events/266485754/)
 ##### Tue Jan 07 2020
@@ -204,6 +183,27 @@ Globally you can join 3 active community groups in 6 unlocked cities on the topi
 ##### Fri Jan 10 2020
 **Location:** [London](/London/home/)
 **Organizer:** London Tech Entrepreneurs and Investors Network Lion
+
+
+</div>
+<div class=column id=3>
+
+[Deep Reinforcement Learning – 16: Inverse Reinforcement Learning](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/ltzxsqybccbkb/)
+##### Tue Jan 07 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Advanced Machine Learning Study Group
+
+
+[The World According To Jordan Peterson](https://www.meetup.com/The-World-According-to-Jordan-Peterson/events/qwftlrybccblb/)
+##### Wed Jan 08 2020
+**Location:** [London](/London/home/)
+**Organizer:** The World According to Jordan Peterson
+
+
+[Automation and Utopia](https://www.meetup.com/London-Futurists/events/266063616/)
+##### Sat Jan 11 2020
+**Location:** [London](/London/home/)
+**Organizer:** London Futurists
 
 
 </div>
@@ -346,7 +346,7 @@ Active local organizations and initiatives related to AI
 </div>
 
 # Startups
-Check the newest startups from 225 globally, coming out of 6 unlocked AI ecosystems!
+Explore the newest startups working with AI technologies, from a total of 225 companies.
 <div class=logoCB>
 Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_crop.png" style="width:20%;"/></a>
 </div>

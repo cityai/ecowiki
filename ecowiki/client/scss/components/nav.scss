@@ -141,6 +141,9 @@
 		transition: filter .4s ease;
 		img{
 			margin-left: 18px;
+			@media only screen and (max-width: 1024px){
+				margin-left: 0;
+			}
 		}
 		cursor: pointer;
 		
@@ -232,6 +235,9 @@
 			background: transparent;
 			border-bottom:1px solid $search-color-border;
 			color: $search-color-text;
+			@media only screen and (max-width: 480px){
+				display: none;
+			}
 
 			&:focus {
 				border:0;

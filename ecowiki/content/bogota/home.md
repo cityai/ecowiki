@@ -55,7 +55,7 @@
 </div>
 
 # Community
-You can join 0 active community groups on the topic of Artificial Intelligence
+Connect with 0 community groups promoting the best practices in AI.
 <div class=groups>
 
 <div class=column id=0>
@@ -159,7 +159,7 @@ The voices of the local AI community
 
 
 # Events
-You can join 0 locally organized upcoming events
+0 upcoming AI-related events.
 <div class=events>
 
 <div class=column id=0>
@@ -254,7 +254,7 @@ Active local organizations and initiatives related to AI
 
 
 # Startups
-Check the newest startups from 0 locally
+Explore the newest startups working with AI technologies, from a total of 0 companies.
 
 <div class=logoCB>
 Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_crop.png" style="width:20%;"/></a>
@@ -276,10 +276,10 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 
 </div>
 
-<div class=startups id="list">
 
 <details>
 <summary class="sum">See all startups</summary>
+<div class=startups id="list">
 
 <div class=column id=0>
 
@@ -293,9 +293,10 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 <div class=column id=3>
 
 </div>
+</div>
 </details>
 
-</div>
+
 
 
 # Founding Partners
