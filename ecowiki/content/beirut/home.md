@@ -1,4 +1,5 @@
 <!-- TITLE: Beirut AI -->
+<img src="/images/cityMaps/Beirut_1500_highlight.png" >
 
 
 
@@ -106,17 +107,19 @@ The voices of the local AI community
 
 <div class=column id=0>
 
-![http://pbs.twimg.com/profile_images/999401515352653824/RJODfftT_normal.jpg](http://pbs.twimg.com/profile_images/999401515352653824/RJODfftT_normal.jpg){: width=15%}
+![http://pbs.twimg.com/profile_images/999401515352653824/RJODfftT_normal.jpg](http://pbs.twimg.com/profile_images/999401515352653824/RJODfftT_normal.jpg)
 [zohbi](https://twitter.com/kristoffzoghbi)
 **Followers:** 111
+**Location:** [Berlin](/Berlin/home/)
 
 
 </div>
 <div class=column id=1>
 
-![link](link){: width=15%}
+![link](link)
 [John Dioe](asdasd)
 **Followers:** 213
+**Location:** [Beirut](/Beirut/home/)
 
 
 </div>
@@ -129,12 +132,12 @@ The voices of the local AI community
 
 </div>
 
-<div class=influencers id="list">
 
 <details>
 <summary class="sum">See all influencers</summary>
 
 
+<div class=influencers id="list">
 
 <div class=column id=0>
 
@@ -148,11 +151,11 @@ The voices of the local AI community
 <div class=column id=3>
 
 </div>
-
+</div>
 </details>
 
 
-</div>
+
 
 
 # Events
@@ -260,14 +263,14 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 
 <div class=column id=0>
 
-![link](link){: width=15%}
+![link](link)
 [test 5](liiink)
 **Activity:** ML,  AI
 **Investment in USD:** 452,424
 **Location:** [Beirut](/Beirut/home/)
 
 
-![http://public.crunchbase.com/t_api_images/rahttpvoc0bnilkbnh7f](http://public.crunchbase.com/t_api_images/rahttpvoc0bnilkbnh7f){: width=15%}
+![http://public.crunchbase.com/t_api_images/rahttpvoc0bnilkbnh7f](http://public.crunchbase.com/t_api_images/rahttpvoc0bnilkbnh7f)
 [Lexyom](https://www.crunchbase.com/organization/lexium)
 **Activity:** Legal Tech, Legal, Artificial Intelligence
 **Investment in USD:** 0
@@ -277,14 +280,14 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 </div>
 <div class=column id=1>
 
-![http://public.crunchbase.com/t_api_images/bnabzzftteru5nnkmiaa](http://public.crunchbase.com/t_api_images/bnabzzftteru5nnkmiaa){: width=15%}
+![http://public.crunchbase.com/t_api_images/bnabzzftteru5nnkmiaa](http://public.crunchbase.com/t_api_images/bnabzzftteru5nnkmiaa)
 [Fig](https://www.crunchbase.com/organization/fig-app)
 **Activity:** Machine Learning, Natural Language Processing, Analytics, Big Data, Artificial Intelligence
 **Investment in USD:** 300,000
 **Location:** [Beirut](/Beirut/home/)
 
 
-![http://public.crunchbase.com/t_api_images/ojcvhjxfkmvtowujk8dt](http://public.crunchbase.com/t_api_images/ojcvhjxfkmvtowujk8dt){: width=15%}
+![http://public.crunchbase.com/t_api_images/ojcvhjxfkmvtowujk8dt](http://public.crunchbase.com/t_api_images/ojcvhjxfkmvtowujk8dt)
 [Personafier SAL](https://www.crunchbase.com/organization/personafier-sal)
 **Activity:** Social Media Marketing, Content, Content Marketing, Social Media, Content Discovery, Advertising, Analytics, Artificial Intelligence, Events, News
 **Investment in USD:** 0
@@ -294,14 +297,14 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 </div>
 <div class=column id=2>
 
-![http://public.crunchbase.com/t_api_images/cz5aynlw7caupuarvtxh](http://public.crunchbase.com/t_api_images/cz5aynlw7caupuarvtxh){: width=15%}
+![http://public.crunchbase.com/t_api_images/cz5aynlw7caupuarvtxh](http://public.crunchbase.com/t_api_images/cz5aynlw7caupuarvtxh)
 [Fallound](https://www.crunchbase.com/organization/fallound)
 **Activity:** Software, Artificial Intelligence, Mobile
 **Investment in USD:** 125,000
 **Location:** [Beirut](/Beirut/home/)
 
 
-![/images/startupEmpty.svg.png](/images/startupEmpty.svg.png){: width=15%}
+![/images/startupEmpty.svg.png](/images/startupEmpty.svg.png)
 [ISIDOR solution](https://www.crunchbase.com/organization/maj-solution)
 **Activity:** Analytics, Software, Big Data, Artificial Intelligence, Information Technology, Mobile
 **Investment in USD:** -5,666
@@ -311,7 +314,7 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 </div>
 <div class=column id=3>
 
-![/images/startupEmpty.svg.png](/images/startupEmpty.svg.png){: width=15%}
+![/images/startupEmpty.svg.png](/images/startupEmpty.svg.png)
 [MAJ Solution](https://www.crunchbase.com/organization/maj-solution)
 **Activity:** Analytics, Software, Big Data, Artificial Intelligence, Information Technology, Mobile
 **Investment in USD:** 0
@@ -350,7 +353,7 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 Thanks to our global supporters, this initiative will keep evolving.
 <div class=partners>
 <div class=column id=0>
-<img src="/images/peltarion_logotype_horizontal_red.png" style="width:20%">
+<img src="/images/peltarion_logotype_horizontal_red.png" >
 
 [Peltarion](https://peltarion.com/signup/)
 <strong>Scale-Up Founding Partner</strong>
@@ -359,7 +362,7 @@ A faster deep learning cloud platform - 50 free GPU hours for all AI Wiki friend
 
 <div class=column id=1>
 
-<img src="/images/Ticketless_logo.png" style="width:20%">
+<img src="/images/Ticketless_logo.png" >
 
 [Ticketless](https://ticketless.ai/)
 <strong>Startup Founding Partner</strong>

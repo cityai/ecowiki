@@ -8,13 +8,13 @@
 <a href="#ecosystems"><strong>6</strong></a>
 </div>
 <div class=column>
-<a href="#events" ><strong>97</strong></a>
+<a href="#events" ><strong>115</strong></a>
 </div>
 <div class=column>
 <a href="#community" ><strong>35</strong></a>
 </div>
 <div class=column>
-<a href="#startups" ><strong>225</a></strong>
+<a href="#startups" ><strong>226</a></strong>
 </div>
 <div class=column>
 <a href="#community" ><strong>3</a></strong>
@@ -64,7 +64,7 @@ Check any of the 6 unloked AI ecosystems. If yours isn't listed yet, [contact us
 Thanks to our global supporters, this initiative will keep evolving.
 <div class=partners>
 <div class=column id=0>
-<img src="/images/peltarion_logotype_horizontal_red.png" style="width:20%">
+<img src="/images/peltarion_logotype_horizontal_red.png" >
 
 [Peltarion](https://peltarion.com/signup/)
 <strong>Scale-Up Founding Partner</strong>
@@ -73,7 +73,7 @@ A faster deep learning cloud platform - 50 free GPU hours for all AI Wiki friend
 
 <div class=column id=1>
 
-<img src="/images/Ticketless_logo.png" style="width:20%">
+<img src="/images/Ticketless_logo.png" >
 
 [Ticketless](https://ticketless.ai/)
 <strong>Startup Founding Partner</strong>
@@ -120,43 +120,10 @@ Connect with 3 community groups promoting the best practices in AI.
 </div>
 
 # Events
-97upcoming AI-related events. In past 198 events have been hosted
+115upcoming AI-related events. In past 211 events have been hosted
 <div class=events>
 
 <div class=column id=0>
-
-[NeurIPS 2019 Videos: Bengio System 1/2 DL](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/267255202/)
-##### Thu Jan 02 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Advanced Machine Learning Study Group
-
-
-[PyData London - 62nd meetup](https://www.meetup.com/PyData-London-Meetup/events/267356017/)
-##### Tue Jan 07 2020
-**Location:** [London](/London/home/)
-**Organizer:** PyData London Meetup
-
-
-[Robocar Lab](https://www.meetup.com/autonomous-mobility-berlin/events/266995374/)
-##### Wed Jan 08 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Autonomous Mobility Berlin
-
-
-</div>
-<div class=column id=1>
-
-[ML Group Berlin - topics TBD](https://www.meetup.com/berlin-machine-learning/events/266381438/)
-##### Mon Jan 06 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Berlin Machine Learning Group
-
-
-[MX paper reading group](https://www.meetup.com/Merantix-AI-Paper-Discussion-Group/events/266105053/)
-##### Wed Jan 08 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Merantix AI Paper Discussion Group
-
 
 [UX Academy - Introduction to UX Design Workshop (January 2020)](https://www.meetup.com/MobileUXLondon/events/267221093/)
 ##### Thu Jan 09 2020
@@ -164,20 +131,20 @@ Connect with 3 community groups promoting the best practices in AI.
 **Organizer:** Mobile UX London
 
 
-</div>
-<div class=column id=2>
-
-[(paid) online AI course: Deep Learning for developers](https://www.meetup.com/Berlin-AI-Tech-Talk/events/266485754/)
-##### Tue Jan 07 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Berlin AI Developers Group
-
-
-[AWS DeepRacer Community: London Meetup #4 - Introduction 101 & Track Racing!](https://www.meetup.com/AWS-DeepRacer-Community-London/events/266578583/)
-##### Wed Jan 08 2020
+[AI environment set up laptop](https://www.meetup.com/TensorflowRUs/events/267471483/)
+##### Sat Jan 11 2020
 **Location:** [London](/London/home/)
-**Organizer:** Aws DeepRacer Community: London
+**Organizer:** TensorflowRUs
 
+
+[Health-IT-Talk: Translationsregion für digitalisierte Gesundheitsversorgung ](https://www.meetup.com/Berlin-Digital-Business-Network-SIBB/events/267294806/)
+##### Mon Jan 13 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** 💥 Berlin Digital Business Network @SIBB 💥
+
+
+</div>
+<div class=column id=1>
 
 [StartUp Journey - FinTech & RegTech](https://www.meetup.com/London-Tech-Entrepreneurs-And-Investors-Network-LION/events/267344371/)
 ##### Fri Jan 10 2020
@@ -185,25 +152,58 @@ Connect with 3 community groups promoting the best practices in AI.
 **Organizer:** London Tech Entrepreneurs and Investors Network Lion
 
 
+[RPA Robotic Process Automation Developers Berlin @ Oracle](https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/266551380/)
+##### Mon Jan 13 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** RPA Robotic Process Automation Developers Berlin
+
+
+[How Blockchain and Digital Assets are evolving ](https://www.meetup.com/ICO-Meetup-London/events/265663727/)
+##### Mon Jan 13 2020
+**Location:** [London](/London/home/)
+**Organizer:** Blockchain and Digital Assets London Meetup
+
+
+</div>
+<div class=column id=2>
+
+[StartUp Journey  2020 -  FinTECH and RegTECH Entrepreneur and Investors](https://www.meetup.com/London-Tech-Entrepreneurs-And-Investors-Network-LION/events/267344371/)
+##### Fri Jan 10 2020
+**Location:** [London](/London/home/)
+**Organizer:** London Tech Entrepreneurs and Investors Network Lion
+
+
+[Frontier Technologies Summit - AI, Blockchain, Robotics, Digital Securities](https://www.meetup.com/Blockchain-SmartContract-Innovators/events/266142891/)
+##### Mon Jan 13 2020
+**Location:** [London](/London/home/)
+**Organizer:** Blockchain & SmartContract Innovators
+
+
+[Introduction to Analyzing Business Data with Python](https://www.meetup.com/Data-Science-Retreat/events/266805753/)
+##### Tue Jan 14 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Data Science Retreat
+
+
 </div>
 <div class=column id=3>
-
-[Deep Reinforcement Learning – 16: Inverse Reinforcement Learning](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/ltzxsqybccbkb/)
-##### Tue Jan 07 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Advanced Machine Learning Study Group
-
-
-[The World According To Jordan Peterson](https://www.meetup.com/The-World-According-to-Jordan-Peterson/events/qwftlrybccblb/)
-##### Wed Jan 08 2020
-**Location:** [London](/London/home/)
-**Organizer:** The World According to Jordan Peterson
-
 
 [Automation and Utopia](https://www.meetup.com/London-Futurists/events/266063616/)
 ##### Sat Jan 11 2020
 **Location:** [London](/London/home/)
 **Organizer:** London Futurists
+
+
+[Frontier Tech Summit London, 13 Jan 2020 ](https://www.meetup.com/fintechstorm/events/266732898/)
+##### Mon Jan 13 2020
+**Location:** [London](/London/home/)
+**Organizer:** Fintech Storm - Disruptive Tech - Blockchain, AI, Fintech
+
+
+[First 2020 SAS Meetup in Berlin — Hosted by Bayer AG](https://www.meetup.com/SAS-User-Group-Germany/events/266915530/)
+##### Tue Jan 14 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** SAS User Group Germany
 
 
 </div>
@@ -346,7 +346,7 @@ Active local organizations and initiatives related to AI
 </div>
 
 # Startups
-Explore the newest startups working with AI technologies, from a total of 225 companies.
+Explore the newest startups working with AI technologies, from a total of 226 companies.
 <div class=logoCB>
 Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_crop.png" style="width:20%;"/></a>
 </div>

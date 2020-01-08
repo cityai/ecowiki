@@ -1,4 +1,5 @@
 <!-- TITLE: La Paz AI -->
+<img src="/images/cityMaps/La Paz_1500_highlight.png" >
 
 
 
@@ -117,12 +118,12 @@ The voices of the local AI community
 
 </div>
 
-<div class=influencers id="list">
 
 <details>
 <summary class="sum">See all influencers</summary>
 
 
+<div class=influencers id="list">
 
 <div class=column id=0>
 
@@ -136,11 +137,11 @@ The voices of the local AI community
 <div class=column id=3>
 
 </div>
-
+</div>
 </details>
 
 
-</div>
+
 
 
 # Events
@@ -289,7 +290,7 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 Thanks to our global supporters, this initiative will keep evolving.
 <div class=partners>
 <div class=column id=0>
-<img src="/images/peltarion_logotype_horizontal_red.png" style="width:20%">
+<img src="/images/peltarion_logotype_horizontal_red.png" >
 
 [Peltarion](https://peltarion.com/signup/)
 <strong>Scale-Up Founding Partner</strong>
@@ -298,7 +299,7 @@ A faster deep learning cloud platform - 50 free GPU hours for all AI Wiki friend
 
 <div class=column id=1>
 
-<img src="/images/Ticketless_logo.png" style="width:20%">
+<img src="/images/Ticketless_logo.png" >
 
 [Ticketless](https://ticketless.ai/)
 <strong>Startup Founding Partner</strong>

@@ -1,4 +1,5 @@
 <!-- TITLE: Bogota AI -->
+<img src="/images/cityMaps/Bogota_1500_highlight.png" >
 
 
 
@@ -11,7 +12,7 @@
 <a href="#ecosystems"><strong>0</strong></a>
 </div>
 <div class=column>
-<a href="#events" ><strong>0</strong></a>
+<a href="#events" ><strong>1</strong></a>
 </div>
 <div class=column>
 <a href="#community" ><strong>3</strong></a>
@@ -104,25 +105,28 @@ The voices of the local AI community
 
 <div class=column id=0>
 
-![http://pbs.twimg.com/profile_images/599938400901271553/H_5Eznsf_normal.jpg](http://pbs.twimg.com/profile_images/599938400901271553/H_5Eznsf_normal.jpg){: width=15%}
+![http://pbs.twimg.com/profile_images/599938400901271553/H_5Eznsf_normal.jpg](http://pbs.twimg.com/profile_images/599938400901271553/H_5Eznsf_normal.jpg)
 [Alejandro Correa B](https://twitter.com/albahnsen)
 **Followers:** 731
+**Location:** [Bogota](/Bogota/home/)
 
 
 </div>
 <div class=column id=1>
 
-![http://pbs.twimg.com/profile_images/1134202198143963136/c0gzBQI6_normal.png](http://pbs.twimg.com/profile_images/1134202198143963136/c0gzBQI6_normal.png){: width=15%}
+![http://pbs.twimg.com/profile_images/1134202198143963136/c0gzBQI6_normal.png](http://pbs.twimg.com/profile_images/1134202198143963136/c0gzBQI6_normal.png)
 [Jean Phillip Bernier](https://twitter.com/jean_p_bernier)
 **Followers:** 25
+**Location:** [Bogota](/Bogota/home/)
 
 
 </div>
 <div class=column id=2>
 
-![http://pbs.twimg.com/profile_images/713468146687086592/d6O_1IAU_normal.jpg](http://pbs.twimg.com/profile_images/713468146687086592/d6O_1IAU_normal.jpg){: width=15%}
+![http://pbs.twimg.com/profile_images/713468146687086592/d6O_1IAU_normal.jpg](http://pbs.twimg.com/profile_images/713468146687086592/d6O_1IAU_normal.jpg)
 [Alejandro Betancourt](https://twitter.com/AlejoBt)
 **Followers:** 624
+**Location:** [Bogota](/Bogota/home/)
 
 
 </div>
@@ -132,12 +136,12 @@ The voices of the local AI community
 
 </div>
 
-<div class=influencers id="list">
 
 <details>
 <summary class="sum">See all influencers</summary>
 
 
+<div class=influencers id="list">
 
 <div class=column id=0>
 
@@ -151,18 +155,24 @@ The voices of the local AI community
 <div class=column id=3>
 
 </div>
-
+</div>
 </details>
 
 
-</div>
+
 
 
 # Events
-0 upcoming AI-related events.
+1 upcoming AI-related events.
 <div class=events>
 
 <div class=column id=0>
+
+[🤖 Introducción a automatización de procesos, construye tu primer bot!](https://www.meetup.com/Automatizacion-Robotica-de-Procesos-RPA/events/267588978/)
+##### Thu Jan 16 2020
+**Location:** [Bogota](/Bogota/home/)
+**Organizer:** Automatización Robótica de Procesos RPA
+
 
 </div>
 <div class=column id=1>
@@ -304,7 +314,7 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 Thanks to our global supporters, this initiative will keep evolving.
 <div class=partners>
 <div class=column id=0>
-<img src="/images/peltarion_logotype_horizontal_red.png" style="width:20%">
+<img src="/images/peltarion_logotype_horizontal_red.png" >
 
 [Peltarion](https://peltarion.com/signup/)
 <strong>Scale-Up Founding Partner</strong>
@@ -313,7 +323,7 @@ A faster deep learning cloud platform - 50 free GPU hours for all AI Wiki friend
 
 <div class=column id=1>
 
-<img src="/images/Ticketless_logo.png" style="width:20%">
+<img src="/images/Ticketless_logo.png" >
 
 [Ticketless](https://ticketless.ai/)
 <strong>Startup Founding Partner</strong>

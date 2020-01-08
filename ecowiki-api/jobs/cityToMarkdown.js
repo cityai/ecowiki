@@ -44,6 +44,7 @@ class MarkdownTransform {
                     data = data.toString().split("\n");
                     //console.log(city);
                     data = this.addSubheadings(data,city,community);
+                    data = this.addCityMaps(data,city);
 
                     data = this.addMetrics(data,city,community);
                     data.splice(0, 0, "<!-- TITLE: " + city.name + " AI -->");
@@ -61,8 +62,8 @@ class MarkdownTransform {
                     if (community) {
                         data = this.addMultipleLines(data, community, "groups", 12, "<div class=groups>", ["name", "members", "organizer"]);
                         data = this.addMultipleLines(data, community, "groups", community.groups.length, "<div class=groups id=\"list\">", ["name", "members", "organizer"]);
-                        data = this.addMultipleLines(data, community, "influencers", 12, "<div class=influencers>", ["picture","name", "followers"]);
-                        data = this.addMultipleLines(data, community, "influencers", community.influencers.length, "<div class=influencers id=\"list\">", ["picture","name", "followers"]);
+                        data = this.addMultipleLines(data, community, "influencers", 12, "<div class=influencers>", ["picture","name", "followers","location"]);
+                        data = this.addMultipleLines(data, community, "influencers", community.influencers.length, "<div class=influencers id=\"list\">", ["picture","name", "followers","location"]);
                     }
                     await fs.writeFile(filePath, "", async err => {
                         if (err) await fs.mkdir(dirPath, err => {
@@ -87,7 +88,16 @@ class MarkdownTransform {
             }).catch(err => { return console.log(err) })
         }
     }
+    addCityMaps(data,city){
+        try {
 
+            data.splice(0,0,"<img src=\"/images/cityMaps/"+ city.name +"_1500_highlight.png\" >");
+
+        } catch (error) {
+            console.log(error);
+        }
+            return data;
+    }
     addSubheadings(data,city,community)
     {
         try {
@@ -167,7 +177,7 @@ class MarkdownTransform {
                             tempIndex++;
                         break;
                     case "picture":
-                        data.splice(tempIndex, 0, "![" + document[docObj][i][attributesArray[j]] + "](" + document[docObj][i][attributesArray[j]] + "){: width=15%}");
+                        data.splice(tempIndex, 0, "![" + document[docObj][i][attributesArray[j]] + "](" + document[docObj][i][attributesArray[j]] + ")");
                         tempIndex++;
                         break;
                     case "description":

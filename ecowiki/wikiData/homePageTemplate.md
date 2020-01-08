@@ -22,7 +22,7 @@
 Thanks to our global supporters, this initiative will keep evolving.
 <div class=partners>
 <div class=column id=0>
-<img src="/images/peltarion_logotype_horizontal_red.png" style="width:20%">
+<img src="/images/peltarion_logotype_horizontal_red.png" >
 
 [Peltarion](https://peltarion.com/signup/)
 <strong>Scale-Up Founding Partner</strong>
@@ -31,7 +31,7 @@ A faster deep learning cloud platform - 50 free GPU hours for all AI Wiki friend
 
 <div class=column id=1>
 
-<img src="/images/Ticketless_logo.png" style="width:20%">
+<img src="/images/Ticketless_logo.png" >
 
 [Ticketless](https://ticketless.ai/)
 <strong>Startup Founding Partner</strong>

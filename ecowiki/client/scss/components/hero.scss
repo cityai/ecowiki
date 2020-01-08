@@ -20,6 +20,9 @@
   padding-top: 20px;
   padding-left: 76px;
   padding-bottom: 64px;
+  @media only screen and (min-width: 320px) and (max-width: 380px){
+		padding-left: 0;
+	}
 
   background: $bg-primary; //linear-gradient(to right,$bg-primary,$bg-secondary);
   //border-bottom: 1px solid  $hero-border-color;
