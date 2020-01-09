@@ -1,5 +1,5 @@
 <!-- TITLE: Beirut AI -->
-<img src="/images/cityMaps/Beirut_1500_highlight.png" >
+<img src="/images/cityMaps/Beirut_1500_highlight.png" style="padding-left:33px" >
 
 
 

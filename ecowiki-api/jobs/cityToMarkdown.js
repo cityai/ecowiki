@@ -91,7 +91,7 @@ class MarkdownTransform {
     addCityMaps(data,city){
         try {
 
-            data.splice(0,0,"<img src=\"/images/cityMaps/"+ city.name +"_1500_highlight.png\" >");
+            data.splice(0,0,"<img src=\"/images/cityMaps/"+ city.name +"_1500_highlight.png\" style=\"padding-left:33px\" >");
 
         } catch (error) {
             console.log(error);

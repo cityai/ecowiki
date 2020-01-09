@@ -1,5 +1,5 @@
 <!-- TITLE: Bogota AI -->
-<img src="/images/cityMaps/Bogota_1500_highlight.png" >
+<img src="/images/cityMaps/Bogota_1500_highlight.png" style="padding-left:33px" >
 
 
 

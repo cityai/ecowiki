@@ -65,7 +65,7 @@ module.exports =async function(){
         data.splice(subheadingIndex,0, subheadingTextEcosystems);
 
         subheadingIndex = data.indexOf("# Events")+ 1;
-        let subheadingTextEvents =  events.length + "upcoming AI-related events. In past "+ pastEvents +" events have been hosted"
+        let subheadingTextEvents =  events.length + " upcoming AI-related events. In past "+ pastEvents +" events have been hosted"
         data.splice(subheadingIndex,0,subheadingTextEvents);
 
         subheadingIndex = data.indexOf("# Top Communities") + 1;

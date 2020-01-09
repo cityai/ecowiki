@@ -8,13 +8,13 @@
 <a href="#ecosystems"><strong>6</strong></a>
 </div>
 <div class=column>
-<a href="#events" ><strong>115</strong></a>
+<a href="#events" ><strong>117</strong></a>
 </div>
 <div class=column>
 <a href="#community" ><strong>35</strong></a>
 </div>
 <div class=column>
-<a href="#startups" ><strong>226</a></strong>
+<a href="#startups" ><strong>251</a></strong>
 </div>
 <div class=column>
 <a href="#community" ><strong>3</a></strong>
@@ -120,31 +120,10 @@ Connect with 3 community groups promoting the best practices in AI.
 </div>
 
 # Events
-115upcoming AI-related events. In past 211 events have been hosted
+117 upcoming AI-related events. In past 212 events have been hosted
 <div class=events>
 
 <div class=column id=0>
-
-[UX Academy - Introduction to UX Design Workshop (January 2020)](https://www.meetup.com/MobileUXLondon/events/267221093/)
-##### Thu Jan 09 2020
-**Location:** [London](/London/home/)
-**Organizer:** Mobile UX London
-
-
-[AI environment set up laptop](https://www.meetup.com/TensorflowRUs/events/267471483/)
-##### Sat Jan 11 2020
-**Location:** [London](/London/home/)
-**Organizer:** TensorflowRUs
-
-
-[Health-IT-Talk: Translationsregion für digitalisierte Gesundheitsversorgung ](https://www.meetup.com/Berlin-Digital-Business-Network-SIBB/events/267294806/)
-##### Mon Jan 13 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** 💥 Berlin Digital Business Network @SIBB 💥
-
-
-</div>
-<div class=column id=1>
 
 [StartUp Journey - FinTech & RegTech](https://www.meetup.com/London-Tech-Entrepreneurs-And-Investors-Network-LION/events/267344371/)
 ##### Fri Jan 10 2020
@@ -165,7 +144,7 @@ Connect with 3 community groups promoting the best practices in AI.
 
 
 </div>
-<div class=column id=2>
+<div class=column id=1>
 
 [StartUp Journey  2020 -  FinTECH and RegTECH Entrepreneur and Investors](https://www.meetup.com/London-Tech-Entrepreneurs-And-Investors-Network-LION/events/267344371/)
 ##### Fri Jan 10 2020
@@ -186,7 +165,7 @@ Connect with 3 community groups promoting the best practices in AI.
 
 
 </div>
-<div class=column id=3>
+<div class=column id=2>
 
 [Automation and Utopia](https://www.meetup.com/London-Futurists/events/266063616/)
 ##### Sat Jan 11 2020
@@ -204,6 +183,27 @@ Connect with 3 community groups promoting the best practices in AI.
 ##### Tue Jan 14 2020
 **Location:** [Berlin](/Berlin/home/)
 **Organizer:** SAS User Group Germany
+
+
+</div>
+<div class=column id=3>
+
+[AI environment set up laptop](https://www.meetup.com/TensorflowRUs/events/267471483/)
+##### Sat Jan 11 2020
+**Location:** [London](/London/home/)
+**Organizer:** TensorflowRUs
+
+
+[Health-IT-Talk: Translationsregion für digitalisierte Gesundheitsversorgung ](https://www.meetup.com/Berlin-Digital-Business-Network-SIBB/events/267294806/)
+##### Mon Jan 13 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** 💥 Berlin Digital Business Network @SIBB 💥
+
+
+[How Salesforce ISVs (Appexchange) Partners are Leveraging Einstein](https://www.meetup.com/London-Einstein-Analytics-Meetup/events/266972544/)
+##### Tue Jan 14 2020
+**Location:** [London](/London/home/)
+**Organizer:** London Einstein Analytics DataTribe
 
 
 </div>
@@ -346,7 +346,7 @@ Active local organizations and initiatives related to AI
 </div>
 
 # Startups
-Explore the newest startups working with AI technologies, from a total of 226 companies.
+Explore the newest startups working with AI technologies, from a total of 251 companies.
 <div class=logoCB>
 Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_crop.png" style="width:20%;"/></a>
 </div>
@@ -359,6 +359,30 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 **Activity:** Health Care, Personal Health, mHealth, Apps, Artificial Intelligence
 **Investment in USD:** 69,269,776
 **Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/v1486380330/pxencokitydgixnokxfx.png](http://public.crunchbase.com/t_api_images/v1486380330/pxencokitydgixnokxfx.png){: width=15%}
+[Zeitgold](https://www.crunchbase.com/organization/zeitgold)
+**Activity:** Financial Services, Small and Medium Businesses, Artificial Intelligence
+**Investment in USD:** 27,746,684
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/u7esnlqwsdwf3m1dhmgg](http://public.crunchbase.com/t_api_images/u7esnlqwsdwf3m1dhmgg){: width=15%}
+[HeyJobs](https://www.crunchbase.com/organization/heyjobs)
+**Activity:** Recruiting, Human Resources, Software, Artificial Intelligence, Information Technology
+**Investment in USD:** 15,000,000
+**Location:** [Berlin](/Berlin/home/)
+
+
+</div>
+<div class=column id=1>
+
+![http://public.crunchbase.com/t_api_images/bdyfpxlobeob4ze6hajk](http://public.crunchbase.com/t_api_images/bdyfpxlobeob4ze6hajk){: width=15%}
+[Supplier.ai](https://www.crunchbase.com/organization/supplier-ai)
+**Activity:** Procurement, Supply Chain Management, Facilities Support Services, Artificial Intelligence, Property Management, Cloud Data Services, Information Technology
+**Investment in USD:** 67,000,000
+**Location:** [London](/London/home/)
 
 
 ![http://public.crunchbase.com/t_api_images/qoeeqiiz1erlrhcth0vh](http://public.crunchbase.com/t_api_images/qoeeqiiz1erlrhcth0vh){: width=15%}
@@ -376,13 +400,13 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 
 
 </div>
-<div class=column id=1>
+<div class=column id=2>
 
-![http://public.crunchbase.com/t_api_images/bdyfpxlobeob4ze6hajk](http://public.crunchbase.com/t_api_images/bdyfpxlobeob4ze6hajk){: width=15%}
-[Supplier.ai](https://www.crunchbase.com/organization/supplier-ai)
-**Activity:** Procurement, Supply Chain Management, Facilities Support Services, Artificial Intelligence, Property Management, Cloud Data Services, Information Technology
-**Investment in USD:** 67,000,000
-**Location:** [London](/London/home/)
+![http://public.crunchbase.com/t_api_images/v1503667512/dlm2ehaxvnebmzr1ugrm.png](http://public.crunchbase.com/t_api_images/v1503667512/dlm2ehaxvnebmzr1ugrm.png){: width=15%}
+[Coya](https://www.crunchbase.com/organization/coya)
+**Activity:** Internet, Insurance, Artificial Intelligence, InsurTech
+**Investment in USD:** 40,000,000
+**Location:** [Berlin](/Berlin/home/)
 
 
 ![http://public.crunchbase.com/t_api_images/woxmnt2rbizgtqu1ik6c](http://public.crunchbase.com/t_api_images/woxmnt2rbizgtqu1ik6c){: width=15%}
@@ -400,7 +424,7 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 
 
 </div>
-<div class=column id=2>
+<div class=column id=3>
 
 ![http://public.crunchbase.com/t_api_images/oj1giacvavsc5ekqebnh](http://public.crunchbase.com/t_api_images/oj1giacvavsc5ekqebnh){: width=15%}
 [omni:us](https://www.crunchbase.com/organization/omnius)
@@ -420,30 +444,6 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 [Hero Labs](https://www.crunchbase.com/organization/hero-laboratories)
 **Activity:** Artificial Intelligence, Information Technology, Manufacturing, Product Research
 **Investment in USD:** 3,166,648
-**Location:** [London](/London/home/)
-
-
-</div>
-<div class=column id=3>
-
-![http://public.crunchbase.com/t_api_images/v1486380330/pxencokitydgixnokxfx.png](http://public.crunchbase.com/t_api_images/v1486380330/pxencokitydgixnokxfx.png){: width=15%}
-[Zeitgold](https://www.crunchbase.com/organization/zeitgold)
-**Activity:** Financial Services, Small and Medium Businesses, Artificial Intelligence
-**Investment in USD:** 27,746,684
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/u7esnlqwsdwf3m1dhmgg](http://public.crunchbase.com/t_api_images/u7esnlqwsdwf3m1dhmgg){: width=15%}
-[HeyJobs](https://www.crunchbase.com/organization/heyjobs)
-**Activity:** Recruiting, Human Resources, Software, Artificial Intelligence, Information Technology
-**Investment in USD:** 15,000,000
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/frguahauzigryjeiqegf](http://public.crunchbase.com/t_api_images/frguahauzigryjeiqegf){: width=15%}
-[RevLifter](https://www.crunchbase.com/organization/revlifter)
-**Activity:** E-Commerce, Personalization, Machine Learning, Retail Technology, Marketing Automation, Artificial Intelligence, Enterprise Software, Affiliate Marketing
-**Investment in USD:** 2,938,276
 **Location:** [London](/London/home/)
 
 

@@ -1,3 +1,5 @@
+@import "../base/variables.scss";
+
 .searchresults {
 	position: fixed;
 	top: 50px;
@@ -6,10 +8,10 @@
 	margin: 0 auto;
 	max-width: 300px;
 	z-index: 1;
-	background-color: #fff;
+	background-color: $search-result-color-bg;
 //   border: 1px solid mc('blue-grey', '900');
 	// box-shadow: 0 0 5px mc('blue-grey', '500');
-	color: #000;
+	color: $search-result-color;
   transition: max-height 1s ease;
 
 	&-enter-active, &-leave-active {
@@ -23,8 +25,8 @@
   }
 
 	.searchresults-label {
-    background-color:#fff;
-		color: #000;
+    background-color:$search-result-color-bg;
+		color: $search-result-color;
 		padding: 8px;
 		font-size: 13px;
     letter-spacing: 1px;
@@ -41,13 +43,8 @@
 			transition: background-color .2s linear;
 
 			&:nth-child(odd) {
-				background-color: #FFF;
+				background-color: $search-result-color-bg;
 			}
-
-			// &.is-active, &:hover {
-			// 	background-color: #C80000;
-			// 	color: #FFF;
-			// }
 
 			a {
 				color: #000;
@@ -59,8 +56,8 @@
 				cursor: pointer;
 			}
 			a:hover {
-				background-color: #C80000;
-				color: #FFF;
+				background-color: $search-result-a-color-bg;
+				color: $search-result-a-color;
 			}
 
 		}

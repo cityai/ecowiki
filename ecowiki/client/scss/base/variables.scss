@@ -18,7 +18,10 @@ $widescreen: 1180px !default;
 // COLORS
 // --------------------------------------
 
-$color-text: mc('grey', '800');
+$highlight-color-bg: #fff;
+$date-color-text: #000;
+
+$color-text: #000;
 $color-link: mc('blue', '500');
 $color-link-hover: mc('blue', '700');
 $color-link-active: mc('purple', '500');
@@ -70,8 +73,25 @@ $search-color-border: mc('grey','900');
 $search-color-border-focus: mc('grey','900');
 $search-color-text: mc('grey','900');
 
+$search-result-color-bg: #fff;
+$search-result-color:#000;
+$search-result-a-color-bg: #C80000;
+$search-result-a-color: #fff;
+
 //BUTTON VARS
 $button-color-bg: #C80000;
 $button-color-bg-hover: #6e6e6e;
 $button-color: #fff;
 $button-color-hover:#dcdcdc;
+
+//SELECTION VARS
+$selection-color-bg: #000;
+$selection-color: #fff;
+
+//LINKS VARS
+$a-hover-color-text: #C80000;
+$a-color-text: #000;
+
+//STATUS VARS
+$status-color-number: #C80000;
+$status-color-text: #000;
