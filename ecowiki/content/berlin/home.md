@@ -1,8 +1,8 @@
 <!-- TITLE: Berlin AI -->
-<img src="/images/cityMaps/Berlin_1500_highlight.png" style="padding-left:33px" >
+<div class=mapHighlight>
+<img src="/images/cityMaps/Berlin_1500_highlight.png">
 
-
-
+</div>
 
 
 <div class=CityPageSpecific>
@@ -12,13 +12,13 @@
 <a href="#ecosystems"><strong>448</strong></a>
 </div>
 <div class=column>
-<a href="#events" ><strong>39</strong></a>
+<a href="#events" ><strong>38</strong></a>
 </div>
 <div class=column>
 <a href="#community" ><strong>13</strong></a>
 </div>
 <div class=column>
-<a href="#startups" ><strong>119</a></strong>
+<a href="#startups" ><strong>121</a></strong>
 </div>
 <div class=column>
 <a href="#community" ><strong>3</a></strong>
@@ -238,21 +238,15 @@ The voices of the local AI community
 
 
 # Events
-39 upcoming AI-related events.
+38 upcoming AI-related events.
 <div class=events>
 
 <div class=column id=0>
 
-[RPA Robotic Process Automation Developers Berlin @ Oracle](https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/266551380/)
-##### Mon Jan 13 2020
+[Data Wholphins Meetup @Merantix](https://www.meetup.com/meetup-group-UtDDgfus/events/266914266/)
+##### Wed Jan 15 2020
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** RPA Robotic Process Automation Developers Berlin
-
-
-[Tutorial on Variational Autoencoders (https://arxiv.org/abs/1803.03635)](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/ltzxsqybccbsb/)
-##### Tue Jan 14 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Advanced Machine Learning Study Group
+**Organizer:** Data Wholphins
 
 
 [Willkommen am Board - dem wohl meist unterschätzten Tool!](https://www.meetup.com/Berlin-DoSE/events/267295900/)
@@ -261,19 +255,19 @@ The voices of the local AI community
 **Organizer:** Berlin DoSE
 
 
+[On AI and cognitive assistance systems](https://www.meetup.com/Phencoco/events/267853939/)
+##### Sat Jan 18 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** PhenCoCo
+
+
 </div>
 <div class=column id=1>
 
-[Health-IT-Talk: Translationsregion für digitalisierte Gesundheitsversorgung ](https://www.meetup.com/Berlin-Digital-Business-Network-SIBB/events/267294806/)
-##### Mon Jan 13 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** 💥 Berlin Digital Business Network @SIBB 💥
-
-
-[Data Wholphins Meetup @Merantix](https://www.meetup.com/meetup-group-UtDDgfus/events/266914266/)
+[(paid) online AI course:Practical Machine Learning in Python](https://www.meetup.com/Berlin-AI-Tech-Talk/events/267077842/)
 ##### Wed Jan 15 2020
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** Data Wholphins
+**Organizer:** Berlin AI Developers Group
 
 
 [Berlin MusicTech Meetup #6](https://www.meetup.com/Berlin-MusicTech-Meetup/events/267610343/)
@@ -282,19 +276,19 @@ The voices of the local AI community
 **Organizer:** Berlin MusicTech Meetup
 
 
+[Study Session, vote for new/next content: http://tiny.cc/amlsg-vote](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/ltzxsqybccbcc/)
+##### Tue Jan 21 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Advanced Machine Learning Study Group
+
+
 </div>
 <div class=column id=2>
 
-[Introduction to Analyzing Business Data with Python](https://www.meetup.com/Data-Science-Retreat/events/266805753/)
-##### Tue Jan 14 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Data Science Retreat
-
-
-[(paid) online AI course:Practical Machine Learning in Python](https://www.meetup.com/Berlin-AI-Tech-Talk/events/267077842/)
+[PyData 2020 January](https://www.meetup.com/PyData-Berlin/events/267745811/)
 ##### Wed Jan 15 2020
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** Berlin AI Developers Group
+**Organizer:** PyData Berlin
 
 
 [Learning to learn by gradient descent by gradient descent – Nando de Freitas](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/tjmsmrybccbwb/)
@@ -303,25 +297,31 @@ The voices of the local AI community
 **Organizer:** Advanced Machine Learning Study Group
 
 
+[Pre-sprint preparation (Scikit-learn Open Source Sprint)](https://www.meetup.com/Berlin-Women-in-Machine-Learning-and-Data-Science/events/266968449/)
+##### Tue Jan 21 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Berlin Women in Machine Learning & Data Science
+
+
 </div>
 <div class=column id=3>
 
-[First 2020 SAS Meetup in Berlin — Hosted by Bayer AG](https://www.meetup.com/SAS-User-Group-Germany/events/266915530/)
-##### Tue Jan 14 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** SAS User Group Germany
-
-
-[PyData 2020 January](https://www.meetup.com/PyData-Berlin/events/267745811/)
+[Startup-Finanzierung: 1800 Euro / Monat pro Teammitglied für eure Tech-Projekte](https://www.meetup.com/Berlin-Digital-Business-Network-SIBB/events/267779594/)
 ##### Wed Jan 15 2020
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** PyData Berlin
+**Organizer:** 💥 Berlin Digital Business Network @SIBB 💥
 
 
 [A.I Today and Tomorrow (English Intermediate)](https://www.meetup.com/HELLO-YOLINGO-BERLIN/events/267761438/)
 ##### Sat Jan 18 2020
 **Location:** [Berlin](/Berlin/home/)
 **Organizer:** Hello Yolingo! Berlin
+
+
+[Navigating the Music Tech Landscape in Europe with all its players](https://www.meetup.com/Startup-Grind-Berlin/events/267385849/)
+##### Tue Jan 21 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Startup Grind Berlin
 
 
 </div>
@@ -337,67 +337,22 @@ The voices of the local AI community
 
 <div class=column id=0>
 
-[Study Session, vote for new/next content: http://tiny.cc/amlsg-vote](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/ltzxsqybccbcc/)
+[Data Science Pioneers Screening in Berlin ](https://www.meetup.com/beyond-machine/events/267614752/)
 ##### Tue Jan 21 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Advanced Machine Learning Study Group
-
-
-[Deep Reinforcement Learning – 17: Exploration: Part 1](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/zjppmrybccbcc/)
-##### Tue Jan 21 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Advanced Machine Learning Study Group
-
-
-[AI for Business Meetup Berlin No. 3](https://www.meetup.com/meetup-group-ilfJOcru/events/266611983/)
-##### Tue Jan 28 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** AI for Marketing - Use cases and Networking Berlin
-
-
-[Managing Microservice Communication with Kubernetes and Istio Service Mesh](https://www.meetup.com/IBM-Developer-Berlin/events/267221286/)
-##### Wed Jan 29 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** IBM Developer Berlin
-
-
-[She In Tech - Edition 3](https://www.meetup.com/datachaindc/events/266780265/)
-##### Tue Feb 11 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** DATACHAIN FOUNDATION
-
-
-[A Tale of Data And Growth Failure](https://www.meetup.com/beyond-machine/events/266806499/)
-##### Thu Feb 20 2020
 **Location:** [Berlin](/Berlin/home/)
 **Organizer:** Deep Learning & Machine Learning & Data PM Bootcamps
 
 
-[Machine Learning & Deep Learning Bootcamp: Building Recommender System](https://www.meetup.com/beyond-machine/events/262610279/)
-##### Thu Mar 26 2020
+[Mobility for a Better World – The Finals](https://www.meetup.com/APX-Axel-Springer-and-Porsche-Berlin/events/267877913/)
+##### Thu Jan 23 2020
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** Deep Learning & Machine Learning & Data PM Bootcamps
+**Organizer:** APX Axel Springer and Porsche - Berlin
 
 
-</div>
-<div class=column id=1>
-
-[Pre-sprint preparation (Scikit-learn Open Source Sprint)](https://www.meetup.com/Berlin-Women-in-Machine-Learning-and-Data-Science/events/266968449/)
-##### Tue Jan 21 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Berlin Women in Machine Learning & Data Science
-
-
-[AI in Action @PubNative](https://www.meetup.com/AI-in-Action-Berlin/events/266941016/)
-##### Wed Jan 22 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** AI in Action Berlin
-
-
-[BIA welcomes 2020 & FUTURE CITY Incubator launch](https://www.meetup.com/Innovators-Berlin-Corporates-Startups/events/267319338/)
+[Home Office & remote work erfolgreich umsetzen](https://www.meetup.com/Berlin-DoSE/events/267900207/)
 ##### Tue Jan 28 2020
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** Innovators Berlin | Corporates & Startups
+**Organizer:** Berlin DoSE
 
 
 [Optimizing The E-Commerce Customer Journey - Expert Insights & Perspectives](https://www.meetup.com/eComBER/events/267320133/)
@@ -425,18 +380,18 @@ The voices of the local AI community
 
 
 </div>
-<div class=column id=2>
+<div class=column id=1>
 
-[Navigating the Music Tech Landscape in Europe with all its players](https://www.meetup.com/Startup-Grind-Berlin/events/267385849/)
+[Deep Reinforcement Learning – 17: Exploration: Part 1](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/zjppmrybccbcc/)
 ##### Tue Jan 21 2020
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** Startup Grind Berlin
+**Organizer:** Advanced Machine Learning Study Group
 
 
-[Deep Tech Meetup #7 - Evolution of Representations in the Transformer](https://www.meetup.com/Bots-Berlin-Build-better-conversational-interfaces-with-AI/events/267058207/)
-##### Wed Jan 22 2020
+[Scikit-learn Open Source Sprint](https://www.meetup.com/Berlin-Women-in-Machine-Learning-and-Data-Science/events/266968335/)
+##### Sat Jan 25 2020
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** Bots Berlin: Build better conversational interfaces with AI
+**Organizer:** Berlin Women in Machine Learning & Data Science
 
 
 [rstudio::conf(2020) watch party](https://www.meetup.com/BerlinR-R-users-group/events/267003566/)
@@ -470,18 +425,18 @@ The voices of the local AI community
 
 
 </div>
-<div class=column id=3>
+<div class=column id=2>
 
-[Data Science Pioneers Screening in Berlin ](https://www.meetup.com/beyond-machine/events/267614752/)
-##### Tue Jan 21 2020
+[AI in Action @PubNative](https://www.meetup.com/AI-in-Action-Berlin/events/266941016/)
+##### Wed Jan 22 2020
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** Deep Learning & Machine Learning & Data PM Bootcamps
+**Organizer:** AI in Action Berlin
 
 
-[Scikit-learn Open Source Sprint](https://www.meetup.com/Berlin-Women-in-Machine-Learning-and-Data-Science/events/266968335/)
-##### Sat Jan 25 2020
+[AI for Business Meetup Berlin No. 3](https://www.meetup.com/meetup-group-ilfJOcru/events/266611983/)
+##### Tue Jan 28 2020
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** Berlin Women in Machine Learning & Data Science
+**Organizer:** AI for Marketing - Use cases and Networking Berlin
 
 
 [Save the Date: Istio Hands-on Workshop](https://www.meetup.com/IBM-Developer-Berlin/events/267221286/)
@@ -506,6 +461,45 @@ The voices of the local AI community
 ##### Wed Mar 25 2020
 **Location:** [Berlin](/Berlin/home/)
 **Organizer:** AI in Action Berlin
+
+
+</div>
+<div class=column id=3>
+
+[Deep Tech Meetup #7 - Evolution of Representations in the Transformer](https://www.meetup.com/Bots-Berlin-Build-better-conversational-interfaces-with-AI/events/267058207/)
+##### Wed Jan 22 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Bots Berlin: Build better conversational interfaces with AI
+
+
+[BIA welcomes 2020 & FUTURE CITY Incubator launch](https://www.meetup.com/Innovators-Berlin-Corporates-Startups/events/267319338/)
+##### Tue Jan 28 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Innovators Berlin | Corporates & Startups
+
+
+[Managing Microservice Communication with Kubernetes and Istio Service Mesh](https://www.meetup.com/IBM-Developer-Berlin/events/267221286/)
+##### Wed Jan 29 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** IBM Developer Berlin
+
+
+[She In Tech - Edition 3](https://www.meetup.com/datachaindc/events/266780265/)
+##### Tue Feb 11 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** DATACHAIN FOUNDATION
+
+
+[A Tale of Data And Growth Failure](https://www.meetup.com/beyond-machine/events/266806499/)
+##### Thu Feb 20 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Deep Learning & Machine Learning & Data PM Bootcamps
+
+
+[Machine Learning & Deep Learning Bootcamp: Building Recommender System](https://www.meetup.com/beyond-machine/events/262610279/)
+##### Thu Mar 26 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Deep Learning & Machine Learning & Data PM Bootcamps
 
 
 </div>
@@ -581,7 +575,7 @@ Active local organizations and initiatives related to AI
 
 
 # Startups
-Explore the newest startups working with AI technologies, from a total of 119 companies.
+Explore the newest startups working with AI technologies, from a total of 121 companies.
 
 <div class=logoCB>
 Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_crop.png" style="width:20%;"/></a>
@@ -726,383 +720,6 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 [Hallidai AI Gaming](https://www.crunchbase.com/organization/fridai)
 **Activity:** Machine Learning, Artificial Intelligence, Video Games, Gaming
 **Investment in USD:** 56,682
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/w9wsljbemmpjocqbi98e](http://public.crunchbase.com/t_api_images/w9wsljbemmpjocqbi98e)
-[ai4medicine](https://www.crunchbase.com/organization/ai4medicine)
-**Activity:** Health Care, Hospital, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/hz8gfnwjwuift7tcof01](http://public.crunchbase.com/t_api_images/hz8gfnwjwuift7tcof01)
-[Inspora](https://www.crunchbase.com/organization/inspora)
-**Activity:** Virtual Assistant, Messaging, Artificial Intelligence, Fashion
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/kplzah0ukpzos6xgmryt](http://public.crunchbase.com/t_api_images/kplzah0ukpzos6xgmryt)
-[Arcona](https://www.crunchbase.com/organization/arcona-a51d)
-**Activity:** Digital Entertainment, Computer, Software, Artificial Intelligence, Music
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/v1486117342/jks2o56ssuym978brl18.png](http://public.crunchbase.com/t_api_images/v1486117342/jks2o56ssuym978brl18.png)
-[Pivii Technologies](https://www.crunchbase.com/organization/pivii)
-**Activity:** Machine Learning, Computer Vision, Big Data, Artificial Intelligence, Information Technology, Information Services
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/v1493791835/wjw1ebpeszjjntv9egxg.png](http://public.crunchbase.com/t_api_images/v1493791835/wjw1ebpeszjjntv9egxg.png)
-[Ad Rockt](https://www.crunchbase.com/organization/ad-rockt)
-**Activity:** Analytics, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/v1497523885/zfwwjo7nsrxissaeedw1.png](http://public.crunchbase.com/t_api_images/v1497523885/zfwwjo7nsrxissaeedw1.png)
-[OSMUNDA](https://www.crunchbase.com/organization/osmunda)
-**Activity:** Pharmaceutical, Health Care, Biotechnology, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/v1502105016/gsswiypgtypabfv9ebjz.jpg](http://public.crunchbase.com/t_api_images/v1502105016/gsswiypgtypabfv9ebjz.jpg)
-[SwitchUp.de](https://www.crunchbase.com/organization/switchup-de)
-**Activity:** Software, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/uruwqibyow4kcjfi4lfq](http://public.crunchbase.com/t_api_images/uruwqibyow4kcjfi4lfq)
-[WUNDER](https://www.crunchbase.com/organization/wunder-ai)
-**Activity:** Internet, Marketing, Psychology, Developer APIs, Machine Learning, Big Data, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/mgyc0izopfswmojyc9gu](http://public.crunchbase.com/t_api_images/mgyc0izopfswmojyc9gu)
-[Qreuz](https://www.crunchbase.com/organization/qreuz)
-**Activity:** E-Commerce, Artificial Intelligence, Information Technology
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/q916i5pzvjwl2heurrtz](http://public.crunchbase.com/t_api_images/q916i5pzvjwl2heurrtz)
-[neurocat](https://www.crunchbase.com/organization/neurocat)
-**Activity:** Machine Learning, Software, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/o2tsugbqs61tmezofr5x](http://public.crunchbase.com/t_api_images/o2tsugbqs61tmezofr5x)
-[Peerspeax](https://www.crunchbase.com/organization/peerspeax)
-**Activity:** Machine Learning, Analytics, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/so5ydofomn1otsmcugjp](http://public.crunchbase.com/t_api_images/so5ydofomn1otsmcugjp)
-[Melodrive Inc.](https://www.crunchbase.com/organization/melodrive-inc)
-**Activity:** Artificial Intelligence, Music
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/k9qlsjpviplg9m4ybbm5](http://public.crunchbase.com/t_api_images/k9qlsjpviplg9m4ybbm5)
-[Signal Cruncher](https://www.crunchbase.com/organization/signal-cruncher-gmbh)
-**Activity:** Energy, Machine Learning, Smart Home, Data Mining, Software, Big Data, Artificial Intelligence, Smart Building, Predictive Analytics, Internet of Things
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/v4vuclwnzdyxlqs8jfo5](http://public.crunchbase.com/t_api_images/v4vuclwnzdyxlqs8jfo5)
-[CleanAI](https://www.crunchbase.com/organization/cleanai)
-**Activity:** Machine Learning, Automotive, Artificial Intelligence, Internet of Things
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/tydrpfmayfegr4c1bvyi](http://public.crunchbase.com/t_api_images/tydrpfmayfegr4c1bvyi)
-[MOTOR AI](https://www.crunchbase.com/organization/motor-ai)
-**Activity:** Automotive, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/hepnigkqxlwmtkomtz81](http://public.crunchbase.com/t_api_images/hepnigkqxlwmtkomtz81)
-[DialogShift](https://www.crunchbase.com/organization/dialogshift)
-**Activity:** Messaging, Artificial Intelligence, Information Technology
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/i311du4gbbawyif8ifti](http://public.crunchbase.com/t_api_images/i311du4gbbawyif8ifti)
-[BlockAxs GmbH](https://www.crunchbase.com/organization/blockaxs-gmbh)
-**Activity:** Blockchain, Legal Tech, Security, Contact Management, Artificial Intelligence, Information Technology, FinTech
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/zg2xamkztedx8o9yf5om](http://public.crunchbase.com/t_api_images/zg2xamkztedx8o9yf5om)
-[CogniScent](https://www.crunchbase.com/organization/cogniscent)
-**Activity:** Health Care, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/w29at1uoplay0w4vobpu](http://public.crunchbase.com/t_api_images/w29at1uoplay0w4vobpu)
-[Ms. AI](https://www.crunchbase.com/organization/ms-ai)
-**Activity:** Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/j361jizg9pkrwnxj7avr](http://public.crunchbase.com/t_api_images/j361jizg9pkrwnxj7avr)
-[Konfidio](https://www.crunchbase.com/organization/konfidio)
-**Activity:** Blockchain, Internet, Financial Services, Consulting, Artificial Intelligence, Information Technology, Professional Services, FinTech
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/ypuxh2fuip1zk63m40pq](http://public.crunchbase.com/t_api_images/ypuxh2fuip1zk63m40pq)
-[colabel](https://www.crunchbase.com/organization/colabel)
-**Activity:** Machine Learning, Natural Language Processing, Computer Vision, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/kejj5vydg40necon8huo](http://public.crunchbase.com/t_api_images/kejj5vydg40necon8huo)
-[SNAZZ](https://www.crunchbase.com/organization/snazz-ug)
-**Activity:** GreenTech, Social Media, Analytics, Apps, Software, Big Data, Artificial Intelligence, Fashion, Information Technology, Generation Z
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-</div>
-<div class=column id=1>
-
-![http://public.crunchbase.com/t_api_images/gicxkrqdxi6y0ctlrn6z](http://public.crunchbase.com/t_api_images/gicxkrqdxi6y0ctlrn6z)
-[RiseML](https://www.crunchbase.com/organization/riseml)
-**Activity:** Internet, Machine Learning, Software, Artificial Intelligence
-**Investment in USD:** 910,600
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/jerwtdido9ba3rr6nqzy](http://public.crunchbase.com/t_api_images/jerwtdido9ba3rr6nqzy)
-[UPCUE](https://www.crunchbase.com/organization/botconnect)
-**Activity:** SaaS, Machine Learning, Artificial Intelligence, Enterprise Software, B2B
-**Investment in USD:** 535,689
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/v1500669084/shyy7mp7s2j3hn4tjldo.png](http://public.crunchbase.com/t_api_images/v1500669084/shyy7mp7s2j3hn4tjldo.png)
-[RealSynth](https://www.crunchbase.com/organization/realsynth)
-**Activity:** Machine Learning, Computer Vision, Artificial Intelligence, Industrial Automation
-**Investment in USD:** 216,117
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/dbp5iexefrhvthd8dyos](http://public.crunchbase.com/t_api_images/dbp5iexefrhvthd8dyos)
-[idalab](https://www.crunchbase.com/organization/idalab)
-**Activity:** Machine Learning, Consulting, Artificial Intelligence, Information Technology
-**Investment in USD:** 101,015
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/mothuqmufktrkjfyhis8](http://public.crunchbase.com/t_api_images/mothuqmufktrkjfyhis8)
-[TheMinuteApp](https://www.crunchbase.com/organization/theminuteapp)
-**Activity:** Staffing Agency, Human Resources, Artificial Intelligence
-**Investment in USD:** 50,000
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/kgfoie0xf8jzahjs4rkw](http://public.crunchbase.com/t_api_images/kgfoie0xf8jzahjs4rkw)
-[Tracks](https://www.crunchbase.com/organization/tracks-fa20)
-**Activity:** Transportation, Automotive, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/ipmu2ihtxvhpakmmt7rx](http://public.crunchbase.com/t_api_images/ipmu2ihtxvhpakmmt7rx)
-[7Fields](https://www.crunchbase.com/organization/7fields)
-**Activity:** EdTech, SaaS, Machine Learning, Human Resources, Artificial Intelligence, Information Technology, E-Learning
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/82d8b8a66abfc98e916d](http://public.crunchbase.com/t_api_images/82d8b8a66abfc98e916d)
-[Standup Alice](https://www.crunchbase.com/organization/standup-alice)
-**Activity:** Robotics, Software, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/v1491213413/xmyt8hfepk6bnksjzjvh.png](http://public.crunchbase.com/t_api_images/v1491213413/xmyt8hfepk6bnksjzjvh.png)
-[Infosys Innovation Fabrik](https://www.crunchbase.com/organization/infosys-innovation-fabrik)
-**Activity:** Internet, Artificial Intelligence, Information Technology
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/v1495187240/itnmx8p8frhkbhgivdgb.png](http://public.crunchbase.com/t_api_images/v1495187240/itnmx8p8frhkbhgivdgb.png)
-[Polyaxon](https://www.crunchbase.com/organization/polyaxon)
-**Activity:** Cloud Infrastructure, Machine Learning, Infrastructure, PaaS, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/v1497675065/ib846lysnxjiwgejpkpc.png](http://public.crunchbase.com/t_api_images/v1497675065/ib846lysnxjiwgejpkpc.png)
-[Wikifriend](https://www.crunchbase.com/organization/wikifriend)
-**Activity:** Marketing, Virtual Assistant, Semantic Web, Marketing Automation, Artificial Intelligence, Internet of Things, Customer Service
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/anazpwplvrx5ojddpsvi](http://public.crunchbase.com/t_api_images/anazpwplvrx5ojddpsvi)
-[KERSPI GmbH](https://www.crunchbase.com/organization/dyvr-social-media-gmbh)
-**Activity:** Education, Location Based Services, Communities, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/v1506347482/bccaoy85tzqb1djfumj4.png](http://public.crunchbase.com/t_api_images/v1506347482/bccaoy85tzqb1djfumj4.png)
-[OWN.space](https://www.crunchbase.com/organization/own-gmbh)
-**Activity:** Analytics, Software, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/iswco9rohykcy5srhqzz](http://public.crunchbase.com/t_api_images/iswco9rohykcy5srhqzz)
-[Faer](https://www.crunchbase.com/organization/faer)
-**Activity:** E-Commerce, Artificial Intelligence, Fashion
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/w52dsewy6usuyfdewmpf](http://public.crunchbase.com/t_api_images/w52dsewy6usuyfdewmpf)
-[Solvemate](https://www.crunchbase.com/organization/solvemate)
-**Activity:** SaaS, Machine Learning, Messaging, Software, Artificial Intelligence, Customer Service
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/jnxqebuxzm1daqlfcguv](http://public.crunchbase.com/t_api_images/jnxqebuxzm1daqlfcguv)
-[Xbird](https://www.crunchbase.com/organization/xbird-gmbh)
-**Activity:** Wearables, Emergency Medicine, Health Care, Analytics, Artificial Intelligence, Database
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/ygqvplk19zhfo3g6wqpw](http://public.crunchbase.com/t_api_images/ygqvplk19zhfo3g6wqpw)
-[collbet](https://www.crunchbase.com/organization/collbet)
-**Activity:** Messaging, Apps, Artificial Intelligence, Information Technology
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/si89zemxwomrszuoidd5](http://public.crunchbase.com/t_api_images/si89zemxwomrszuoidd5)
-[deepset](https://www.crunchbase.com/organization/deepset)
-**Activity:** Machine Learning, Natural Language Processing, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/qkxdzl5fpd1kp2qwffw5](http://public.crunchbase.com/t_api_images/qkxdzl5fpd1kp2qwffw5)
-[Blindfeed](https://www.crunchbase.com/organization/blindfeed)
-**Activity:** Collaboration, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/ybjsdncbtacllocephkj](http://public.crunchbase.com/t_api_images/ybjsdncbtacllocephkj)
-[Phantasma Labs](https://www.crunchbase.com/organization/phantasma-labs)
-**Activity:** Autonomous Vehicles, Automotive, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/benxcrztmwkb26aupn8b](http://public.crunchbase.com/t_api_images/benxcrztmwkb26aupn8b)
-[gust.network](https://www.crunchbase.com/organization/gust-network)
-**Activity:** Blockchain, Human Resources, Artificial Intelligence, Information Technology
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/uzrq3yidqtxlt8iflnvn](http://public.crunchbase.com/t_api_images/uzrq3yidqtxlt8iflnvn)
-[D3M Labs](https://www.crunchbase.com/organization/d3m-labs)
-**Activity:** Analytics, Consulting, Artificial Intelligence, Information Technology
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/p9ialzj0a17zdulst7cz](http://public.crunchbase.com/t_api_images/p9ialzj0a17zdulst7cz)
-[urban ENERGY GmbH](https://www.crunchbase.com/organization/urban-energy-gmbh)
-**Activity:** Transportation, Artificial Intelligence, Internet of Things
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/toeakxotl7gyehlddnwq](http://public.crunchbase.com/t_api_images/toeakxotl7gyehlddnwq)
-[Baumeister AI](https://www.crunchbase.com/organization/baumeister-ai)
-**Activity:** Machine Learning, Computer Vision, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/np8t2e3zky6wfykbq6et](http://public.crunchbase.com/t_api_images/np8t2e3zky6wfykbq6et)
-[MonitorFish](https://www.crunchbase.com/organization/monitorfish)
-**Activity:** Software, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/wijef5zaayjc1kzurqpz](http://public.crunchbase.com/t_api_images/wijef5zaayjc1kzurqpz)
-[conductiv.ai](https://www.crunchbase.com/organization/conductiv-ai)
-**Activity:** Semiconductor, Machine Learning, Industrial Manufacturing, Artificial Intelligence, Manufacturing, Industrial Automation
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-![/images/startupEmpty.svg.png](/images/startupEmpty.svg.png)
-[LabTwin](https://www.crunchbase.com/organization/labtwin)
-**Activity:** Pharmaceutical, Biotechnology, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [Berlin](/Berlin/home/)
-
-
-</div>
-<div class=column id=2>
-
-![http://public.crunchbase.com/t_api_images/hggi01losfjxr19h65lv](http://public.crunchbase.com/t_api_images/hggi01losfjxr19h65lv)
-[AIgnostics](https://www.crunchbase.com/organization/aignostics)
-**Activity:** Health Care, Machine Learning, Software, Artificial Intelligence
-**Investment in USD:** 906,409
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/h9unnwkezvhtnxxyfgqq](http://public.crunchbase.com/t_api_images/h9unnwkezvhtnxxyfgqq)
-[AiSight](https://www.crunchbase.com/organization/aisight)
-**Activity:** Machine Learning, Sensor, Hardware, Software, Artificial Intelligence, Manufacturing
-**Investment in USD:** 325,000
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/o1r3q3iwokirbgiscohq](http://public.crunchbase.com/t_api_images/o1r3q3iwokirbgiscohq)
-[Sizolution](https://www.crunchbase.com/organization/sizolution)
-**Activity:** E-Commerce, SaaS, Software, Artificial Intelligence, Fashion
-**Investment in USD:** 200,000
-**Location:** [Berlin](/Berlin/home/)
-
-
-![http://public.crunchbase.com/t_api_images/pyfk4tm2yxabbegkrtsr](http://public.crunchbase.com/t_api_images/pyfk4tm2yxabbegkrtsr)
-[rvolt.](https://www.crunchbase.com/organization/rvolt)
-**Activity:** Smart Home, Artificial Intelligence, Information Technology, Renewable Energy, Clean Energy
-**Investment in USD:** 100,821
 **Location:** [Berlin](/Berlin/home/)
 
 
@@ -1268,33 +885,40 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 
 
 </div>
-<div class=column id=3>
+<div class=column id=1>
 
-![http://public.crunchbase.com/t_api_images/zcp1gz9si8r6ptdwv7gv](http://public.crunchbase.com/t_api_images/zcp1gz9si8r6ptdwv7gv)
-[Brighter AI Technologies](https://www.crunchbase.com/organization/brighter-ai-technologies)
-**Activity:** Cyber Security, Machine Learning, Artificial Intelligence, Information Technology
-**Investment in USD:** 780,062
+![http://public.crunchbase.com/t_api_images/gicxkrqdxi6y0ctlrn6z](http://public.crunchbase.com/t_api_images/gicxkrqdxi6y0ctlrn6z)
+[RiseML](https://www.crunchbase.com/organization/riseml)
+**Activity:** Internet, Machine Learning, Software, Artificial Intelligence
+**Investment in USD:** 910,600
 **Location:** [Berlin](/Berlin/home/)
 
 
-![http://public.crunchbase.com/t_api_images/ffxy7iempzroojgi0ojj](http://public.crunchbase.com/t_api_images/ffxy7iempzroojgi0ojj)
-[Industrial Analytics IA](https://www.crunchbase.com/organization/industrial-analytics)
-**Activity:** Analytics, Artificial Intelligence, Internet of Things, Mechanical Engineering
-**Investment in USD:** 297,324
+![http://public.crunchbase.com/t_api_images/jerwtdido9ba3rr6nqzy](http://public.crunchbase.com/t_api_images/jerwtdido9ba3rr6nqzy)
+[UPCUE](https://www.crunchbase.com/organization/botconnect)
+**Activity:** SaaS, Machine Learning, Artificial Intelligence, Enterprise Software, B2B
+**Investment in USD:** 535,689
 **Location:** [Berlin](/Berlin/home/)
 
 
-![http://public.crunchbase.com/t_api_images/nl9nklyn3vrbhbaagznb](http://public.crunchbase.com/t_api_images/nl9nklyn3vrbhbaagznb)
-[CodersFirst](https://www.crunchbase.com/organization/codersfirst)
-**Activity:** Recruiting, Machine Learning, Big Data, Artificial Intelligence
-**Investment in USD:** 154,018
+![http://public.crunchbase.com/t_api_images/v1500669084/shyy7mp7s2j3hn4tjldo.png](http://public.crunchbase.com/t_api_images/v1500669084/shyy7mp7s2j3hn4tjldo.png)
+[RealSynth](https://www.crunchbase.com/organization/realsynth)
+**Activity:** Machine Learning, Computer Vision, Artificial Intelligence, Industrial Automation
+**Investment in USD:** 216,117
 **Location:** [Berlin](/Berlin/home/)
 
 
-![http://public.crunchbase.com/t_api_images/obmlz5rl21kwytpnxtxe](http://public.crunchbase.com/t_api_images/obmlz5rl21kwytpnxtxe)
-[Sciencemap](https://www.crunchbase.com/organization/sciencemap)
-**Activity:** EdTech, Knowledge Management, Artificial Intelligence, Information Technology
-**Investment in USD:** 60,676
+![http://public.crunchbase.com/t_api_images/dbp5iexefrhvthd8dyos](http://public.crunchbase.com/t_api_images/dbp5iexefrhvthd8dyos)
+[idalab](https://www.crunchbase.com/organization/idalab)
+**Activity:** Machine Learning, Consulting, Artificial Intelligence, Information Technology
+**Investment in USD:** 101,015
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/mothuqmufktrkjfyhis8](http://public.crunchbase.com/t_api_images/mothuqmufktrkjfyhis8)
+[TheMinuteApp](https://www.crunchbase.com/organization/theminuteapp)
+**Activity:** Staffing Agency, Human Resources, Artificial Intelligence
+**Investment in USD:** 50,000
 **Location:** [Berlin](/Berlin/home/)
 
 
@@ -1448,6 +1072,390 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 ![http://public.crunchbase.com/t_api_images/cmcafx0snbdtwvisecfl](http://public.crunchbase.com/t_api_images/cmcafx0snbdtwvisecfl)
 [RealRate](https://www.crunchbase.com/organization/realrate)
 **Activity:** Finance, Insurance, Artificial Intelligence, FinTech, InsurTech
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+</div>
+<div class=column id=2>
+
+![http://public.crunchbase.com/t_api_images/hggi01losfjxr19h65lv](http://public.crunchbase.com/t_api_images/hggi01losfjxr19h65lv)
+[AIgnostics](https://www.crunchbase.com/organization/aignostics)
+**Activity:** Health Care, Machine Learning, Software, Artificial Intelligence
+**Investment in USD:** 906,409
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/h9unnwkezvhtnxxyfgqq](http://public.crunchbase.com/t_api_images/h9unnwkezvhtnxxyfgqq)
+[AiSight](https://www.crunchbase.com/organization/aisight)
+**Activity:** Machine Learning, Sensor, Hardware, Software, Artificial Intelligence, Manufacturing
+**Investment in USD:** 325,000
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/o1r3q3iwokirbgiscohq](http://public.crunchbase.com/t_api_images/o1r3q3iwokirbgiscohq)
+[Sizolution](https://www.crunchbase.com/organization/sizolution)
+**Activity:** E-Commerce, SaaS, Software, Artificial Intelligence, Fashion
+**Investment in USD:** 200,000
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/pyfk4tm2yxabbegkrtsr](http://public.crunchbase.com/t_api_images/pyfk4tm2yxabbegkrtsr)
+[rvolt.](https://www.crunchbase.com/organization/rvolt)
+**Activity:** Smart Home, Artificial Intelligence, Information Technology, Renewable Energy, Clean Energy
+**Investment in USD:** 100,821
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/jyhcorkkxzsuvnbkdpns](http://public.crunchbase.com/t_api_images/jyhcorkkxzsuvnbkdpns)
+[Aleph Search](https://www.crunchbase.com/organization/aleph-search)
+**Activity:** E-Commerce, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/w9wsljbemmpjocqbi98e](http://public.crunchbase.com/t_api_images/w9wsljbemmpjocqbi98e)
+[ai4medicine](https://www.crunchbase.com/organization/ai4medicine)
+**Activity:** Health Care, Hospital, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/hz8gfnwjwuift7tcof01](http://public.crunchbase.com/t_api_images/hz8gfnwjwuift7tcof01)
+[Inspora](https://www.crunchbase.com/organization/inspora)
+**Activity:** Virtual Assistant, Messaging, Artificial Intelligence, Fashion
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/kplzah0ukpzos6xgmryt](http://public.crunchbase.com/t_api_images/kplzah0ukpzos6xgmryt)
+[Arcona](https://www.crunchbase.com/organization/arcona-a51d)
+**Activity:** Digital Entertainment, Computer, Software, Artificial Intelligence, Music
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/v1486117342/jks2o56ssuym978brl18.png](http://public.crunchbase.com/t_api_images/v1486117342/jks2o56ssuym978brl18.png)
+[Pivii Technologies](https://www.crunchbase.com/organization/pivii)
+**Activity:** Machine Learning, Computer Vision, Big Data, Artificial Intelligence, Information Technology, Information Services
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/v1493791835/wjw1ebpeszjjntv9egxg.png](http://public.crunchbase.com/t_api_images/v1493791835/wjw1ebpeszjjntv9egxg.png)
+[Ad Rockt](https://www.crunchbase.com/organization/ad-rockt)
+**Activity:** Analytics, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/v1497523885/zfwwjo7nsrxissaeedw1.png](http://public.crunchbase.com/t_api_images/v1497523885/zfwwjo7nsrxissaeedw1.png)
+[OSMUNDA](https://www.crunchbase.com/organization/osmunda)
+**Activity:** Pharmaceutical, Health Care, Biotechnology, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/v1502105016/gsswiypgtypabfv9ebjz.jpg](http://public.crunchbase.com/t_api_images/v1502105016/gsswiypgtypabfv9ebjz.jpg)
+[SwitchUp.de](https://www.crunchbase.com/organization/switchup-de)
+**Activity:** Software, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/uruwqibyow4kcjfi4lfq](http://public.crunchbase.com/t_api_images/uruwqibyow4kcjfi4lfq)
+[WUNDER](https://www.crunchbase.com/organization/wunder-ai)
+**Activity:** Internet, Marketing, Psychology, Developer APIs, Machine Learning, Big Data, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/mgyc0izopfswmojyc9gu](http://public.crunchbase.com/t_api_images/mgyc0izopfswmojyc9gu)
+[Qreuz](https://www.crunchbase.com/organization/qreuz)
+**Activity:** E-Commerce, Artificial Intelligence, Information Technology
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/q916i5pzvjwl2heurrtz](http://public.crunchbase.com/t_api_images/q916i5pzvjwl2heurrtz)
+[neurocat](https://www.crunchbase.com/organization/neurocat)
+**Activity:** Machine Learning, Software, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/o2tsugbqs61tmezofr5x](http://public.crunchbase.com/t_api_images/o2tsugbqs61tmezofr5x)
+[Peerspeax](https://www.crunchbase.com/organization/peerspeax)
+**Activity:** Machine Learning, Analytics, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/so5ydofomn1otsmcugjp](http://public.crunchbase.com/t_api_images/so5ydofomn1otsmcugjp)
+[Melodrive Inc.](https://www.crunchbase.com/organization/melodrive-inc)
+**Activity:** Artificial Intelligence, Music
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/k9qlsjpviplg9m4ybbm5](http://public.crunchbase.com/t_api_images/k9qlsjpviplg9m4ybbm5)
+[Signal Cruncher](https://www.crunchbase.com/organization/signal-cruncher-gmbh)
+**Activity:** Energy, Machine Learning, Smart Home, Data Mining, Software, Big Data, Artificial Intelligence, Smart Building, Predictive Analytics, Internet of Things
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/v4vuclwnzdyxlqs8jfo5](http://public.crunchbase.com/t_api_images/v4vuclwnzdyxlqs8jfo5)
+[CleanAI](https://www.crunchbase.com/organization/cleanai)
+**Activity:** Machine Learning, Automotive, Artificial Intelligence, Internet of Things
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/tydrpfmayfegr4c1bvyi](http://public.crunchbase.com/t_api_images/tydrpfmayfegr4c1bvyi)
+[MOTOR AI](https://www.crunchbase.com/organization/motor-ai)
+**Activity:** Automotive, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/hepnigkqxlwmtkomtz81](http://public.crunchbase.com/t_api_images/hepnigkqxlwmtkomtz81)
+[DialogShift](https://www.crunchbase.com/organization/dialogshift)
+**Activity:** Messaging, Artificial Intelligence, Information Technology
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/i311du4gbbawyif8ifti](http://public.crunchbase.com/t_api_images/i311du4gbbawyif8ifti)
+[BlockAxs GmbH](https://www.crunchbase.com/organization/blockaxs-gmbh)
+**Activity:** Blockchain, Legal Tech, Security, Contact Management, Artificial Intelligence, Information Technology, FinTech
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/zg2xamkztedx8o9yf5om](http://public.crunchbase.com/t_api_images/zg2xamkztedx8o9yf5om)
+[CogniScent](https://www.crunchbase.com/organization/cogniscent)
+**Activity:** Health Care, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/w29at1uoplay0w4vobpu](http://public.crunchbase.com/t_api_images/w29at1uoplay0w4vobpu)
+[Ms. AI](https://www.crunchbase.com/organization/ms-ai)
+**Activity:** Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/j361jizg9pkrwnxj7avr](http://public.crunchbase.com/t_api_images/j361jizg9pkrwnxj7avr)
+[Konfidio](https://www.crunchbase.com/organization/konfidio)
+**Activity:** Blockchain, Internet, Financial Services, Consulting, Artificial Intelligence, Information Technology, Professional Services, FinTech
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/ypuxh2fuip1zk63m40pq](http://public.crunchbase.com/t_api_images/ypuxh2fuip1zk63m40pq)
+[colabel](https://www.crunchbase.com/organization/colabel)
+**Activity:** Machine Learning, Natural Language Processing, Computer Vision, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/kejj5vydg40necon8huo](http://public.crunchbase.com/t_api_images/kejj5vydg40necon8huo)
+[SNAZZ](https://www.crunchbase.com/organization/snazz-ug)
+**Activity:** GreenTech, Social Media, Analytics, Apps, Software, Big Data, Artificial Intelligence, Fashion, Information Technology, Generation Z
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+</div>
+<div class=column id=3>
+
+![http://public.crunchbase.com/t_api_images/zcp1gz9si8r6ptdwv7gv](http://public.crunchbase.com/t_api_images/zcp1gz9si8r6ptdwv7gv)
+[Brighter AI Technologies](https://www.crunchbase.com/organization/brighter-ai-technologies)
+**Activity:** Cyber Security, Machine Learning, Artificial Intelligence, Information Technology
+**Investment in USD:** 780,062
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/ffxy7iempzroojgi0ojj](http://public.crunchbase.com/t_api_images/ffxy7iempzroojgi0ojj)
+[Industrial Analytics IA](https://www.crunchbase.com/organization/industrial-analytics)
+**Activity:** Analytics, Artificial Intelligence, Internet of Things, Mechanical Engineering
+**Investment in USD:** 297,324
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/nl9nklyn3vrbhbaagznb](http://public.crunchbase.com/t_api_images/nl9nklyn3vrbhbaagznb)
+[CodersFirst](https://www.crunchbase.com/organization/codersfirst)
+**Activity:** Recruiting, Machine Learning, Big Data, Artificial Intelligence
+**Investment in USD:** 154,018
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/obmlz5rl21kwytpnxtxe](http://public.crunchbase.com/t_api_images/obmlz5rl21kwytpnxtxe)
+[Sciencemap](https://www.crunchbase.com/organization/sciencemap)
+**Activity:** EdTech, Knowledge Management, Artificial Intelligence, Information Technology
+**Investment in USD:** 60,676
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/mwcquftnbrp9egoutips](http://public.crunchbase.com/t_api_images/mwcquftnbrp9egoutips)
+[SPREAD](https://www.crunchbase.com/organization/spread-d89f)
+**Activity:** Intelligent Systems, Product Management, 3D Technology, Industrial Engineering, Product Design, Software, Artificial Intelligence, Mechanical Engineering
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/kgfoie0xf8jzahjs4rkw](http://public.crunchbase.com/t_api_images/kgfoie0xf8jzahjs4rkw)
+[Tracks](https://www.crunchbase.com/organization/tracks-fa20)
+**Activity:** Transportation, Automotive, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/ipmu2ihtxvhpakmmt7rx](http://public.crunchbase.com/t_api_images/ipmu2ihtxvhpakmmt7rx)
+[7Fields](https://www.crunchbase.com/organization/7fields)
+**Activity:** EdTech, SaaS, Machine Learning, Human Resources, Artificial Intelligence, Information Technology, E-Learning
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/82d8b8a66abfc98e916d](http://public.crunchbase.com/t_api_images/82d8b8a66abfc98e916d)
+[Standup Alice](https://www.crunchbase.com/organization/standup-alice)
+**Activity:** Robotics, Software, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/v1491213413/xmyt8hfepk6bnksjzjvh.png](http://public.crunchbase.com/t_api_images/v1491213413/xmyt8hfepk6bnksjzjvh.png)
+[Infosys Innovation Fabrik](https://www.crunchbase.com/organization/infosys-innovation-fabrik)
+**Activity:** Internet, Artificial Intelligence, Information Technology
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/v1495187240/itnmx8p8frhkbhgivdgb.png](http://public.crunchbase.com/t_api_images/v1495187240/itnmx8p8frhkbhgivdgb.png)
+[Polyaxon](https://www.crunchbase.com/organization/polyaxon)
+**Activity:** Cloud Infrastructure, Machine Learning, Infrastructure, PaaS, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/v1497675065/ib846lysnxjiwgejpkpc.png](http://public.crunchbase.com/t_api_images/v1497675065/ib846lysnxjiwgejpkpc.png)
+[Wikifriend](https://www.crunchbase.com/organization/wikifriend)
+**Activity:** Marketing, Virtual Assistant, Semantic Web, Marketing Automation, Artificial Intelligence, Internet of Things, Customer Service
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/anazpwplvrx5ojddpsvi](http://public.crunchbase.com/t_api_images/anazpwplvrx5ojddpsvi)
+[KERSPI GmbH](https://www.crunchbase.com/organization/dyvr-social-media-gmbh)
+**Activity:** Education, Location Based Services, Communities, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/v1506347482/bccaoy85tzqb1djfumj4.png](http://public.crunchbase.com/t_api_images/v1506347482/bccaoy85tzqb1djfumj4.png)
+[OWN.space](https://www.crunchbase.com/organization/own-gmbh)
+**Activity:** Analytics, Software, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/iswco9rohykcy5srhqzz](http://public.crunchbase.com/t_api_images/iswco9rohykcy5srhqzz)
+[Faer](https://www.crunchbase.com/organization/faer)
+**Activity:** E-Commerce, Artificial Intelligence, Fashion
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/w52dsewy6usuyfdewmpf](http://public.crunchbase.com/t_api_images/w52dsewy6usuyfdewmpf)
+[Solvemate](https://www.crunchbase.com/organization/solvemate)
+**Activity:** SaaS, Machine Learning, Messaging, Software, Artificial Intelligence, Customer Service
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/jnxqebuxzm1daqlfcguv](http://public.crunchbase.com/t_api_images/jnxqebuxzm1daqlfcguv)
+[Xbird](https://www.crunchbase.com/organization/xbird-gmbh)
+**Activity:** Wearables, Emergency Medicine, Health Care, Analytics, Artificial Intelligence, Database
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/ygqvplk19zhfo3g6wqpw](http://public.crunchbase.com/t_api_images/ygqvplk19zhfo3g6wqpw)
+[collbet](https://www.crunchbase.com/organization/collbet)
+**Activity:** Messaging, Apps, Artificial Intelligence, Information Technology
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/si89zemxwomrszuoidd5](http://public.crunchbase.com/t_api_images/si89zemxwomrszuoidd5)
+[deepset](https://www.crunchbase.com/organization/deepset)
+**Activity:** Machine Learning, Natural Language Processing, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/qkxdzl5fpd1kp2qwffw5](http://public.crunchbase.com/t_api_images/qkxdzl5fpd1kp2qwffw5)
+[Blindfeed](https://www.crunchbase.com/organization/blindfeed)
+**Activity:** Collaboration, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/ybjsdncbtacllocephkj](http://public.crunchbase.com/t_api_images/ybjsdncbtacllocephkj)
+[Phantasma Labs](https://www.crunchbase.com/organization/phantasma-labs)
+**Activity:** Autonomous Vehicles, Automotive, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/benxcrztmwkb26aupn8b](http://public.crunchbase.com/t_api_images/benxcrztmwkb26aupn8b)
+[gust.network](https://www.crunchbase.com/organization/gust-network)
+**Activity:** Blockchain, Human Resources, Artificial Intelligence, Information Technology
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/uzrq3yidqtxlt8iflnvn](http://public.crunchbase.com/t_api_images/uzrq3yidqtxlt8iflnvn)
+[D3M Labs](https://www.crunchbase.com/organization/d3m-labs)
+**Activity:** Analytics, Consulting, Artificial Intelligence, Information Technology
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/p9ialzj0a17zdulst7cz](http://public.crunchbase.com/t_api_images/p9ialzj0a17zdulst7cz)
+[urban ENERGY GmbH](https://www.crunchbase.com/organization/urban-energy-gmbh)
+**Activity:** Transportation, Artificial Intelligence, Internet of Things
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/toeakxotl7gyehlddnwq](http://public.crunchbase.com/t_api_images/toeakxotl7gyehlddnwq)
+[Baumeister AI](https://www.crunchbase.com/organization/baumeister-ai)
+**Activity:** Machine Learning, Computer Vision, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/np8t2e3zky6wfykbq6et](http://public.crunchbase.com/t_api_images/np8t2e3zky6wfykbq6et)
+[MonitorFish](https://www.crunchbase.com/organization/monitorfish)
+**Activity:** Software, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![http://public.crunchbase.com/t_api_images/wijef5zaayjc1kzurqpz](http://public.crunchbase.com/t_api_images/wijef5zaayjc1kzurqpz)
+[conductiv.ai](https://www.crunchbase.com/organization/conductiv-ai)
+**Activity:** Semiconductor, Machine Learning, Industrial Manufacturing, Artificial Intelligence, Manufacturing, Industrial Automation
+**Investment in USD:** 0
+**Location:** [Berlin](/Berlin/home/)
+
+
+![/images/startupEmpty.svg.png](/images/startupEmpty.svg.png)
+[LabTwin](https://www.crunchbase.com/organization/labtwin)
+**Activity:** Pharmaceutical, Biotechnology, Artificial Intelligence
 **Investment in USD:** 0
 **Location:** [Berlin](/Berlin/home/)
 

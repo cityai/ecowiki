@@ -22,7 +22,7 @@
 }
 
 .mkcontent {
-  font-size: 14px;
+  font-size: 0.875rem;
   color: mc("grey", "700");
   padding: 0 0 20px 0;
   width: 100%;
@@ -45,7 +45,7 @@
     //background-color: mc('blue-grey', '50');
     //background: linear-gradient(to bottom, mc('blue-grey', '50'), mc('indigo', '50'));
     //border-bottom: 2px solid mc('indigo', '100');
-    font-size: 36px;
+    font-size: 2.25rem;
     color: $content-color-text;
     font-weight: 900;
     //border-bottom: 1px solid black;
@@ -200,7 +200,7 @@
   h2 {
     //background-color: lighten(mc('teal', '50'), 5%);
     color: $content-color-h2;
-    font-size: 20px;
+    font-size: 1.25rem;
     padding-top: 28px;
     padding-bottom: 28px;
     //border-top: 1px solid black;
@@ -247,7 +247,7 @@
     // 	display:inline;
     // }
     color: $content-color-h2;
-    font-size: 16px;
+    font-size: 1rem;
     padding-top: 15px;
     padding-bottom: 21px;
     letter-spacing: 3px;
@@ -307,7 +307,7 @@
         font-weight: normal;
         text-decoration: none;
         color: mc("grey", "500");
-        font-size: 14px;
+        font-size: 0.875rem;
         margin-right: 5px;
       }
 
@@ -355,7 +355,7 @@
     flex-direction: row;
     flex-wrap: wrap;
     flex: 1 1 160px;
-    font-size: 16px;
+    font-size: 1rem;
     color: black;
     &:first-child {
       //padding-top: 20px;
@@ -367,7 +367,7 @@
       // margin: 10px;
       align-items: center;
       justify-content: center;
-      font-size: 16px;
+      font-size: 1rem;
       &:hover {
         color: #c80000;
       }
@@ -393,7 +393,7 @@
     width: auto;
     border-collapse: collapse;
     margin: 10px 20px;
-    font-size: 14px;
+    font-size: 0.875rem;
 
     th {
       background-color: mc("blue", "500");
@@ -443,7 +443,7 @@
       color: mc("blue-grey", "100");
       padding: 0;
       font-family: $core-font-monospace;
-      font-size: 13px;
+      font-size: 0.8125rem;
     }
 
     & + p {
@@ -499,7 +499,7 @@
         background-color: transparent;
         padding: 0;
         font-family: $core-font-monospace;
-        font-size: 13px;
+        font-size: 0.8125rem;
       }
 
       & + p {
@@ -619,7 +619,7 @@
   //--------------------------------------------
   .CityPageSpecific h1 {
     border: none;
-    font-size: 40px;
+    font-size: 2.5rem;
     padding: 0 15px;
     padding-top:64px;
   }
@@ -654,11 +654,11 @@
     float: left;
     width: 25%;
     @media only screen and (max-width: 1024px){
-      width: 50%;
+      width: 100%;
     }
   }
   .groups p a{
-    font-size: 18px;
+    font-size: 1.125rem;
     font-weight: 700;
     color: $a-color-text;
     text-transform: capitalize;
@@ -674,7 +674,7 @@
   .groups p a.internal-link{
     display: block;
     margin:0;
-    font-size: 16px;
+    font-size: 1rem;
 
   }
 
@@ -685,7 +685,7 @@
   }
 
   .groups h4 {
-    font-size: 18px;
+    font-size: 1.125rem;
     font-weight: 700;
     text-transform: capitalize;
     line-height: 28px;
@@ -694,7 +694,7 @@
   }
   .groups p {
     display: block;
-    font-size: 16px;
+    font-size: 1rem;
     line-height: 28px;
     padding: 5px;
     word-spacing: 3px;
@@ -740,6 +740,9 @@
     float: left;
     width: 25%;
     @media only screen and (max-width: 1024px){
+      width: 50%;
+    }
+    @media only screen and (min-width: 320px) and (max-width: 380px){
       width: 100%;
     }
   }
@@ -748,14 +751,14 @@
     margin: 0;
     padding-left: 15px;
     display: block;
-    font-size: 18px;
+    font-size: 1.125rem;
     font-weight: 600;
   }
 
   .events h5 {
     display: inline;
     color: $date-color-text;
-    font-size: 18px;
+    font-size: 1.125rem;
     font-weight: 300;
     padding-left: 15px;
   }
@@ -763,7 +766,7 @@
     display: block;
     padding-top: 0px;
     padding-bottom: 30px;
-    font-size: 16px;
+    font-size: 1rem;
   }
   .events p strong:nth-of-type(2){
     padding-left: 0;
@@ -774,14 +777,14 @@
   .events p a {
     color: $a-color-text;
     font-weight: bold;
-    font-size: 18px;
+    font-size: 1.125rem;
     &:hover {
       color: $a-hover-color-text;
     }
     
   }
   .events p a.internal-link{
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: normal;
     text-decoration-line: underline;
   }
@@ -810,8 +813,8 @@
     float: left;
     width: 25%;
     @media only screen and (max-width: 1024px){
-        flex: 50%;
-        max-width: 50%;
+        flex: 100%;
+        max-width: 100%;
     }
   }
  
@@ -825,7 +828,7 @@
       display: block;
       flex-direction: column;
       flex: 0;
-      font-size: 16px;
+      font-size: 1rem;
       padding-bottom: 50px;
       img{
         width: 15%;
@@ -835,7 +838,7 @@
       }
       a {
         color: $a-color-text;
-        font-size: 18px;
+        font-size: 1.125rem;
         font-weight: bold;
         //text-transform: uppercase;
         margin:0;
@@ -846,25 +849,25 @@
         
       }
       a.internal-link{
-        font-size: 16px;
+        font-size: 1rem;
         font-weight: normal;
         text-decoration-line: underline;
       }
     }
     h4 {
-      font-size: 18px;
+      font-size: 1.125rem;
       font-weight: 900;
       padding: 20px 15px;
       text-transform: uppercase;
     }
     strong:first-child {
-      font-size: 20px;
+      font-size: 1.25rem;
       font-weight: 900;
       margin-bottom: 20px;
     }
   }
   .overview p {
-    font-size: 18px;
+    font-size: 1.125rem;
     color: $color-text;
     display: inherit;
     letter-spacing: 0.5px;
@@ -877,7 +880,7 @@
   //--------------------------------------------
 
   .influencers {
-    font-size: 18px;
+    font-size: 1.125rem;
     background: $highlight-color-bg;
     margin-right: 100px;
     @media only screen and (min-width: 320px) and (max-width: 380px){
@@ -916,12 +919,12 @@
     width: 25%;
     @media only screen and (max-width: 1024px){
       flex: 50%;
-      width: 50%;
+      width: 100%;
       }
   }
   .influencers a.internal-link {
     color: $a-color-text;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: normal;
     text-decoration-line: underline;
     &:hover {
@@ -937,14 +940,14 @@
     padding-bottom: 15px;
     display: inline-block;
     font-weight: 600;
-    font-size: 18px;
+    font-size: 1.125rem;
   }
   .influencers p {
     display: block;
     padding-top: 0px;
     padding-bottom: 35px;
     padding-left: 20px;
-    font-size: 16px;
+    font-size: 1rem;
     img{
       border-radius: 50%;
       width: 15%;
@@ -959,7 +962,7 @@
   }
   .influencers a {
     color: $a-color-text;
-    font-size: 18px;
+    font-size: 1.125rem;
     font-weight: bold;
     &:hover {
       color: $a-hover-color-text;
@@ -977,26 +980,26 @@
   .status .column{
     float: left;
     width: 20%;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: bold;
     @media only screen and (max-width: 480px){
-      font-size: 10px;
+      font-size: 0.625rem;
       padding: 3px;
     }
   }
   .status p {
     display: block;
     letter-spacing: 0.5px;
-    font-size: 16px;
+    font-size: 1rem;
     padding-left: 30px;
   }
 
   .status strong{
     color: $status-color-number;
     font-weight: bold;
-    font-size: 48px;
+    font-size: 3rem;
     @media only screen and (max-width: 480px){
-      font-size:32px;
+      font-size:2rem;
     }
   }
   //---------------------------------------------
@@ -1023,12 +1026,12 @@
     float: left;
     width: 25%;
     @media only screen and (max-width: 1024px){
-      width: 50%;
+      width: 100%;
     }
   }
   .organizations h4 {
     padding-left: 15px;
-    font-size: 18px;
+    font-size: 1.125rem;
     color: $color-text;
   }
   .organizations a.internal-link{
@@ -1075,7 +1078,7 @@
       flex-direction: row;
       width: 20%;
       font-weight: bold;
-      font-size: 18px;
+      font-size: 1.125rem;
     }    
   }
   .logoCB{
@@ -1120,6 +1123,12 @@
     z-index: 40; 
     bottom: 0; 
     margin-bottom: -15px;
+  }
+  .mapHighlight{
+    padding-left: 33px;
+    @media only screen and (min-width: 320px) and (max-width: 380px){
+      padding-left: 0;
+    }
   }
 
 }

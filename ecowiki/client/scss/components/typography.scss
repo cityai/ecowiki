@@ -1,12 +1,12 @@
 
 h1 {
-	font-size: 28px;
+	font-size: 1.75rem;
 }
 h2 {
-	font-size: 18px;
+	font-size: 1.125rem;
 }
 h3 {
-	font-size: 16px;
+	font-size: 1rem;
 }
 
 @each $color, $colorvalue in $material-colors {

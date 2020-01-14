@@ -1,8 +1,8 @@
 <!-- TITLE: Home Copy.md AI -->
-<img src="/images/cityMaps/Home Copy.md_1500_highlight.png" style="padding-left:33px" >
+<div class=mapHighlight>
+<img src="/images/cityMaps/Home Copy.md_1500_highlight.png">
 
-
-
+</div>
 
 
 <div class=CityPageSpecific>

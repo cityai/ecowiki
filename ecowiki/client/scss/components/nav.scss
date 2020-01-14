@@ -60,7 +60,7 @@
 		color: $header-color-text;
 		transition: color .4s ease;
 		margin-right: -4px;
-		font-size: 15px;
+		font-size: 0.9375rem;
 		vertical-align: top;
 		cursor: pointer;
 	}
@@ -68,7 +68,7 @@
 		color: $header-color-text;
 		transition: color .4s ease;
 		
-		font-size: 15px;
+		font-size: 0.9375rem;
 		vertical-align: middle;
 		cursor: pointer;
 	}
@@ -108,7 +108,7 @@
 	// HEADERS
 
 	h1 {
-		font-size: 32px;
+		font-size: 2rem;
 		font-weight: bold;
 		letter-spacing: 0.5px;
 		text-transform: uppercase;

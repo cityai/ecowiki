@@ -1,8 +1,8 @@
 <!-- TITLE: Bogota AI -->
-<img src="/images/cityMaps/Bogota_1500_highlight.png" style="padding-left:33px" >
+<div class=mapHighlight>
+<img src="/images/cityMaps/Bogota_1500_highlight.png">
 
-
-
+</div>
 
 
 <div class=CityPageSpecific>

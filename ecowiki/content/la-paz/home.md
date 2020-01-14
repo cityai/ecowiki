@@ -1,8 +1,8 @@
 <!-- TITLE: La Paz AI -->
-<img src="/images/cityMaps/La Paz_1500_highlight.png" style="padding-left:33px" >
+<div class=mapHighlight>
+<img src="/images/cityMaps/La Paz_1500_highlight.png">
 
-
-
+</div>
 
 
 <div class=CityPageSpecific>
@@ -12,7 +12,7 @@
 <a href="#ecosystems"><strong>0</strong></a>
 </div>
 <div class=column>
-<a href="#events" ><strong>1</strong></a>
+<a href="#events" ><strong>0</strong></a>
 </div>
 <div class=column>
 <a href="#community" ><strong>0</strong></a>
@@ -145,16 +145,10 @@ The voices of the local AI community
 
 
 # Events
-1 upcoming AI-related events.
+0 upcoming AI-related events.
 <div class=events>
 
 <div class=column id=0>
-
-[Herramientas de IA para resolver tu primera Datathon](https://www.meetup.com/rladies-la-paz/events/267768882/)
-##### Tue Jan 14 2020
-**Location:** [La Paz](/La Paz/home/)
-**Organizer:** R-Ladies La Paz
-
 
 </div>
 <div class=column id=1>

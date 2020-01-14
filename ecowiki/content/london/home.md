@@ -1,8 +1,8 @@
 <!-- TITLE: London AI -->
-<img src="/images/cityMaps/London_1500_highlight.png" style="padding-left:33px" >
+<div class=mapHighlight>
+<img src="/images/cityMaps/London_1500_highlight.png">
 
-
-
+</div>
 
 
 <div class=CityPageSpecific>
@@ -12,13 +12,13 @@
 <a href="#ecosystems"><strong>0</strong></a>
 </div>
 <div class=column>
-<a href="#events" ><strong>76</strong></a>
+<a href="#events" ><strong>78</strong></a>
 </div>
 <div class=column>
 <a href="#community" ><strong>18</strong></a>
 </div>
 <div class=column>
-<a href="#startups" ><strong>125</a></strong>
+<a href="#startups" ><strong>131</a></strong>
 </div>
 <div class=column>
 <a href="#community" ><strong>0</a></strong>
@@ -253,203 +253,10 @@ The voices of the local AI community
 
 
 # Events
-76 upcoming AI-related events.
+78 upcoming AI-related events.
 <div class=events>
 
 <div class=column id=0>
-
-[StartUp Journey - FinTech & RegTech](https://www.meetup.com/London-Tech-Entrepreneurs-And-Investors-Network-LION/events/267344371/)
-##### Fri Jan 10 2020
-**Location:** [London](/London/home/)
-**Organizer:** London Tech Entrepreneurs and Investors Network Lion
-
-
-[Frontier Technologies Summit - AI, Blockchain, Robotics, Digital Securities](https://www.meetup.com/Blockchain-SmartContract-Innovators/events/266142891/)
-##### Mon Jan 13 2020
-**Location:** [London](/London/home/)
-**Organizer:** Blockchain & SmartContract Innovators
-
-
-[[Placeholder] Tech Talks: Dialogflow + Terraform + AI + Conversational actions](https://www.meetup.com/gdgcloud/events/267108568/)
-##### Tue Jan 14 2020
-**Location:** [London](/London/home/)
-**Organizer:** GDG Cloud London
-
-
-</div>
-<div class=column id=1>
-
-[StartUp Journey  2020 -  FinTECH and RegTECH Entrepreneur and Investors](https://www.meetup.com/London-Tech-Entrepreneurs-And-Investors-Network-LION/events/267344371/)
-##### Fri Jan 10 2020
-**Location:** [London](/London/home/)
-**Organizer:** London Tech Entrepreneurs and Investors Network Lion
-
-
-[Frontier Tech Summit London, 13 Jan 2020 ](https://www.meetup.com/fintechstorm/events/266732898/)
-##### Mon Jan 13 2020
-**Location:** [London](/London/home/)
-**Organizer:** Fintech Storm - Disruptive Tech - Blockchain, AI, Fintech
-
-
-[Machine Learning at Expedia group, lessons learnt and more! ](https://www.meetup.com/London-Women-in-Machine-Learning-and-Data-Science/events/267184529/)
-##### Tue Jan 14 2020
-**Location:** [London](/London/home/)
-**Organizer:** London Women in Machine Learning & Data Science
-
-
-</div>
-<div class=column id=2>
-
-[Automation and Utopia](https://www.meetup.com/London-Futurists/events/266063616/)
-##### Sat Jan 11 2020
-**Location:** [London](/London/home/)
-**Organizer:** London Futurists
-
-
-[How Blockchain and Digital Assets are evolving ](https://www.meetup.com/ICO-Meetup-London/events/265663727/)
-##### Mon Jan 13 2020
-**Location:** [London](/London/home/)
-**Organizer:** Blockchain and Digital Assets London Meetup
-
-
-[Two journeys on data and Einstein to enable your business](https://www.meetup.com/London-Einstein-Analytics-Meetup/events/266972544/)
-##### Tue Jan 14 2020
-**Location:** [London](/London/home/)
-**Organizer:** London Einstein Analytics DataTribe
-
-
-</div>
-<div class=column id=3>
-
-[AI environment set up laptop](https://www.meetup.com/TensorflowRUs/events/267471483/)
-##### Sat Jan 11 2020
-**Location:** [London](/London/home/)
-**Organizer:** TensorflowRUs
-
-
-[How Salesforce ISVs (Appexchange) Partners are Leveraging Einstein](https://www.meetup.com/London-Einstein-Analytics-Meetup/events/266972544/)
-##### Tue Jan 14 2020
-**Location:** [London](/London/home/)
-**Organizer:** London Einstein Analytics DataTribe
-
-
-[Introduction to Go (Golang)](https://www.meetup.com/Red-Sprite/events/267292994/)
-##### Tue Jan 14 2020
-**Location:** [London](/London/home/)
-**Organizer:** Red Sprite
-
-
-</div>
-
-</div>
-
-<div class=events id="list">
-
-<details>
-<summary class="sum">See all events</summary>
-
-
-
-<div class=column id=0>
-
-[Tech Talks: Dialogflow + Terraform + AI + Conversational actions](https://www.meetup.com/gdgcloud/events/267108568/)
-##### Tue Jan 14 2020
-**Location:** [London](/London/home/)
-**Organizer:** GDG Cloud London
-
-
-[Ulrich Nogel - It’s all about Liquidity - Europe Cash Equity Trading Trends](https://www.meetup.com/thalesians/events/267226283/)
-##### Wed Jan 15 2020
-**Location:** [London](/London/home/)
-**Organizer:** The Thalesians
-
-
-[Microsoft for Startups  |  IP (Legal)](https://www.meetup.com/Microsoft-Reactor-London/events/266671449/)
-##### Thu Jan 16 2020
-**Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
-
-
-[Microsoft for Startups  |  Marketing Content Strategy](https://www.meetup.com/Microsoft-Reactor-London/events/266671569/)
-##### Thu Jan 16 2020
-**Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
-
-
-[Deeper Conversations + How to Be Charming Workshop!](https://www.meetup.com/Deeper-Conversations/events/qvbcmrybccbzb/)
-##### Sun Jan 19 2020
-**Location:** [London](/London/home/)
-**Organizer:** Deeper Conversations
-
-
-[WiDS (Women in Data Science) - January Meetup](https://www.meetup.com/WiDSLondon/events/267082664/)
-##### Tue Jan 21 2020
-**Location:** [London](/London/home/)
-**Organizer:** Women in Data Science (WiDS) London
-
-
-[Hype or reality: Panel insights into the impact of project data analytics](https://www.meetup.com/London-Project-Data-and-Analytics-meetup/events/266974635/)
-##### Wed Jan 22 2020
-**Location:** [London](/London/home/)
-**Organizer:** London Project Data Analytics Meetup
-
-
-[Learn how to predict Customer Churn with AutoML ](https://www.meetup.com/London-Applied-AI-using-AutoML/events/267687219/)
-##### Thu Jan 23 2020
-**Location:** [London](/London/home/)
-**Organizer:** Applied AI using AutoML - Kortical
-
-
-[Voice Meetup: what3words edition!](https://www.meetup.com/Messaging-Bots-London/events/267294132/)
-##### Tue Jan 28 2020
-**Location:** [London](/London/home/)
-**Organizer:** Chatbots & Voice Assistants London
-
-
-[Raspberry Pint - Raspberry Pi and other Digital Making Fun](https://www.meetup.com/Microsoft-Reactor-London/events/266604822/)
-##### Wed Jan 29 2020
-**Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
-
-
-[London Microsoft DevOps MeetUp](https://www.meetup.com/Microsoft-Reactor-London/events/266235783/)
-##### Mon Feb 03 2020
-**Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
-
-
-[Applied AI & DevOps hosted by WorldRemit ](https://www.meetup.com/Applied-AI-DevOps/events/266971954/)
-##### Wed Feb 05 2020
-**Location:** [London](/London/home/)
-**Organizer:** Applied AI & DevOps
-
-
-[Grakn Cosmos (Day 1): Knowledge Graph in ML, NLP, Biotech, Security, Robotics](https://www.meetup.com/grakn-london/events/267253371/)
-##### Thu Feb 06 2020
-**Location:** [London](/London/home/)
-**Organizer:** Grakn London Engineers
-
-
-[Blockchain beyond the Hype: Real-life solution on Azure](https://www.meetup.com/Microsoft-Reactor-London/events/267316738/)
-##### Tue Feb 11 2020
-**Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
-
-
-[Mini Workshop: Build your 1st Twitter Bot with Azure Serverless & Github actions](https://www.meetup.com/Microsoft-Reactor-London/events/267316785/)
-##### Tue Feb 18 2020
-**Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
-
-
-[Analytics | Building a Content Analytics Feedback Loop to Boost Sales](https://www.meetup.com/Digital/events/267062708/)
-##### Tue Feb 25 2020
-**Location:** [London](/London/home/)
-**Organizer:** Outreach Digital | The Marketing, Analytics, UX & Tech Club
-
-
-</div>
-<div class=column id=1>
 
 [Azure Workshop: Kubernetes in a Day](https://www.meetup.com/Microsoft-Reactor-London/events/267087661/)
 ##### Wed Jan 15 2020
@@ -469,86 +276,8 @@ The voices of the local AI community
 **Organizer:** Microsoft Reactor London
 
 
-[Edge Tech RPA Market Report Launch Party](https://www.meetup.com/The-Official-RPA-Intelligent-Automation-and-AI-Meetup/events/267058514/)
-##### Thu Jan 16 2020
-**Location:** [London](/London/home/)
-**Organizer:** The Official RPA, Intelligent Automation and AI Meetup
-
-
-[[Placeholder] Workshop: Learning version control with Git](https://www.meetup.com/gdgcloud/events/267277987/)
-##### Mon Jan 20 2020
-**Location:** [London](/London/home/)
-**Organizer:** GDG Cloud London
-
-
-[Microsoft Startups | ScaleUp Graduation](https://www.meetup.com/Microsoft-Reactor-London/events/267258659/)
-##### Tue Jan 21 2020
-**Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
-
-
-[Data4Good - DSF Meetup with TIBCO](https://www.meetup.com/Data-Science-Festival-London/events/266803990/)
-##### Wed Jan 22 2020
-**Location:** [London](/London/home/)
-**Organizer:** Data Science Festival - London
-
-
-[Meetup for tech and deeptech ChiefTechOff,ChiefScientificOff,ChiefDataOfficer](https://www.meetup.com/GyanaAIforeveryone/events/267322021/)
-##### Fri Jan 24 2020
-**Location:** [London](/London/home/)
-**Organizer:** Gyana AI for Everyone
-
-
-[Authentication Without Passwords](https://www.meetup.com/Microsoft-Reactor-London/events/267316718/)
-##### Tue Jan 28 2020
-**Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
-
-
-[UX Academy - 8 Weeks Beginner UX Course](https://www.meetup.com/MobileUXLondon/events/264693056/)
-##### Wed Jan 29 2020
-**Location:** [London](/London/home/)
-**Organizer:** Mobile UX London
-
-
-[Making Your Data Useful for Analysis](https://www.meetup.com/Microsoft-Reactor-London/events/265947719/)
-##### Tue Feb 04 2020
-**Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
-
-
-[Analytics Network 2020 Event](https://www.meetup.com/AnalyticsNetwork/events/267477526/)
-##### Wed Feb 05 2020
-**Location:** [London](/London/home/)
-**Organizer:** Analytics Network
-
-
-[Webinar: Boosting Diversity in Tech - Make the Levy Work for Your Organisation](https://www.meetup.com/London-Cambridge-Spark/events/267748360/)
-##### Thu Feb 06 2020
-**Location:** [London](/London/home/)
-**Organizer:** London - Cambridge Spark
-
-
-[Tech Talk: Developing machine learning algorithms to detect violent propaganda](https://www.meetup.com/data-science-lab/events/267249183/)
-##### Wed Feb 12 2020
-**Location:** [London](/London/home/)
-**Organizer:** Data Science Lab
-
-
-[Webinar: Recruiting and Retaining Data Scientists](https://www.meetup.com/London-Cambridge-Spark/events/267748791/)
-##### Wed Feb 19 2020
-**Location:** [London](/London/home/)
-**Organizer:** London - Cambridge Spark
-
-
-[[Placeholder] IWD Women Techmakers 2020](https://www.meetup.com/gdgcloud/events/266592748/)
-##### Mon Mar 02 2020
-**Location:** [London](/London/home/)
-**Organizer:** GDG Cloud London
-
-
 </div>
-<div class=column id=2>
+<div class=column id=1>
 
 [Microsoft for Startups Tech Evening](https://www.meetup.com/Microsoft-Reactor-London/events/267088116/)
 ##### Wed Jan 15 2020
@@ -568,86 +297,8 @@ The voices of the local AI community
 **Organizer:** Microsoft Reactor London
 
 
-[Another Friday afternoon workshop...might suit you or one of your ensemble...?](https://www.meetup.com/CognitionX-Community/events/267246735/)
-##### Fri Jan 17 2020
-**Location:** [London](/London/home/)
-**Organizer:** Applied AI & Data Science Innovation - with CognitionX
-
-
-[Git-101: your code is under control](https://www.meetup.com/gdgcloud/events/267277987/)
-##### Mon Jan 20 2020
-**Location:** [London](/London/home/)
-**Organizer:** GDG Cloud London
-
-
-[Microsoft for Startups | ScaleUp Graduation](https://www.meetup.com/Microsoft-Reactor-London/events/267258659/)
-##### Tue Jan 21 2020
-**Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
-
-
-[Data modelling in Cosmos DB like a Cosmonaut](https://www.meetup.com/Microsoft-Reactor-London/events/265114125/)
-##### Thu Jan 23 2020
-**Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
-
-
-[Greg Zuckerman - Book talk on RenTech/Jim Simons - The Man Who Solved the Market](https://www.meetup.com/thalesians/events/267228923/)
-##### Mon Jan 27 2020
-**Location:** [London](/London/home/)
-**Organizer:** The Thalesians
-
-
-[Augmenting Reality - January 2020](https://www.meetup.com/Augmenting-Reality/events/266408785/)
-##### Wed Jan 29 2020
-**Location:** [London](/London/home/)
-**Organizer:** Augmenting Reality
-
-
-[Amido x Microsoft: How to bag the best jobs in the tech industry](https://www.meetup.com/Amido-Presents/events/266024459/)
-##### Thu Jan 30 2020
-**Location:** [London](/London/home/)
-**Organizer:** Amido Presents
-
-
-[UCL School of Management Women's Book Club: Invisible Women by C Criado Perez](https://www.meetup.com/UCL-School-of-Management-Womens-Book-Club/events/266295837/)
-##### Tue Feb 04 2020
-**Location:** [London](/London/home/)
-**Organizer:** UCL School of Management Women's Book Club
-
-
-[Augmenting Reality - February 2020](https://www.meetup.com/Augmenting-Reality/events/266408785/)
-##### Thu Feb 06 2020
-**Location:** [London](/London/home/)
-**Organizer:** Augmenting Reality
-
-
-[Day classroom based workshop in quantum computing advances](https://www.meetup.com/London-Quantum-computing-training-and-coding-course/events/265409784/)
-##### Fri Feb 07 2020
-**Location:** [London](/London/home/)
-**Organizer:** London Quantum Computing; Training and Coding Course
-
-
-[Using data to measure and increase agility in Software Projects](https://www.meetup.com/London-Project-Data-and-Analytics-meetup/events/266967727/)
-##### Wed Feb 12 2020
-**Location:** [London](/London/home/)
-**Organizer:** London Project Data Analytics Meetup
-
-
-[[PlaceHolder] Google Stadia Event](https://www.meetup.com/gdgcloud/events/264566678/)
-##### Fri Feb 21 2020
-**Location:** [London](/London/home/)
-**Organizer:** GDG Cloud London
-
-
-[DevSecOps: Secure software delivery using Azure DevOps](https://www.meetup.com/Microsoft-Reactor-London/events/267316807/)
-##### Tue Mar 10 2020
-**Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
-
-
 </div>
-<div class=column id=3>
+<div class=column id=2>
 
 [UX Academy - Introduction to Conversational Design Workshop (January 2020)](https://www.meetup.com/MobileUXLondon/events/267221118/)
 ##### Wed Jan 15 2020
@@ -667,6 +318,250 @@ The voices of the local AI community
 **Organizer:** Microsoft Reactor London
 
 
+</div>
+<div class=column id=3>
+
+[Ulrich Nogel - It’s all about Liquidity - Europe Cash Equity Trading Trends](https://www.meetup.com/thalesians/events/267226283/)
+##### Wed Jan 15 2020
+**Location:** [London](/London/home/)
+**Organizer:** The Thalesians
+
+
+[Microsoft for Startups  |  IP (Legal)](https://www.meetup.com/Microsoft-Reactor-London/events/266671449/)
+##### Thu Jan 16 2020
+**Location:** [London](/London/home/)
+**Organizer:** Microsoft Reactor London
+
+
+[Microsoft for Startups  |  Marketing Content Strategy](https://www.meetup.com/Microsoft-Reactor-London/events/266671569/)
+##### Thu Jan 16 2020
+**Location:** [London](/London/home/)
+**Organizer:** Microsoft Reactor London
+
+
+</div>
+
+</div>
+
+<div class=events id="list">
+
+<details>
+<summary class="sum">See all events</summary>
+
+
+
+<div class=column id=0>
+
+[Edge Tech RPA Market Report Launch Party](https://www.meetup.com/The-Official-RPA-Intelligent-Automation-and-AI-Meetup/events/267058514/)
+##### Thu Jan 16 2020
+**Location:** [London](/London/home/)
+**Organizer:** The Official RPA, Intelligent Automation and AI Meetup
+
+
+[[Placeholder] Workshop: Learning version control with Git](https://www.meetup.com/gdgcloud/events/267277987/)
+##### Mon Jan 20 2020
+**Location:** [London](/London/home/)
+**Organizer:** GDG Cloud London
+
+
+[Microsoft Startups | ScaleUp Graduation](https://www.meetup.com/Microsoft-Reactor-London/events/267258659/)
+##### Tue Jan 21 2020
+**Location:** [London](/London/home/)
+**Organizer:** Microsoft Reactor London
+
+
+[Round 26: Sea Horse With a Snapback](https://www.meetup.com/London-Hack-and-Tell/events/pgstfrybccbcc/)
+##### Tue Jan 21 2020
+**Location:** [London](/London/home/)
+**Organizer:** London Hack&&Tell
+
+
+[ Startup Entrepreneur Pitch, Investors, Fintech & RegTech Leaders TED Talk](https://www.meetup.com/London-Tech-Entrepreneurs-And-Investors-Network-LION/events/267839851/)
+##### Wed Jan 22 2020
+**Location:** [London](/London/home/)
+**Organizer:** London Tech Entrepreneurs and Investors Network Lion
+
+
+[Meetup for tech and deeptech ChiefTechOff,ChiefScientificOff,ChiefDataOfficer](https://www.meetup.com/GyanaAIforeveryone/events/267322021/)
+##### Fri Jan 24 2020
+**Location:** [London](/London/home/)
+**Organizer:** Gyana AI for Everyone
+
+
+[Voice Meetup: what3words edition!](https://www.meetup.com/Messaging-Bots-London/events/267294132/)
+##### Tue Jan 28 2020
+**Location:** [London](/London/home/)
+**Organizer:** Chatbots & Voice Assistants London
+
+
+[4-weeks AI course: Full Stack Deep Learning for Developers](https://www.meetup.com/London-AI-Tech-Talk/events/267827980/)
+##### Tue Jan 28 2020
+**Location:** [London](/London/home/)
+**Organizer:** London AI Developers Group
+
+
+[UX Academy - 8 Weeks Beginner UX Course](https://www.meetup.com/MobileUXLondon/events/264693056/)
+##### Wed Jan 29 2020
+**Location:** [London](/London/home/)
+**Organizer:** Mobile UX London
+
+
+[Analyse real-time data with machine learning on Microsoft Azure](https://www.meetup.com/beginners-machine-learning-london/events/265976590/)
+##### Thu Jan 30 2020
+**Location:** [London](/London/home/)
+**Organizer:** Beginners Machine Learning - London
+
+
+[UCL School of Management Women's Book Club: Invisible Women by C Criado Perez](https://www.meetup.com/UCL-School-of-Management-Womens-Book-Club/events/266295837/)
+##### Tue Feb 04 2020
+**Location:** [London](/London/home/)
+**Organizer:** UCL School of Management Women's Book Club
+
+
+[Analytics Network 2020 Event](https://www.meetup.com/AnalyticsNetwork/events/267477526/)
+##### Wed Feb 05 2020
+**Location:** [London](/London/home/)
+**Organizer:** Analytics Network
+
+
+[Webinar: Boosting Diversity in Tech - Make the Levy Work for Your Organisation](https://www.meetup.com/London-Cambridge-Spark/events/267748360/)
+##### Thu Feb 06 2020
+**Location:** [London](/London/home/)
+**Organizer:** London - Cambridge Spark
+
+
+[Blockchain beyond the Hype: Real-life solution on Azure](https://www.meetup.com/Microsoft-Reactor-London/events/267316738/)
+##### Tue Feb 11 2020
+**Location:** [London](/London/home/)
+**Organizer:** Microsoft Reactor London
+
+
+[Building & Deploying Serverless applications to the Cloud using Nest.js](https://www.meetup.com/Microsoft-Reactor-London/events/265868971/)
+##### Tue Feb 18 2020
+**Location:** [London](/London/home/)
+**Organizer:** Microsoft Reactor London
+
+
+[[PlaceHolder] Google Stadia Event](https://www.meetup.com/gdgcloud/events/264566678/)
+##### Fri Feb 21 2020
+**Location:** [London](/London/home/)
+**Organizer:** GDG Cloud London
+
+
+[DevSecOps: Secure software delivery using Azure DevOps](https://www.meetup.com/Microsoft-Reactor-London/events/267316807/)
+##### Tue Mar 10 2020
+**Location:** [London](/London/home/)
+**Organizer:** Microsoft Reactor London
+
+
+</div>
+<div class=column id=1>
+
+[Another Friday afternoon workshop...might suit you or one of your ensemble...?](https://www.meetup.com/CognitionX-Community/events/267246735/)
+##### Fri Jan 17 2020
+**Location:** [London](/London/home/)
+**Organizer:** Applied AI & Data Science Innovation - with CognitionX
+
+
+[Git-101: your code is under control](https://www.meetup.com/gdgcloud/events/267277987/)
+##### Mon Jan 20 2020
+**Location:** [London](/London/home/)
+**Organizer:** GDG Cloud London
+
+
+[Microsoft for Startups | ScaleUp Graduation](https://www.meetup.com/Microsoft-Reactor-London/events/267258659/)
+##### Tue Jan 21 2020
+**Location:** [London](/London/home/)
+**Organizer:** Microsoft Reactor London
+
+
+[Hype or reality: Panel insights into the impact of project data analytics](https://www.meetup.com/London-Project-Data-and-Analytics-meetup/events/266974635/)
+##### Wed Jan 22 2020
+**Location:** [London](/London/home/)
+**Organizer:** London Project Data Analytics Meetup
+
+
+[Data modelling in Cosmos DB like a Cosmonaut](https://www.meetup.com/Microsoft-Reactor-London/events/265114125/)
+##### Thu Jan 23 2020
+**Location:** [London](/London/home/)
+**Organizer:** Microsoft Reactor London
+
+
+[Get to know your AI tools](https://www.meetup.com/TensorflowRUs/events/267830436/)
+##### Sat Jan 25 2020
+**Location:** [London](/London/home/)
+**Organizer:** TensorflowRUs
+
+
+[Authentication Without Passwords](https://www.meetup.com/Microsoft-Reactor-London/events/267316718/)
+##### Tue Jan 28 2020
+**Location:** [London](/London/home/)
+**Organizer:** Microsoft Reactor London
+
+
+[Augmenting Reality - January 2020](https://www.meetup.com/Augmenting-Reality/events/266408785/)
+##### Wed Jan 29 2020
+**Location:** [London](/London/home/)
+**Organizer:** Augmenting Reality
+
+
+[Let the AI be our slave!](https://www.meetup.com/ODSC-London-AI-for-Engineers/events/267875851/)
+##### Wed Jan 29 2020
+**Location:** [London](/London/home/)
+**Organizer:** ODSC London - AI for Engineers
+
+
+[Data Engineering on Google Cloud Platform: Daniela Petruzalek Google Dev Expert](https://www.meetup.com/Data-Science-for-Internet-of-Things-Meetup-London/events/267781721/)
+##### Thu Jan 30 2020
+**Location:** [London](/London/home/)
+**Organizer:** Data Science for Internet of Things Meetup - London
+
+
+[Data Driven Part 1: Fintech](https://www.meetup.com/TLA-DataTech/events/267877868/)
+##### Tue Feb 04 2020
+**Location:** [London](/London/home/)
+**Organizer:** TLA DataTech
+
+
+[Augmenting Reality - February 2020](https://www.meetup.com/Augmenting-Reality/events/266408785/)
+##### Thu Feb 06 2020
+**Location:** [London](/London/home/)
+**Organizer:** Augmenting Reality
+
+
+[Quantum kick off](https://www.meetup.com/Quantum_London/events/267774299/)
+##### Thu Feb 06 2020
+**Location:** [London](/London/home/)
+**Organizer:** Quantum London - defining the business value of Quantum
+
+
+[Tech Talk: Developing machine learning algorithms to detect violent propaganda](https://www.meetup.com/data-science-lab/events/267249183/)
+##### Wed Feb 12 2020
+**Location:** [London](/London/home/)
+**Organizer:** Data Science Lab
+
+
+[Mini Workshop: Build your 1st Twitter Bot with Azure Serverless & Github actions](https://www.meetup.com/Microsoft-Reactor-London/events/267316785/)
+##### Tue Feb 18 2020
+**Location:** [London](/London/home/)
+**Organizer:** Microsoft Reactor London
+
+
+[Teach the nation to code - London](https://www.meetup.com/london-tech-meetups/events/266945674/)
+##### Sat Feb 22 2020
+**Location:** [London](/London/home/)
+**Organizer:** London Tech MeetUps & Events
+
+
+[Introduction to Python for Data Science ](https://www.meetup.com/Microsoft-Reactor-London/events/265947750/)
+##### Tue Apr 07 2020
+**Location:** [London](/London/home/)
+**Organizer:** Microsoft Reactor London
+
+
+</div>
+<div class=column id=2>
+
 [Global Diversity CFP Day ](https://www.meetup.com/Microsoft-Reactor-London/events/267136302/)
 ##### Sat Jan 18 2020
 **Location:** [London](/London/home/)
@@ -685,16 +580,28 @@ The voices of the local AI community
 **Organizer:** London Hack&&Tell
 
 
+[Data4Good - DSF Meetup with TIBCO](https://www.meetup.com/Data-Science-Festival-London/events/266803990/)
+##### Wed Jan 22 2020
+**Location:** [London](/London/home/)
+**Organizer:** Data Science Festival - London
+
+
 [London ABM Meetup](https://www.meetup.com/London-Agent-based-Modelling-Meetup/events/267271176/)
 ##### Thu Jan 23 2020
 **Location:** [London](/London/home/)
 **Organizer:** London Agent-based Modelling Meetup
 
 
-[New Year's Hyperledger](https://www.meetup.com/Hyperledger-London/events/267685700/)
+[Greg Zuckerman - Book talk on RenTech/Jim Simons - The Man Who Solved the Market](https://www.meetup.com/thalesians/events/267228923/)
 ##### Mon Jan 27 2020
 **Location:** [London](/London/home/)
-**Organizer:** Hyperledger London
+**Organizer:** The Thalesians
+
+
+[The Future of AdTech](https://www.meetup.com/SiliconRoundabout/events/267777728/)
+##### Tue Jan 28 2020
+**Location:** [London](/London/home/)
+**Organizer:** Silicon Roundabout
 
 
 [DevOps 2020 Summit](https://www.meetup.com/London-Tech-events-with-Softwire/events/266605811/)
@@ -703,10 +610,16 @@ The voices of the local AI community
 **Organizer:** London Tech events with Softwire
 
 
-[Analyse real-time data with machine learning on Microsoft Azure](https://www.meetup.com/beginners-machine-learning-london/events/265976590/)
-##### Thu Jan 30 2020
+[Chat with my boss and how can we make progression work for women?](https://www.meetup.com/Machine-learning-Fireside-Talks/events/267746292/)
+##### Wed Jan 29 2020
 **Location:** [London](/London/home/)
-**Organizer:** Beginners Machine Learning - London
+**Organizer:** BBC Machine Learning Fireside Chats
+
+
+[London Microsoft DevOps MeetUp](https://www.meetup.com/Microsoft-Reactor-London/events/266235783/)
+##### Mon Feb 03 2020
+**Location:** [London](/London/home/)
+**Organizer:** Microsoft Reactor London
 
 
 [Using Advanced Machine Learning Models](https://www.meetup.com/Microsoft-Reactor-London/events/265947729/)
@@ -721,28 +634,127 @@ The voices of the local AI community
 **Organizer:** Grakn London Engineers
 
 
+[Day classroom based workshop in quantum computing advances](https://www.meetup.com/London-Quantum-computing-training-and-coding-course/events/265409784/)
+##### Fri Feb 07 2020
+**Location:** [London](/London/home/)
+**Organizer:** London Quantum Computing; Training and Coding Course
+
+
+[Using data to measure and increase agility in Software Projects](https://www.meetup.com/London-Project-Data-and-Analytics-meetup/events/266967727/)
+##### Wed Feb 12 2020
+**Location:** [London](/London/home/)
+**Organizer:** London Project Data Analytics Meetup
+
+
+[Learn how to code a Quantum Computer - Training Course](https://www.meetup.com/London-Quantum-computing-training-and-coding-course/events/267774508/)
+##### Tue Feb 18 2020
+**Location:** [London](/London/home/)
+**Organizer:** London Quantum Computing; Training and Coding Course
+
+
+[Analytics | Building a Content Analytics Feedback Loop to Boost Sales](https://www.meetup.com/Digital/events/267062708/)
+##### Tue Feb 25 2020
+**Location:** [London](/London/home/)
+**Organizer:** Outreach Digital | The Marketing, Analytics, UX & Tech Club
+
+
+</div>
+<div class=column id=3>
+
+[Deeper Conversations + How to Be Charming Workshop!](https://www.meetup.com/Deeper-Conversations/events/qvbcmrybccbzb/)
+##### Sun Jan 19 2020
+**Location:** [London](/London/home/)
+**Organizer:** Deeper Conversations
+
+
+[WiDS (Women in Data Science) - January Meetup](https://www.meetup.com/WiDSLondon/events/267082664/)
+##### Tue Jan 21 2020
+**Location:** [London](/London/home/)
+**Organizer:** Women in Data Science (WiDS) London
+
+
+[Webinar: AI-powered Apps Prototyping, and DL Model to Detect Fraudulent Attacks](https://www.meetup.com/ODSC-London-AI-for-Engineers/events/267780588/)
+##### Tue Jan 21 2020
+**Location:** [London](/London/home/)
+**Organizer:** ODSC London - AI for Engineers
+
+
+[Building Different Roads to Causal Structure & Deep Reinforcement Learning](https://www.meetup.com/London-Machine-Learning-Meetup/events/267773243/)
+##### Wed Jan 22 2020
+**Location:** [London](/London/home/)
+**Organizer:** London Machine Learning Meetup
+
+
+[Learn how to predict Customer Churn with AutoML ](https://www.meetup.com/London-Applied-AI-using-AutoML/events/267687219/)
+##### Thu Jan 23 2020
+**Location:** [London](/London/home/)
+**Organizer:** Applied AI using AutoML - Kortical
+
+
+[New Year's Hyperledger](https://www.meetup.com/Hyperledger-London/events/267685700/)
+##### Mon Jan 27 2020
+**Location:** [London](/London/home/)
+**Organizer:** Hyperledger London
+
+
+[DEVELOPERS ONLY - "Meet a Startup": Fullstack Developers event [London]](https://www.meetup.com/SiliconRoundabout/events/267811054/)
+##### Tue Jan 28 2020
+**Location:** [London](/London/home/)
+**Organizer:** Silicon Roundabout
+
+
+[Raspberry Pint - Raspberry Pi and other Digital Making Fun](https://www.meetup.com/Microsoft-Reactor-London/events/266604822/)
+##### Wed Jan 29 2020
+**Location:** [London](/London/home/)
+**Organizer:** Microsoft Reactor London
+
+
+[Amido x Microsoft: How to bag the best jobs in the tech industry](https://www.meetup.com/Amido-Presents/events/266024459/)
+##### Thu Jan 30 2020
+**Location:** [London](/London/home/)
+**Organizer:** Amido Presents
+
+
+[Making Your Data Useful for Analysis](https://www.meetup.com/Microsoft-Reactor-London/events/265947719/)
+##### Tue Feb 04 2020
+**Location:** [London](/London/home/)
+**Organizer:** Microsoft Reactor London
+
+
+[Applied AI & DevOps hosted by WorldRemit ](https://www.meetup.com/Applied-AI-DevOps/events/266971954/)
+##### Wed Feb 05 2020
+**Location:** [London](/London/home/)
+**Organizer:** Applied AI & DevOps
+
+
+[Grakn Cosmos (Day 1): Knowledge Graph in ML, NLP, Biotech, Security, Robotics](https://www.meetup.com/grakn-london/events/267253371/)
+##### Thu Feb 06 2020
+**Location:** [London](/London/home/)
+**Organizer:** Grakn London Engineers
+
+
 [Grakn Cosmos (Day 2): Knowledge Graph in ML, NLP, Biotech, Security, Robotics](https://www.meetup.com/grakn-london/events/267341588/)
 ##### Fri Feb 07 2020
 **Location:** [London](/London/home/)
 **Organizer:** Grakn London Engineers
 
 
-[Building & Deploying Serverless applications to the Cloud using Nest.js](https://www.meetup.com/Microsoft-Reactor-London/events/265868971/)
-##### Tue Feb 18 2020
+[Artificial Intelligence – Promise or Threat?](https://www.meetup.com/Light-in-London/events/267863404/)
+##### Sat Feb 15 2020
 **Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
+**Organizer:** Light in London -  Mostly Free spiritual events
 
 
-[Teach the nation to code - London](https://www.meetup.com/london-tech-meetups/events/266945674/)
-##### Sat Feb 22 2020
+[Webinar: Recruiting and Retaining Data Scientists](https://www.meetup.com/London-Cambridge-Spark/events/267748791/)
+##### Wed Feb 19 2020
 **Location:** [London](/London/home/)
-**Organizer:** London Tech MeetUps & Events
+**Organizer:** London - Cambridge Spark
 
 
-[Introduction to Python for Data Science ](https://www.meetup.com/Microsoft-Reactor-London/events/265947750/)
-##### Tue Apr 07 2020
+[[Placeholder] IWD Women Techmakers 2020](https://www.meetup.com/gdgcloud/events/266592748/)
+##### Mon Mar 02 2020
 **Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
+**Organizer:** GDG Cloud London
 
 
 </div>
@@ -804,7 +816,7 @@ Active local organizations and initiatives related to AI
 
 
 # Startups
-Explore the newest startups working with AI technologies, from a total of 125 companies.
+Explore the newest startups working with AI technologies, from a total of 131 companies.
 
 <div class=logoCB>
 Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_crop.png" style="width:20%;"/></a>
@@ -942,6 +954,439 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 [HIGH PROFILE CLUB](https://www.crunchbase.com/organization/high-profile-club)
 **Activity:** Artificial Intelligence, Public Relations
 **Investment in USD:** 43,804
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/f6731def00efd5a839ce](http://public.crunchbase.com/t_api_images/f6731def00efd5a839ce)
+[Modcon Systems](https://www.crunchbase.com/organization/modcon-systems)
+**Activity:** Environmental Consulting, Industrial Engineering, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/vyeapmr6cctvjcbtn2sn](http://public.crunchbase.com/t_api_images/vyeapmr6cctvjcbtn2sn)
+[Elastacloud](https://www.crunchbase.com/organization/elastacloud)
+**Activity:** Big Data, Artificial Intelligence, Information Technology, Information Services
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/xxin4jz1bsfdqjc4gjde](http://public.crunchbase.com/t_api_images/xxin4jz1bsfdqjc4gjde)
+[MediLiVes](https://www.crunchbase.com/organization/medilives)
+**Activity:** Health Care, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/s0px4iqz5zvherkyspqw](http://public.crunchbase.com/t_api_images/s0px4iqz5zvherkyspqw)
+[L3C Cloud](https://www.crunchbase.com/organization/l3c-cloud)
+**Activity:** Machine Learning, Analytics, Artificial Intelligence, Linux
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/d0e2a5ty2hiaavwahr8i](http://public.crunchbase.com/t_api_images/d0e2a5ty2hiaavwahr8i)
+[Serpentine](https://www.crunchbase.com/organization/serpentine)
+**Activity:** Marketing, B2C, Social Media, SaaS, Advertising Platforms, Digital Marketing, Artificial Intelligence, B2B
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![/images/startupEmpty.svg.png](/images/startupEmpty.svg.png)
+[CIPD HR-inform](https://www.crunchbase.com/organization/cipd-hr-inform)
+**Activity:** Non Profit, Law Enforcement, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/n4o0rklhw8hytnocf20j](http://public.crunchbase.com/t_api_images/n4o0rklhw8hytnocf20j)
+[Art World Insights](https://www.crunchbase.com/organization/art-world-insights)
+**Activity:** Machine Learning, Artificial Intelligence, Information Technology
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/zjzingbmi3mkreyhoy1s](http://public.crunchbase.com/t_api_images/zjzingbmi3mkreyhoy1s)
+[churnly](https://www.crunchbase.com/organization/churnly)
+**Activity:** Consumer, Service Industry, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/wes5xmybtmppqhcehylo](http://public.crunchbase.com/t_api_images/wes5xmybtmppqhcehylo)
+[Greyparrot AI](https://www.crunchbase.com/organization/greyparrot-ai)
+**Activity:** Computer, Artificial Intelligence, Video, Information Technology, Telecommunications
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/hviaxoc0mlchv1ffk4jk](http://public.crunchbase.com/t_api_images/hviaxoc0mlchv1ffk4jk)
+[Inexia](https://www.crunchbase.com/organization/inexia)
+**Activity:** Pharmaceutical, Biotechnology, Artificial Intelligence, Neuroscience
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/upxarepw9m4bkmzajubz](http://public.crunchbase.com/t_api_images/upxarepw9m4bkmzajubz)
+[Score Genius](https://www.crunchbase.com/organization/score-genius)
+**Activity:** Banking, Artificial Intelligence, FinTech
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/eijgtnvffftfqqmzsdnj](http://public.crunchbase.com/t_api_images/eijgtnvffftfqqmzsdnj)
+[Neurolabs](https://www.crunchbase.com/organization/neurolabs)
+**Activity:** E-Commerce, Computer, Software, Artificial Intelligence, Information Technology
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/uuophg6etuvytcbr8txb](http://public.crunchbase.com/t_api_images/uuophg6etuvytcbr8txb)
+[EN/AI](https://www.crunchbase.com/organization/en-ai)
+**Activity:** E-Commerce, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/rz608ldqk0y220sklkd8](http://public.crunchbase.com/t_api_images/rz608ldqk0y220sklkd8)
+[FUTURE16](https://www.crunchbase.com/organization/future16)
+**Activity:** Artificial Intelligence, Music
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/h0tcumdlzshsbjoqjxlp](http://public.crunchbase.com/t_api_images/h0tcumdlzshsbjoqjxlp)
+[PLATO Intelligence](https://www.crunchbase.com/organization/plato-intelligence)
+**Activity:** Education, Machine Learning, Human Resources, Small and Medium Businesses, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/irj8bqnbrj1pqqjk13ma](http://public.crunchbase.com/t_api_images/irj8bqnbrj1pqqjk13ma)
+[Akkiba](https://www.crunchbase.com/organization/akkiba)
+**Activity:** Health Care, Machine Learning, Financial Services, Artificial Intelligence, Information Technology
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/vldutvtggdiwc2x6e3ml](http://public.crunchbase.com/t_api_images/vldutvtggdiwc2x6e3ml)
+[Advanced Logic Analytics](https://www.crunchbase.com/organization/advanced-logic-analytics)
+**Activity:** Financial Services, Artificial Intelligence, Information Technology, FinTech
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/m92wvxqxotdkuo3irxaj](http://public.crunchbase.com/t_api_images/m92wvxqxotdkuo3irxaj)
+[Oyler](https://www.crunchbase.com/organization/oyler)
+**Activity:** Artificial Intelligence, Information Technology
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/oom6mpgc8hk5giangdq6](http://public.crunchbase.com/t_api_images/oom6mpgc8hk5giangdq6)
+[Algorithm X Lab](https://www.crunchbase.com/organization/algorithm-x-lab)
+**Activity:** Market Research, Digital Media, Publishing, Machine Learning, Media and Entertainment, Artificial Intelligence, Events, Information Technology
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/eaa3cofucyfa1igwffvg](http://public.crunchbase.com/t_api_images/eaa3cofucyfa1igwffvg)
+[RevTap.ai](https://www.crunchbase.com/organization/revtap-ai)
+**Activity:** E-Commerce, Retail, Software, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/c7scykhvz4kwnwllownh](http://public.crunchbase.com/t_api_images/c7scykhvz4kwnwllownh)
+[VCfund.me](https://www.crunchbase.com/organization/vcfund-me)
+**Activity:** CRM, SaaS, Machine Learning, Venture Capital, Software, Artificial Intelligence, Information Technology
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/gfylvpaz7kg9yjvxur2x](http://public.crunchbase.com/t_api_images/gfylvpaz7kg9yjvxur2x)
+[Rooster](https://www.crunchbase.com/organization/rooster-eeaa)
+**Activity:** Auto Insurance, Mobile Apps, Artificial Intelligence, InsurTech
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/uxbkccpkegb2zxwvmfih](http://public.crunchbase.com/t_api_images/uxbkccpkegb2zxwvmfih)
+[Rize Health](https://www.crunchbase.com/organization/rize-health)
+**Activity:** Health Care, Recruiting, Machine Learning, Marketplace, Clinical Trials, Cloud Management, Software, Artificial Intelligence, Information Technology
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/j67x7lpwvi6ghozz4u5j](http://public.crunchbase.com/t_api_images/j67x7lpwvi6ghozz4u5j)
+[BlackSwan Technologies](https://www.crunchbase.com/organization/blackswan-technologies)
+**Activity:** Cyber Security, Cloud Computing, Risk Management, Analytics, Software, Big Data, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/85d593a7512edf6fddd8](http://public.crunchbase.com/t_api_images/85d593a7512edf6fddd8)
+[Tagdox](https://www.crunchbase.com/organization/tagdox)
+**Activity:** Legal Tech, Machine Learning, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/9e5f622ded2ebb712905](http://public.crunchbase.com/t_api_images/9e5f622ded2ebb712905)
+[Ubisend](https://www.crunchbase.com/organization/ubisend)
+**Activity:** Machine Learning, Software, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+</div>
+<div class=column id=1>
+
+![http://public.crunchbase.com/t_api_images/r3lnoi3uhfr82tymutsw](http://public.crunchbase.com/t_api_images/r3lnoi3uhfr82tymutsw)
+[ChAI](https://www.crunchbase.com/organization/chai-d617)
+**Activity:** Machine Learning, Financial Services, Software, Artificial Intelligence, Information Technology, Manufacturing
+**Investment in USD:** 261,472
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/ckj68c5ag4axy2owszpy](http://public.crunchbase.com/t_api_images/ckj68c5ag4axy2owszpy)
+[Auxuman](https://www.crunchbase.com/organization/auxuman)
+**Activity:** Internet, Media and Entertainment, Artificial Intelligence
+**Investment in USD:** 200,000
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/ezbntfysxazt0r5lfawm](http://public.crunchbase.com/t_api_images/ezbntfysxazt0r5lfawm)
+[NextQuestion](https://www.crunchbase.com/organization/nextquestion)
+**Activity:** Machine Learning, Artificial Intelligence, Information Technology, Information Services
+**Investment in USD:** 125,108
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/fzsvftsiogakcgiycx42](http://public.crunchbase.com/t_api_images/fzsvftsiogakcgiycx42)
+[GreenflyAI](https://www.crunchbase.com/organization/greenflyai)
+**Activity:** CRM, SaaS, Natural Language Processing, Artificial Intelligence, Customer Service
+**Investment in USD:** 33,613
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/nnfsfizx4l6wsstouufc](http://public.crunchbase.com/t_api_images/nnfsfizx4l6wsstouufc)
+[Impact In Between Requirement](https://www.crunchbase.com/organization/impact-in-between-requirement)
+**Activity:** Staffing Agency, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![/images/startupEmpty.svg.png](/images/startupEmpty.svg.png)
+[Skarvi Systems Limited](https://www.crunchbase.com/organization/skarvi-systems-limited)
+**Activity:** Software, Artificial Intelligence, Information Technology
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/ltz6mqdrcteo7q9u8v53](http://public.crunchbase.com/t_api_images/ltz6mqdrcteo7q9u8v53)
+[DPL](https://www.crunchbase.com/organization/dpl-204c)
+**Activity:** Internet, Machine Learning, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![/images/startupEmpty.svg.png](/images/startupEmpty.svg.png)
+[What Next](https://www.crunchbase.com/organization/what-next)
+**Activity:** Business Intelligence, Artificial Intelligence, Manufacturing
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/q3ifu4rrv3ojg5hlpoyy](http://public.crunchbase.com/t_api_images/q3ifu4rrv3ojg5hlpoyy)
+[Voxly Digital](https://www.crunchbase.com/organization/voxly-digital)
+**Activity:** Software, Artificial Intelligence, Information Technology
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/mqnhogqj9rjcuoricgt5](http://public.crunchbase.com/t_api_images/mqnhogqj9rjcuoricgt5)
+[AVA](https://www.crunchbase.com/organization/ava-07fc)
+**Activity:** Machine Learning, Human Resources, Software, Artificial Intelligence, Information Technology
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/jrmrueeizqq3okp9iyv3](http://public.crunchbase.com/t_api_images/jrmrueeizqq3okp9iyv3)
+[Circulor](https://www.crunchbase.com/organization/circulor)
+**Activity:** Blockchain, Machine Learning, Supply Chain Management, Risk Management, Logistics, Big Data, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/wxancjwjchwnxsgmbh2s](http://public.crunchbase.com/t_api_images/wxancjwjchwnxsgmbh2s)
+[The Signal Group](https://www.crunchbase.com/organization/the-signal-group)
+**Activity:** Shipping, SaaS, Marine Transportation, Marketplace, Transportation, Logistics, Freight Service, Artificial Intelligence, B2B
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/b9rkq3lxdm5llmtw6ll7](http://public.crunchbase.com/t_api_images/b9rkq3lxdm5llmtw6ll7)
+[Arthronica](https://www.crunchbase.com/organization/arthronica)
+**Activity:** Medical Device, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/hglcvhi6wh5twsxavcee](http://public.crunchbase.com/t_api_images/hglcvhi6wh5twsxavcee)
+[CourtQuant](https://www.crunchbase.com/organization/courtquant)
+**Activity:** Risk Management, Analytics, Legal, Artificial Intelligence, Predictive Analytics, Information Technology
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/sz8u8yvlcd9qqigyvzal](http://public.crunchbase.com/t_api_images/sz8u8yvlcd9qqigyvzal)
+[Just AI](https://www.crunchbase.com/organization/just-ai)
+**Activity:** Software, Artificial Intelligence, Information Technology
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/ua7761urtpwfavzm3pcc](http://public.crunchbase.com/t_api_images/ua7761urtpwfavzm3pcc)
+[PRODA](https://www.crunchbase.com/organization/proda)
+**Activity:** SaaS, Computer, Commercial, Software, Big Data, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![/images/startupEmpty.svg.png](/images/startupEmpty.svg.png)
+[TIFY](https://www.crunchbase.com/organization/tify)
+**Activity:** Advertising, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/bgmsdfvkrvf9ylt6frli](http://public.crunchbase.com/t_api_images/bgmsdfvkrvf9ylt6frli)
+[City Sail](https://www.crunchbase.com/organization/city-sail-fc1c)
+**Activity:** Artificial Intelligence, Information Technology
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/sf2ua24asklcbofvaetr](http://public.crunchbase.com/t_api_images/sf2ua24asklcbofvaetr)
+[TopiHub](https://www.crunchbase.com/organization/topihub)
+**Activity:** Advertising, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![/images/startupEmpty.svg.png](/images/startupEmpty.svg.png)
+[Mindset](https://www.crunchbase.com/organization/mindset-7106)
+**Activity:** Health Care, Biotechnology, Medical, Analytics, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/qsgbvyrmxopibwgvqvkx](http://public.crunchbase.com/t_api_images/qsgbvyrmxopibwgvqvkx)
+[Cognitive Business](https://www.crunchbase.com/organization/cognitive-business)
+**Activity:** Energy, Oil and Gas, Machine Learning, Industrial Engineering, Wind Energy, Consulting, Software, Solar, Artificial Intelligence, Biomass Energy
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/gs4uvwths7a01qdraalm](http://public.crunchbase.com/t_api_images/gs4uvwths7a01qdraalm)
+[SKY ENGINE](https://www.crunchbase.com/organization/sky-engine)
+**Activity:** Health Care, Robotics, Machine Learning, Agriculture, Sports, Software, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/xnifgzcdzq4ebcj6jmfo](http://public.crunchbase.com/t_api_images/xnifgzcdzq4ebcj6jmfo)
+[ThinkSense.ai](https://www.crunchbase.com/organization/thinksense-ai)
+**Activity:** Robotics, Software, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/theo0wlfsbvsosuzwite](http://public.crunchbase.com/t_api_images/theo0wlfsbvsosuzwite)
+[Manas AI](https://www.crunchbase.com/organization/manas-ai)
+**Activity:** E-Commerce, Artificial Intelligence, Information Technology
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/ayifyq7p55q6m0mgiw3g](http://public.crunchbase.com/t_api_images/ayifyq7p55q6m0mgiw3g)
+[ARWAY](https://www.crunchbase.com/organization/arway)
+**Activity:** Indoor Positioning, SaaS, Augmented Reality, Software, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/mk6ohgy9pfiulqjfrivg](http://public.crunchbase.com/t_api_images/mk6ohgy9pfiulqjfrivg)
+[PharmSource](https://www.crunchbase.com/organization/pharmsource)
+**Activity:** Health Care, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/xhbrqhsep780xtbmvntx](http://public.crunchbase.com/t_api_images/xhbrqhsep780xtbmvntx)
+[Digital Mycelium](https://www.crunchbase.com/organization/digital-mycelium)
+**Activity:** Blockchain, Web Development, Machine Learning, Content Creators, Infrastructure, Consulting, Artificial Intelligence, Smart Cities, Web Design, Sustainability
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/lt2c4lrqtbocfcspc08u](http://public.crunchbase.com/t_api_images/lt2c4lrqtbocfcspc08u)
+[Clariti AI](https://www.crunchbase.com/organization/clariti-ai)
+**Activity:** Marketing, Machine Learning, Consulting, Software, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/fran4kuoat1p5mqawbzo](http://public.crunchbase.com/t_api_images/fran4kuoat1p5mqawbzo)
+[Anything World](https://www.crunchbase.com/organization/anything-world)
+**Activity:** Media and Entertainment, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/njop26nl0dh9fgdzqtjl](http://public.crunchbase.com/t_api_images/njop26nl0dh9fgdzqtjl)
+[Additive Flow](https://www.crunchbase.com/organization/additive-flow)
+**Activity:** 3D Printing, Software, Artificial Intelligence
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+</div>
+<div class=column id=2>
+
+![http://public.crunchbase.com/t_api_images/efeo3yb9ztrgleqr8vyt](http://public.crunchbase.com/t_api_images/efeo3yb9ztrgleqr8vyt)
+[Sterling AI Solutions](https://www.crunchbase.com/organization/sterling-ai-solutions)
+**Activity:** Artificial Intelligence
+**Investment in USD:** 260,382
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/otsjey4yykwhkhfefezz](http://public.crunchbase.com/t_api_images/otsjey4yykwhkhfefezz)
+[Ascalia](https://www.crunchbase.com/organization/ascalia)
+**Activity:** SaaS, Machine Learning, Artificial Intelligence, Predictive Analytics, Smart Cities, Enterprise Software, Internet of Things, Industrial, Industrial Automation
+**Investment in USD:** 199,609
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/uxnwmmnoudfr6pie9xuj](http://public.crunchbase.com/t_api_images/uxnwmmnoudfr6pie9xuj)
+[PSYKHE](https://www.crunchbase.com/organization/psykhe)
+**Activity:** E-Commerce, Psychology, Personalization, Machine Learning, Artificial Intelligence, Fashion
+**Investment in USD:** 125,000
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/momxyrrwmpfguncfzhdz](http://public.crunchbase.com/t_api_images/momxyrrwmpfguncfzhdz)
+[Ellipsis Environmental](https://www.crunchbase.com/organization/ellipsis-environmental)
+**Activity:** Drones, Artificial Intelligence, Information Technology
+**Investment in USD:** 25,000
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/bh9f0gkhgylfqna6e1nb](http://public.crunchbase.com/t_api_images/bh9f0gkhgylfqna6e1nb)
+[Adan.io](https://www.crunchbase.com/organization/adan-io)
+**Activity:** Analytics, Big Data, Artificial Intelligence
+**Investment in USD:** 0
 **Location:** [London](/London/home/)
 
 
@@ -1121,33 +1566,40 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 
 
 </div>
-<div class=column id=1>
+<div class=column id=3>
 
-![http://public.crunchbase.com/t_api_images/r3lnoi3uhfr82tymutsw](http://public.crunchbase.com/t_api_images/r3lnoi3uhfr82tymutsw)
-[ChAI](https://www.crunchbase.com/organization/chai-d617)
-**Activity:** Machine Learning, Financial Services, Software, Artificial Intelligence, Information Technology, Manufacturing
-**Investment in USD:** 261,472
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/ckj68c5ag4axy2owszpy](http://public.crunchbase.com/t_api_images/ckj68c5ag4axy2owszpy)
-[Auxuman](https://www.crunchbase.com/organization/auxuman)
-**Activity:** Internet, Media and Entertainment, Artificial Intelligence
+![http://public.crunchbase.com/t_api_images/gagwqmewiyuvcqmpj0af](http://public.crunchbase.com/t_api_images/gagwqmewiyuvcqmpj0af)
+[Kamua](https://www.crunchbase.com/organization/kamua)
+**Activity:** Video Editing, SaaS, Marketing Automation, Software, Artificial Intelligence
 **Investment in USD:** 200,000
 **Location:** [London](/London/home/)
 
 
-![http://public.crunchbase.com/t_api_images/ezbntfysxazt0r5lfawm](http://public.crunchbase.com/t_api_images/ezbntfysxazt0r5lfawm)
-[NextQuestion](https://www.crunchbase.com/organization/nextquestion)
-**Activity:** Machine Learning, Artificial Intelligence, Information Technology, Information Services
-**Investment in USD:** 125,108
+![http://public.crunchbase.com/t_api_images/qco1cljdamfp8i9ctqsg](http://public.crunchbase.com/t_api_images/qco1cljdamfp8i9ctqsg)
+[Cumulus1](https://www.crunchbase.com/organization/cumulus1)
+**Activity:** GPU, Machine Learning, Cloud Computing, Software, Artificial Intelligence
+**Investment in USD:** 191,969
 **Location:** [London](/London/home/)
 
 
-![http://public.crunchbase.com/t_api_images/fzsvftsiogakcgiycx42](http://public.crunchbase.com/t_api_images/fzsvftsiogakcgiycx42)
-[GreenflyAI](https://www.crunchbase.com/organization/greenflyai)
-**Activity:** CRM, SaaS, Natural Language Processing, Artificial Intelligence, Customer Service
-**Investment in USD:** 33,613
+![http://public.crunchbase.com/t_api_images/dfiitx6fqa93o0asfevo](http://public.crunchbase.com/t_api_images/dfiitx6fqa93o0asfevo)
+[Litha Group](https://www.crunchbase.com/organization/litha-group)
+**Activity:** Psychology, Health Care, Wellness, Artificial Intelligence
+**Investment in USD:** 98,631
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/q265o11ew7m9bx73ndyf](http://public.crunchbase.com/t_api_images/q265o11ew7m9bx73ndyf)
+[Spinview](https://www.crunchbase.com/organization/spinview-2425)
+**Activity:** Machine Learning, Augmented Reality, Software, Artificial Intelligence, Predictive Analytics, Information Technology, Internet of Things, Virtual Reality
+**Investment in USD:** 0
+**Location:** [London](/London/home/)
+
+
+![http://public.crunchbase.com/t_api_images/xkw806le4nioiu17uixv](http://public.crunchbase.com/t_api_images/xkw806le4nioiu17uixv)
+[Motuslab](https://www.crunchbase.com/organization/motuslab)
+**Activity:** Drones, Machine Learning, Agriculture, Analytics, Artificial Intelligence
+**Investment in USD:** 0
 **Location:** [London](/London/home/)
 
 
@@ -1315,404 +1767,6 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 ![http://public.crunchbase.com/t_api_images/p6n3c1cznzgqysmovgh7](http://public.crunchbase.com/t_api_images/p6n3c1cznzgqysmovgh7)
 [Linkproved](https://www.crunchbase.com/organization/linkproved)
 **Activity:** Social Shopping, E-Commerce, Natural Language Processing, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-</div>
-<div class=column id=2>
-
-![http://public.crunchbase.com/t_api_images/efeo3yb9ztrgleqr8vyt](http://public.crunchbase.com/t_api_images/efeo3yb9ztrgleqr8vyt)
-[Sterling AI Solutions](https://www.crunchbase.com/organization/sterling-ai-solutions)
-**Activity:** Artificial Intelligence
-**Investment in USD:** 260,382
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/otsjey4yykwhkhfefezz](http://public.crunchbase.com/t_api_images/otsjey4yykwhkhfefezz)
-[Ascalia](https://www.crunchbase.com/organization/ascalia)
-**Activity:** SaaS, Machine Learning, Artificial Intelligence, Predictive Analytics, Smart Cities, Enterprise Software, Internet of Things, Industrial, Industrial Automation
-**Investment in USD:** 199,609
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/uxnwmmnoudfr6pie9xuj](http://public.crunchbase.com/t_api_images/uxnwmmnoudfr6pie9xuj)
-[PSYKHE](https://www.crunchbase.com/organization/psykhe)
-**Activity:** E-Commerce, Psychology, Personalization, Machine Learning, Artificial Intelligence, Fashion
-**Investment in USD:** 125,000
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/momxyrrwmpfguncfzhdz](http://public.crunchbase.com/t_api_images/momxyrrwmpfguncfzhdz)
-[Ellipsis Environmental](https://www.crunchbase.com/organization/ellipsis-environmental)
-**Activity:** Drones, Artificial Intelligence, Information Technology
-**Investment in USD:** 25,000
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/xxin4jz1bsfdqjc4gjde](http://public.crunchbase.com/t_api_images/xxin4jz1bsfdqjc4gjde)
-[MediLiVes](https://www.crunchbase.com/organization/medilives)
-**Activity:** Health Care, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/s0px4iqz5zvherkyspqw](http://public.crunchbase.com/t_api_images/s0px4iqz5zvherkyspqw)
-[L3C Cloud](https://www.crunchbase.com/organization/l3c-cloud)
-**Activity:** Machine Learning, Analytics, Artificial Intelligence, Linux
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/d0e2a5ty2hiaavwahr8i](http://public.crunchbase.com/t_api_images/d0e2a5ty2hiaavwahr8i)
-[Serpentine](https://www.crunchbase.com/organization/serpentine)
-**Activity:** Marketing, B2C, Social Media, SaaS, Advertising Platforms, Digital Marketing, Artificial Intelligence, B2B
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![/images/startupEmpty.svg.png](/images/startupEmpty.svg.png)
-[CIPD HR-inform](https://www.crunchbase.com/organization/cipd-hr-inform)
-**Activity:** Non Profit, Law Enforcement, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/n4o0rklhw8hytnocf20j](http://public.crunchbase.com/t_api_images/n4o0rklhw8hytnocf20j)
-[Art World Insights](https://www.crunchbase.com/organization/art-world-insights)
-**Activity:** Machine Learning, Artificial Intelligence, Information Technology
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/zjzingbmi3mkreyhoy1s](http://public.crunchbase.com/t_api_images/zjzingbmi3mkreyhoy1s)
-[churnly](https://www.crunchbase.com/organization/churnly)
-**Activity:** Consumer, Service Industry, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/wes5xmybtmppqhcehylo](http://public.crunchbase.com/t_api_images/wes5xmybtmppqhcehylo)
-[Greyparrot AI](https://www.crunchbase.com/organization/greyparrot-ai)
-**Activity:** Computer, Artificial Intelligence, Video, Information Technology, Telecommunications
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/hviaxoc0mlchv1ffk4jk](http://public.crunchbase.com/t_api_images/hviaxoc0mlchv1ffk4jk)
-[Inexia](https://www.crunchbase.com/organization/inexia)
-**Activity:** Pharmaceutical, Biotechnology, Artificial Intelligence, Neuroscience
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/upxarepw9m4bkmzajubz](http://public.crunchbase.com/t_api_images/upxarepw9m4bkmzajubz)
-[Score Genius](https://www.crunchbase.com/organization/score-genius)
-**Activity:** Banking, Artificial Intelligence, FinTech
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/eijgtnvffftfqqmzsdnj](http://public.crunchbase.com/t_api_images/eijgtnvffftfqqmzsdnj)
-[Neurolabs](https://www.crunchbase.com/organization/neurolabs)
-**Activity:** E-Commerce, Computer, Software, Artificial Intelligence, Information Technology
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/uuophg6etuvytcbr8txb](http://public.crunchbase.com/t_api_images/uuophg6etuvytcbr8txb)
-[EN/AI](https://www.crunchbase.com/organization/en-ai)
-**Activity:** E-Commerce, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/rz608ldqk0y220sklkd8](http://public.crunchbase.com/t_api_images/rz608ldqk0y220sklkd8)
-[FUTURE16](https://www.crunchbase.com/organization/future16)
-**Activity:** Artificial Intelligence, Music
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/h0tcumdlzshsbjoqjxlp](http://public.crunchbase.com/t_api_images/h0tcumdlzshsbjoqjxlp)
-[PLATO Intelligence](https://www.crunchbase.com/organization/plato-intelligence)
-**Activity:** Education, Machine Learning, Human Resources, Small and Medium Businesses, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/irj8bqnbrj1pqqjk13ma](http://public.crunchbase.com/t_api_images/irj8bqnbrj1pqqjk13ma)
-[Akkiba](https://www.crunchbase.com/organization/akkiba)
-**Activity:** Health Care, Machine Learning, Financial Services, Artificial Intelligence, Information Technology
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/vldutvtggdiwc2x6e3ml](http://public.crunchbase.com/t_api_images/vldutvtggdiwc2x6e3ml)
-[Advanced Logic Analytics](https://www.crunchbase.com/organization/advanced-logic-analytics)
-**Activity:** Financial Services, Artificial Intelligence, Information Technology, FinTech
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/m92wvxqxotdkuo3irxaj](http://public.crunchbase.com/t_api_images/m92wvxqxotdkuo3irxaj)
-[Oyler](https://www.crunchbase.com/organization/oyler)
-**Activity:** Artificial Intelligence, Information Technology
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/oom6mpgc8hk5giangdq6](http://public.crunchbase.com/t_api_images/oom6mpgc8hk5giangdq6)
-[Algorithm X Lab](https://www.crunchbase.com/organization/algorithm-x-lab)
-**Activity:** Market Research, Digital Media, Publishing, Machine Learning, Media and Entertainment, Artificial Intelligence, Events, Information Technology
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/eaa3cofucyfa1igwffvg](http://public.crunchbase.com/t_api_images/eaa3cofucyfa1igwffvg)
-[RevTap.ai](https://www.crunchbase.com/organization/revtap-ai)
-**Activity:** E-Commerce, Retail, Software, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/c7scykhvz4kwnwllownh](http://public.crunchbase.com/t_api_images/c7scykhvz4kwnwllownh)
-[VCfund.me](https://www.crunchbase.com/organization/vcfund-me)
-**Activity:** CRM, SaaS, Machine Learning, Venture Capital, Software, Artificial Intelligence, Information Technology
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/gfylvpaz7kg9yjvxur2x](http://public.crunchbase.com/t_api_images/gfylvpaz7kg9yjvxur2x)
-[Rooster](https://www.crunchbase.com/organization/rooster-eeaa)
-**Activity:** Auto Insurance, Mobile Apps, Artificial Intelligence, InsurTech
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/uxbkccpkegb2zxwvmfih](http://public.crunchbase.com/t_api_images/uxbkccpkegb2zxwvmfih)
-[Rize Health](https://www.crunchbase.com/organization/rize-health)
-**Activity:** Health Care, Recruiting, Machine Learning, Marketplace, Clinical Trials, Cloud Management, Software, Artificial Intelligence, Information Technology
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/j67x7lpwvi6ghozz4u5j](http://public.crunchbase.com/t_api_images/j67x7lpwvi6ghozz4u5j)
-[BlackSwan Technologies](https://www.crunchbase.com/organization/blackswan-technologies)
-**Activity:** Cyber Security, Cloud Computing, Risk Management, Analytics, Software, Big Data, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/85d593a7512edf6fddd8](http://public.crunchbase.com/t_api_images/85d593a7512edf6fddd8)
-[Tagdox](https://www.crunchbase.com/organization/tagdox)
-**Activity:** Legal Tech, Machine Learning, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/9e5f622ded2ebb712905](http://public.crunchbase.com/t_api_images/9e5f622ded2ebb712905)
-[Ubisend](https://www.crunchbase.com/organization/ubisend)
-**Activity:** Machine Learning, Software, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-</div>
-<div class=column id=3>
-
-![http://public.crunchbase.com/t_api_images/gagwqmewiyuvcqmpj0af](http://public.crunchbase.com/t_api_images/gagwqmewiyuvcqmpj0af)
-[Kamua](https://www.crunchbase.com/organization/kamua)
-**Activity:** Video Editing, SaaS, Marketing Automation, Software, Artificial Intelligence
-**Investment in USD:** 200,000
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/qco1cljdamfp8i9ctqsg](http://public.crunchbase.com/t_api_images/qco1cljdamfp8i9ctqsg)
-[Cumulus1](https://www.crunchbase.com/organization/cumulus1)
-**Activity:** GPU, Machine Learning, Cloud Computing, Software, Artificial Intelligence
-**Investment in USD:** 191,969
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/dfiitx6fqa93o0asfevo](http://public.crunchbase.com/t_api_images/dfiitx6fqa93o0asfevo)
-[Litha Group](https://www.crunchbase.com/organization/litha-group)
-**Activity:** Psychology, Health Care, Wellness, Artificial Intelligence
-**Investment in USD:** 98,631
-**Location:** [London](/London/home/)
-
-
-![/images/startupEmpty.svg.png](/images/startupEmpty.svg.png)
-[Skarvi Systems Limited](https://www.crunchbase.com/organization/skarvi-systems-limited)
-**Activity:** Software, Artificial Intelligence, Information Technology
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/ltz6mqdrcteo7q9u8v53](http://public.crunchbase.com/t_api_images/ltz6mqdrcteo7q9u8v53)
-[DPL](https://www.crunchbase.com/organization/dpl-204c)
-**Activity:** Internet, Machine Learning, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![/images/startupEmpty.svg.png](/images/startupEmpty.svg.png)
-[What Next](https://www.crunchbase.com/organization/what-next)
-**Activity:** Business Intelligence, Artificial Intelligence, Manufacturing
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/q3ifu4rrv3ojg5hlpoyy](http://public.crunchbase.com/t_api_images/q3ifu4rrv3ojg5hlpoyy)
-[Voxly Digital](https://www.crunchbase.com/organization/voxly-digital)
-**Activity:** Software, Artificial Intelligence, Information Technology
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/mqnhogqj9rjcuoricgt5](http://public.crunchbase.com/t_api_images/mqnhogqj9rjcuoricgt5)
-[AVA](https://www.crunchbase.com/organization/ava-07fc)
-**Activity:** Machine Learning, Human Resources, Software, Artificial Intelligence, Information Technology
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/jrmrueeizqq3okp9iyv3](http://public.crunchbase.com/t_api_images/jrmrueeizqq3okp9iyv3)
-[Circulor](https://www.crunchbase.com/organization/circulor)
-**Activity:** Blockchain, Machine Learning, Supply Chain Management, Risk Management, Logistics, Big Data, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/wxancjwjchwnxsgmbh2s](http://public.crunchbase.com/t_api_images/wxancjwjchwnxsgmbh2s)
-[The Signal Group](https://www.crunchbase.com/organization/the-signal-group)
-**Activity:** Shipping, SaaS, Marine Transportation, Marketplace, Transportation, Logistics, Freight Service, Artificial Intelligence, B2B
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/b9rkq3lxdm5llmtw6ll7](http://public.crunchbase.com/t_api_images/b9rkq3lxdm5llmtw6ll7)
-[Arthronica](https://www.crunchbase.com/organization/arthronica)
-**Activity:** Medical Device, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/hglcvhi6wh5twsxavcee](http://public.crunchbase.com/t_api_images/hglcvhi6wh5twsxavcee)
-[CourtQuant](https://www.crunchbase.com/organization/courtquant)
-**Activity:** Risk Management, Analytics, Legal, Artificial Intelligence, Predictive Analytics, Information Technology
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/sz8u8yvlcd9qqigyvzal](http://public.crunchbase.com/t_api_images/sz8u8yvlcd9qqigyvzal)
-[Just AI](https://www.crunchbase.com/organization/just-ai)
-**Activity:** Software, Artificial Intelligence, Information Technology
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/ua7761urtpwfavzm3pcc](http://public.crunchbase.com/t_api_images/ua7761urtpwfavzm3pcc)
-[PRODA](https://www.crunchbase.com/organization/proda)
-**Activity:** SaaS, Computer, Commercial, Software, Big Data, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![/images/startupEmpty.svg.png](/images/startupEmpty.svg.png)
-[TIFY](https://www.crunchbase.com/organization/tify)
-**Activity:** Advertising, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/bgmsdfvkrvf9ylt6frli](http://public.crunchbase.com/t_api_images/bgmsdfvkrvf9ylt6frli)
-[City Sail](https://www.crunchbase.com/organization/city-sail-fc1c)
-**Activity:** Artificial Intelligence, Information Technology
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/sf2ua24asklcbofvaetr](http://public.crunchbase.com/t_api_images/sf2ua24asklcbofvaetr)
-[TopiHub](https://www.crunchbase.com/organization/topihub)
-**Activity:** Advertising, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![/images/startupEmpty.svg.png](/images/startupEmpty.svg.png)
-[Mindset](https://www.crunchbase.com/organization/mindset-7106)
-**Activity:** Health Care, Biotechnology, Medical, Analytics, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/qsgbvyrmxopibwgvqvkx](http://public.crunchbase.com/t_api_images/qsgbvyrmxopibwgvqvkx)
-[Cognitive Business](https://www.crunchbase.com/organization/cognitive-business)
-**Activity:** Energy, Oil and Gas, Machine Learning, Industrial Engineering, Wind Energy, Consulting, Software, Solar, Artificial Intelligence, Biomass Energy
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/gs4uvwths7a01qdraalm](http://public.crunchbase.com/t_api_images/gs4uvwths7a01qdraalm)
-[SKY ENGINE](https://www.crunchbase.com/organization/sky-engine)
-**Activity:** Health Care, Robotics, Machine Learning, Agriculture, Sports, Software, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/xnifgzcdzq4ebcj6jmfo](http://public.crunchbase.com/t_api_images/xnifgzcdzq4ebcj6jmfo)
-[ThinkSense.ai](https://www.crunchbase.com/organization/thinksense-ai)
-**Activity:** Robotics, Software, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/theo0wlfsbvsosuzwite](http://public.crunchbase.com/t_api_images/theo0wlfsbvsosuzwite)
-[Manas AI](https://www.crunchbase.com/organization/manas-ai)
-**Activity:** E-Commerce, Artificial Intelligence, Information Technology
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/ayifyq7p55q6m0mgiw3g](http://public.crunchbase.com/t_api_images/ayifyq7p55q6m0mgiw3g)
-[ARWAY](https://www.crunchbase.com/organization/arway)
-**Activity:** Indoor Positioning, SaaS, Augmented Reality, Software, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/mk6ohgy9pfiulqjfrivg](http://public.crunchbase.com/t_api_images/mk6ohgy9pfiulqjfrivg)
-[PharmSource](https://www.crunchbase.com/organization/pharmsource)
-**Activity:** Health Care, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/xhbrqhsep780xtbmvntx](http://public.crunchbase.com/t_api_images/xhbrqhsep780xtbmvntx)
-[Digital Mycelium](https://www.crunchbase.com/organization/digital-mycelium)
-**Activity:** Blockchain, Web Development, Machine Learning, Content Creators, Infrastructure, Consulting, Artificial Intelligence, Smart Cities, Web Design, Sustainability
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/lt2c4lrqtbocfcspc08u](http://public.crunchbase.com/t_api_images/lt2c4lrqtbocfcspc08u)
-[Clariti AI](https://www.crunchbase.com/organization/clariti-ai)
-**Activity:** Marketing, Machine Learning, Consulting, Software, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/fran4kuoat1p5mqawbzo](http://public.crunchbase.com/t_api_images/fran4kuoat1p5mqawbzo)
-[Anything World](https://www.crunchbase.com/organization/anything-world)
-**Activity:** Media and Entertainment, Artificial Intelligence
-**Investment in USD:** 0
-**Location:** [London](/London/home/)
-
-
-![http://public.crunchbase.com/t_api_images/njop26nl0dh9fgdzqtjl](http://public.crunchbase.com/t_api_images/njop26nl0dh9fgdzqtjl)
-[Additive Flow](https://www.crunchbase.com/organization/additive-flow)
-**Activity:** 3D Printing, Software, Artificial Intelligence
 **Investment in USD:** 0
 **Location:** [London](/London/home/)
 

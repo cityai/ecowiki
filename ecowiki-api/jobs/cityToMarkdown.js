@@ -90,8 +90,9 @@ class MarkdownTransform {
     }
     addCityMaps(data,city){
         try {
+            let index = data.indexOf("<div class=mapHighlight>")+1;
 
-            data.splice(0,0,"<img src=\"/images/cityMaps/"+ city.name +"_1500_highlight.png\" style=\"padding-left:33px\" >");
+            data.splice(index,0,"<img src=\"/images/cityMaps/"+ city.name +"_1500_highlight.png\">");
 
         } catch (error) {
             console.log(error);

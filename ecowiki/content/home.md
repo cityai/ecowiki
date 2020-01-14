@@ -8,13 +8,13 @@
 <a href="#ecosystems"><strong>6</strong></a>
 </div>
 <div class=column>
-<a href="#events" ><strong>117</strong></a>
+<a href="#events" ><strong>118</strong></a>
 </div>
 <div class=column>
 <a href="#community" ><strong>35</strong></a>
 </div>
 <div class=column>
-<a href="#startups" ><strong>251</a></strong>
+<a href="#startups" ><strong>259</a></strong>
 </div>
 <div class=column>
 <a href="#community" ><strong>3</a></strong>
@@ -120,90 +120,90 @@ Connect with 3 community groups promoting the best practices in AI.
 </div>
 
 # Events
-117 upcoming AI-related events. In past 212 events have been hosted
+118 upcoming AI-related events. In past 232 events have been hosted
 <div class=events>
 
 <div class=column id=0>
 
-[StartUp Journey - FinTech & RegTech](https://www.meetup.com/London-Tech-Entrepreneurs-And-Investors-Network-LION/events/267344371/)
-##### Fri Jan 10 2020
-**Location:** [London](/London/home/)
-**Organizer:** London Tech Entrepreneurs and Investors Network Lion
-
-
-[RPA Robotic Process Automation Developers Berlin @ Oracle](https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/266551380/)
-##### Mon Jan 13 2020
+[Data Wholphins Meetup @Merantix](https://www.meetup.com/meetup-group-UtDDgfus/events/266914266/)
+##### Wed Jan 15 2020
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** RPA Robotic Process Automation Developers Berlin
+**Organizer:** Data Wholphins
 
 
-[How Blockchain and Digital Assets are evolving ](https://www.meetup.com/ICO-Meetup-London/events/265663727/)
-##### Mon Jan 13 2020
+[UX Academy - Introduction to Conversational Design Workshop (January 2020)](https://www.meetup.com/MobileUXLondon/events/267221118/)
+##### Wed Jan 15 2020
 **Location:** [London](/London/home/)
-**Organizer:** Blockchain and Digital Assets London Meetup
+**Organizer:** Mobile UX London
+
+
+[PyData 2020 January](https://www.meetup.com/PyData-Berlin/events/267745811/)
+##### Wed Jan 15 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** PyData Berlin
 
 
 </div>
 <div class=column id=1>
 
-[StartUp Journey  2020 -  FinTECH and RegTECH Entrepreneur and Investors](https://www.meetup.com/London-Tech-Entrepreneurs-And-Investors-Network-LION/events/267344371/)
-##### Fri Jan 10 2020
-**Location:** [London](/London/home/)
-**Organizer:** London Tech Entrepreneurs and Investors Network Lion
-
-
-[Frontier Technologies Summit - AI, Blockchain, Robotics, Digital Securities](https://www.meetup.com/Blockchain-SmartContract-Innovators/events/266142891/)
-##### Mon Jan 13 2020
-**Location:** [London](/London/home/)
-**Organizer:** Blockchain & SmartContract Innovators
-
-
-[Introduction to Analyzing Business Data with Python](https://www.meetup.com/Data-Science-Retreat/events/266805753/)
-##### Tue Jan 14 2020
+[(paid) online AI course:Practical Machine Learning in Python](https://www.meetup.com/Berlin-AI-Tech-Talk/events/267077842/)
+##### Wed Jan 15 2020
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** Data Science Retreat
+**Organizer:** Berlin AI Developers Group
+
+
+[Ulrich Nogel - It’s all about Liquidity - Europe Cash Equity Trading Trends](https://www.meetup.com/thalesians/events/267226283/)
+##### Wed Jan 15 2020
+**Location:** [London](/London/home/)
+**Organizer:** The Thalesians
+
+
+[Startup-Finanzierung: 1800 Euro / Monat pro Teammitglied für eure Tech-Projekte](https://www.meetup.com/Berlin-Digital-Business-Network-SIBB/events/267779594/)
+##### Wed Jan 15 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** 💥 Berlin Digital Business Network @SIBB 💥
 
 
 </div>
 <div class=column id=2>
 
-[Automation and Utopia](https://www.meetup.com/London-Futurists/events/266063616/)
-##### Sat Jan 11 2020
+[Azure Workshop: Kubernetes in a Day](https://www.meetup.com/Microsoft-Reactor-London/events/267087661/)
+##### Wed Jan 15 2020
 **Location:** [London](/London/home/)
-**Organizer:** London Futurists
+**Organizer:** Microsoft Reactor London
 
 
-[Frontier Tech Summit London, 13 Jan 2020 ](https://www.meetup.com/fintechstorm/events/266732898/)
-##### Mon Jan 13 2020
+[London.Robotics - Launch event](https://www.meetup.com/london-robotics/events/267319949/)
+##### Wed Jan 15 2020
 **Location:** [London](/London/home/)
-**Organizer:** Fintech Storm - Disruptive Tech - Blockchain, AI, Fintech
+**Organizer:** London.Robotics
 
 
-[First 2020 SAS Meetup in Berlin — Hosted by Bayer AG](https://www.meetup.com/SAS-User-Group-Germany/events/266915530/)
-##### Tue Jan 14 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** SAS User Group Germany
+[Scalability of blockchain based platforms : what's the challenge?](https://www.meetup.com/Trustless-Ecosystems/events/ccrqpqyzkbhc/)
+##### Thu Jan 16 2020
+**Location:** [London](/London/home/)
+**Organizer:** #TrustlessEcosystems: platforms empowered by AI & blockchain
 
 
 </div>
 <div class=column id=3>
 
-[AI environment set up laptop](https://www.meetup.com/TensorflowRUs/events/267471483/)
-##### Sat Jan 11 2020
+[Microsoft for Startups Tech Evening](https://www.meetup.com/Microsoft-Reactor-London/events/267088116/)
+##### Wed Jan 15 2020
 **Location:** [London](/London/home/)
-**Organizer:** TensorflowRUs
+**Organizer:** Microsoft Reactor London
 
 
-[Health-IT-Talk: Translationsregion für digitalisierte Gesundheitsversorgung ](https://www.meetup.com/Berlin-Digital-Business-Network-SIBB/events/267294806/)
-##### Mon Jan 13 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** 💥 Berlin Digital Business Network @SIBB 💥
-
-
-[How Salesforce ISVs (Appexchange) Partners are Leveraging Einstein](https://www.meetup.com/London-Einstein-Analytics-Meetup/events/266972544/)
-##### Tue Jan 14 2020
+[Trusting AI: build a fair and robust model in production](https://www.meetup.com/IBM-Code-London/events/267294442/)
+##### Wed Jan 15 2020
 **Location:** [London](/London/home/)
-**Organizer:** London Einstein Analytics DataTribe
+**Organizer:** IBM Code London
+
+
+[Microsoft for Startups  |  IP (Legal)](https://www.meetup.com/Microsoft-Reactor-London/events/266671449/)
+##### Thu Jan 16 2020
+**Location:** [London](/London/home/)
+**Organizer:** Microsoft Reactor London
 
 
 </div>
@@ -346,7 +346,7 @@ Active local organizations and initiatives related to AI
 </div>
 
 # Startups
-Explore the newest startups working with AI technologies, from a total of 251 companies.
+Explore the newest startups working with AI technologies, from a total of 259 companies.
 <div class=logoCB>
 Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_crop.png" style="width:20%;"/></a>
 </div>

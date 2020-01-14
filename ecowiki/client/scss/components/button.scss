@@ -24,6 +24,9 @@
 		display: inline-flex;
 		align-items: center;
 		line-height: 14px;
+		@media only screen and (min-width: 320px) and (max-width: 380px){
+			margin-top: 1pc;
+		}
 		height: 14px;
 	}
 

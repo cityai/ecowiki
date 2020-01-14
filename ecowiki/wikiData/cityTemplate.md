@@ -1,6 +1,6 @@
+<div class=mapHighlight>
 
-
-
+</div>
 
 
 <div class=CityPageSpecific>

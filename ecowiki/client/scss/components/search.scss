@@ -28,7 +28,7 @@
     background-color:$search-result-color-bg;
 		color: $search-result-color;
 		padding: 8px;
-		font-size: 13px;
+		font-size: 0.8125rem;
     letter-spacing: 1px;
     text-transform: uppercase;
     // box-shadow: 0 0 5px rgba(0,0,0,0.3);
@@ -39,7 +39,7 @@
 
 		> li {
 			display: flex;
-			font-size: 14px;
+			font-size: 0.875rem;
 			transition: background-color .2s linear;
 
 			&:nth-child(odd) {
