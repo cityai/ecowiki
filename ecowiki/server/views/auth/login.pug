@@ -38,6 +38,9 @@ html(data-logic='login')
           input#login-user(type='text', name='email', placeholder=t('auth:fields.emailuser'))
           input#login-pass(type='password', name='password', placeholder=t('auth:fields.password'))
           button(type='submit')= t('auth:actions.login')
+        //- form(method='get', action='/register')
+        //-   button(type='submit')= t('Sign Up')
+
       if appconfig.authStrategies.socialEnabled
         #social
           if appconfig.auth.local.enabled

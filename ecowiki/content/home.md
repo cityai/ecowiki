@@ -8,13 +8,13 @@
 <a href="#ecosystems"><strong>6</strong></a>
 </div>
 <div class=column>
-<a href="#events" ><strong>118</strong></a>
+<a href="#events" ><strong>120</strong></a>
 </div>
 <div class=column>
 <a href="#community" ><strong>35</strong></a>
 </div>
 <div class=column>
-<a href="#startups" ><strong>259</a></strong>
+<a href="#startups" ><strong>267</a></strong>
 </div>
 <div class=column>
 <a href="#community" ><strong>3</a></strong>
@@ -120,90 +120,90 @@ Connect with 3 community groups promoting the best practices in AI.
 </div>
 
 # Events
-118 upcoming AI-related events. In past 232 events have been hosted
+120 upcoming AI-related events. In past 290 events have been hosted
 <div class=events>
 
 <div class=column id=0>
 
-[Data Wholphins Meetup @Merantix](https://www.meetup.com/meetup-group-UtDDgfus/events/266914266/)
-##### Wed Jan 15 2020
+[AI for Business Meetup Berlin No. 3](https://www.meetup.com/meetup-group-ilfJOcru/events/266611983/)
+##### Tue Jan 28 2020
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** Data Wholphins
+**Organizer:** AI for Marketing - Use cases and Networking Berlin
 
 
-[UX Academy - Introduction to Conversational Design Workshop (January 2020)](https://www.meetup.com/MobileUXLondon/events/267221118/)
-##### Wed Jan 15 2020
+[The Future of AdTech](https://www.meetup.com/SiliconRoundabout/events/267777728/)
+##### Tue Jan 28 2020
 **Location:** [London](/London/home/)
-**Organizer:** Mobile UX London
+**Organizer:** Silicon Roundabout
 
 
-[PyData 2020 January](https://www.meetup.com/PyData-Berlin/events/267745811/)
-##### Wed Jan 15 2020
+[Adam: A Method for Stochastic Optimization – Kingma & Ba arxiv.org/abs/1412.6980](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/zjppmrybccblc/)
+##### Tue Jan 28 2020
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** PyData Berlin
+**Organizer:** Advanced Machine Learning Study Group
 
 
 </div>
 <div class=column id=1>
 
-[(paid) online AI course:Practical Machine Learning in Python](https://www.meetup.com/Berlin-AI-Tech-Talk/events/267077842/)
-##### Wed Jan 15 2020
+[BIA welcomes 2020 & FUTURE CITY Incubator launch](https://www.meetup.com/Innovators-Berlin-Corporates-Startups/events/267319338/)
+##### Tue Jan 28 2020
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** Berlin AI Developers Group
+**Organizer:** Innovators Berlin | Corporates & Startups
 
 
-[Ulrich Nogel - It’s all about Liquidity - Europe Cash Equity Trading Trends](https://www.meetup.com/thalesians/events/267226283/)
-##### Wed Jan 15 2020
+[DEVELOPERS ONLY - "Meet a Startup": Fullstack Developers event [London]](https://www.meetup.com/SiliconRoundabout/events/267811054/)
+##### Tue Jan 28 2020
 **Location:** [London](/London/home/)
-**Organizer:** The Thalesians
+**Organizer:** Silicon Roundabout
 
 
-[Startup-Finanzierung: 1800 Euro / Monat pro Teammitglied für eure Tech-Projekte](https://www.meetup.com/Berlin-Digital-Business-Network-SIBB/events/267779594/)
-##### Wed Jan 15 2020
+[Smart City Office Hour](https://www.meetup.com/Innovators-Berlin-Corporates-Startups/events/267959953/)
+##### Tue Jan 28 2020
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** 💥 Berlin Digital Business Network @SIBB 💥
+**Organizer:** Innovators Berlin | Corporates & Startups
 
 
 </div>
 <div class=column id=2>
 
-[Azure Workshop: Kubernetes in a Day](https://www.meetup.com/Microsoft-Reactor-London/events/267087661/)
-##### Wed Jan 15 2020
+[Voice Meetup: what3words edition!](https://www.meetup.com/Messaging-Bots-London/events/267294132/)
+##### Tue Jan 28 2020
 **Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
+**Organizer:** Chatbots & Voice Assistants London
 
 
-[London.Robotics - Launch event](https://www.meetup.com/london-robotics/events/267319949/)
-##### Wed Jan 15 2020
+[4-weeks AI course: Full Stack Deep Learning for Developers](https://www.meetup.com/London-AI-Tech-Talk/events/267827980/)
+##### Tue Jan 28 2020
 **Location:** [London](/London/home/)
-**Organizer:** London.Robotics
+**Organizer:** London AI Developers Group
 
 
-[Scalability of blockchain based platforms : what's the challenge?](https://www.meetup.com/Trustless-Ecosystems/events/ccrqpqyzkbhc/)
-##### Thu Jan 16 2020
+[Audio Classification with Convolutional Neural Networks](https://www.meetup.com/IBM-Code-London/events/267906109/)
+##### Tue Jan 28 2020
 **Location:** [London](/London/home/)
-**Organizer:** #TrustlessEcosystems: platforms empowered by AI & blockchain
+**Organizer:** IBM Code London
 
 
 </div>
 <div class=column id=3>
 
-[Microsoft for Startups Tech Evening](https://www.meetup.com/Microsoft-Reactor-London/events/267088116/)
-##### Wed Jan 15 2020
+[Authentication Without Passwords](https://www.meetup.com/Microsoft-Reactor-London/events/267316718/)
+##### Tue Jan 28 2020
 **Location:** [London](/London/home/)
 **Organizer:** Microsoft Reactor London
 
 
-[Trusting AI: build a fair and robust model in production](https://www.meetup.com/IBM-Code-London/events/267294442/)
-##### Wed Jan 15 2020
-**Location:** [London](/London/home/)
-**Organizer:** IBM Code London
+[Home Office & remote work erfolgreich umsetzen](https://www.meetup.com/Berlin-DoSE/events/267900207/)
+##### Tue Jan 28 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Berlin DoSE
 
 
-[Microsoft for Startups  |  IP (Legal)](https://www.meetup.com/Microsoft-Reactor-London/events/266671449/)
-##### Thu Jan 16 2020
+[Build your own hand sign recogniser with TensorFlow.js [WORKSHOP]](https://www.meetup.com/AI-JavaScript-London/events/267883735/)
+##### Tue Jan 28 2020
 **Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
+**Organizer:** AI JavaScript London
 
 
 </div>
@@ -346,7 +346,7 @@ Active local organizations and initiatives related to AI
 </div>
 
 # Startups
-Explore the newest startups working with AI technologies, from a total of 259 companies.
+Explore the newest startups working with AI technologies, from a total of 267 companies.
 <div class=logoCB>
 Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_crop.png" style="width:20%;"/></a>
 </div>
@@ -392,11 +392,11 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 **Location:** [Berlin](/Berlin/home/)
 
 
-![http://public.crunchbase.com/t_api_images/jigibpbjvcosp8ewbrl4](http://public.crunchbase.com/t_api_images/jigibpbjvcosp8ewbrl4){: width=15%}
-[Tillhub](https://www.crunchbase.com/organization/tillhub)
-**Activity:** Internet, Point of Sale, Cloud Computing, Artificial Intelligence, Cloud Data Services
-**Investment in USD:** 8,219,540
-**Location:** [Berlin](/Berlin/home/)
+![http://public.crunchbase.com/t_api_images/bcbltdbgb9a0h18vryz5](http://public.crunchbase.com/t_api_images/bcbltdbgb9a0h18vryz5){: width=15%}
+[Blackchain International Ltd.](https://www.crunchbase.com/organization/blackchain-international-ltd)
+**Activity:** Blockchain, Quantum Computing, Consulting, Software, Artificial Intelligence, Information Technology, Innovation Management
+**Investment in USD:** 10,000,000
+**Location:** [London](/London/home/)
 
 
 </div>
@@ -416,10 +416,10 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 **Location:** [Berlin](/Berlin/home/)
 
 
-![http://public.crunchbase.com/t_api_images/wlyz8lfrehq0xxqcozt7](http://public.crunchbase.com/t_api_images/wlyz8lfrehq0xxqcozt7){: width=15%}
-[XAIN](https://www.crunchbase.com/organization/xain-group)
-**Activity:** Cyber Security, SaaS, Machine Learning, Infrastructure, Software, Artificial Intelligence, Privacy
-**Investment in USD:** 7,035,853
+![http://public.crunchbase.com/t_api_images/jigibpbjvcosp8ewbrl4](http://public.crunchbase.com/t_api_images/jigibpbjvcosp8ewbrl4){: width=15%}
+[Tillhub](https://www.crunchbase.com/organization/tillhub)
+**Activity:** Internet, Point of Sale, Cloud Computing, Artificial Intelligence, Cloud Data Services
+**Investment in USD:** 8,219,540
 **Location:** [Berlin](/Berlin/home/)
 
 
@@ -440,11 +440,11 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 **Location:** [Berlin](/Berlin/home/)
 
 
-![http://public.crunchbase.com/t_api_images/jzitlw7xrzlv0ioxs6h3](http://public.crunchbase.com/t_api_images/jzitlw7xrzlv0ioxs6h3){: width=15%}
-[Hero Labs](https://www.crunchbase.com/organization/hero-laboratories)
-**Activity:** Artificial Intelligence, Information Technology, Manufacturing, Product Research
-**Investment in USD:** 3,166,648
-**Location:** [London](/London/home/)
+![http://public.crunchbase.com/t_api_images/wlyz8lfrehq0xxqcozt7](http://public.crunchbase.com/t_api_images/wlyz8lfrehq0xxqcozt7){: width=15%}
+[XAIN](https://www.crunchbase.com/organization/xain-group)
+**Activity:** Cyber Security, SaaS, Machine Learning, Infrastructure, Software, Artificial Intelligence, Privacy
+**Investment in USD:** 7,035,853
+**Location:** [Berlin](/Berlin/home/)
 
 
 </div>

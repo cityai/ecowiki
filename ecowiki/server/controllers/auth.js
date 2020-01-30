@@ -9,6 +9,7 @@ const passport = require('passport')
 const ExpressBrute = require('express-brute')
 const ExpressBruteMongooseStore = require('express-brute-mongoose')
 const moment = require('moment')
+const User = require("../models/user")
 
 /**
  * Setup Express-Brute
@@ -29,6 +30,26 @@ const bruteforce = new ExpressBrute(EBstore, {
     res.redirect('/login')
   }
 })
+/**
+ * Register form
+ */
+// router.get('/register',function(req,res,next){
+//   res.render('auth/register');
+// })
+
+// router.post("/register", function(req, res){
+//   var newUser = new User({
+//       username: req.body.username,
+//       firstName: req.body.firstName,
+//       password: req.body.password,
+//       lastName: req.body.lastName,
+//       email: req.body.email,
+//     });
+//     return User.create(newUser).then(() => {
+//       return res.json({ ok: true })
+//     })
+//   });
+
 
 /**
  * Login form

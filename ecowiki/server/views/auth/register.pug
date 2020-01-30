@@ -1,0 +1,51 @@
+html(data-logic='login')
+  head
+    meta(http-equiv='X-UA-Compatible', content='IE=edge')
+    meta(charset='UTF-8')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    meta(name='theme-color', content='#009688')
+    meta(name='msapplication-TileColor', content='#009688')
+    meta(name='msapplication-TileImage', content='/favicons/ms-icon-144x144.png')
+    title= appconfig.title
+
+    // Favicon
+    each favsize in [57, 60, 72, 76, 114, 120, 144, 152, 180]
+      link(rel='apple-touch-icon', sizes=favsize + 'x' + favsize, href='/favicons/apple-icon-' + favsize + 'x' + favsize + '.png')
+    link(rel='icon', type='image/png', sizes='192x192', href='/favicons/android-icon-192x192.png')
+    each favsize in [32, 96, 16]
+      link(rel='icon', type='image/png', sizes=favsize + 'x' + favsize, href='/favicons/favicon-' + favsize + 'x' + favsize + '.png')
+    link(rel='manifest', href='/manifest.json')
+
+    // JS / CSS
+    script(type='text/javascript', src=appconfig.host + '/js/vendor.js')
+    script(type='text/javascript', src=appconfig.host + '/js/app.js')
+
+  body
+    #bg
+      each bg in _.sampleSize([1, 2, 3],3)
+        div(style='background-image:url(/images/bg_' + bg + '.jpg);')
+    #root
+      h1= "Sign Up"
+      h2= "All fields required"
+      if appflash.length > 0
+        h3
+          i.icon-warning-outline
+          = appflash[0].title
+        h4= appflash[0].message
+      if appconfig.auth.local.enabled
+        form(method='post', action='/register')
+          input#register-user(type='text', name='username', placeholder=t('Username'))
+          input#register-pass(type='password', name='password', placeholder=t('Password'))
+          input#register-firstname(type='text', name='firstName', placeholder=t('First Name'))
+          input#register-lastname(type='text', name='lastName', placeholder=t('Last Name'))
+          input#register-email(type='text', name='email', placeholder=t('Email'))
+          button(type='submit')= t('Sign Up')
+        //- form(method='get', action='/register')
+        //-   button(type='submit')= t('Sign Up')
+
+      
+    #copyright
+      = t('footer.poweredby') + ' '
+      a.icon(href='https://github.com/Requarks/wiki')
+        i.icon-github
+      a(href='https://wiki.requarks.io/') Wiki.js

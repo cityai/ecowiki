@@ -12,7 +12,7 @@
 <a href="#ecosystems"><strong>0</strong></a>
 </div>
 <div class=column>
-<a href="#events" ><strong>1</strong></a>
+<a href="#events" ><strong>0</strong></a>
 </div>
 <div class=column>
 <a href="#community" ><strong>2</strong></a>
@@ -159,16 +159,10 @@ The voices of the local AI community
 
 
 # Events
-1 upcoming AI-related events.
+0 upcoming AI-related events.
 <div class=events>
 
 <div class=column id=0>
-
-[AWS Beirut UG Meetup #9: SageMaker + TensorFlow Workshop by Beirut AI](https://www.meetup.com/AWS-Lebanon/events/267803062/)
-##### Thu Jan 16 2020
-**Location:** [Beirut](/Beirut/home/)
-**Organizer:** AWS Beirut UG
-
 
 </div>
 <div class=column id=1>
