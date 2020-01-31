@@ -12,7 +12,7 @@
 <a href="#ecosystems"><strong>0</strong></a>
 </div>
 <div class=column>
-<a href="#events" ><strong>0</strong></a>
+<a href="#events" ><strong>1</strong></a>
 </div>
 <div class=column>
 <a href="#community" ><strong>0</strong></a>
@@ -145,10 +145,16 @@ The voices of the local AI community
 
 
 # Events
-0 upcoming AI-related events.
+1 upcoming AI-related events.
 <div class=events>
 
 <div class=column id=0>
+
+[Team Cloud | Amazon for Poets](https://www.meetup.com/Data-Science-Bolivia/events/268267947/)
+##### Mon Mar 23 2020
+**Location:** [La Paz](/La Paz/home/)
+**Organizer:** Data Science Bolivia
+
 
 </div>
 <div class=column id=1>

@@ -8,7 +8,7 @@
 <a href="#ecosystems"><strong>6</strong></a>
 </div>
 <div class=column>
-<a href="#events" ><strong>86</strong></a>
+<a href="#events" ><strong>100</strong></a>
 </div>
 <div class=column>
 <a href="#community" ><strong>35</strong></a>
@@ -120,7 +120,7 @@ Connect with 3 community groups promoting the best practices in AI.
 </div>
 
 # Events
-86 upcoming AI-related events. In past 324 events have been hosted
+100 upcoming AI-related events. In past 324 events have been hosted
 <div class=events>
 
 <div class=column id=0>
