@@ -17,7 +17,11 @@ services:
     expose: [3001]
     environment:
       WIKI_ADMIN_EMAIL: admin@example.com
+<<<<<<< HEAD
       HOST: http://15.236.17.17
+=======
+      HOST: http://localhost
+>>>>>>> parent of 016e729... Ready for staging!
     volumes:
       - ./config.yml:/var/wiki/config.yml
       - ./content:/var/wiki/repo

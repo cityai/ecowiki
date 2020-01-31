@@ -8,7 +8,7 @@
 <a href="#ecosystems"><strong>6</strong></a>
 </div>
 <div class=column>
-<a href="#events" ><strong>120</strong></a>
+<a href="#events" ><strong>86</strong></a>
 </div>
 <div class=column>
 <a href="#community" ><strong>35</strong></a>
@@ -120,90 +120,90 @@ Connect with 3 community groups promoting the best practices in AI.
 </div>
 
 # Events
-120 upcoming AI-related events. In past 290 events have been hosted
+86 upcoming AI-related events. In past 324 events have been hosted
 <div class=events>
 
 <div class=column id=0>
 
-[AI for Business Meetup Berlin No. 3](https://www.meetup.com/meetup-group-ilfJOcru/events/266611983/)
-##### Tue Jan 28 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** AI for Marketing - Use cases and Networking Berlin
-
-
-[The Future of AdTech](https://www.meetup.com/SiliconRoundabout/events/267777728/)
-##### Tue Jan 28 2020
+[London Microsoft DevOps MeetUp](https://www.meetup.com/Microsoft-Reactor-London/events/266235783/)
+##### Mon Feb 03 2020
 **Location:** [London](/London/home/)
-**Organizer:** Silicon Roundabout
+**Organizer:** Microsoft Reactor London
 
 
-[Adam: A Method for Stochastic Optimization – Kingma & Ba arxiv.org/abs/1412.6980](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/zjppmrybccblc/)
-##### Tue Jan 28 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Advanced Machine Learning Study Group
+[Making Your Data Useful for Analysis](https://www.meetup.com/Microsoft-Reactor-London/events/265947719/)
+##### Tue Feb 04 2020
+**Location:** [London](/London/home/)
+**Organizer:** Microsoft Reactor London
+
+
+[PyData London - 63nd meetup](https://www.meetup.com/PyData-London-Meetup/events/268136725/)
+##### Tue Feb 04 2020
+**Location:** [London](/London/home/)
+**Organizer:** PyData London Meetup
 
 
 </div>
 <div class=column id=1>
 
-[BIA welcomes 2020 & FUTURE CITY Incubator launch](https://www.meetup.com/Innovators-Berlin-Corporates-Startups/events/267319338/)
-##### Tue Jan 28 2020
+[Creative AI, and Privacy Preserving AI](https://www.meetup.com/berlin-machine-learning/events/266381445/)
+##### Mon Feb 03 2020
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** Innovators Berlin | Corporates & Startups
+**Organizer:** Berlin Machine Learning Group
 
 
-[DEVELOPERS ONLY - "Meet a Startup": Fullstack Developers event [London]](https://www.meetup.com/SiliconRoundabout/events/267811054/)
-##### Tue Jan 28 2020
+[UCL School of Management Women's Book Club: Invisible Women by C Criado Perez](https://www.meetup.com/UCL-School-of-Management-Womens-Book-Club/events/266295837/)
+##### Tue Feb 04 2020
 **Location:** [London](/London/home/)
-**Organizer:** Silicon Roundabout
+**Organizer:** UCL School of Management Women's Book Club
 
 
-[Smart City Office Hour](https://www.meetup.com/Innovators-Berlin-Corporates-Startups/events/267959953/)
-##### Tue Jan 28 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Innovators Berlin | Corporates & Startups
+[Using Advanced Machine Learning Models](https://www.meetup.com/Microsoft-Reactor-London/events/265947729/)
+##### Wed Feb 05 2020
+**Location:** [London](/London/home/)
+**Organizer:** Microsoft Reactor London
 
 
 </div>
 <div class=column id=2>
 
-[Voice Meetup: what3words edition!](https://www.meetup.com/Messaging-Bots-London/events/267294132/)
-##### Tue Jan 28 2020
+[2. Womentechmakers Firebase and Web crash-course ](https://www.meetup.com/gdgcloud/events/268087323/)
+##### Mon Feb 03 2020
 **Location:** [London](/London/home/)
-**Organizer:** Chatbots & Voice Assistants London
+**Organizer:** GDG Cloud London
 
 
-[4-weeks AI course: Full Stack Deep Learning for Developers](https://www.meetup.com/London-AI-Tech-Talk/events/267827980/)
-##### Tue Jan 28 2020
+[Data Driven Part 1: Fintech](https://www.meetup.com/TLA-DataTech/events/267877868/)
+##### Tue Feb 04 2020
 **Location:** [London](/London/home/)
-**Organizer:** London AI Developers Group
+**Organizer:** TLA DataTech
 
 
-[Audio Classification with Convolutional Neural Networks](https://www.meetup.com/IBM-Code-London/events/267906109/)
-##### Tue Jan 28 2020
+[Applied AI & DevOps hosted by WorldRemit ](https://www.meetup.com/Applied-AI-DevOps/events/266971954/)
+##### Wed Feb 05 2020
 **Location:** [London](/London/home/)
-**Organizer:** IBM Code London
+**Organizer:** Applied AI & DevOps
 
 
 </div>
 <div class=column id=3>
 
-[Authentication Without Passwords](https://www.meetup.com/Microsoft-Reactor-London/events/267316718/)
-##### Tue Jan 28 2020
+[London Microsoft DevOps MeetUp | Cloud Native CI/CD with GitOps](https://www.meetup.com/Microsoft-Reactor-London/events/266235783/)
+##### Mon Feb 03 2020
 **Location:** [London](/London/home/)
 **Organizer:** Microsoft Reactor London
 
 
-[Home Office & remote work erfolgreich umsetzen](https://www.meetup.com/Berlin-DoSE/events/267900207/)
-##### Tue Jan 28 2020
+[Deep Reinforcement Learning – 18: Exploration: Part 2](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/zjppmrybcdbgb/)
+##### Tue Feb 04 2020
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** Berlin DoSE
+**Organizer:** Advanced Machine Learning Study Group
 
 
-[Build your own hand sign recogniser with TensorFlow.js [WORKSHOP]](https://www.meetup.com/AI-JavaScript-London/events/267883735/)
-##### Tue Jan 28 2020
-**Location:** [London](/London/home/)
-**Organizer:** AI JavaScript London
+[Hacking Germany's Official Statistics with datenguideR](https://www.meetup.com/BerlinR-R-users-group/events/267273665/)
+##### Wed Feb 05 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** BerlinR - an R group focused on modern data science
 
 
 </div>
