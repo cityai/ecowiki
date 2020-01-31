@@ -8,13 +8,13 @@
 <a href="#ecosystems"><strong>6</strong></a>
 </div>
 <div class=column>
-<a href="#events" ><strong>100</strong></a>
+<a href="#events" ><strong>114</strong></a>
 </div>
 <div class=column>
 <a href="#community" ><strong>35</strong></a>
 </div>
 <div class=column>
-<a href="#startups" ><strong>267</a></strong>
+<a href="#startups" ><strong>268</a></strong>
 </div>
 <div class=column>
 <a href="#community" ><strong>3</a></strong>
@@ -120,10 +120,31 @@ Connect with 3 community groups promoting the best practices in AI.
 </div>
 
 # Events
-100 upcoming AI-related events. In past 324 events have been hosted
+114 upcoming AI-related events. In past 324 events have been hosted
 <div class=events>
 
 <div class=column id=0>
+
+[Trust-Less 2020 Conference: Viewing Party!](https://www.meetup.com/lbl-events/events/268083773/)
+##### Sat Feb 01 2020
+**Location:** [London](/London/home/)
+**Organizer:** London Blockchain Labs
+
+
+[London Microsoft DevOps MeetUp | Cloud Native CI/CD with GitOps](https://www.meetup.com/Microsoft-Reactor-London/events/266235783/)
+##### Mon Feb 03 2020
+**Location:** [London](/London/home/)
+**Organizer:** Microsoft Reactor London
+
+
+[Deep Reinforcement Learning – 18: Exploration: Part 2](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/zjppmrybcdbgb/)
+##### Tue Feb 04 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Advanced Machine Learning Study Group
+
+
+</div>
+<div class=column id=1>
 
 [London Microsoft DevOps MeetUp](https://www.meetup.com/Microsoft-Reactor-London/events/266235783/)
 ##### Mon Feb 03 2020
@@ -144,7 +165,7 @@ Connect with 3 community groups promoting the best practices in AI.
 
 
 </div>
-<div class=column id=1>
+<div class=column id=2>
 
 [Creative AI, and Privacy Preserving AI](https://www.meetup.com/berlin-machine-learning/events/266381445/)
 ##### Mon Feb 03 2020
@@ -165,7 +186,7 @@ Connect with 3 community groups promoting the best practices in AI.
 
 
 </div>
-<div class=column id=2>
+<div class=column id=3>
 
 [2. Womentechmakers Firebase and Web crash-course ](https://www.meetup.com/gdgcloud/events/268087323/)
 ##### Mon Feb 03 2020
@@ -183,27 +204,6 @@ Connect with 3 community groups promoting the best practices in AI.
 ##### Wed Feb 05 2020
 **Location:** [London](/London/home/)
 **Organizer:** Applied AI & DevOps
-
-
-</div>
-<div class=column id=3>
-
-[London Microsoft DevOps MeetUp | Cloud Native CI/CD with GitOps](https://www.meetup.com/Microsoft-Reactor-London/events/266235783/)
-##### Mon Feb 03 2020
-**Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
-
-
-[Deep Reinforcement Learning – 18: Exploration: Part 2](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/zjppmrybcdbgb/)
-##### Tue Feb 04 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Advanced Machine Learning Study Group
-
-
-[Hacking Germany's Official Statistics with datenguideR](https://www.meetup.com/BerlinR-R-users-group/events/267273665/)
-##### Wed Feb 05 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** BerlinR - an R group focused on modern data science
 
 
 </div>
@@ -346,7 +346,7 @@ Active local organizations and initiatives related to AI
 </div>
 
 # Startups
-Explore the newest startups working with AI technologies, from a total of 267 companies.
+Explore the newest startups working with AI technologies, from a total of 268 companies.
 <div class=logoCB>
 Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_crop.png" style="width:20%;"/></a>
 </div>
