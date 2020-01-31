@@ -23,7 +23,7 @@ switch (logic) {
 });
 ___scope___.file("scss/error.scss", function(exports, require, module, __filename, __dirname){
 
-//@charset "utf-8";
+@charset "utf-8";
 
 $primary: 'indigo';
 
