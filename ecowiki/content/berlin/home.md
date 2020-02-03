@@ -12,7 +12,7 @@
 <a href="#ecosystems"><strong>448</strong></a>
 </div>
 <div class=column>
-<a href="#events" ><strong>39</strong></a>
+<a href="#events" ><strong>38</strong></a>
 </div>
 <div class=column>
 <a href="#community" ><strong>13</strong></a>
@@ -238,31 +238,10 @@ The voices of the local AI community
 
 
 # Events
-39 upcoming AI-related events.
+38 upcoming AI-related events.
 <div class=events>
 
 <div class=column id=0>
-
-[Creative AI, and Privacy Preserving AI](https://www.meetup.com/berlin-machine-learning/events/266381445/)
-##### Mon Feb 03 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Berlin Machine Learning Group
-
-
-[Restricting the Flow & Momentum Contrast for Unsupervised Visual Representation ](https://www.meetup.com/Merantix-AI-Paper-Discussion-Group/events/266105127/)
-##### Wed Feb 05 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Merantix AI Paper Discussion Group
-
-
-[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/zjppmrybcdbpb/)
-##### Tue Feb 11 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Advanced Machine Learning Study Group
-
-
-</div>
-<div class=column id=1>
 
 [Deep Reinforcement Learning – 18: Exploration: Part 2](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/zjppmrybcdbgb/)
 ##### Tue Feb 04 2020
@@ -283,7 +262,7 @@ The voices of the local AI community
 
 
 </div>
-<div class=column id=2>
+<div class=column id=1>
 
 [Hacking Germany's Official Statistics with datenguideR](https://www.meetup.com/BerlinR-R-users-group/events/267273665/)
 ##### Wed Feb 05 2020
@@ -304,7 +283,7 @@ The voices of the local AI community
 
 
 </div>
-<div class=column id=3>
+<div class=column id=2>
 
 [Workshop: Artificial Intelligence for Managers (Berlin)](https://www.meetup.com/Machine-Learning-Krakow/events/268291043/)
 ##### Wed Feb 05 2020
@@ -325,6 +304,27 @@ The voices of the local AI community
 
 
 </div>
+<div class=column id=3>
+
+[Restricting the Flow & Momentum Contrast for Unsupervised Visual Representation ](https://www.meetup.com/Merantix-AI-Paper-Discussion-Group/events/266105127/)
+##### Wed Feb 05 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Merantix AI Paper Discussion Group
+
+
+[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/zjppmrybcdbpb/)
+##### Tue Feb 11 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Advanced Machine Learning Study Group
+
+
+[RPA Robotic Process Automation Developers Berlin @ BVG](https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/266616046/)
+##### Mon Feb 17 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** RPA Robotic Process Automation Developers Berlin
+
+
+</div>
 
 </div>
 
@@ -336,51 +336,6 @@ The voices of the local AI community
 
 
 <div class=column id=0>
-
-[RPA Robotic Process Automation Developers Berlin @ BVG](https://www.meetup.com/RPA-Robotics-Developer-Berlin/events/266616046/)
-##### Mon Feb 17 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** RPA Robotic Process Automation Developers Berlin
-
-
-[Artificial Intelligence in HR](https://www.meetup.com/Berlin-Vernetzung-mit-Personalfachleuten-Meetup-Gruppe/events/268108253/)
-##### Thu Feb 20 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** HR Meetups by HeavenHR
-
-
-[Designing (with) AI](https://www.meetup.com/BrandNewThinkers/events/268166159/)
-##### Thu Feb 27 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Brand New Thinkers
-
-
-[AI in Action #4 event of 2020](https://www.meetup.com/AI-in-Action-Berlin/events/267221689/)
-##### Wed Mar 25 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** AI in Action Berlin
-
-
-[Prototyping Business Models and Market Strategies](https://www.meetup.com/transforming-enterprises/events/267991774/)
-##### Thu Mar 26 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Transforming Enterprises
-
-
-[Data Science Retreat Demo Day #21](https://www.meetup.com/Data-Science-Retreat/events/268237229/)
-##### Tue Mar 31 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Data Science Retreat
-
-
-[enterprise:CODE 2020](https://www.meetup.com/DevOps-CODE-Event-Series/events/265114262/)
-##### Mon Apr 20 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** DevOps | CODE Event Series
-
-
-</div>
-<div class=column id=1>
 
 [[Bar on the Block] with Bitwala, Dash and Iconic](https://www.meetup.com/Crypto_Traders_Berlin/events/268116743/)
 ##### Wed Feb 19 2020
@@ -425,7 +380,7 @@ The voices of the local AI community
 
 
 </div>
-<div class=column id=2>
+<div class=column id=1>
 
 [[Bar on the Block] with Solaris Bank, Bitwala, Dash and Iconic](https://www.meetup.com/Crypto_Traders_Berlin/events/268116743/)
 ##### Wed Feb 19 2020
@@ -470,7 +425,7 @@ The voices of the local AI community
 
 
 </div>
-<div class=column id=3>
+<div class=column id=2>
 
 [A Tale of Data And Growth Failure](https://www.meetup.com/beyond-machine/events/266806499/)
 ##### Thu Feb 20 2020
@@ -506,6 +461,45 @@ The voices of the local AI community
 ##### Sat Apr 18 2020
 **Location:** [Berlin](/Berlin/home/)
 **Organizer:** Hackathon and Startup Challenges Munich
+
+
+</div>
+<div class=column id=3>
+
+[Artificial Intelligence in HR](https://www.meetup.com/Berlin-Vernetzung-mit-Personalfachleuten-Meetup-Gruppe/events/268108253/)
+##### Thu Feb 20 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** HR Meetups by HeavenHR
+
+
+[Designing (with) AI](https://www.meetup.com/BrandNewThinkers/events/268166159/)
+##### Thu Feb 27 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Brand New Thinkers
+
+
+[AI in Action #4 event of 2020](https://www.meetup.com/AI-in-Action-Berlin/events/267221689/)
+##### Wed Mar 25 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** AI in Action Berlin
+
+
+[Prototyping Business Models and Market Strategies](https://www.meetup.com/transforming-enterprises/events/267991774/)
+##### Thu Mar 26 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Transforming Enterprises
+
+
+[Data Science Retreat Demo Day #21](https://www.meetup.com/Data-Science-Retreat/events/268237229/)
+##### Tue Mar 31 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Data Science Retreat
+
+
+[enterprise:CODE 2020](https://www.meetup.com/DevOps-CODE-Event-Series/events/265114262/)
+##### Mon Apr 20 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** DevOps | CODE Event Series
 
 
 </div>

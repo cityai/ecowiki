@@ -12,7 +12,7 @@
 <a href="#ecosystems"><strong>0</strong></a>
 </div>
 <div class=column>
-<a href="#events" ><strong>74</strong></a>
+<a href="#events" ><strong>70</strong></a>
 </div>
 <div class=column>
 <a href="#community" ><strong>18</strong></a>
@@ -253,16 +253,10 @@ The voices of the local AI community
 
 
 # Events
-74 upcoming AI-related events.
+70 upcoming AI-related events.
 <div class=events>
 
 <div class=column id=0>
-
-[Trust-Less 2020 Conference: Viewing Party!](https://www.meetup.com/lbl-events/events/268083773/)
-##### Sat Feb 01 2020
-**Location:** [London](/London/home/)
-**Organizer:** London Blockchain Labs
-
 
 [Making Your Data Useful for Analysis](https://www.meetup.com/Microsoft-Reactor-London/events/265947719/)
 ##### Tue Feb 04 2020
@@ -276,14 +270,14 @@ The voices of the local AI community
 **Organizer:** Microsoft Reactor London
 
 
+[Grakn Cosmos - London's First AI Conference of 2020 [Day 1]](https://www.meetup.com/grakn-london/events/267253371/)
+##### Thu Feb 06 2020
+**Location:** [London](/London/home/)
+**Organizer:** Grakn London Engineers
+
+
 </div>
 <div class=column id=1>
-
-[London Microsoft DevOps MeetUp](https://www.meetup.com/Microsoft-Reactor-London/events/266235783/)
-##### Mon Feb 03 2020
-**Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
-
 
 [UCL School of Management Women's Book Club: Invisible Women by C Criado Perez](https://www.meetup.com/UCL-School-of-Management-Womens-Book-Club/events/266295837/)
 ##### Tue Feb 04 2020
@@ -297,14 +291,14 @@ The voices of the local AI community
 **Organizer:** Applied AI & DevOps
 
 
+[Grakn Cosmos (Day 1): Knowledge Graph in ML, NLP, Biotech, Security, Robotics](https://www.meetup.com/grakn-london/events/267253371/)
+##### Thu Feb 06 2020
+**Location:** [London](/London/home/)
+**Organizer:** Grakn London Engineers
+
+
 </div>
 <div class=column id=2>
-
-[2. Womentechmakers Firebase and Web crash-course ](https://www.meetup.com/gdgcloud/events/268087323/)
-##### Mon Feb 03 2020
-**Location:** [London](/London/home/)
-**Organizer:** GDG Cloud London
-
 
 [Data Driven Part 1: Fintech](https://www.meetup.com/TLA-DataTech/events/267877868/)
 ##### Tue Feb 04 2020
@@ -318,14 +312,14 @@ The voices of the local AI community
 **Organizer:** Analytics Network
 
 
+[Webinar: Boosting Diversity in Tech - Make the Levy Work for Your Organisation](https://www.meetup.com/London-Cambridge-Spark/events/267748360/)
+##### Thu Feb 06 2020
+**Location:** [London](/London/home/)
+**Organizer:** London - Cambridge Spark
+
+
 </div>
 <div class=column id=3>
-
-[London Microsoft DevOps MeetUp | Cloud Native CI/CD with GitOps](https://www.meetup.com/Microsoft-Reactor-London/events/266235783/)
-##### Mon Feb 03 2020
-**Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
-
 
 [PyData London - 63nd meetup](https://www.meetup.com/PyData-London-Meetup/events/268136725/)
 ##### Tue Feb 04 2020
@@ -337,6 +331,12 @@ The voices of the local AI community
 ##### Thu Feb 06 2020
 **Location:** [London](/London/home/)
 **Organizer:** Augmenting Reality
+
+
+[Quantum kick off](https://www.meetup.com/Quantum_London/events/267774299/)
+##### Thu Feb 06 2020
+**Location:** [London](/London/home/)
+**Organizer:** Quantum London - defining the business value of Quantum
 
 
 </div>
@@ -351,12 +351,6 @@ The voices of the local AI community
 
 
 <div class=column id=0>
-
-[Grakn Cosmos - London's First AI Conference of 2020 [Day 1]](https://www.meetup.com/grakn-london/events/267253371/)
-##### Thu Feb 06 2020
-**Location:** [London](/London/home/)
-**Organizer:** Grakn London Engineers
-
 
 [Artificial Intelligence - Smart City ](https://www.meetup.com/Smart-City-Embedded-Electronics/events/267958455/)
 ##### Thu Feb 06 2020
@@ -451,12 +445,6 @@ The voices of the local AI community
 </div>
 <div class=column id=1>
 
-[Grakn Cosmos (Day 1): Knowledge Graph in ML, NLP, Biotech, Security, Robotics](https://www.meetup.com/grakn-london/events/267253371/)
-##### Thu Feb 06 2020
-**Location:** [London](/London/home/)
-**Organizer:** Grakn London Engineers
-
-
 [Build to Win with Low Code](https://www.meetup.com/Build-to-Win-with-Low-Code/events/267930505/)
 ##### Thu Feb 06 2020
 **Location:** [London](/London/home/)
@@ -550,12 +538,6 @@ The voices of the local AI community
 </div>
 <div class=column id=2>
 
-[Webinar: Boosting Diversity in Tech - Make the Levy Work for Your Organisation](https://www.meetup.com/London-Cambridge-Spark/events/267748360/)
-##### Thu Feb 06 2020
-**Location:** [London](/London/home/)
-**Organizer:** London - Cambridge Spark
-
-
 [Wardley Mapping: Understanding value delivery and ensuring competitiveness](https://www.meetup.com/Agile-Xpertise/events/267690058/)
 ##### Thu Feb 06 2020
 **Location:** [London](/London/home/)
@@ -642,12 +624,6 @@ The voices of the local AI community
 
 </div>
 <div class=column id=3>
-
-[Quantum kick off](https://www.meetup.com/Quantum_London/events/267774299/)
-##### Thu Feb 06 2020
-**Location:** [London](/London/home/)
-**Organizer:** Quantum London - defining the business value of Quantum
-
 
 [Womentechmakers workshop: Actions on Google & Breakfast](https://www.meetup.com/gdgcloud/events/268144193/)
 ##### Thu Feb 06 2020

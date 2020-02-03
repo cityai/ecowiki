@@ -8,7 +8,7 @@
 <a href="#ecosystems"><strong>6</strong></a>
 </div>
 <div class=column>
-<a href="#events" ><strong>114</strong></a>
+<a href="#events" ><strong>109</strong></a>
 </div>
 <div class=column>
 <a href="#community" ><strong>35</strong></a>
@@ -120,37 +120,10 @@ Connect with 3 community groups promoting the best practices in AI.
 </div>
 
 # Events
-114 upcoming AI-related events. In past 324 events have been hosted
+109 upcoming AI-related events. In past 329 events have been hosted
 <div class=events>
 
 <div class=column id=0>
-
-[Trust-Less 2020 Conference: Viewing Party!](https://www.meetup.com/lbl-events/events/268083773/)
-##### Sat Feb 01 2020
-**Location:** [London](/London/home/)
-**Organizer:** London Blockchain Labs
-
-
-[London Microsoft DevOps MeetUp | Cloud Native CI/CD with GitOps](https://www.meetup.com/Microsoft-Reactor-London/events/266235783/)
-##### Mon Feb 03 2020
-**Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
-
-
-[Deep Reinforcement Learning – 18: Exploration: Part 2](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/zjppmrybcdbgb/)
-##### Tue Feb 04 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Advanced Machine Learning Study Group
-
-
-</div>
-<div class=column id=1>
-
-[London Microsoft DevOps MeetUp](https://www.meetup.com/Microsoft-Reactor-London/events/266235783/)
-##### Mon Feb 03 2020
-**Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
-
 
 [Making Your Data Useful for Analysis](https://www.meetup.com/Microsoft-Reactor-London/events/265947719/)
 ##### Tue Feb 04 2020
@@ -164,14 +137,14 @@ Connect with 3 community groups promoting the best practices in AI.
 **Organizer:** PyData London Meetup
 
 
+[Analytics Network 2020 Event](https://www.meetup.com/AnalyticsNetwork/events/267477526/)
+##### Wed Feb 05 2020
+**Location:** [London](/London/home/)
+**Organizer:** Analytics Network
+
+
 </div>
-<div class=column id=2>
-
-[Creative AI, and Privacy Preserving AI](https://www.meetup.com/berlin-machine-learning/events/266381445/)
-##### Mon Feb 03 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Berlin Machine Learning Group
-
+<div class=column id=1>
 
 [UCL School of Management Women's Book Club: Invisible Women by C Criado Perez](https://www.meetup.com/UCL-School-of-Management-Womens-Book-Club/events/266295837/)
 ##### Tue Feb 04 2020
@@ -185,14 +158,14 @@ Connect with 3 community groups promoting the best practices in AI.
 **Organizer:** Microsoft Reactor London
 
 
+[Workshop: Artificial Intelligence for Managers (Berlin)](https://www.meetup.com/Machine-Learning-Krakow/events/268291043/)
+##### Wed Feb 05 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Machine Learning Kraków
+
+
 </div>
-<div class=column id=3>
-
-[2. Womentechmakers Firebase and Web crash-course ](https://www.meetup.com/gdgcloud/events/268087323/)
-##### Mon Feb 03 2020
-**Location:** [London](/London/home/)
-**Organizer:** GDG Cloud London
-
+<div class=column id=2>
 
 [Data Driven Part 1: Fintech](https://www.meetup.com/TLA-DataTech/events/267877868/)
 ##### Tue Feb 04 2020
@@ -204,6 +177,33 @@ Connect with 3 community groups promoting the best practices in AI.
 ##### Wed Feb 05 2020
 **Location:** [London](/London/home/)
 **Organizer:** Applied AI & DevOps
+
+
+[Restricting the Flow & Momentum Contrast for Unsupervised Visual Representation ](https://www.meetup.com/Merantix-AI-Paper-Discussion-Group/events/266105127/)
+##### Wed Feb 05 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Merantix AI Paper Discussion Group
+
+
+</div>
+<div class=column id=3>
+
+[Deep Reinforcement Learning – 18: Exploration: Part 2](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/zjppmrybcdbgb/)
+##### Tue Feb 04 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Advanced Machine Learning Study Group
+
+
+[Hacking Germany's Official Statistics with datenguideR](https://www.meetup.com/BerlinR-R-users-group/events/267273665/)
+##### Wed Feb 05 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** BerlinR - an R group focused on modern data science
+
+
+[Workshop: Explainable AI explained (Berlin)](https://www.meetup.com/Machine-Learning-Krakow/events/268291196/)
+##### Wed Feb 05 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Machine Learning Kraków
 
 
 </div>

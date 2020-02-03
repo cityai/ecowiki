@@ -83,106 +83,106 @@
       }
     }
   }
-  h1::before{
-    content: " ";
-    //background-image: url("/images/icons/ecosystems.svg");
-    background-size: 100% 100%;
-    width: 32px;
-    height: 32px;
-    display: block;
-    left: -50px;
-    position: relative;
-    top:90px;
-    opacity: 20%;
+  // h1::before{
+  //   content: " ";
+  //   //background-image: url("/images/icons/ecosystems.svg");
+  //   background-size: 100% 100%;
+  //   width: 32px;
+  //   height: 32px;
+  //   display: block;
+  //   left: -50px;
+  //   position: relative;
+  //   top:90px;
+  //   opacity: 20%;
     
-    }
-    @media only screen and (max-width: 1024px){
-      h1::before{
-      top:40px;
-      }
-    }
-    @media only screen and (min-width: 320px) and (max-width: 380px)
-  {
-    h1::before{
-      left: -35px;
-    }
-  }
-    #ecosystems::before{
-      background-image: url("/images/icons/ecosystems.svg");
-    }
+  //   }
+  //   @media only screen and (max-width: 1024px){
+  //     h1::before{
+  //     top:40px;
+  //     }
+  //   }
+  //   @media only screen and (min-width: 320px) and (max-width: 380px)
+  // {
+  //   h1::before{
+  //     left: -35px;
+  //   }
+  // }
+  //   #ecosystems::before{
+  //     background-image: url("/images/icons/ecosystems.svg");
+  //   }
 
-    #founding-partners::before{
-      background-image: url("/images/icons/founding partners.svg");
-    }
-    #top-communities::before{
-      background-image: url("/images/icons/top communities.svg");
-    }
-    #community::before{
-      background-image: url("/images/icons/top communities.svg");
-    }
-    #influencers::before{
-      background-image: url("/images/icons/influencers.svg");
+  //   #founding-partners::before{
+  //     background-image: url("/images/icons/founding partners.svg");
+  //   }
+  //   #top-communities::before{
+  //     background-image: url("/images/icons/top communities.svg");
+  //   }
+  //   #community::before{
+  //     background-image: url("/images/icons/top communities.svg");
+  //   }
+  //   #influencers::before{
+  //     background-image: url("/images/icons/influencers.svg");
 
-    }
-    #events::before{
-      background-image: url("/images/icons/events.svg");
-    }
+  //   }
+  //   #events::before{
+  //     background-image: url("/images/icons/events.svg");
+  //   }
 
-    #organizations::before{
-      background-image: url("/images/icons/organizations.svg");
-    }
+  //   #organizations::before{
+  //     background-image: url("/images/icons/organizations.svg");
+  //   }
 
-    #startups::before{
-      background-image: url("/images/icons/startups.svg");
-    }
+  //   #startups::before{
+  //     background-image: url("/images/icons/startups.svg");
+  //   }
 
-    h1::after{
-      content: " ";
-      //background-image: url("/images/structures/ecosystems_structure.svg");
-      background-size: 100% 100%;
-      width: 1192px;
-      height: 85px;
-      display: inline-block;
-      top: 5px;
-      left: 20px;
-      position: relative;
-      opacity: 100%;
-      }
-      @media only screen and (max-width: 1024px){
-        h1::after{
-        left:-100px;
-        }
-      }
+  //   h1::after{
+  //     content: " ";
+  //     //background-image: url("/images/structures/ecosystems_structure.svg");
+  //     background-size: 100% 100%;
+  //     width: 1192px;
+  //     height: 85px;
+  //     display: inline-block;
+  //     top: 5px;
+  //     left: 20px;
+  //     position: relative;
+  //     opacity: 100%;
+  //     }
+  //     @media only screen and (max-width: 1024px){
+  //       h1::after{
+  //       left:-100px;
+  //       }
+  //     }
 
 
-      #ecosystems::after{
-        background-image: url("/images/structures/ecosystems_structures.png");
-      }
+  //     #ecosystems::after{
+  //       background-image: url("/images/structures/ecosystems_structures.png");
+  //     }
   
-      #founding-partners::after{
-        background-image: url("/images/structures/founding partners_structures.png");
-      }
-      #top-communities::after{
-        background-image: url("/images/structures/top communities_structures.png");
-      }
-      #community::after{
-        background-image: url("/images/structures/top communities_structures.png");
-      }
-      #influencers::after{
-        background-image: url("/images/structures/influencers_structures.png");
+  //     #founding-partners::after{
+  //       background-image: url("/images/structures/founding partners_structures.png");
+  //     }
+  //     #top-communities::after{
+  //       background-image: url("/images/structures/top communities_structures.png");
+  //     }
+  //     #community::after{
+  //       background-image: url("/images/structures/top communities_structures.png");
+  //     }
+  //     #influencers::after{
+  //       background-image: url("/images/structures/influencers_structures.png");
   
-      }
-      #events::after{
-        background-image: url("/images/structures/events_structures.png");
-      }
+  //     }
+  //     #events::after{
+  //       background-image: url("/images/structures/events_structures.png");
+  //     }
   
-      #organizations::after{
-        background-image: url("/images/structures/organizations_structures.png");
-      }
+  //     #organizations::after{
+  //       background-image: url("/images/structures/organizations_structures.png");
+  //     }
   
-      #startups::after{
-        background-image: url("/images/structures/startups_structures.png");
-      }
+  //     #startups::after{
+  //       background-image: url("/images/structures/startups_structures.png");
+  //     }
 
     // h1::after{
     //   content: " ";
