@@ -1,6 +1,9 @@
 <!-- TITLE: AI WIKI -->
 
 
+<div class="embed-container"><small><a href="//www.arcgis.com/apps/Embed/index.html?webmap=e9485697909c40baad34647d8d0dbb85&extent=-153.2531,-11.9954,84.579,66.7403&zoom=true&scale=true&search=true&searchextent=true&disable_scroll=true&theme=light" style="color:#0000FF;text-align:left" target="_blank">View larger map</a></small><br><iframe width="1280" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AI Ecosystem Map" src="//www.arcgis.com/apps/Embed/index.html?webmap=e9485697909c40baad34647d8d0dbb85&extent=-153.2531,-11.9954,84.579,66.7403&zoom=true&previewImage=false&scale=true&search=true&searchextent=true&disable_scroll=true&theme=light"></iframe></div>
+
+
 
 
 <div class=status>
@@ -8,13 +11,13 @@
 <a href="#ecosystems"><strong>6</strong></a>
 </div>
 <div class=column>
-<a href="#events" ><strong>109</strong></a>
+<a href="#events" ><strong>118</strong></a>
 </div>
 <div class=column>
 <a href="#community" ><strong>35</strong></a>
 </div>
 <div class=column>
-<a href="#startups" ><strong>268</a></strong>
+<a href="#startups" ><strong>269</a></strong>
 </div>
 <div class=column>
 <a href="#community" ><strong>3</a></strong>
@@ -59,9 +62,9 @@ Check any of the 6 unloked AI ecosystems. If yours isn't listed yet, [contact us
 
 </div>
 
-# Founding Partners
+# Partners
 
-Thanks to our global supporters, this initiative will keep evolving.
+AI Ecosystem Wiki is continuously growing thanks to our founding partners and global supporters!
 <div class=partners>
 <div class=column id=0>
 <img src="/images/peltarion_logotype_horizontal_red.png" >
@@ -82,8 +85,8 @@ Workforce performance management for customer support
 
 </div>
 
-# Top Communities
-Connect with 3 community groups promoting the best practices in AI.
+# Communities
+Connect with 3 community groups promoting the best practices in AI. These are the top 12 communities from all the cities!
 <div class=groups>
 
 <div class=column id=0>
@@ -120,37 +123,10 @@ Connect with 3 community groups promoting the best practices in AI.
 </div>
 
 # Events
-109 upcoming AI-related events. In past 329 events have been hosted
+118 upcoming AI-related events. In past 335 events have been hosted
 <div class=events>
 
 <div class=column id=0>
-
-[Making Your Data Useful for Analysis](https://www.meetup.com/Microsoft-Reactor-London/events/265947719/)
-##### Tue Feb 04 2020
-**Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
-
-
-[PyData London - 63nd meetup](https://www.meetup.com/PyData-London-Meetup/events/268136725/)
-##### Tue Feb 04 2020
-**Location:** [London](/London/home/)
-**Organizer:** PyData London Meetup
-
-
-[Analytics Network 2020 Event](https://www.meetup.com/AnalyticsNetwork/events/267477526/)
-##### Wed Feb 05 2020
-**Location:** [London](/London/home/)
-**Organizer:** Analytics Network
-
-
-</div>
-<div class=column id=1>
-
-[UCL School of Management Women's Book Club: Invisible Women by C Criado Perez](https://www.meetup.com/UCL-School-of-Management-Womens-Book-Club/events/266295837/)
-##### Tue Feb 04 2020
-**Location:** [London](/London/home/)
-**Organizer:** UCL School of Management Women's Book Club
-
 
 [Using Advanced Machine Learning Models](https://www.meetup.com/Microsoft-Reactor-London/events/265947729/)
 ##### Wed Feb 05 2020
@@ -164,14 +140,14 @@ Connect with 3 community groups promoting the best practices in AI.
 **Organizer:** Machine Learning Kraków
 
 
-</div>
-<div class=column id=2>
-
-[Data Driven Part 1: Fintech](https://www.meetup.com/TLA-DataTech/events/267877868/)
-##### Tue Feb 04 2020
+[Augmenting Reality - February 2020](https://www.meetup.com/Augmenting-Reality/events/266408785/)
+##### Thu Feb 06 2020
 **Location:** [London](/London/home/)
-**Organizer:** TLA DataTech
+**Organizer:** Augmenting Reality
 
+
+</div>
+<div class=column id=1>
 
 [Applied AI & DevOps hosted by WorldRemit ](https://www.meetup.com/Applied-AI-DevOps/events/266971954/)
 ##### Wed Feb 05 2020
@@ -185,14 +161,14 @@ Connect with 3 community groups promoting the best practices in AI.
 **Organizer:** Merantix AI Paper Discussion Group
 
 
+[Grakn Cosmos - London's First AI Conference of 2020 [Day 1]](https://www.meetup.com/grakn-london/events/267253371/)
+##### Thu Feb 06 2020
+**Location:** [London](/London/home/)
+**Organizer:** Grakn London Engineers
+
+
 </div>
-<div class=column id=3>
-
-[Deep Reinforcement Learning – 18: Exploration: Part 2](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/zjppmrybcdbgb/)
-##### Tue Feb 04 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Advanced Machine Learning Study Group
-
+<div class=column id=2>
 
 [Hacking Germany's Official Statistics with datenguideR](https://www.meetup.com/BerlinR-R-users-group/events/267273665/)
 ##### Wed Feb 05 2020
@@ -204,6 +180,33 @@ Connect with 3 community groups promoting the best practices in AI.
 ##### Wed Feb 05 2020
 **Location:** [Berlin](/Berlin/home/)
 **Organizer:** Machine Learning Kraków
+
+
+[Grakn Cosmos (Day 1): Knowledge Graph in ML, NLP, Biotech, Security, Robotics](https://www.meetup.com/grakn-london/events/267253371/)
+##### Thu Feb 06 2020
+**Location:** [London](/London/home/)
+**Organizer:** Grakn London Engineers
+
+
+</div>
+<div class=column id=3>
+
+[Analytics Network 2020 Event](https://www.meetup.com/AnalyticsNetwork/events/267477526/)
+##### Wed Feb 05 2020
+**Location:** [London](/London/home/)
+**Organizer:** Analytics Network
+
+
+[From Power BI to Power Platform PL-900 certification](https://www.meetup.com/Power-BI-Data-Scientist-Artificial-Intelligence-Solutions/events/268396651/)
+##### Wed Feb 05 2020
+**Location:** [London](/London/home/)
+**Organizer:** Power BI Data Scientist & Artificial Intelligence Solutions
+
+
+[Webinar: Boosting Diversity in Tech - Make the Levy Work for Your Organisation](https://www.meetup.com/London-Cambridge-Spark/events/267748360/)
+##### Thu Feb 06 2020
+**Location:** [London](/London/home/)
+**Organizer:** London - Cambridge Spark
 
 
 </div>
@@ -346,7 +349,7 @@ Active local organizations and initiatives related to AI
 </div>
 
 # Startups
-Explore the newest startups working with AI technologies, from a total of 268 companies.
+Explore the newest startups working with AI technologies, from a total of 269 companies.
 <div class=logoCB>
 Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_crop.png" style="width:20%;"/></a>
 </div>

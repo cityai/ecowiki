@@ -1,6 +1,9 @@
 <!-- TITLE: AI WIKI -->
 
 
+<div class="embed-container"><small><a href="//www.arcgis.com/apps/Embed/index.html?webmap=e9485697909c40baad34647d8d0dbb85&extent=-153.2531,-11.9954,84.579,66.7403&zoom=true&scale=true&search=true&searchextent=true&disable_scroll=true&theme=light" style="color:#0000FF;text-align:left" target="_blank">View larger map</a></small><br><iframe width="1280" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AI Ecosystem Map" src="//www.arcgis.com/apps/Embed/index.html?webmap=e9485697909c40baad34647d8d0dbb85&extent=-153.2531,-11.9954,84.579,66.7403&zoom=true&previewImage=false&scale=true&search=true&searchextent=true&disable_scroll=true&theme=light"></iframe></div>
+
+
 
 
 <div class=status>
@@ -17,9 +20,9 @@
 
 </div>
 
-# Founding Partners
+# Partners
 
-Thanks to our global supporters, this initiative will keep evolving.
+AI Ecosystem Wiki is continuously growing thanks to our founding partners and global supporters!
 <div class=partners>
 <div class=column id=0>
 <img src="/images/peltarion_logotype_horizontal_red.png" >
@@ -40,7 +43,7 @@ Workforce performance management for customer support
 
 </div>
 
-# Top Communities
+# Communities
 <div class=groups>
 <div class=column id=0>
 

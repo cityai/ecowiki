@@ -12,7 +12,7 @@
 <a href="#ecosystems"><strong>0</strong></a>
 </div>
 <div class=column>
-<a href="#events" ><strong>1</strong></a>
+<a href="#events" ><strong>3</strong></a>
 </div>
 <div class=column>
 <a href="#community" ><strong>0</strong></a>
@@ -145,13 +145,13 @@ The voices of the local AI community
 
 
 # Events
-1 upcoming AI-related events.
+3 upcoming AI-related events.
 <div class=events>
 
 <div class=column id=0>
 
-[Team Cloud | Amazon for Poets](https://www.meetup.com/Data-Science-Bolivia/events/268267947/)
-##### Mon Mar 23 2020
+[Saturdays.AI La Paz | Demo Day](https://www.meetup.com/Data-Science-Bolivia/events/268439085/)
+##### Sat Feb 08 2020
 **Location:** [La Paz](/La Paz/home/)
 **Organizer:** Data Science Bolivia
 
@@ -159,8 +159,20 @@ The voices of the local AI community
 </div>
 <div class=column id=1>
 
+[Kaggle Days Meetup La Paz II](https://www.meetup.com/Kaggle-Days-Meetup-La-Paz/events/268351035/)
+##### Thu Feb 27 2020
+**Location:** [La Paz](/La Paz/home/)
+**Organizer:** Kaggle Days Meetup La Paz
+
+
 </div>
 <div class=column id=2>
+
+[Team Cloud | Amazon for Poets](https://www.meetup.com/Data-Science-Bolivia/events/268267947/)
+##### Mon Mar 23 2020
+**Location:** [La Paz](/La Paz/home/)
+**Organizer:** Data Science Bolivia
+
 
 </div>
 <div class=column id=3>
@@ -314,4 +326,29 @@ Workforce performance management for customer support
 
 </div>
 
-<div class="embed-container"><small><a href="//www.arcgis.com/apps/Embed/index.html?webmap=e9485697909c40baad34647d8d0dbb85&extent=-138.4992,-28.8823,127.2821,65.165&zoom=true&scale=true&search=true&searchextent=true&disable_scroll=true&theme=light" style="color:#0000FF;text-align:left" target="_blank">View larger map</a></small><br><iframe width="1280" height="360" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AI Ecosystem Map" src="//www.arcgis.com/apps/Embed/index.html?webmap=e9485697909c40baad34647d8d0dbb85&extent=-138.4992,-28.8823,127.2821,65.165&zoom=true&previewImage=false&scale=true&search=true&searchextent=true&disable_scroll=true&theme=light"></iframe></div>
+<div class="embed-container"><small><a href="//www.arcgis.com/apps/Embed/index.html?webmap=e9485697909c40baad34647d8d0dbb85&extent=-153.2531,-11.9954,84.579,66.7403&zoom=true&scale=true&search=true&searchextent=true&disable_scroll=true&theme=light" style="color:#0000FF;text-align:left" target="_blank">View larger map</a></small><br><iframe width="1280" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AI Ecosystem Map" src="//www.arcgis.com/apps/Embed/index.html?webmap=e9485697909c40baad34647d8d0dbb85&extent=-153.2531,-11.9954,84.579,66.7403&zoom=true&previewImage=false&scale=true&search=true&searchextent=true&disable_scroll=true&theme=light"></iframe></div>
+
+# Ecosystems
+
+
+<div class=ecosystems>
+
+[Home Copy.md](/home-copy.md/home)
+
+
+[London](/london/home)
+
+
+[La Paz](/la-paz/home)
+
+
+[Bogota](/bogota/home)
+
+
+[Berlin](/berlin/home)
+
+
+[Beirut](/beirut/home)
+
+
+</div>

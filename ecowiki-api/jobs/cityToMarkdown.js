@@ -12,6 +12,7 @@ class MarkdownTransform {
         console.log(__dirname, process.cwd());
 
         const cities = await City.find({}).select("name -_id")
+       
         console.log(cities);
         for (var i = 0; i < cities.length; i++) {
             var location = cities[i].name;
@@ -49,6 +50,19 @@ class MarkdownTransform {
                     data = this.addMetrics(data,city,community);
                     data.splice(0, 0, "<!-- TITLE: " + city.name + " AI -->");
                     data = this.addOneLine(data, city, "overview", "<div class=overview>");
+                    
+                    try {
+                        let index = data.indexOf("<div class=ecosystems>") + 1;
+                        console.log("index of ecosystems", index)
+                        console.log(cities);
+                        if(index > 0)
+                        {
+                            for(let i = 0;i<cities.length;i++)  data.splice(index, 0, "\n[" + cities[i].name + "](/" + cities[i].name.toString().toLowerCase().replace(/ /g, "-") + "/home)\n");
+                        }
+                    } catch (error) {
+                        console.log(error);
+                    }
+                    
                     if (city.startups)
                         data = this.addMultipleLines(data, city, "startups", 12, "<div class=startups>", ["picture", "name", "categories", "investment", "location"]);
                         data = this.addMultipleLines(data, city, "startups", city.startups.length, "<div class=startups id=\"list\">", ["picture", "name", "categories", "investment", "location"]);

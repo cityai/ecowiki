@@ -15,6 +15,12 @@ $desktop: 980px !default;
 $widescreen: 1180px !default;
 
 // --------------------------------------
+// SIZES
+// --------------------------------------
+
+$map-width: 1500px;
+
+// --------------------------------------
 // COLORS
 // --------------------------------------
 
@@ -32,7 +38,7 @@ $bg-primary:#f0f1f2;
 $bg-secondary: #dcdcdc;
 //FOOTER VARS
 
-$footer-color-bg: #f0f1f2;
+$footer-color-bg: #fff;
 $footer-color-text:mc('grey','800');
 
 // HERO VARS
@@ -43,7 +49,7 @@ $hero-border-color: mc('grey','600');
 
 // HEADER VARS
 
-$header-bg: #f0f1f2;
+$header-bg: #fff;
 $header-button-text: #000;
 $header-color-text:#fff;
 $header-color-text-hover: #C80000;
@@ -54,6 +60,7 @@ $sidebar-color-bg: $bg-primary;
 $sidebar-color-text-prim: mc('grey','900');
 $sidebar-color-text-sec: mc('grey','600');
 
+$second-header-bg: #f8f8f8;
 //CONTENT VARS
 
 $content-color-text:#C80000;

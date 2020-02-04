@@ -1,7 +1,7 @@
 @import "../base/variables.scss";
 
 .footer {
-	background:$bg-primary; // linear-gradient(to right,$bg-primary,$bg-secondary);
+	background:$footer-color-bg; // linear-gradient(to right,$bg-primary,$bg-secondary);
 	display: flex;
 	justify-content: space-between;
 	align-items: center;

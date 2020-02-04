@@ -68,8 +68,8 @@ module.exports =async function(){
         let subheadingTextEvents =  events.length + " upcoming AI-related events. In past "+ pastEvents +" events have been hosted"
         data.splice(subheadingIndex,0,subheadingTextEvents);
 
-        subheadingIndex = data.indexOf("# Top Communities") + 1;
-        let subheadingTextCommunity = "Connect with " +groups.length+" community groups promoting the best practices in AI."
+        subheadingIndex = data.indexOf("# Communities") + 1;
+        let subheadingTextCommunity = "Connect with " +groups.length+" community groups promoting the best practices in AI. These are the top 12 communities from all the cities!"
         data.splice(subheadingIndex,0,subheadingTextCommunity);
 
         subheadingIndex = data.indexOf("# Startups") + 1;
