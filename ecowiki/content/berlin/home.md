@@ -12,7 +12,7 @@
 <a href="#ecosystems"><strong>448</strong></a>
 </div>
 <div class=column>
-<a href="#events" ><strong>43</strong></a>
+<a href="#events" ><strong>41</strong></a>
 </div>
 <div class=column>
 <a href="#community" ><strong>13</strong></a>
@@ -238,16 +238,10 @@ The voices of the local AI community
 
 
 # Events
-43 upcoming AI-related events.
+41 upcoming AI-related events.
 <div class=events>
 
 <div class=column id=0>
-
-[Hacking Germany's Official Statistics with datenguideR](https://www.meetup.com/BerlinR-R-users-group/events/267273665/)
-##### Wed Feb 05 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** BerlinR - an R group focused on modern data science
-
 
 [Deep clustering with concrete k-means (https://arxiv.org/abs/1910.08031)](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/fstbnrybcdbkb/)
 ##### Fri Feb 07 2020
@@ -261,14 +255,14 @@ The voices of the local AI community
 **Organizer:** DATACHAIN FOUNDATION
 
 
+[Integrated and Centralized - Learnings from managing an embedded data team](https://www.meetup.com/Berlin-Women-in-Machine-Learning-and-Data-Science/events/268430194/)
+##### Tue Feb 18 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Berlin Women in Machine Learning & Data Science
+
+
 </div>
 <div class=column id=1>
-
-[Workshop: Artificial Intelligence for Managers (Berlin)](https://www.meetup.com/Machine-Learning-Krakow/events/268291043/)
-##### Wed Feb 05 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Machine Learning Kraków
-
 
 [She In Tech - Edition 3](https://www.meetup.com/datachaindc/events/266780265/)
 ##### Tue Feb 11 2020
@@ -282,14 +276,14 @@ The voices of the local AI community
 **Organizer:** Innovation meets Security @ Berlin
 
 
+[Deep Reinforcement Learning – 19: Transfer Learning and Multi-Task Learning](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/zjppmrybcdbxb/)
+##### Tue Feb 18 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Advanced Machine Learning Study Group
+
+
 </div>
 <div class=column id=2>
-
-[Restricting the Flow & Momentum Contrast for Unsupervised Visual Representation ](https://www.meetup.com/Merantix-AI-Paper-Discussion-Group/events/266105127/)
-##### Wed Feb 05 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Merantix AI Paper Discussion Group
-
 
 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/zjppmrybcdbpb/)
 ##### Tue Feb 11 2020
@@ -303,14 +297,14 @@ The voices of the local AI community
 **Organizer:** RPA Robotic Process Automation Developers Berlin
 
 
+[[Bar on the Block] with Bitwala, Dash and Iconic](https://www.meetup.com/Crypto_Traders_Berlin/events/268116743/)
+##### Wed Feb 19 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Crypto Traders Berlin
+
+
 </div>
 <div class=column id=3>
-
-[Workshop: Explainable AI explained (Berlin)](https://www.meetup.com/Machine-Learning-Krakow/events/268291196/)
-##### Wed Feb 05 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Machine Learning Kraków
-
 
 [AI in Action @Sennder](https://www.meetup.com/AI-in-Action-Berlin/events/266889865/)
 ##### Wed Feb 12 2020
@@ -322,6 +316,12 @@ The voices of the local AI community
 ##### Tue Feb 18 2020
 **Location:** [Berlin](/Berlin/home/)
 **Organizer:** AUTO1 Group Tech Talks
+
+
+[[Bar on the Block] with Solaris Bank, Bitwala, Dash and Iconic](https://www.meetup.com/Crypto_Traders_Berlin/events/268116743/)
+##### Wed Feb 19 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Crypto Traders Berlin
 
 
 </div>
@@ -337,124 +337,22 @@ The voices of the local AI community
 
 <div class=column id=0>
 
-[Integrated and Centralized - Learnings from managing an embedded data team](https://www.meetup.com/Berlin-Women-in-Machine-Learning-and-Data-Science/events/268430194/)
-##### Tue Feb 18 2020
+[Bar on the Block w Solaris Bank, Bitwala, DASH and Iconic: Regulations & Trading](https://www.meetup.com/Crypto_Traders_Berlin/events/268116743/)
+##### Wed Feb 19 2020
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** Berlin Women in Machine Learning & Data Science
+**Organizer:** Crypto Traders Berlin
 
 
-[A Tale of Data And Growth Failure](https://www.meetup.com/beyond-machine/events/266806499/)
-##### Thu Feb 20 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Deep Learning & Machine Learning & Data PM Bootcamps
-
-
-[Smart City Meetup](https://www.meetup.com/Innovators-Berlin-Corporates-Startups/events/268350045/)
+[Forum HR: The Future of Recruiting](https://www.meetup.com/Berlin-Digital-Business-Network-SIBB/events/268244888/)
 ##### Tue Feb 25 2020
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** Innovators Berlin | Corporates & Startups
+**Organizer:** 💥 Berlin Digital Business Network @SIBB 💥
 
 
-[Data-Driven Product Management Bootcamp ](https://www.meetup.com/beyond-machine/events/267718370/)
-##### Fri Feb 28 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Deep Learning & Machine Learning & Data PM Bootcamps
-
-
-[AI in Action @GetYourGuide](https://www.meetup.com/AI-in-Action-Berlin/events/267221689/)
-##### Wed Mar 25 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** AI in Action Berlin
-
-
-[Machine Learning Bootcamp: Learn How To Build Dynamic Pricing In Your Product](https://www.meetup.com/beyond-machine/events/262610667/)
-##### Fri Mar 27 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Deep Learning & Machine Learning & Data PM Bootcamps
-
-
-[How startups and suppliers sell to OEMs and corporates](https://www.meetup.com/Mobility-Innovators-Club/events/268239209/)
-##### Thu Apr 02 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Mobility Innovators' Club
-
-
-[enterprise:CODE 2020](https://www.meetup.com/DevOps-CODE-Event-Series/events/265114262/)
-##### Mon Apr 20 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** DevOps | CODE Event Series
-
-
-</div>
-<div class=column id=1>
-
-[[Bar on the Block] with Bitwala, Dash and Iconic](https://www.meetup.com/Crypto_Traders_Berlin/events/268116743/)
-##### Wed Feb 19 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Crypto Traders Berlin
-
-
-[Artificial Intelligence in HR](https://www.meetup.com/Berlin-Vernetzung-mit-Personalfachleuten-Meetup-Gruppe/events/268108253/)
-##### Thu Feb 20 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** HR Meetups by HeavenHR
-
-
-[AI in Action #3 meetup in 2020](https://www.meetup.com/AI-in-Action-Berlin/events/267221679/)
-##### Wed Feb 26 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** AI in Action Berlin
-
-
-[Product Management Bootcamp ](https://www.meetup.com/beyond-machine/events/267718370/)
-##### Fri Feb 28 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Deep Learning & Machine Learning & Data PM Bootcamps
-
-
-[Workshop: Around the World in 80 Ways - Deploy a Microservice on K8s/OpenShift](https://www.meetup.com/IBM-Developer-Berlin/events/268234580/)
-##### Wed Mar 25 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** IBM Developer Berlin
-
-
-[Machine Learning Bootcamp: Building Dynamic Pricing ](https://www.meetup.com/beyond-machine/events/262610667/)
-##### Fri Mar 27 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Deep Learning & Machine Learning & Data PM Bootcamps
-
-
-[New Work Confessions](https://www.meetup.com/Innovators-Berlin-Corporates-Startups/events/268350494/)
-##### Tue Apr 14 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Innovators Berlin | Corporates & Startups
-
-
-[The intersection of Product and Data : A tale of product and data failure](https://www.meetup.com/beyond-machine/events/267139930/)
-##### Thu Apr 23 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Deep Learning & Machine Learning & Data PM Bootcamps
-
-
-</div>
-<div class=column id=2>
-
-[[Bar on the Block] with Solaris Bank, Bitwala, Dash and Iconic](https://www.meetup.com/Crypto_Traders_Berlin/events/268116743/)
-##### Wed Feb 19 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Crypto Traders Berlin
-
-
-[FilmTech Meetup #21: Fireside chat & podcast live recording](https://www.meetup.com/FilmTechBerlin/events/268401073/)
-##### Mon Feb 24 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** FilmTech Meetup Berlin
-
-
-[Mastering The Complexity Of Service Transformation](https://www.meetup.com/transforming-enterprises/events/267991828/)
+[Designing (with) AI](https://www.meetup.com/BrandNewThinkers/events/268166159/)
 ##### Thu Feb 27 2020
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** Transforming Enterprises
+**Organizer:** Brand New Thinkers
 
 
 [IBM Healthcare Innovation Meetup @ IBM iX Studios Berlin](https://www.meetup.com/IBM-Healthcare-Innovation-Meetup-Berlin/events/267988496/)
@@ -488,24 +386,24 @@ The voices of the local AI community
 
 
 </div>
-<div class=column id=3>
+<div class=column id=1>
 
-[Bar on the Block w Solaris Bank, Bitwala, DASH and Iconic: Regulations & Trading](https://www.meetup.com/Crypto_Traders_Berlin/events/268116743/)
-##### Wed Feb 19 2020
+[A Tale of Data And Growth Failure](https://www.meetup.com/beyond-machine/events/266806499/)
+##### Thu Feb 20 2020
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** Crypto Traders Berlin
+**Organizer:** Deep Learning & Machine Learning & Data PM Bootcamps
 
 
-[Forum HR: The Future of Recruiting](https://www.meetup.com/Berlin-Digital-Business-Network-SIBB/events/268244888/)
+[Smart City Meetup](https://www.meetup.com/Innovators-Berlin-Corporates-Startups/events/268350045/)
 ##### Tue Feb 25 2020
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** 💥 Berlin Digital Business Network @SIBB 💥
+**Organizer:** Innovators Berlin | Corporates & Startups
 
 
-[Designing (with) AI](https://www.meetup.com/BrandNewThinkers/events/268166159/)
-##### Thu Feb 27 2020
+[Data-Driven Product Management Bootcamp ](https://www.meetup.com/beyond-machine/events/267718370/)
+##### Fri Feb 28 2020
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** Brand New Thinkers
+**Organizer:** Deep Learning & Machine Learning & Data PM Bootcamps
 
 
 [AI in Action #4 event of 2020](https://www.meetup.com/AI-in-Action-Berlin/events/267221689/)
@@ -530,6 +428,96 @@ The voices of the local AI community
 ##### Sat Apr 18 2020
 **Location:** [Berlin](/Berlin/home/)
 **Organizer:** Hackathon and Startup Challenges Munich
+
+
+</div>
+<div class=column id=2>
+
+[Artificial Intelligence in HR](https://www.meetup.com/Berlin-Vernetzung-mit-Personalfachleuten-Meetup-Gruppe/events/268108253/)
+##### Thu Feb 20 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** HR Meetups by HeavenHR
+
+
+[AI in Action #3 meetup in 2020](https://www.meetup.com/AI-in-Action-Berlin/events/267221679/)
+##### Wed Feb 26 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** AI in Action Berlin
+
+
+[Product Management Bootcamp ](https://www.meetup.com/beyond-machine/events/267718370/)
+##### Fri Feb 28 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Deep Learning & Machine Learning & Data PM Bootcamps
+
+
+[AI in Action @GetYourGuide](https://www.meetup.com/AI-in-Action-Berlin/events/267221689/)
+##### Wed Mar 25 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** AI in Action Berlin
+
+
+[Machine Learning Bootcamp: Learn How To Build Dynamic Pricing In Your Product](https://www.meetup.com/beyond-machine/events/262610667/)
+##### Fri Mar 27 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Deep Learning & Machine Learning & Data PM Bootcamps
+
+
+[How startups and suppliers sell to OEMs and corporates](https://www.meetup.com/Mobility-Innovators-Club/events/268239209/)
+##### Thu Apr 02 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Mobility Innovators' Club
+
+
+[enterprise:CODE 2020](https://www.meetup.com/DevOps-CODE-Event-Series/events/265114262/)
+##### Mon Apr 20 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** DevOps | CODE Event Series
+
+
+</div>
+<div class=column id=3>
+
+[FilmTech Meetup #21: Fireside chat & podcast live recording](https://www.meetup.com/FilmTechBerlin/events/268401073/)
+##### Mon Feb 24 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** FilmTech Meetup Berlin
+
+
+[Mastering The Complexity Of Service Transformation](https://www.meetup.com/transforming-enterprises/events/267991828/)
+##### Thu Feb 27 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Transforming Enterprises
+
+
+[Forum HR: Leadership in the age of New Work](https://www.meetup.com/Berlin-Digital-Business-Network-SIBB/events/268453230/)
+##### Tue Mar 03 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** 💥 Berlin Digital Business Network @SIBB 💥
+
+
+[Workshop: Around the World in 80 Ways - Deploy a Microservice on K8s/OpenShift](https://www.meetup.com/IBM-Developer-Berlin/events/268234580/)
+##### Wed Mar 25 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** IBM Developer Berlin
+
+
+[Machine Learning Bootcamp: Building Dynamic Pricing ](https://www.meetup.com/beyond-machine/events/262610667/)
+##### Fri Mar 27 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Deep Learning & Machine Learning & Data PM Bootcamps
+
+
+[New Work Confessions](https://www.meetup.com/Innovators-Berlin-Corporates-Startups/events/268350494/)
+##### Tue Apr 14 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Innovators Berlin | Corporates & Startups
+
+
+[The intersection of Product and Data : A tale of product and data failure](https://www.meetup.com/beyond-machine/events/267139930/)
+##### Thu Apr 23 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Deep Learning & Machine Learning & Data PM Bootcamps
 
 
 </div>

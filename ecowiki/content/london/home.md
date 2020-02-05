@@ -12,7 +12,7 @@
 <a href="#ecosystems"><strong>0</strong></a>
 </div>
 <div class=column>
-<a href="#events" ><strong>72</strong></a>
+<a href="#events" ><strong>69</strong></a>
 </div>
 <div class=column>
 <a href="#community" ><strong>18</strong></a>
@@ -253,16 +253,10 @@ The voices of the local AI community
 
 
 # Events
-72 upcoming AI-related events.
+69 upcoming AI-related events.
 <div class=events>
 
 <div class=column id=0>
-
-[Using Advanced Machine Learning Models](https://www.meetup.com/Microsoft-Reactor-London/events/265947729/)
-##### Wed Feb 05 2020
-**Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
-
 
 [Augmenting Reality - February 2020](https://www.meetup.com/Augmenting-Reality/events/266408785/)
 ##### Thu Feb 06 2020
@@ -276,14 +270,14 @@ The voices of the local AI community
 **Organizer:** Quantum London - defining the business value of Quantum
 
 
+[Womentechmakers workshop: Actions on Google & Breakfast](https://www.meetup.com/gdgcloud/events/268144193/)
+##### Thu Feb 06 2020
+**Location:** [London](/London/home/)
+**Organizer:** GDG Cloud London
+
+
 </div>
 <div class=column id=1>
-
-[Applied AI & DevOps hosted by WorldRemit ](https://www.meetup.com/Applied-AI-DevOps/events/266971954/)
-##### Wed Feb 05 2020
-**Location:** [London](/London/home/)
-**Organizer:** Applied AI & DevOps
-
 
 [Grakn Cosmos - London's First AI Conference of 2020 [Day 1]](https://www.meetup.com/grakn-london/events/267253371/)
 ##### Thu Feb 06 2020
@@ -297,14 +291,14 @@ The voices of the local AI community
 **Organizer:** Smart City - Embedded and Electronics
 
 
+[Day classroom based workshop in quantum computing advances](https://www.meetup.com/London-Quantum-computing-training-and-coding-course/events/265409784/)
+##### Fri Feb 07 2020
+**Location:** [London](/London/home/)
+**Organizer:** London Quantum Computing; Training and Coding Course
+
+
 </div>
 <div class=column id=2>
-
-[Analytics Network 2020 Event](https://www.meetup.com/AnalyticsNetwork/events/267477526/)
-##### Wed Feb 05 2020
-**Location:** [London](/London/home/)
-**Organizer:** Analytics Network
-
 
 [Grakn Cosmos (Day 1): Knowledge Graph in ML, NLP, Biotech, Security, Robotics](https://www.meetup.com/grakn-london/events/267253371/)
 ##### Thu Feb 06 2020
@@ -318,14 +312,14 @@ The voices of the local AI community
 **Organizer:** Low Code Automation
 
 
+[Grakn Cosmos (Day 2): Knowledge Graph in ML, NLP, Biotech, Security, Robotics](https://www.meetup.com/grakn-london/events/267341588/)
+##### Fri Feb 07 2020
+**Location:** [London](/London/home/)
+**Organizer:** Grakn London Engineers
+
+
 </div>
 <div class=column id=3>
-
-[From Power BI to Power Platform PL-900 certification](https://www.meetup.com/Power-BI-Data-Scientist-Artificial-Intelligence-Solutions/events/268396651/)
-##### Wed Feb 05 2020
-**Location:** [London](/London/home/)
-**Organizer:** Power BI Data Scientist & Artificial Intelligence Solutions
-
 
 [Webinar: Boosting Diversity in Tech - Make the Levy Work for Your Organisation](https://www.meetup.com/London-Cambridge-Spark/events/267748360/)
 ##### Thu Feb 06 2020
@@ -337,6 +331,12 @@ The voices of the local AI community
 ##### Thu Feb 06 2020
 **Location:** [London](/London/home/)
 **Organizer:** Agile Xpertise
+
+
+[Tensorflow Examples - run and discuss](https://www.meetup.com/TensorflowRUs/events/268290755/)
+##### Sat Feb 08 2020
+**Location:** [London](/London/home/)
+**Organizer:** TensorflowRUs
 
 
 </div>
@@ -351,12 +351,6 @@ The voices of the local AI community
 
 
 <div class=column id=0>
-
-[Womentechmakers workshop: Actions on Google & Breakfast](https://www.meetup.com/gdgcloud/events/268144193/)
-##### Thu Feb 06 2020
-**Location:** [London](/London/home/)
-**Organizer:** GDG Cloud London
-
 
 [3. Womentechmakers Firebase and Web crash-course ](https://www.meetup.com/gdgcloud/events/268087412/)
 ##### Mon Feb 10 2020
@@ -392,6 +386,99 @@ The voices of the local AI community
 ##### Wed Feb 19 2020
 **Location:** [London](/London/home/)
 **Organizer:** Agile Xpertise
+
+
+[Teach the nation to code - London](https://www.meetup.com/london-tech-meetups/events/266945674/)
+##### Sat Feb 22 2020
+**Location:** [London](/London/home/)
+**Organizer:** London Tech MeetUps & Events
+
+
+[Introducing the Uno Platform](https://www.meetup.com/Microsoft-Reactor-London/events/268085171/)
+##### Tue Feb 25 2020
+**Location:** [London](/London/home/)
+**Organizer:** Microsoft Reactor London
+
+
+[[Placeholder] IWD Women Techmakers 2020](https://www.meetup.com/gdgcloud/events/266592748/)
+##### Mon Mar 02 2020
+**Location:** [London](/London/home/)
+**Organizer:** GDG Cloud London
+
+
+[DevSecOps: Secure software delivery using Azure DevOps](https://www.meetup.com/Microsoft-Reactor-London/events/267316807/)
+##### Tue Mar 10 2020
+**Location:** [London](/London/home/)
+**Organizer:** Microsoft Reactor London
+
+
+[2-days Intensive Workshop: Software Engineering in Machine Learning](https://www.meetup.com/London-Python-Machine-Learning/events/268321069/)
+##### Thu Mar 12 2020
+**Location:** [London](/London/home/)
+**Organizer:** London Python & Machine Learning
+
+
+[London Einstein Analytics DataTribe March 2020 meetup!](https://www.meetup.com/London-Einstein-Analytics-Meetup/events/267944963/)
+##### Tue Mar 17 2020
+**Location:** [London](/London/home/)
+**Organizer:** London Einstein Analytics DataTribe
+
+
+[Application Modernisation Workshop ](https://www.meetup.com/Microsoft-Reactor-London/events/267913118/)
+##### Thu Mar 26 2020
+**Location:** [London](/London/home/)
+**Organizer:** Microsoft Reactor London
+
+
+[Build AI Solutions on the Cloud With Azure Machine Learning Service](https://www.meetup.com/beginners-machine-learning-london/events/268321420/)
+##### Tue Apr 14 2020
+**Location:** [London](/London/home/)
+**Organizer:** Beginners Machine Learning - London
+
+
+[Frontier Tech Summit London 27 Apr - AI, Quantum Computing, Digital Securities](https://www.meetup.com/Blockchain-SmartContract-Innovators/events/267517639/)
+##### Mon Apr 27 2020
+**Location:** [London](/London/home/)
+**Organizer:** Blockchain & SmartContract Innovators
+
+
+</div>
+<div class=column id=1>
+
+[Blockchain beyond the Hype: Real-life solution on Azure](https://www.meetup.com/Microsoft-Reactor-London/events/267316738/)
+##### Tue Feb 11 2020
+**Location:** [London](/London/home/)
+**Organizer:** Microsoft Reactor London
+
+
+[Tech Talk: Developing machine learning algorithms to detect violent propaganda](https://www.meetup.com/data-science-lab/events/267249183/)
+##### Wed Feb 12 2020
+**Location:** [London](/London/home/)
+**Organizer:** Data Science Lab
+
+
+[Do you want to stay Outside IR35 Private Sector Legislation?](https://www.meetup.com/Agile-Xpertise/events/268294145/)
+##### Wed Feb 12 2020
+**Location:** [London](/London/home/)
+**Organizer:** Agile Xpertise
+
+
+[Building & Deploying Serverless applications to the Cloud using Nest.js](https://www.meetup.com/Microsoft-Reactor-London/events/265868971/)
+##### Tue Feb 18 2020
+**Location:** [London](/London/home/)
+**Organizer:** Microsoft Reactor London
+
+
+[Code For Fun - Python Workshop (all levels)](https://www.meetup.com/gdgcloud/events/268236686/)
+##### Tue Feb 18 2020
+**Location:** [London](/London/home/)
+**Organizer:** GDG Cloud London
+
+
+[Product Kitchen](https://www.meetup.com/Tech-Kitchen/events/268452320/)
+##### Thu Feb 20 2020
+**Location:** [London](/London/home/)
+**Organizer:** Tech Kitchen
 
 
 [The future of personal implantables: opportunities in healthcare and beyond](https://www.meetup.com/London-Futurists/events/268138592/)
@@ -443,42 +530,36 @@ The voices of the local AI community
 
 
 </div>
-<div class=column id=1>
+<div class=column id=2>
 
-[Day classroom based workshop in quantum computing advances](https://www.meetup.com/London-Quantum-computing-training-and-coding-course/events/265409784/)
-##### Fri Feb 07 2020
-**Location:** [London](/London/home/)
-**Organizer:** London Quantum Computing; Training and Coding Course
-
-
-[Blockchain beyond the Hype: Real-life solution on Azure](https://www.meetup.com/Microsoft-Reactor-London/events/267316738/)
+[Refine your Raspberry Pi robot](https://www.meetup.com/Red-Sprite/events/267902186/)
 ##### Tue Feb 11 2020
 **Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
+**Organizer:** Red Sprite
 
 
-[Tech Talk: Developing machine learning algorithms to detect violent propaganda](https://www.meetup.com/data-science-lab/events/267249183/)
+[Using data to measure and increase agility in Software Projects](https://www.meetup.com/London-Project-Data-and-Analytics-meetup/events/266967727/)
 ##### Wed Feb 12 2020
 **Location:** [London](/London/home/)
-**Organizer:** Data Science Lab
+**Organizer:** London Project Data Analytics Meetup
 
 
-[Do you want to stay Outside IR35 Private Sector Legislation?](https://www.meetup.com/Agile-Xpertise/events/268294145/)
-##### Wed Feb 12 2020
+[Data Book Club: Ben Jones - Avoiding Data Pitfalls](https://www.meetup.com/Advanced-Data-Visualization-London/events/268088712/)
+##### Thu Feb 13 2020
 **Location:** [London](/London/home/)
-**Organizer:** Agile Xpertise
+**Organizer:** Advanced Data Visualisation London
 
 
-[Building & Deploying Serverless applications to the Cloud using Nest.js](https://www.meetup.com/Microsoft-Reactor-London/events/265868971/)
+[Mini Workshop: Build your 1st Twitter Bot with Azure Serverless & Github actions](https://www.meetup.com/Microsoft-Reactor-London/events/267316785/)
 ##### Tue Feb 18 2020
 **Location:** [London](/London/home/)
 **Organizer:** Microsoft Reactor London
 
 
-[Code For Fun - Python Workshop (all levels)](https://www.meetup.com/gdgcloud/events/268236686/)
-##### Tue Feb 18 2020
+[Webinar: Recruiting and Retaining Data Scientists](https://www.meetup.com/London-Cambridge-Spark/events/267748791/)
+##### Wed Feb 19 2020
 **Location:** [London](/London/home/)
-**Organizer:** GDG Cloud London
+**Organizer:** London - Cambridge Spark
 
 
 [[PlaceHolder] Google Stadia Event](https://www.meetup.com/gdgcloud/events/264566678/)
@@ -536,42 +617,36 @@ The voices of the local AI community
 
 
 </div>
-<div class=column id=2>
+<div class=column id=3>
 
-[Grakn Cosmos (Day 2): Knowledge Graph in ML, NLP, Biotech, Security, Robotics](https://www.meetup.com/grakn-london/events/267341588/)
-##### Fri Feb 07 2020
-**Location:** [London](/London/home/)
-**Organizer:** Grakn London Engineers
-
-
-[Refine your Raspberry Pi robot](https://www.meetup.com/Red-Sprite/events/267902186/)
+[AI on the edge: iOS and Tensorflow.js (Tech Talk) ](https://www.meetup.com/IBM-Code-London/events/268292234/)
 ##### Tue Feb 11 2020
 **Location:** [London](/London/home/)
-**Organizer:** Red Sprite
+**Organizer:** IBM Code London
 
 
-[Using data to measure and increase agility in Software Projects](https://www.meetup.com/London-Project-Data-and-Analytics-meetup/events/266967727/)
+[FREE Marketing Attribution Modelling: Data & Analytics](https://www.meetup.com/Digital/events/268212385/)
 ##### Wed Feb 12 2020
 **Location:** [London](/London/home/)
-**Organizer:** London Project Data Analytics Meetup
+**Organizer:** Outreach Digital | The Marketing, Analytics, UX & Tech Club
 
 
-[Data Book Club: Ben Jones - Avoiding Data Pitfalls](https://www.meetup.com/Advanced-Data-Visualization-London/events/268088712/)
-##### Thu Feb 13 2020
+[Artificial Intelligence – Promise or Threat?](https://www.meetup.com/Light-in-London/events/267863404/)
+##### Sat Feb 15 2020
 **Location:** [London](/London/home/)
-**Organizer:** Advanced Data Visualisation London
+**Organizer:** Light in London -  Mostly Free spiritual events
 
 
-[Mini Workshop: Build your 1st Twitter Bot with Azure Serverless & Github actions](https://www.meetup.com/Microsoft-Reactor-London/events/267316785/)
+[Learn how to code a Quantum Computer - Training Course](https://www.meetup.com/London-Quantum-computing-training-and-coding-course/events/267774508/)
 ##### Tue Feb 18 2020
 **Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
+**Organizer:** London Quantum Computing; Training and Coding Course
 
 
-[Webinar: Recruiting and Retaining Data Scientists](https://www.meetup.com/London-Cambridge-Spark/events/267748791/)
+[AI Alignment -AI Ethics London](https://www.meetup.com/AI-Ethics-London/events/268166756/)
 ##### Wed Feb 19 2020
 **Location:** [London](/London/home/)
-**Organizer:** London - Cambridge Spark
+**Organizer:** AI Ethics London
 
 
 [The Future of Hiring-Tech](https://www.meetup.com/SiliconRoundabout/events/268289559/)
@@ -626,99 +701,6 @@ The voices of the local AI community
 ##### Thu Apr 23 2020
 **Location:** [London](/London/home/)
 **Organizer:** Agile Xpertise
-
-
-</div>
-<div class=column id=3>
-
-[Tensorflow Examples - run and discuss](https://www.meetup.com/TensorflowRUs/events/268290755/)
-##### Sat Feb 08 2020
-**Location:** [London](/London/home/)
-**Organizer:** TensorflowRUs
-
-
-[AI on the edge: iOS and Tensorflow.js (Tech Talk) ](https://www.meetup.com/IBM-Code-London/events/268292234/)
-##### Tue Feb 11 2020
-**Location:** [London](/London/home/)
-**Organizer:** IBM Code London
-
-
-[FREE Marketing Attribution Modelling: Data & Analytics](https://www.meetup.com/Digital/events/268212385/)
-##### Wed Feb 12 2020
-**Location:** [London](/London/home/)
-**Organizer:** Outreach Digital | The Marketing, Analytics, UX & Tech Club
-
-
-[Artificial Intelligence – Promise or Threat?](https://www.meetup.com/Light-in-London/events/267863404/)
-##### Sat Feb 15 2020
-**Location:** [London](/London/home/)
-**Organizer:** Light in London -  Mostly Free spiritual events
-
-
-[Learn how to code a Quantum Computer - Training Course](https://www.meetup.com/London-Quantum-computing-training-and-coding-course/events/267774508/)
-##### Tue Feb 18 2020
-**Location:** [London](/London/home/)
-**Organizer:** London Quantum Computing; Training and Coding Course
-
-
-[AI Alignment -AI Ethics London](https://www.meetup.com/AI-Ethics-London/events/268166756/)
-##### Wed Feb 19 2020
-**Location:** [London](/London/home/)
-**Organizer:** AI Ethics London
-
-
-[Teach the nation to code - London](https://www.meetup.com/london-tech-meetups/events/266945674/)
-##### Sat Feb 22 2020
-**Location:** [London](/London/home/)
-**Organizer:** London Tech MeetUps & Events
-
-
-[Introducing the Uno Platform](https://www.meetup.com/Microsoft-Reactor-London/events/268085171/)
-##### Tue Feb 25 2020
-**Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
-
-
-[[Placeholder] IWD Women Techmakers 2020](https://www.meetup.com/gdgcloud/events/266592748/)
-##### Mon Mar 02 2020
-**Location:** [London](/London/home/)
-**Organizer:** GDG Cloud London
-
-
-[DevSecOps: Secure software delivery using Azure DevOps](https://www.meetup.com/Microsoft-Reactor-London/events/267316807/)
-##### Tue Mar 10 2020
-**Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
-
-
-[2-days Intensive Workshop: Software Engineering in Machine Learning](https://www.meetup.com/London-Python-Machine-Learning/events/268321069/)
-##### Thu Mar 12 2020
-**Location:** [London](/London/home/)
-**Organizer:** London Python & Machine Learning
-
-
-[London Einstein Analytics DataTribe March 2020 meetup!](https://www.meetup.com/London-Einstein-Analytics-Meetup/events/267944963/)
-##### Tue Mar 17 2020
-**Location:** [London](/London/home/)
-**Organizer:** London Einstein Analytics DataTribe
-
-
-[Application Modernisation Workshop ](https://www.meetup.com/Microsoft-Reactor-London/events/267913118/)
-##### Thu Mar 26 2020
-**Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
-
-
-[Build AI Solutions on the Cloud With Azure Machine Learning Service](https://www.meetup.com/beginners-machine-learning-london/events/268321420/)
-##### Tue Apr 14 2020
-**Location:** [London](/London/home/)
-**Organizer:** Beginners Machine Learning - London
-
-
-[Frontier Tech Summit London 27 Apr - AI, Quantum Computing, Digital Securities](https://www.meetup.com/Blockchain-SmartContract-Innovators/events/267517639/)
-##### Mon Apr 27 2020
-**Location:** [London](/London/home/)
-**Organizer:** Blockchain & SmartContract Innovators
 
 
 </div>

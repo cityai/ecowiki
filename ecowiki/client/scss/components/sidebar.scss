@@ -2,13 +2,13 @@
 
 .secHeader {
   position: fixed;
-  top: 0px;
+  top: -0.5rem;
   display: flex;
   width: 100%;
   justify-content: center;
   z-index: 3;
   background: $second-header-bg;
-  padding: 60px 15pc 0 15pc;
+  padding: 4rem 1rem 0 1rem;
   text-decoration-line: unset;
   @media only screen and (max-width: 1024px) {
     padding: 3.75pc 12pc 0 10pc;
@@ -20,7 +20,7 @@
     padding: 4pc 4pc 0 5pc;
   }
   li {
-    padding-right: 40px;
+    padding-right: 1rem;
 	display: block;
 	
 	@media only screen and (max-width: 480px) {
@@ -34,10 +34,10 @@
       content: " ";
       //background-image: url("/images/sidebarShapes/ecosystems_shape.svg");
       background-size: 100% 100%;
-      width: 16px;
-      height: 16px;
+      width: 1rem;
+      height: 1rem;
       display: block;
-      left: -10px;
+      left: -0.5rem;
       position: relative;
       top: 0;
     }
@@ -71,13 +71,13 @@
     }
     a {
       display: flex;
-      min-height: 30px;
+      min-height: 2rem;
       align-items: center;
-      padding: 5px 23px;
+      padding: 0.5rem 1.5rem;
       color: $a-color-text;
-      font-size: 0.875rem;
+      font-size: 1rem;
       transition: all 0.4s ease;
-      line-height: 14px;
+      line-height: 1rem;
 
       cursor: pointer;
     }

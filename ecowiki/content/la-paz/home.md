@@ -12,7 +12,7 @@
 <a href="#ecosystems"><strong>0</strong></a>
 </div>
 <div class=column>
-<a href="#events" ><strong>3</strong></a>
+<a href="#events" ><strong>5</strong></a>
 </div>
 <div class=column>
 <a href="#community" ><strong>0</strong></a>
@@ -145,13 +145,19 @@ The voices of the local AI community
 
 
 # Events
-3 upcoming AI-related events.
+5 upcoming AI-related events.
 <div class=events>
 
 <div class=column id=0>
 
 [Saturdays.AI La Paz | Demo Day](https://www.meetup.com/Data-Science-Bolivia/events/268439085/)
 ##### Sat Feb 08 2020
+**Location:** [La Paz](/La Paz/home/)
+**Organizer:** Data Science Bolivia
+
+
+[TensorFlow LPUG | TensorFlow Dev Summit 2020 Extended ](https://www.meetup.com/Data-Science-Bolivia/events/268469943/)
+##### Mon Mar 23 2020
 **Location:** [La Paz](/La Paz/home/)
 **Organizer:** Data Science Bolivia
 
@@ -168,14 +174,20 @@ The voices of the local AI community
 </div>
 <div class=column id=2>
 
+[International Women Day](https://www.meetup.com/GDG-La-Paz/events/268467625/)
+##### Sat Mar 21 2020
+**Location:** [La Paz](/La Paz/home/)
+**Organizer:** GDG La Paz
+
+
+</div>
+<div class=column id=3>
+
 [Team Cloud | Amazon for Poets](https://www.meetup.com/Data-Science-Bolivia/events/268267947/)
 ##### Mon Mar 23 2020
 **Location:** [La Paz](/La Paz/home/)
 **Organizer:** Data Science Bolivia
 
-
-</div>
-<div class=column id=3>
 
 </div>
 
