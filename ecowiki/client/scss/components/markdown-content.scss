@@ -631,9 +631,6 @@
   .groups {
     display: block;
     background: $highlight-color-bg;
-    details summary{
-      padding-left: 0;
-    }
     @media only screen and (min-width: 320px) and (max-width: 380px){
       
     }
@@ -870,6 +867,7 @@
     font-size: 1.125rem;
     line-height: 1.5rem;
     color: $color-text;
+    padding: 0 2.3rem;
     display: inherit;
     letter-spacing: 0.5px;
     strong{
@@ -1053,6 +1051,7 @@
     background-color: $highlight-color-bg-secondary;
     img{
       width: 20%;
+      padding: 0 1.3rem;
       @media only screen and (min-width: 320px) and (max-width: 380px){
         width: 100%;
       }
@@ -1071,7 +1070,7 @@
   .partners p {
 
     display: block;
-    padding: 10px 0;
+    padding: 1rem 1.3rem;
     line-height: 1.5rem;
     br{
       display: none;
@@ -1134,7 +1133,6 @@
        margin-bottom: -15px;
       }
   .mapHighlight{
-    padding-left: 33px;
     @media only screen and (min-width: 320px) and (max-width: 380px){
       padding-left: 0;
     }

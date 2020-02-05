@@ -256,7 +256,7 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 
 
 
-# Founding Partners
+# Partners
 
 Thanks to our global supporters, this initiative will keep evolving.
 <div class=partners>
