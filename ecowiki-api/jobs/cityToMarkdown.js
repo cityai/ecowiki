@@ -76,7 +76,7 @@ class MarkdownTransform {
                     if (community) {
                         data = this.addMultipleLines(data, community, "groups", 12, "<div class=groups>", ["name", "members", "organizer"]);
                         data = this.addMultipleLines(data, community, "groups", community.groups.length, "<div class=groups id=\"list\">", ["name", "members", "organizer"]);
-                        data = this.addMultipleLines(data, community, "influencers", 12, "<div class=influencers>", ["picture","name", "followers","location"]);
+                        data = this.addMultipleLines(data, community, "influencers", 12, "<div class=influencers>", ["name","location"]);
                         data = this.addMultipleLines(data, community, "influencers", community.influencers.length, "<div class=influencers id=\"list\">", ["picture","name", "followers","location"]);
                     }
                     await fs.writeFile(filePath, "", async err => {

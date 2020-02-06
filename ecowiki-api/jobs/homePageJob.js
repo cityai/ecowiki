@@ -54,7 +54,7 @@ module.exports =async function(){
         data.splice(statusIndex,0,statusStory);
 
         data = MarkdownConvertor.addMultipleLinesFromArray(data,startups,12,"<div class=startups>",["picture", "name","categories","investment", "location"]);
-        data = MarkdownConvertor.addMultipleLinesFromArray(data,influencers,12,"<div class=influencers>", ["picture", "name", "followers", "location"]);
+        data = MarkdownConvertor.addMultipleLinesFromArray(data,influencers,12,"<div class=influencers>", ["name", "location"]);
         data = MarkdownConvertor.addMultipleLinesFromArray(data,groups,12,"<div class=groups>", ["name", "location", "members", "organizer"]);
         data = MarkdownConvertor.addMultipleLinesFromArray(data,events,12,"<div class=events>", ["name", "date", "location", "organizer"]);
         data = MarkdownConvertor.addMultipleLinesFromArray(data,organizations,12,"<div class=organizations>", ["name","location", "category", "founder", "link"]);
