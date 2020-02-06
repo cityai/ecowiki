@@ -44,7 +44,7 @@
     //background-color: mc('blue-grey', '50');
     //background: linear-gradient(to bottom, mc('blue-grey', '50'), mc('indigo', '50'));
     //border-bottom: 2px solid mc('indigo', '100');
-    font-size: 2.25rem;
+    font-size: 3rem;
     color: $content-color-text;
     font-weight: 900;
     //border-bottom: 1px solid black;
@@ -609,6 +609,9 @@
   //--------------------------------------------
   .sum{
     padding: 0 1.8rem;
+    background:black;
+    display: table-cell;
+    color:white;
   }
   #list { 
     background: 0;
@@ -826,7 +829,7 @@
       padding-bottom: 3rem;
       line-height: 1.5rem;
       img{
-        width: 15%;
+        width: 20%;
         @media only screen and (max-width: 1024px){
           width: 30%;
           };
@@ -1050,7 +1053,7 @@
   .partners{
     background-color: $highlight-color-bg-secondary;
     img{
-      width: 20%;
+      width: 40%;
       padding: 0 1.3rem;
       @media only screen and (min-width: 320px) and (max-width: 380px){
         width: 100%;

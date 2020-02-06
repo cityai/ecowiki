@@ -43,7 +43,7 @@ $footer-color-bg: #f8f8f8;
 $footer-color-text:mc('grey','800');
 
 // HERO VARS
-
+$hero-bg: #f8f8f8;
 $hero-color-text: mc('grey','900');
 $hero-color-h2: #C80000;
 $hero-border-color: mc('grey','600');
@@ -77,9 +77,9 @@ $modal-color-bg: #C80000;
 
 $search-color-placeholder:mc('grey','900');
 $search-color-bg: black;
-$search-color-border: mc('grey','900');
+$search-color-border: #f0f1f2;
 $search-color-border-focus: mc('grey','900');
-$search-color-text: mc('grey','900');
+$search-color-text: #000;
 
 $search-result-color-bg: #fff;
 $search-result-color:#000;

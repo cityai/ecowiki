@@ -12,7 +12,7 @@
 <a href="#ecosystems"><strong>0</strong></a>
 </div>
 <div class=column>
-<a href="#events" ><strong>0</strong></a>
+<a href="#events" ><strong>1</strong></a>
 </div>
 <div class=column>
 <a href="#community" ><strong>3</strong></a>
@@ -163,10 +163,16 @@ The voices of the local AI community
 
 
 # Events
-0 upcoming AI-related events.
+1 upcoming AI-related events.
 <div class=events>
 
 <div class=column id=0>
+
+[Hackaton 2020 ](https://www.meetup.com/Hackaton-2020-Talenta365/events/268486978/)
+##### Fri Feb 28 2020
+**Location:** [Bogota](/Bogota/home/)
+**Organizer:** Hackatòn  2020 - Talenta365
+
 
 </div>
 <div class=column id=1>

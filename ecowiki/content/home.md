@@ -11,7 +11,7 @@
 <a href="#ecosystems"><strong>6</strong></a>
 </div>
 <div class=column>
-<a href="#events" ><strong>115</strong></a>
+<a href="#events" ><strong>107</strong></a>
 </div>
 <div class=column>
 <a href="#community" ><strong>35</strong></a>
@@ -123,43 +123,10 @@ Connect with 3 community groups promoting the best practices in AI. These are th
 </div>
 
 # Events
-115 upcoming AI-related events. In past 343 events have been hosted
+107 upcoming AI-related events. In past 352 events have been hosted
 <div class=events>
 
 <div class=column id=0>
-
-[Augmenting Reality - February 2020](https://www.meetup.com/Augmenting-Reality/events/266408785/)
-##### Thu Feb 06 2020
-**Location:** [London](/London/home/)
-**Organizer:** Augmenting Reality
-
-
-[Quantum kick off](https://www.meetup.com/Quantum_London/events/267774299/)
-##### Thu Feb 06 2020
-**Location:** [London](/London/home/)
-**Organizer:** Quantum London - defining the business value of Quantum
-
-
-[Womentechmakers workshop: Actions on Google & Breakfast](https://www.meetup.com/gdgcloud/events/268144193/)
-##### Thu Feb 06 2020
-**Location:** [London](/London/home/)
-**Organizer:** GDG Cloud London
-
-
-</div>
-<div class=column id=1>
-
-[Grakn Cosmos - London's First AI Conference of 2020 [Day 1]](https://www.meetup.com/grakn-london/events/267253371/)
-##### Thu Feb 06 2020
-**Location:** [London](/London/home/)
-**Organizer:** Grakn London Engineers
-
-
-[Artificial Intelligence - Smart City ](https://www.meetup.com/Smart-City-Embedded-Electronics/events/267958455/)
-##### Thu Feb 06 2020
-**Location:** [London](/London/home/)
-**Organizer:** Smart City - Embedded and Electronics
-
 
 [Day classroom based workshop in quantum computing advances](https://www.meetup.com/London-Quantum-computing-training-and-coding-course/events/265409784/)
 ##### Fri Feb 07 2020
@@ -167,20 +134,20 @@ Connect with 3 community groups promoting the best practices in AI. These are th
 **Organizer:** London Quantum Computing; Training and Coding Course
 
 
+[Saturdays.AI La Paz | Demo Day](https://www.meetup.com/Data-Science-Bolivia/events/268439085/)
+##### Sat Feb 08 2020
+**Location:** [La Paz](/La Paz/home/)
+**Organizer:** Data Science Bolivia
+
+
+[Refine your Raspberry Pi robot](https://www.meetup.com/Red-Sprite/events/267902186/)
+##### Tue Feb 11 2020
+**Location:** [London](/London/home/)
+**Organizer:** Red Sprite
+
+
 </div>
-<div class=column id=2>
-
-[Grakn Cosmos (Day 1): Knowledge Graph in ML, NLP, Biotech, Security, Robotics](https://www.meetup.com/grakn-london/events/267253371/)
-##### Thu Feb 06 2020
-**Location:** [London](/London/home/)
-**Organizer:** Grakn London Engineers
-
-
-[Build to Win with Low Code](https://www.meetup.com/Build-to-Win-with-Low-Code/events/267930505/)
-##### Thu Feb 06 2020
-**Location:** [London](/London/home/)
-**Organizer:** Low Code Automation
-
+<div class=column id=1>
 
 [Grakn Cosmos (Day 2): Knowledge Graph in ML, NLP, Biotech, Security, Robotics](https://www.meetup.com/grakn-london/events/267341588/)
 ##### Fri Feb 07 2020
@@ -188,25 +155,58 @@ Connect with 3 community groups promoting the best practices in AI. These are th
 **Organizer:** Grakn London Engineers
 
 
+[3. Womentechmakers Firebase and Web crash-course ](https://www.meetup.com/gdgcloud/events/268087412/)
+##### Mon Feb 10 2020
+**Location:** [London](/London/home/)
+**Organizer:** GDG Cloud London
+
+
+[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/zjppmrybcdbpb/)
+##### Tue Feb 11 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Advanced Machine Learning Study Group
+
+
 </div>
-<div class=column id=3>
-
-[Webinar: Boosting Diversity in Tech - Make the Levy Work for Your Organisation](https://www.meetup.com/London-Cambridge-Spark/events/267748360/)
-##### Thu Feb 06 2020
-**Location:** [London](/London/home/)
-**Organizer:** London - Cambridge Spark
-
-
-[Wardley Mapping: Understanding value delivery and ensuring competitiveness](https://www.meetup.com/Agile-Xpertise/events/267690058/)
-##### Thu Feb 06 2020
-**Location:** [London](/London/home/)
-**Organizer:** Agile Xpertise
-
+<div class=column id=2>
 
 [Deep clustering with concrete k-means (https://arxiv.org/abs/1910.08031)](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/fstbnrybcdbkb/)
 ##### Fri Feb 07 2020
 **Location:** [Berlin](/Berlin/home/)
 **Organizer:** Advanced Machine Learning Study Group
+
+
+[She In Tech - Edition 3](https://www.meetup.com/datachaindc/events/266780265/)
+##### Tue Feb 11 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** DATACHAIN FOUNDATION
+
+
+[AI on the edge: iOS and Tensorflow.js (Tech Talk) ](https://www.meetup.com/IBM-Code-London/events/268292234/)
+##### Tue Feb 11 2020
+**Location:** [London](/London/home/)
+**Organizer:** IBM Code London
+
+
+</div>
+<div class=column id=3>
+
+[Tensorflow Examples - run and discuss](https://www.meetup.com/TensorflowRUs/events/268290755/)
+##### Sat Feb 08 2020
+**Location:** [London](/London/home/)
+**Organizer:** TensorflowRUs
+
+
+[Blockchain beyond the Hype: Real-life solution on Azure](https://www.meetup.com/Microsoft-Reactor-London/events/267316738/)
+##### Tue Feb 11 2020
+**Location:** [London](/London/home/)
+**Organizer:** Microsoft Reactor London
+
+
+[Meetup #11: Pay to Play - ethical pricing](https://www.meetup.com/West-London-Ethical-Technology-Meetup/events/268123598/)
+##### Tue Feb 11 2020
+**Location:** [London](/London/home/)
+**Organizer:** West London Ethical Technology Meetup
 
 
 </div>

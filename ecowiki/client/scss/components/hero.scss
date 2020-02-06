@@ -24,7 +24,7 @@
 		padding-left: 0;
 	}
 
-  background: $bg-primary; //linear-gradient(to right,$bg-primary,$bg-secondary);
+  background: $hero-bg; //linear-gradient(to right,$bg-primary,$bg-secondary);
   //border-bottom: 1px solid  $hero-border-color;
   position: relative;
 
@@ -32,7 +32,7 @@
   h1.title {
     position: relative;
     width: max-content;
-    font-size: 4.5rem;
+    font-size: 6rem;
     $set-width: 90px;
     //background: linear-gradient(to right, #000000, #c80000);
 	background-color: black;

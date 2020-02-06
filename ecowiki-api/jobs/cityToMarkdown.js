@@ -257,7 +257,7 @@ class MarkdownTransform {
         if (indexState > 1 && city && community) {
             let statusStory = "<div class=column>\n<a href=\"#ecosystems\"><strong>" + this.numberOfMembers(community) + "</strong></a>\n</div>\n<div class=column>\n<a href=\"#events\" ><strong>"+city.events.length+"</strong></a>"+
         "\n</div>\n<div class=column>\n<a href=\"#community\" ><strong>"+ community.influencers.length +"</strong></a>\n</div>\n<div class=column>\n<a href=\"#startups\" ><strong>"+city.startups.length +"</a></strong>"+ 
-        "\n</div>\n<div class=column>\n<a href=\"#community\" ><strong>"+ community.groups.length +"</a></strong>\n</div>\n</div>\n<div class=status>\n<div class=column>COMMUNITY MEMBERS</div>"+
+        "\n</div>\n<div class=column>\n<a href=\"#community\" ><strong>"+ community.groups.length +"</a></strong>\n</div>\n</div>\n<div class=status>\n<div class=column>MEMBERS</div>"+
         "\n<div class=column>EVENTS</div>\n<div class=column>INFLUENCERS</div>\n<div class=column>STARTUPS</div>\n<div class=column>GROUPS</div>"+ "</div>";
             data.splice(indexState, 0, statusStory);
         }
