@@ -59,7 +59,7 @@ class MarkdownTransform {
                         console.log(cities);
                         if(index > 0)
                         {
-                            for(let i = 0;i<cities.length;i++)  data.splice(index, 0, "\n[" + cities[i].name + "](/" + cities[i].name.toString().toLowerCase().replace(/ /g, "-") + "/home)\n");
+                            for(let i = 0;i<cities.length;i++)  data.splice(index, 0, "[" + cities[i].name + "](/" + cities[i].name.toString().toLowerCase().replace(/ /g, "-") + "/home)");
                         }
                     } catch (error) {
                         console.log(error);
