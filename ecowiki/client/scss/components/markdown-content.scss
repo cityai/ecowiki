@@ -609,7 +609,7 @@
   //--------------------------------------------
   .sum{
     padding: 0 1.8rem;
-    background:black;
+    background:#a8a8a9;
     display: table-cell;
     color:white;
   }
@@ -696,6 +696,7 @@
     font-size: 1rem;
     line-height: 1.5rem;
     padding: 0 1.3rem;
+    padding-bottom: 2rem;
     word-spacing: 0.25rem;
   }
   .groups p:after {
@@ -758,6 +759,7 @@
   .events p{
     padding: 0 1.3rem;
     line-height: 1.5rem;
+    padding-bottom: 2rem;
   }
   .events p:nth-of-type(2n) {
     display: block;
@@ -826,7 +828,7 @@
       flex: 0;
       font-size: 1rem;
       padding: 0 1.3rem;
-      padding-bottom: 3rem;
+      padding-bottom: 2rem;
       line-height: 1.5rem;
       img{
         width: 20%;
@@ -944,7 +946,7 @@
   .influencers p {
     display: block;
     padding: 0 1.3rem;
-    padding-bottom: 3rem;
+    padding-bottom: 2rem;
     font-size: 1rem;
     line-height: 1.5rem;
     img{
@@ -994,6 +996,7 @@
     display: block;
     letter-spacing: 0.5px;
     padding: 0 1.3rem;
+    padding-bottom: 2rem;
     font-size: 1rem;
     line-height: 1.5rem;
   }
@@ -1046,7 +1049,7 @@
   .organizations p {
   display: block;
   padding: 0 1.3rem;
-  padding-bottom: 3rem;
+  padding-bottom: 2rem;
   line-height: 1.5rem;
   }
 

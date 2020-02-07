@@ -52,7 +52,6 @@ class MarkdownTransform {
                     data = this.addOneLine(data, city, "overview", "<div class=overview>");
                     
                     try {
-                        console.log("index of ecosystems", index)
                         let subheadingIndex = data.indexOf("# Ecosystems") + 1;
                         let subheadingTextEcosystems = "Check any of the " + cities.length + " unloked AI ecosystems. If yours isn't listed yet, [contact us](mailto:aiwiki@city.ai)"; 
                         let index = data.indexOf("<div class=ecosystems>") + 1;
