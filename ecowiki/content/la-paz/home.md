@@ -12,7 +12,7 @@
 <a href="#ecosystems"><strong>0</strong></a>
 </div>
 <div class=column>
-<a href="#events" ><strong>5</strong></a>
+<a href="#events" ><strong>4</strong></a>
 </div>
 <div class=column>
 <a href="#community" ><strong>0</strong></a>
@@ -25,7 +25,7 @@
 </div>
 </div>
 <div class=status>
-<div class=column>COMMUNITY MEMBERS</div>
+<div class=column>MEMBERS</div>
 <div class=column>EVENTS</div>
 <div class=column>INFLUENCERS</div>
 <div class=column>STARTUPS</div>
@@ -145,25 +145,10 @@ The voices of the local AI community
 
 
 # Events
-5 upcoming AI-related events.
+4 upcoming AI-related events.
 <div class=events>
 
 <div class=column id=0>
-
-[Saturdays.AI La Paz | Demo Day](https://www.meetup.com/Data-Science-Bolivia/events/268439085/)
-##### Sat Feb 08 2020
-**Location:** [La Paz](/La Paz/home/)
-**Organizer:** Data Science Bolivia
-
-
-[TensorFlow LPUG | TensorFlow Dev Summit 2020 Extended ](https://www.meetup.com/Data-Science-Bolivia/events/268469943/)
-##### Mon Mar 23 2020
-**Location:** [La Paz](/La Paz/home/)
-**Organizer:** Data Science Bolivia
-
-
-</div>
-<div class=column id=1>
 
 [Kaggle Days Meetup La Paz II](https://www.meetup.com/Kaggle-Days-Meetup-La-Paz/events/268351035/)
 ##### Thu Feb 27 2020
@@ -172,7 +157,7 @@ The voices of the local AI community
 
 
 </div>
-<div class=column id=2>
+<div class=column id=1>
 
 [International Women Day](https://www.meetup.com/GDG-La-Paz/events/268467625/)
 ##### Sat Mar 21 2020
@@ -181,9 +166,18 @@ The voices of the local AI community
 
 
 </div>
-<div class=column id=3>
+<div class=column id=2>
 
 [Team Cloud | Amazon for Poets](https://www.meetup.com/Data-Science-Bolivia/events/268267947/)
+##### Mon Mar 23 2020
+**Location:** [La Paz](/La Paz/home/)
+**Organizer:** Data Science Bolivia
+
+
+</div>
+<div class=column id=3>
+
+[TensorFlow LPUG | TensorFlow Dev Summit 2020 Extended ](https://www.meetup.com/Data-Science-Bolivia/events/268469943/)
 ##### Mon Mar 23 2020
 **Location:** [La Paz](/La Paz/home/)
 **Organizer:** Data Science Bolivia
@@ -317,7 +311,7 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 
 # Partners
 
-Thanks to our global supporters, this initiative will keep evolving.
+AI Ecosystem Wiki is continuously growing thanks to our founding partners and global supporters!
 <div class=partners>
 <div class=column id=0>
 <img src="/images/peltarion_logotype_horizontal_red.png" >

@@ -258,7 +258,7 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 
 # Partners
 
-Thanks to our global supporters, this initiative will keep evolving.
+AI Ecosystem Wiki is continuously growing thanks to our founding partners and global supporters!
 <div class=partners>
 <div class=column id=0>
 <img src="/images/peltarion_logotype_horizontal_red.png" >

@@ -11,7 +11,7 @@
 <a href="#ecosystems"><strong>6</strong></a>
 </div>
 <div class=column>
-<a href="#events" ><strong>107</strong></a>
+<a href="#events" ><strong>101</strong></a>
 </div>
 <div class=column>
 <a href="#community" ><strong>35</strong></a>
@@ -123,58 +123,10 @@ Connect with 3 community groups promoting the best practices in AI. These are th
 </div>
 
 # Events
-107 upcoming AI-related events. In past 352 events have been hosted
+101 upcoming AI-related events. In past 358 events have been hosted
 <div class=events>
 
 <div class=column id=0>
-
-[Day classroom based workshop in quantum computing advances](https://www.meetup.com/London-Quantum-computing-training-and-coding-course/events/265409784/)
-##### Fri Feb 07 2020
-**Location:** [London](/London/home/)
-**Organizer:** London Quantum Computing; Training and Coding Course
-
-
-[Saturdays.AI La Paz | Demo Day](https://www.meetup.com/Data-Science-Bolivia/events/268439085/)
-##### Sat Feb 08 2020
-**Location:** [La Paz](/La Paz/home/)
-**Organizer:** Data Science Bolivia
-
-
-[Refine your Raspberry Pi robot](https://www.meetup.com/Red-Sprite/events/267902186/)
-##### Tue Feb 11 2020
-**Location:** [London](/London/home/)
-**Organizer:** Red Sprite
-
-
-</div>
-<div class=column id=1>
-
-[Grakn Cosmos (Day 2): Knowledge Graph in ML, NLP, Biotech, Security, Robotics](https://www.meetup.com/grakn-london/events/267341588/)
-##### Fri Feb 07 2020
-**Location:** [London](/London/home/)
-**Organizer:** Grakn London Engineers
-
-
-[3. Womentechmakers Firebase and Web crash-course ](https://www.meetup.com/gdgcloud/events/268087412/)
-##### Mon Feb 10 2020
-**Location:** [London](/London/home/)
-**Organizer:** GDG Cloud London
-
-
-[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/zjppmrybcdbpb/)
-##### Tue Feb 11 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Advanced Machine Learning Study Group
-
-
-</div>
-<div class=column id=2>
-
-[Deep clustering with concrete k-means (https://arxiv.org/abs/1910.08031)](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/fstbnrybcdbkb/)
-##### Fri Feb 07 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Advanced Machine Learning Study Group
-
 
 [She In Tech - Edition 3](https://www.meetup.com/datachaindc/events/266780265/)
 ##### Tue Feb 11 2020
@@ -188,14 +140,14 @@ Connect with 3 community groups promoting the best practices in AI. These are th
 **Organizer:** IBM Code London
 
 
-</div>
-<div class=column id=3>
-
-[Tensorflow Examples - run and discuss](https://www.meetup.com/TensorflowRUs/events/268290755/)
-##### Sat Feb 08 2020
+[Using data to measure and increase agility in Software Projects](https://www.meetup.com/London-Project-Data-and-Analytics-meetup/events/266967727/)
+##### Wed Feb 12 2020
 **Location:** [London](/London/home/)
-**Organizer:** TensorflowRUs
+**Organizer:** London Project Data Analytics Meetup
 
+
+</div>
+<div class=column id=1>
 
 [Blockchain beyond the Hype: Real-life solution on Azure](https://www.meetup.com/Microsoft-Reactor-London/events/267316738/)
 ##### Tue Feb 11 2020
@@ -209,6 +161,54 @@ Connect with 3 community groups promoting the best practices in AI. These are th
 **Organizer:** West London Ethical Technology Meetup
 
 
+[FREE Marketing Attribution Modelling: Data & Analytics](https://www.meetup.com/Digital/events/268212385/)
+##### Wed Feb 12 2020
+**Location:** [London](/London/home/)
+**Organizer:** Outreach Digital | The Marketing, Analytics, UX & Tech Club
+
+
+</div>
+<div class=column id=2>
+
+[Refine your Raspberry Pi robot](https://www.meetup.com/Red-Sprite/events/267902186/)
+##### Tue Feb 11 2020
+**Location:** [London](/London/home/)
+**Organizer:** Red Sprite
+
+
+[AI in Action @Sennder](https://www.meetup.com/AI-in-Action-Berlin/events/266889865/)
+##### Wed Feb 12 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** AI in Action Berlin
+
+
+[Using data to increase agility in Software Projects and Is RPA the path to AI?](https://www.meetup.com/London-Project-Data-and-Analytics-meetup/events/266967727/)
+##### Wed Feb 12 2020
+**Location:** [London](/London/home/)
+**Organizer:** London Project Data Analytics Meetup
+
+
+</div>
+<div class=column id=3>
+
+[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/zjppmrybcdbpb/)
+##### Tue Feb 11 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Advanced Machine Learning Study Group
+
+
+[Tech Talk: Developing machine learning algorithms to detect violent propaganda](https://www.meetup.com/data-science-lab/events/267249183/)
+##### Wed Feb 12 2020
+**Location:** [London](/London/home/)
+**Organizer:** Data Science Lab
+
+
+[Do you want to stay Outside IR35 Private Sector Legislation?](https://www.meetup.com/Agile-Xpertise/events/268294145/)
+##### Wed Feb 12 2020
+**Location:** [London](/London/home/)
+**Organizer:** Agile Xpertise
+
+
 </div>
 
 </div>
@@ -219,84 +219,60 @@ The voices of the global AI community
 
 <div class=column id=0>
 
-![http://pbs.twimg.com/profile_images/999401515352653824/RJODfftT_normal.jpg](http://pbs.twimg.com/profile_images/999401515352653824/RJODfftT_normal.jpg){: width=15%}
 [zohbi](https://twitter.com/kristoffzoghbi)
-**Followers:** 111
 **Location:** [Berlin](/Berlin/home/)
 
 
-![http://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg](http://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg){: width=15%}
 [Nathan Benaich](https://twitter.com/NathanBenaich)
-**Followers:** 24090
 **Location:** [Berlin](/Berlin/home/)
 
 
-![http://pbs.twimg.com/profile_images/871771574482939904/F3f7x1Kx_normal.jpg](http://pbs.twimg.com/profile_images/871771574482939904/F3f7x1Kx_normal.jpg){: width=15%}
 [Jorge Davila-Chacon](https://twitter.com/jorgedch)
-**Followers:** 68
 **Location:** [Berlin](/Berlin/home/)
 
 
 </div>
 <div class=column id=1>
 
-![http://pbs.twimg.com/profile_images/768873738976845825/aIBDxrUp_normal.jpg](http://pbs.twimg.com/profile_images/768873738976845825/aIBDxrUp_normal.jpg){: width=15%}
 [Pierre Garreau](https://twitter.com/pierre_garreau)
-**Followers:** 82
 **Location:** [Berlin](/Berlin/home/)
 
 
-![http://pbs.twimg.com/profile_images/821139929824718849/DUPNDonK_normal.jpg](http://pbs.twimg.com/profile_images/821139929824718849/DUPNDonK_normal.jpg){: width=15%}
 [Christoph Auer-Welsbach](https://twitter.com/AWChristoph)
-**Followers:** 2566
 **Location:** [Berlin](/Berlin/home/)
 
 
-![http://pbs.twimg.com/profile_images/2865048707/3147385297fac0765fcfc54c7299df0b_normal.jpeg](http://pbs.twimg.com/profile_images/2865048707/3147385297fac0765fcfc54c7299df0b_normal.jpeg){: width=15%}
 [Manuel Koelman](https://twitter.com/manuelkoelman)
-**Followers:** 2844
 **Location:** [Berlin](/Berlin/home/)
 
 
 </div>
 <div class=column id=2>
 
-![http://pbs.twimg.com/profile_images/697915634106159104/VtPwfqmI_normal.jpg](http://pbs.twimg.com/profile_images/697915634106159104/VtPwfqmI_normal.jpg){: width=15%}
 [Caspian Robotics](https://twitter.com/CaspianRobotics)
-**Followers:** 46
 **Location:** [Berlin](/Berlin/home/)
 
 
-![http://pbs.twimg.com/profile_images/849369229023379457/w8DBeO3q_normal.jpg](http://pbs.twimg.com/profile_images/849369229023379457/w8DBeO3q_normal.jpg){: width=15%}
 [Luc Dudler](https://twitter.com/lucdudler)
-**Followers:** 557
 **Location:** [Berlin](/Berlin/home/)
 
 
-![http://pbs.twimg.com/profile_images/942046600712597504/YaTPOJKQ_normal.jpg](http://pbs.twimg.com/profile_images/942046600712597504/YaTPOJKQ_normal.jpg){: width=15%}
 [Ralf Herbrich](https://twitter.com/rherbrich)
-**Followers:** 2798
 **Location:** [Berlin](/Berlin/home/)
 
 
 </div>
 <div class=column id=3>
 
-![http://pbs.twimg.com/profile_images/742363756819283968/BiC3lIkl_normal.jpg](http://pbs.twimg.com/profile_images/742363756819283968/BiC3lIkl_normal.jpg){: width=15%}
 [Fabian Westerheide](https://twitter.com/bootstrappingme)
-**Followers:** 2523
 **Location:** [Berlin](/Berlin/home/)
 
 
-![http://pbs.twimg.com/profile_images/1101007339660996609/yJBXjRIo_normal.png](http://pbs.twimg.com/profile_images/1101007339660996609/yJBXjRIo_normal.png){: width=15%}
 [Frederik Eichelbaum](https://twitter.com/eichelbaum)
-**Followers:** 119
 **Location:** [Berlin](/Berlin/home/)
 
 
-![http://pbs.twimg.com/profile_images/69411024/appuTwitter_trim_normal.png](http://pbs.twimg.com/profile_images/69411024/appuTwitter_trim_normal.png){: width=15%}
 [appughar](https://twitter.com/appughar)
-**Followers:** 377
 **Location:** [Berlin](/Berlin/home/)
 
 
@@ -351,7 +327,7 @@ Active local organizations and initiatives related to AI
 # Startups
 Explore the newest startups working with AI technologies, from a total of 269 companies.
 <div class=logoCB>
-Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_crop.png" style="width:20%;"/></a>
+Powered by: <a href="https://crunchbase.com/"><img src="/uploads/crunchbaseaiwiki.png" style="width:20%;"/></a>
 </div>
 <div class=startups>
 

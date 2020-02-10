@@ -12,7 +12,7 @@
 <a href="#ecosystems"><strong>0</strong></a>
 </div>
 <div class=column>
-<a href="#events" ><strong>60</strong></a>
+<a href="#events" ><strong>56</strong></a>
 </div>
 <div class=column>
 <a href="#community" ><strong>18</strong></a>
@@ -25,7 +25,7 @@
 </div>
 </div>
 <div class=status>
-<div class=column>COMMUNITY MEMBERS</div>
+<div class=column>MEMBERS</div>
 <div class=column>EVENTS</div>
 <div class=column>INFLUENCERS</div>
 <div class=column>STARTUPS</div>
@@ -105,84 +105,60 @@ The voices of the local AI community
 
 <div class=column id=0>
 
-![http://pbs.twimg.com/profile_images/1033645456306458624/K7uIEHSL_normal.jpg](http://pbs.twimg.com/profile_images/1033645456306458624/K7uIEHSL_normal.jpg)
 [Prof Andy Pardoe #intoAI #AI](https://twitter.com/Pardoe_AI)
-**Followers:** 13698
 **Location:** [London](/London/home/)
 
 
-![http://pbs.twimg.com/profile_images/748695622140719104/6j_LVovF_normal.jpg](http://pbs.twimg.com/profile_images/748695622140719104/6j_LVovF_normal.jpg)
 [AI](https://twitter.com/DeepLearn007)
-**Followers:** 127843
 **Location:** [London](/London/home/)
 
 
-![http://pbs.twimg.com/profile_images/1085251590997622784/x9mWVQ1d_normal.jpg](http://pbs.twimg.com/profile_images/1085251590997622784/x9mWVQ1d_normal.jpg)
 [Nige Willson](https://twitter.com/nigewillson)
-**Followers:** 55501
 **Location:** [London](/London/home/)
 
 
 </div>
 <div class=column id=1>
 
-![http://pbs.twimg.com/profile_images/1181544698504200193/SU9Yp8lB_normal.jpg](http://pbs.twimg.com/profile_images/1181544698504200193/SU9Yp8lB_normal.jpg)
 [Herman Narula](https://twitter.com/HermanNarula)
-**Followers:** 3346
 **Location:** [London](/London/home/)
 
 
-![http://pbs.twimg.com/profile_images/1165526320270512128/E25t1qE-_normal.jpg](http://pbs.twimg.com/profile_images/1165526320270512128/E25t1qE-_normal.jpg)
 [Ian Osband](https://twitter.com/IanOsband)
-**Followers:** 3192
 **Location:** [London](/London/home/)
 
 
-![http://pbs.twimg.com/profile_images/1176612849558458368/fMzk30Ps_normal.jpg](http://pbs.twimg.com/profile_images/1176612849558458368/fMzk30Ps_normal.jpg)
 [Jamie Qiu](https://twitter.com/jamieqiu)
-**Followers:** 432
 **Location:** [London](/London/home/)
 
 
 </div>
 <div class=column id=2>
 
-![http://pbs.twimg.com/profile_images/693831081599090689/gmsqXVJn_normal.jpg](http://pbs.twimg.com/profile_images/693831081599090689/gmsqXVJn_normal.jpg)
 [Mustafa Suleyman](https://twitter.com/mustafasuleymn)
-**Followers:** 43894
 **Location:** [London](/London/home/)
 
 
-![http://pbs.twimg.com/profile_images/685423247391899649/nzF0F8cE_normal.jpg](http://pbs.twimg.com/profile_images/685423247391899649/nzF0F8cE_normal.jpg)
 [Ferenc Huszár🇪🇺](https://twitter.com/fhuszar)
-**Followers:** 21774
 **Location:** [London](/London/home/)
 
 
-![http://pbs.twimg.com/profile_images/707945275420233731/Qrta9bBg_normal.jpg](http://pbs.twimg.com/profile_images/707945275420233731/Qrta9bBg_normal.jpg)
 [Shane Legg](https://twitter.com/ShaneLegg)
-**Followers:** 39086
 **Location:** [London](/London/home/)
 
 
 </div>
 <div class=column id=3>
 
-![http://pbs.twimg.com/profile_images/691700243809718272/z7XZUARB_normal.jpg](http://pbs.twimg.com/profile_images/691700243809718272/z7XZUARB_normal.jpg)
 [Demis Hassabis](https://twitter.com/demishassabis)
-**Followers:** 174694
 **Location:** [London](/London/home/)
 
 
-![http://pbs.twimg.com/profile_images/1189809148348829697/HJPXbo3J_normal.jpg](http://pbs.twimg.com/profile_images/1189809148348829697/HJPXbo3J_normal.jpg)
 [Murray Shanahan](https://twitter.com/mpshanahan)
-**Followers:** 9205
 **Location:** [London](/London/home/)
 
 
-![http://pbs.twimg.com/profile_images/1127958992947380227/3Nf7VqW9_normal.jpg](http://pbs.twimg.com/profile_images/1127958992947380227/3Nf7VqW9_normal.jpg)
 [Ankur Modi](https://twitter.com/ankurmodi)
-**Followers:** 3063
 **Location:** [London](/London/home/)
 
 
@@ -253,16 +229,10 @@ The voices of the local AI community
 
 
 # Events
-60 upcoming AI-related events.
+56 upcoming AI-related events.
 <div class=events>
 
 <div class=column id=0>
-
-[Day classroom based workshop in quantum computing advances](https://www.meetup.com/London-Quantum-computing-training-and-coding-course/events/265409784/)
-##### Fri Feb 07 2020
-**Location:** [London](/London/home/)
-**Organizer:** London Quantum Computing; Training and Coding Course
-
 
 [Blockchain beyond the Hype: Real-life solution on Azure](https://www.meetup.com/Microsoft-Reactor-London/events/267316738/)
 ##### Tue Feb 11 2020
@@ -276,14 +246,14 @@ The voices of the local AI community
 **Organizer:** Data Science Lab
 
 
+[Do you want to stay Outside IR35 Private Sector Legislation?](https://www.meetup.com/Agile-Xpertise/events/268294145/)
+##### Wed Feb 12 2020
+**Location:** [London](/London/home/)
+**Organizer:** Agile Xpertise
+
+
 </div>
 <div class=column id=1>
-
-[Grakn Cosmos (Day 2): Knowledge Graph in ML, NLP, Biotech, Security, Robotics](https://www.meetup.com/grakn-london/events/267341588/)
-##### Fri Feb 07 2020
-**Location:** [London](/London/home/)
-**Organizer:** Grakn London Engineers
-
 
 [Refine your Raspberry Pi robot](https://www.meetup.com/Red-Sprite/events/267902186/)
 ##### Tue Feb 11 2020
@@ -297,14 +267,14 @@ The voices of the local AI community
 **Organizer:** London Project Data Analytics Meetup
 
 
+[Data Book Club: Ben Jones - Avoiding Data Pitfalls](https://www.meetup.com/Advanced-Data-Visualization-London/events/268088712/)
+##### Thu Feb 13 2020
+**Location:** [London](/London/home/)
+**Organizer:** Advanced Data Visualisation London
+
+
 </div>
 <div class=column id=2>
-
-[Tensorflow Examples - run and discuss](https://www.meetup.com/TensorflowRUs/events/268290755/)
-##### Sat Feb 08 2020
-**Location:** [London](/London/home/)
-**Organizer:** TensorflowRUs
-
 
 [AI on the edge: iOS and Tensorflow.js (Tech Talk) ](https://www.meetup.com/IBM-Code-London/events/268292234/)
 ##### Tue Feb 11 2020
@@ -318,14 +288,14 @@ The voices of the local AI community
 **Organizer:** Outreach Digital | The Marketing, Analytics, UX & Tech Club
 
 
+[Artificial Intelligence – Promise or Threat?](https://www.meetup.com/Light-in-London/events/267863404/)
+##### Sat Feb 15 2020
+**Location:** [London](/London/home/)
+**Organizer:** Light in London -  Mostly Free spiritual events
+
+
 </div>
 <div class=column id=3>
-
-[3. Womentechmakers Firebase and Web crash-course ](https://www.meetup.com/gdgcloud/events/268087412/)
-##### Mon Feb 10 2020
-**Location:** [London](/London/home/)
-**Organizer:** GDG Cloud London
-
 
 [Meetup #11: Pay to Play - ethical pricing](https://www.meetup.com/West-London-Ethical-Technology-Meetup/events/268123598/)
 ##### Tue Feb 11 2020
@@ -337,6 +307,12 @@ The voices of the local AI community
 ##### Wed Feb 12 2020
 **Location:** [London](/London/home/)
 **Organizer:** London Project Data Analytics Meetup
+
+
+[4. Womentechmakers Firebase and Web crash-course - Graduation!](https://www.meetup.com/gdgcloud/events/268087505/)
+##### Mon Feb 17 2020
+**Location:** [London](/London/home/)
+**Organizer:** GDG Cloud London
 
 
 </div>
@@ -351,12 +327,6 @@ The voices of the local AI community
 
 
 <div class=column id=0>
-
-[Do you want to stay Outside IR35 Private Sector Legislation?](https://www.meetup.com/Agile-Xpertise/events/268294145/)
-##### Wed Feb 12 2020
-**Location:** [London](/London/home/)
-**Organizer:** Agile Xpertise
-
 
 [Building & Deploying Serverless applications to the Cloud using Nest.js](https://www.meetup.com/Microsoft-Reactor-London/events/265868971/)
 ##### Tue Feb 18 2020
@@ -427,12 +397,6 @@ The voices of the local AI community
 </div>
 <div class=column id=1>
 
-[Data Book Club: Ben Jones - Avoiding Data Pitfalls](https://www.meetup.com/Advanced-Data-Visualization-London/events/268088712/)
-##### Thu Feb 13 2020
-**Location:** [London](/London/home/)
-**Organizer:** Advanced Data Visualisation London
-
-
 [Mini Workshop: Build your 1st Twitter Bot with Azure Serverless & Github actions](https://www.meetup.com/Microsoft-Reactor-London/events/267316785/)
 ##### Tue Feb 18 2020
 **Location:** [London](/London/home/)
@@ -502,12 +466,6 @@ The voices of the local AI community
 </div>
 <div class=column id=2>
 
-[Artificial Intelligence – Promise or Threat?](https://www.meetup.com/Light-in-London/events/267863404/)
-##### Sat Feb 15 2020
-**Location:** [London](/London/home/)
-**Organizer:** Light in London -  Mostly Free spiritual events
-
-
 [Learn how to code a Quantum Computer - Training Course](https://www.meetup.com/London-Quantum-computing-training-and-coding-course/events/267774508/)
 ##### Tue Feb 18 2020
 **Location:** [London](/London/home/)
@@ -576,12 +534,6 @@ The voices of the local AI community
 
 </div>
 <div class=column id=3>
-
-[4. Womentechmakers Firebase and Web crash-course - Graduation!](https://www.meetup.com/gdgcloud/events/268087505/)
-##### Mon Feb 17 2020
-**Location:** [London](/London/home/)
-**Organizer:** GDG Cloud London
-
 
 [FREE SEO TALK: Strategy vs Tactics - How to Maximise Business Benefits](https://www.meetup.com/Digital/events/268145975/)
 ##### Tue Feb 18 2020
@@ -1742,7 +1694,7 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 
 # Partners
 
-Thanks to our global supporters, this initiative will keep evolving.
+AI Ecosystem Wiki is continuously growing thanks to our founding partners and global supporters!
 <div class=partners>
 <div class=column id=0>
 <img src="/images/peltarion_logotype_horizontal_red.png" >

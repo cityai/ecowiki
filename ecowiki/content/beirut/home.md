@@ -25,7 +25,7 @@
 </div>
 </div>
 <div class=status>
-<div class=column>COMMUNITY MEMBERS</div>
+<div class=column>MEMBERS</div>
 <div class=column>EVENTS</div>
 <div class=column>INFLUENCERS</div>
 <div class=column>STARTUPS</div>
@@ -107,18 +107,14 @@ The voices of the local AI community
 
 <div class=column id=0>
 
-![http://pbs.twimg.com/profile_images/999401515352653824/RJODfftT_normal.jpg](http://pbs.twimg.com/profile_images/999401515352653824/RJODfftT_normal.jpg)
 [zohbi](https://twitter.com/kristoffzoghbi)
-**Followers:** 111
 **Location:** [Berlin](/Berlin/home/)
 
 
 </div>
 <div class=column id=1>
 
-![link](link)
 [John Dioe](asdasd)
-**Followers:** 213
 **Location:** [Beirut](/Beirut/home/)
 
 
@@ -350,7 +346,7 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 
 # Partners
 
-Thanks to our global supporters, this initiative will keep evolving.
+AI Ecosystem Wiki is continuously growing thanks to our founding partners and global supporters!
 <div class=partners>
 <div class=column id=0>
 <img src="/images/peltarion_logotype_horizontal_red.png" >

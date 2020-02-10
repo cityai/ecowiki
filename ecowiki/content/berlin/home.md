@@ -12,7 +12,7 @@
 <a href="#ecosystems"><strong>448</strong></a>
 </div>
 <div class=column>
-<a href="#events" ><strong>41</strong></a>
+<a href="#events" ><strong>40</strong></a>
 </div>
 <div class=column>
 <a href="#community" ><strong>13</strong></a>
@@ -25,7 +25,7 @@
 </div>
 </div>
 <div class=status>
-<div class=column>COMMUNITY MEMBERS</div>
+<div class=column>MEMBERS</div>
 <div class=column>EVENTS</div>
 <div class=column>INFLUENCERS</div>
 <div class=column>STARTUPS</div>
@@ -120,84 +120,60 @@ The voices of the local AI community
 
 <div class=column id=0>
 
-![http://pbs.twimg.com/profile_images/768873738976845825/aIBDxrUp_normal.jpg](http://pbs.twimg.com/profile_images/768873738976845825/aIBDxrUp_normal.jpg)
 [Pierre Garreau](https://twitter.com/pierre_garreau)
-**Followers:** 82
 **Location:** [Berlin](/Berlin/home/)
 
 
-![http://pbs.twimg.com/profile_images/821139929824718849/DUPNDonK_normal.jpg](http://pbs.twimg.com/profile_images/821139929824718849/DUPNDonK_normal.jpg)
 [Christoph Auer-Welsbach](https://twitter.com/AWChristoph)
-**Followers:** 2566
 **Location:** [Berlin](/Berlin/home/)
 
 
-![http://pbs.twimg.com/profile_images/2865048707/3147385297fac0765fcfc54c7299df0b_normal.jpeg](http://pbs.twimg.com/profile_images/2865048707/3147385297fac0765fcfc54c7299df0b_normal.jpeg)
 [Manuel Koelman](https://twitter.com/manuelkoelman)
-**Followers:** 2844
 **Location:** [Berlin](/Berlin/home/)
 
 
 </div>
 <div class=column id=1>
 
-![http://pbs.twimg.com/profile_images/697915634106159104/VtPwfqmI_normal.jpg](http://pbs.twimg.com/profile_images/697915634106159104/VtPwfqmI_normal.jpg)
 [Caspian Robotics](https://twitter.com/CaspianRobotics)
-**Followers:** 46
 **Location:** [Berlin](/Berlin/home/)
 
 
-![http://pbs.twimg.com/profile_images/849369229023379457/w8DBeO3q_normal.jpg](http://pbs.twimg.com/profile_images/849369229023379457/w8DBeO3q_normal.jpg)
 [Luc Dudler](https://twitter.com/lucdudler)
-**Followers:** 557
 **Location:** [Berlin](/Berlin/home/)
 
 
-![http://pbs.twimg.com/profile_images/942046600712597504/YaTPOJKQ_normal.jpg](http://pbs.twimg.com/profile_images/942046600712597504/YaTPOJKQ_normal.jpg)
 [Ralf Herbrich](https://twitter.com/rherbrich)
-**Followers:** 2798
 **Location:** [Berlin](/Berlin/home/)
 
 
 </div>
 <div class=column id=2>
 
-![http://pbs.twimg.com/profile_images/742363756819283968/BiC3lIkl_normal.jpg](http://pbs.twimg.com/profile_images/742363756819283968/BiC3lIkl_normal.jpg)
 [Fabian Westerheide](https://twitter.com/bootstrappingme)
-**Followers:** 2523
 **Location:** [Berlin](/Berlin/home/)
 
 
-![http://pbs.twimg.com/profile_images/1101007339660996609/yJBXjRIo_normal.png](http://pbs.twimg.com/profile_images/1101007339660996609/yJBXjRIo_normal.png)
 [Frederik Eichelbaum](https://twitter.com/eichelbaum)
-**Followers:** 119
 **Location:** [Berlin](/Berlin/home/)
 
 
-![http://pbs.twimg.com/profile_images/69411024/appuTwitter_trim_normal.png](http://pbs.twimg.com/profile_images/69411024/appuTwitter_trim_normal.png)
 [appughar](https://twitter.com/appughar)
-**Followers:** 377
 **Location:** [Berlin](/Berlin/home/)
 
 
 </div>
 <div class=column id=3>
 
-![http://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg](http://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg)
 [Nathan Benaich](https://twitter.com/NathanBenaich)
-**Followers:** 24090
 **Location:** [Berlin](/Berlin/home/)
 
 
-![http://pbs.twimg.com/profile_images/871771574482939904/F3f7x1Kx_normal.jpg](http://pbs.twimg.com/profile_images/871771574482939904/F3f7x1Kx_normal.jpg)
 [Jorge Davila-Chacon](https://twitter.com/jorgedch)
-**Followers:** 68
 **Location:** [Berlin](/Berlin/home/)
 
 
-![http://pbs.twimg.com/profile_images/2375697680/8eu1lk0a2cp358dg0gh1_normal.jpeg](http://pbs.twimg.com/profile_images/2375697680/8eu1lk0a2cp358dg0gh1_normal.jpeg)
 [Ramzi Rizk](https://twitter.com/ramz)
-**Followers:** 3746
 **Location:** [Berlin](/Berlin/home/)
 
 
@@ -238,31 +214,10 @@ The voices of the local AI community
 
 
 # Events
-41 upcoming AI-related events.
+40 upcoming AI-related events.
 <div class=events>
 
 <div class=column id=0>
-
-[Deep clustering with concrete k-means (https://arxiv.org/abs/1910.08031)](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/fstbnrybcdbkb/)
-##### Fri Feb 07 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Advanced Machine Learning Study Group
-
-
-[Braincities Open Lab - Live & Public Podcast, Berlin](https://www.meetup.com/datachaindc/events/266776928/)
-##### Thu Feb 13 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** DATACHAIN FOUNDATION
-
-
-[Integrated and Centralized - Learnings from managing an embedded data team](https://www.meetup.com/Berlin-Women-in-Machine-Learning-and-Data-Science/events/268430194/)
-##### Tue Feb 18 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Berlin Women in Machine Learning & Data Science
-
-
-</div>
-<div class=column id=1>
 
 [She In Tech - Edition 3](https://www.meetup.com/datachaindc/events/266780265/)
 ##### Tue Feb 11 2020
@@ -283,7 +238,7 @@ The voices of the local AI community
 
 
 </div>
-<div class=column id=2>
+<div class=column id=1>
 
 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/zjppmrybcdbpb/)
 ##### Tue Feb 11 2020
@@ -304,7 +259,7 @@ The voices of the local AI community
 
 
 </div>
-<div class=column id=3>
+<div class=column id=2>
 
 [AI in Action @Sennder](https://www.meetup.com/AI-in-Action-Berlin/events/266889865/)
 ##### Wed Feb 12 2020
@@ -325,6 +280,27 @@ The voices of the local AI community
 
 
 </div>
+<div class=column id=3>
+
+[Braincities Open Lab - Live & Public Podcast, Berlin](https://www.meetup.com/datachaindc/events/266776928/)
+##### Thu Feb 13 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** DATACHAIN FOUNDATION
+
+
+[Integrated and Centralized - Learnings from managing an embedded data team](https://www.meetup.com/Berlin-Women-in-Machine-Learning-and-Data-Science/events/268430194/)
+##### Tue Feb 18 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Berlin Women in Machine Learning & Data Science
+
+
+[Bar on the Block w Solaris Bank, Bitwala, DASH and Iconic: Regulations & Trading](https://www.meetup.com/Crypto_Traders_Berlin/events/268116743/)
+##### Wed Feb 19 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Crypto Traders Berlin
+
+
+</div>
 
 </div>
 
@@ -336,57 +312,6 @@ The voices of the local AI community
 
 
 <div class=column id=0>
-
-[Bar on the Block w Solaris Bank, Bitwala, DASH and Iconic: Regulations & Trading](https://www.meetup.com/Crypto_Traders_Berlin/events/268116743/)
-##### Wed Feb 19 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Crypto Traders Berlin
-
-
-[Forum HR: The Future of Recruiting](https://www.meetup.com/Berlin-Digital-Business-Network-SIBB/events/268244888/)
-##### Tue Feb 25 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** 💥 Berlin Digital Business Network @SIBB 💥
-
-
-[Designing (with) AI](https://www.meetup.com/BrandNewThinkers/events/268166159/)
-##### Thu Feb 27 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Brand New Thinkers
-
-
-[IBM Healthcare Innovation Meetup @ IBM iX Studios Berlin](https://www.meetup.com/IBM-Healthcare-Innovation-Meetup-Berlin/events/267988496/)
-##### Thu Mar 12 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** IBM Healthcare Innovation Meetup @Berlin
-
-
-[Machine Learning & Deep Learning Bootcamp: Building Recommender System](https://www.meetup.com/beyond-machine/events/262610279/)
-##### Thu Mar 26 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Deep Learning & Machine Learning & Data PM Bootcamps
-
-
-[Application is now open : Machine Learning Bootcamp: Dynamic Pricing ](https://www.meetup.com/beyond-machine/events/262610667/)
-##### Fri Mar 27 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Deep Learning & Machine Learning & Data PM Bootcamps
-
-
-[AI in Action @Aroundhome](https://www.meetup.com/AI-in-Action-Berlin/events/268234577/)
-##### Thu Apr 16 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** AI in Action Berlin
-
-
-[Using Simulations And AI To Optimize Supply Chains](https://www.meetup.com/transforming-enterprises/events/267989257/)
-##### Thu Apr 23 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Transforming Enterprises
-
-
-</div>
-<div class=column id=1>
 
 [A Tale of Data And Growth Failure](https://www.meetup.com/beyond-machine/events/266806499/)
 ##### Thu Feb 20 2020
@@ -431,7 +356,7 @@ The voices of the local AI community
 
 
 </div>
-<div class=column id=2>
+<div class=column id=1>
 
 [Artificial Intelligence in HR](https://www.meetup.com/Berlin-Vernetzung-mit-Personalfachleuten-Meetup-Gruppe/events/268108253/)
 ##### Thu Feb 20 2020
@@ -476,7 +401,7 @@ The voices of the local AI community
 
 
 </div>
-<div class=column id=3>
+<div class=column id=2>
 
 [FilmTech Meetup #21: Fireside chat & podcast live recording](https://www.meetup.com/FilmTechBerlin/events/268401073/)
 ##### Mon Feb 24 2020
@@ -518,6 +443,51 @@ The voices of the local AI community
 ##### Thu Apr 23 2020
 **Location:** [Berlin](/Berlin/home/)
 **Organizer:** Deep Learning & Machine Learning & Data PM Bootcamps
+
+
+</div>
+<div class=column id=3>
+
+[Forum HR: The Future of Recruiting](https://www.meetup.com/Berlin-Digital-Business-Network-SIBB/events/268244888/)
+##### Tue Feb 25 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** 💥 Berlin Digital Business Network @SIBB 💥
+
+
+[Designing (with) AI](https://www.meetup.com/BrandNewThinkers/events/268166159/)
+##### Thu Feb 27 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Brand New Thinkers
+
+
+[IBM Healthcare Innovation Meetup @ IBM iX Studios Berlin](https://www.meetup.com/IBM-Healthcare-Innovation-Meetup-Berlin/events/267988496/)
+##### Thu Mar 12 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** IBM Healthcare Innovation Meetup @Berlin
+
+
+[Machine Learning & Deep Learning Bootcamp: Building Recommender System](https://www.meetup.com/beyond-machine/events/262610279/)
+##### Thu Mar 26 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Deep Learning & Machine Learning & Data PM Bootcamps
+
+
+[Application is now open : Machine Learning Bootcamp: Dynamic Pricing ](https://www.meetup.com/beyond-machine/events/262610667/)
+##### Fri Mar 27 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Deep Learning & Machine Learning & Data PM Bootcamps
+
+
+[AI in Action @Aroundhome](https://www.meetup.com/AI-in-Action-Berlin/events/268234577/)
+##### Thu Apr 16 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** AI in Action Berlin
+
+
+[Using Simulations And AI To Optimize Supply Chains](https://www.meetup.com/transforming-enterprises/events/267989257/)
+##### Thu Apr 23 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** Transforming Enterprises
 
 
 </div>
@@ -1487,7 +1457,7 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 
 # Partners
 
-Thanks to our global supporters, this initiative will keep evolving.
+AI Ecosystem Wiki is continuously growing thanks to our founding partners and global supporters!
 <div class=partners>
 <div class=column id=0>
 <img src="/images/peltarion_logotype_horizontal_red.png" >

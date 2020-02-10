@@ -25,7 +25,7 @@
 </div>
 </div>
 <div class=status>
-<div class=column>COMMUNITY MEMBERS</div>
+<div class=column>MEMBERS</div>
 <div class=column>EVENTS</div>
 <div class=column>INFLUENCERS</div>
 <div class=column>STARTUPS</div>
@@ -105,27 +105,21 @@ The voices of the local AI community
 
 <div class=column id=0>
 
-![http://pbs.twimg.com/profile_images/599938400901271553/H_5Eznsf_normal.jpg](http://pbs.twimg.com/profile_images/599938400901271553/H_5Eznsf_normal.jpg)
 [Alejandro Correa B](https://twitter.com/albahnsen)
-**Followers:** 731
 **Location:** [Bogota](/Bogota/home/)
 
 
 </div>
 <div class=column id=1>
 
-![http://pbs.twimg.com/profile_images/1134202198143963136/c0gzBQI6_normal.png](http://pbs.twimg.com/profile_images/1134202198143963136/c0gzBQI6_normal.png)
 [Jean Phillip Bernier](https://twitter.com/jean_p_bernier)
-**Followers:** 25
 **Location:** [Bogota](/Bogota/home/)
 
 
 </div>
 <div class=column id=2>
 
-![http://pbs.twimg.com/profile_images/713468146687086592/d6O_1IAU_normal.jpg](http://pbs.twimg.com/profile_images/713468146687086592/d6O_1IAU_normal.jpg)
 [Alejandro Betancourt](https://twitter.com/AlejoBt)
-**Followers:** 624
 **Location:** [Bogota](/Bogota/home/)
 
 
@@ -311,7 +305,7 @@ Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_
 
 # Partners
 
-Thanks to our global supporters, this initiative will keep evolving.
+AI Ecosystem Wiki is continuously growing thanks to our founding partners and global supporters!
 <div class=partners>
 <div class=column id=0>
 <img src="/images/peltarion_logotype_horizontal_red.png" >
