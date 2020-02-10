@@ -357,9 +357,9 @@
     flex: 0 10rem;
     font-size: 1rem;
     color: black;
-    &:first-child {
-      //padding-top: 20px;
-    }
+    // &:first-child {
+    //   //padding-top: 20px;
+    // }
 
     a.internal-link {
       // width: 300px;
@@ -934,8 +934,8 @@
       color: $a-hover-color-text;
     }
   }
-  .mkcontent .influencers p strong {
-  }
+  // .mkcontent .influencers p strong {
+  // }
   .influencers h4 {
     margin: 0;
     padding-bottom: 15px;
