@@ -1,0 +1,105 @@
+// --------------------------------------
+// FONTS
+// --------------------------------------
+
+
+$core-font-standard: 'Barlow',-apple-system, BlinkMacSystemFont,Roboto, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$core-font-monospace: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+
+// --------------------------------------
+// LAYOUT
+// --------------------------------------
+
+$tablet: 769px !default;
+$desktop: 980px !default;
+$widescreen: 1180px !default;
+
+// --------------------------------------
+// SIZES
+// --------------------------------------
+
+$map-width: 1500px;
+
+// --------------------------------------
+// COLORS
+// --------------------------------------
+
+$highlight-color-bg: #fff;
+$highlight-color-bg-secondary: #f8f8f8;
+$date-color-text: #000;
+
+$color-text: #000;
+$color-link: mc('blue', '500');
+$color-link-hover: mc('blue', '700');
+$color-link-active: mc('purple', '500');
+$color-bg: #F4F5F9;
+$hr-line-color: mc('grey','900');
+
+$bg-primary:#f0f1f2;
+$bg-secondary: #dcdcdc;
+//FOOTER VARS
+
+$footer-color-bg: #f8f8f8;
+$footer-color-text:mc('grey','800');
+
+// HERO VARS
+$hero-bg: #f8f8f8;
+$hero-color-text: mc('grey','900');
+$hero-color-h2: #C80000;
+$hero-border-color: mc('grey','600');
+
+// HEADER VARS
+
+$header-bg: #fff;
+$header-button-text: #000;
+$header-color-text:#fff;
+$header-color-text-hover: #C80000;
+
+//SIDEBAR VARS
+
+$sidebar-color-bg: $bg-primary;
+$sidebar-color-text-prim: mc('grey','900');
+$sidebar-color-text-sec: mc('grey','600');
+
+$second-header-bg: #f8f8f8;
+//CONTENT VARS
+
+$content-color-text:#C80000;
+$content-color-h2: #C80000;
+$content-color-a-hover: #C80000;
+$content-color-a: mc('grey','900');
+
+//MODAL VARS
+
+$modal-color-bg: #C80000;
+
+//SEARCH BAR VARS:
+
+$search-color-placeholder:mc('grey','900');
+$search-color-bg: black;
+$search-color-border: #f0f1f2;
+$search-color-border-focus: mc('grey','900');
+$search-color-text: #000;
+
+$search-result-color-bg: #fff;
+$search-result-color:#000;
+$search-result-a-color-bg: #C80000;
+$search-result-a-color: #fff;
+
+//BUTTON VARS
+$button-color-bg: #C80000;
+$button-color-bg-hover: #6e6e6e;
+$button-color: #fff;
+$button-color-hover:#dcdcdc;
+
+//SELECTION VARS
+$selection-color-bg: #000;
+$selection-color: #fff;
+
+//LINKS VARS
+$a-hover-color-text: #C80000;
+$a-color-text: #000;
+
+//STATUS VARS
+$status-color-number: #C80000;
+$status-color-text: #000;

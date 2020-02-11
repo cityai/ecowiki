@@ -1,0 +1,30 @@
+
+#header-container
+  nav.nav#header(class=['is-' + appconfig.theme.primary], ref='header')
+    .nav-left
+      block rootNavLeft
+        a.nav-item(href='/')
+          img(src=appconfig.host + '/images/ai_wiki_logo_2020.svg' style='width:15rem; height:5rem;')
+          //- h1.logoHeader AI
+          //-   small.small-class wi
+          //-   small.small-class1 ki
+    .nav-center
+      block rootNavCenter
+          search
+    span.nav-toggle
+      span
+      span
+      span
+    .nav-right
+      .nav-item
+        a.button(href="https://city.ai/")
+          span City.AI
+        //- a.button(href="https://www.aiwiki.co/main/cities")
+        //-   span ECOSYSTEMS
+        a.button(href="/about")
+          span About
+        if isGuest  
+          a.button(href='/Login')
+            span Log.In
+      block rootNavRight
+        loading-spinner

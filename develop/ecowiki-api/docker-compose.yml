@@ -1,0 +1,29 @@
+version: '3.6'
+services: 
+  mongo: 
+    image: mongo
+    expose: 
+      - '27017'
+    command: '--smallfiles --bind_ip ::,0.0.0.0'
+    networks: 
+      - webappnetwork
+  app: 
+    container_name: ecowiki-api_app 
+    restart: always
+    volumes:
+      - ./wikiData:/data:rw
+    build: .
+    ports: 
+      - "127.0.0.1:3000:3000"
+    links:
+      - mongo
+    depends_on: 
+      - mongo 
+    networks: 
+      - webappnetwork
+networks: 
+  webappnetwork:
+    driver: bridge
+volumes:
+  wikiData:
+  

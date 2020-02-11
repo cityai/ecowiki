@@ -1,0 +1,113 @@
+@import "../base/variables.scss";
+::selection{
+  background-color: black;
+  color: white;
+}
+::-moz-selection{
+  background-color: black;
+  color: white;
+}
+
+@media only screen and (max-width: 480px){
+  .hero{
+    img{
+      width: 200px;
+    }
+  }
+}
+
+.hero {
+  padding-top: 2rem;
+  padding-left: 2.25rem;
+  padding-bottom: 2rem;
+  @media only screen and (min-width: 320px) and (max-width: 380px){
+		padding-left: 0;
+	}
+
+  background: $hero-bg; //linear-gradient(to right,$bg-primary,$bg-secondary);
+  //border-bottom: 1px solid  $hero-border-color;
+  position: relative;
+
+  h1,
+  h1.title {
+    position: relative;
+    width: max-content;
+    font-size: 6rem;
+    $set-width: 90px;
+    //background: linear-gradient(to right, #000000, #c80000);
+	background-color: black;
+	text-transform: uppercase;
+	-webkit-background-clip: text;
+    //padding-left:20px;
+    -webkit-text-fill-color: transparent;
+
+    font-weight: 900;
+  }
+
+  h2 {
+    font-size: 1rem;
+    color: $hero-color-h2;
+    border-top: thin solid black;
+    margin-top: 80px;
+    padding-bottom: 80px;
+    padding-top: 12px;
+    padding-left: 20px;
+    font-weight: 400;
+    width: 300px;
+    letter-spacing: 3px;
+  }
+
+  .pageicon {
+    position: absolute;
+    right: 20px;
+    top: 28px;
+    font-size: 3rem;
+    color: mc("blue-grey", "500");
+  }
+
+  .hero-menu {
+    position: absolute;
+    right: 20px;
+    bottom: -1px;
+    z-index: 1;
+    display: flex;
+
+    li {
+      display: flex;
+      margin-left: 1px;
+
+      a,
+      button {
+        background-color: mc("light-blue", "500");
+        color: #fff;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0 15px;
+        height: 32px;
+        border: 1px solid mc("light-blue", "600");
+        font-family: $core-font-standard;
+        font-size: 0.8125rem;
+        transition: all 0.4s ease;
+        cursor: pointer;
+        text-decoration: none;
+        text-transform: uppercase;
+
+        i {
+          margin-right: 10px;
+        }
+
+        @each $color, $colorvalue in $material-colors {
+          &.is-#{$color} {
+            background-color: mc($color, "600");
+            border-color: mc($color, "600");
+
+            &:hover {
+              background-color: mc($color, "800");
+            }
+          }
+        }
+      }
+    }
+  }
+}

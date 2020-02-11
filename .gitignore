@@ -5,3 +5,7 @@ data
 meetup.md
 companies.md
 communities.md
+node_modules
+.fusebox
+.vscode
+./ecowiki/content

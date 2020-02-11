@@ -1,0 +1,112 @@
+extends ../layout.pug
+
+mixin tocMenu(ti)
+  each node in ti
+    li
+      a(href='#' + node.anchor, title=node.content)= node.content
+      if node.nodes.length > 0
+        ul
+          +tocMenu(node.nodes)
+
+block rootNavRight
+  loading-spinner
+  .nav-item
+    if rights.write && pageData.meta.path !== 'home'
+      a.button.is-outlined.is-icon-only(@click='$store.dispatch("modalDeletePage/open")')
+        i.nc-icon-outline.ui-1_trash
+      a.button.is-outlined(v-on:click='$store.dispatch("modalMovePage/open")')
+        i.nc-icon-outline.arrows-1_shuffle-98
+        span= t('nav.move')
+    if appconfig.theme.viewSource === 'all' || (rights.write && appconfig.theme.viewSource === 'write')
+      a.button.is-outlined(href='/source/' + pageData.meta.path)
+        i.nc-icon-outline.education_paper
+        span= t('nav.source')
+    //-a.button.is-outlined(href='/hist/' + pageData.meta.path)
+      i.nc-icon-outline.ui-2_time
+      span= t('nav.history')
+    if rights.write
+      a.button(href='/panel/panel')
+        i.nc-icon-outline.ui-1_edit-76
+        span= t('nav.edit')
+      a.button(v-on:click='$store.dispatch("modalCreatePage/open")')
+        i.nc-icon-outline.ui-1_simple-add
+        span= t('nav.create')
+block secHeader
+  .secHeader
+    +tocMenu(pageData.tree)
+block content
+
+  content-view(inline-template)
+    .container.is-fluid.has-mkcontent
+      .columns.is-gapless
+
+        //- .column.is-narrow.is-hidden-touch.sidebar
+
+        //-   aside
+        //-     //- .sidebar-label
+        //-     //-   h4 main
+        //-     //-     h5 navigation
+              
+        //-     ul.sidebar-menu
+        //-       //- li
+        //-       //-   a(href='/')
+        //-       //-     span= t('nav.root')
+        //-       //- li
+        //-       //-   a(href='/all')
+        //-       //-     span= t('nav.allpages')
+        //-       if pageData.parent
+        //-         li
+        //-           a(href='/' + pageData.parent.path)
+        //-             span= pageData.parent.title
+        //-       if !isGuest
+        //-         li
+        //-           a(href='/admin')
+        //-             span= t('nav.settings')
+        //-         li
+        //-           a(href='/panel/panel')
+        //-             span= "Admin Panel"
+        //-   //-     else
+        //-   //-       li
+        //-   //-         a(href='/login')
+        //-   //-           span= t('nav.login')
+        //-   //- .hr-line
+        //-   aside.sidebar-pagecontents
+        //-     //- .sidebar-label
+        //-     //-   h4 ALL PAGES
+        //-     ul.sidebar-menu
+        //-       li.is-hidden-until-scroll: a( id='#root',href='#root', title='Top of Page')
+        //-         i.icon-arrow-up2
+        //-       +tocMenu(pageData.tree)
+        //-       //- +tocMenu(pageData.tree)
+        //-       //- li: a(href="/main/cities") Cities By Regions
+        //-       //- li: a(href="/main/communities") All Communities
+        //-       //- li: a(href="/main/global-events") Global Events
+        //-       //- li: a(href="/main/organizations")= 'Initiatives' + ' & ' + 'Organizations'
+        //-       //- li: a(href="/main/startups") Emerging Startups
+        //-       //- li: a(href="/main/news") Worldwide News
+        //-       //- li: a(href="/main/partners")= 'Partners' + ' & ' + 'Friends'
+        //-       //- li: a(href="/main/media") Media References
+        //-   //- .hr-line
+        //-   aside.sidebar-pagecontents
+        //-     //- .sidebar-label
+        //-     //-   h4 PAGE CONTENTS
+        //-     //- ul.sidebar-menu
+        //-     //-   li.is-hidden-until-scroll: a(href='#root', title='Top of Page')
+        //-     //-     i.icon-arrow-up2
+        //-     //-   +tocMenu(pageData.tree)
+        .column
+          if pageData.meta.title != 'AI WIKI'
+            .hero
+              h1.title#title= pageData.meta.title
+              //- if pageData.meta.title == 'AI WIKI'
+              //- //- img(src=appconfig.host + '/images/AI_WIKI_red_id_logo_2019.svg' style='width:240px; height:60px;')
+              //- else
+            //- if pageData.meta.subtitle
+            //-   h2.subtitle= pageData.meta.subtitle
+          .content.mkcontent(v-pre, class=['is-code-light']) 
+            != pageData.html
+
+  modal-create-page(basepath=pageData.meta.path)
+  modal-move-page(current-path=pageData.meta.path)
+  modal-delete-page(current-path=pageData.meta.path)
+  anchor

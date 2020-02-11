@@ -1,0 +1,33 @@
+defaultEntryPoints = ["http", "https"]
+
+[entryPoints]
+  [entryPoints.http]
+  address = ":80"
+  [entryPoints.https]
+  address = ":443"
+    [entryPoints.https.tls]
+
+
+  [entryPoints.foo]
+  address = ":8080"
+  [entryPoints.foo.auth]
+    [entryPoints.foo.auth.basic]
+      usersFile = "/.htpasswd"
+[http.middlewares]
+  [http.middlewares.testHeader.headers]
+    accessControlAllowMethods= ["GET", "OPTIONS", "PUT", "POST"]
+    accessControlAllowOrigin = "*"
+    customRequestHeaders = "Access-Control-Allow-Origin:*"
+    customResponseHeaders = "Access-Control-Allow-Origin:*"
+    accessControlMaxAge = 100
+    addVaryHeader = true
+    sslRedirect = false
+
+[[tls.certificates]]
+  certFile = "/aiwiki.co.pem"
+  keyFile = "/aiwiki.co.key"
+[api]
+entryPoint = "foo"
+
+
+# vim:filetype=yaml

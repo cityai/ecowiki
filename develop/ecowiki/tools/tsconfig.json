@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "allowJs": true,
+    "alwaysStrict": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "preserveConstEnums": true,
+    "removeComments": true,
+    "sourceMap": false,
+    "strictNullChecks": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "target": "es5"
+  },
+  "exclude": [
+    ".fusebox",
+    "data",
+    "node_modules",
+    "content"
+  ]
+}
