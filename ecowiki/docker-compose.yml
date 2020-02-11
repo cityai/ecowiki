@@ -17,7 +17,7 @@ services:
     expose: [3001]
     environment:
       WIKI_ADMIN_EMAIL: admin@example.com
-      HOST: http://15.236.17.17
+      HOST: http://52.47.77.114
     volumes:
       - ./config.yml:/var/wiki/config.yml
       - ./content:/var/wiki/repo
