@@ -267,7 +267,7 @@ Active local organizations and initiatives related to AI
 Explore the newest startups working with AI technologies, from a total of 0 companies.
 
 <div class=logoCB>
-Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_crop.png" style="width:20%;"/></a>
+Powered by: <a href="https://crunchbase.com/"><img src="/uploads/crunchbaseaiwiki.png" /></a>
 </div>
 <div class=startups>
 
@@ -335,26 +335,21 @@ Workforce performance management for customer support
 <div class="embed-container"><small><a href="//www.arcgis.com/apps/Embed/index.html?webmap=e9485697909c40baad34647d8d0dbb85&extent=-153.2531,-11.9954,84.579,66.7403&zoom=true&scale=true&search=true&searchextent=true&disable_scroll=true&theme=light" style="color:#0000FF;text-align:left" target="_blank">View larger map</a></small><br><iframe width="1280" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AI Ecosystem Map" src="//www.arcgis.com/apps/Embed/index.html?webmap=e9485697909c40baad34647d8d0dbb85&extent=-153.2531,-11.9954,84.579,66.7403&zoom=true&previewImage=false&scale=true&search=true&searchextent=true&disable_scroll=true&theme=light"></iframe></div>
 
 # Ecosystems
+Check any of the 6 unloked AI ecosystems. If yours isn't listed yet, [contact us](mailto:aiwiki@city.ai)
 
 
 <div class=ecosystems>
 
 [Home Copy.md](/home-copy.md/home)
 
-
 [London](/london/home)
-
 
 [La Paz](/la-paz/home)
 
-
 [Bogota](/bogota/home)
-
 
 [Berlin](/berlin/home)
 
-
 [Beirut](/beirut/home)
-
 
 </div>

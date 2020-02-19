@@ -1104,9 +1104,33 @@
     }
   }
 
+  .aboutPartners{
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+    margin-left: 0.8rem;
+
+    img{
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+    }
+
+    p{
+      padding-top: 1rem;
+     
+    }
+
+  }
+
+  .aboutPeople {
+    margin-left: 1.2rem;
+}
+
   .aboutSection p {
     display: block;
     padding: 0 1.3rem;
+    margin-left:0.8rem;
+    margin-right: 3rem;
+    line-height: 2rem;
 
   }
   .aboutSection strong{

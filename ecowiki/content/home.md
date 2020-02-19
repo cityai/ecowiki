@@ -11,7 +11,7 @@
 <a href="#ecosystems"><strong>6</strong></a>
 </div>
 <div class=column>
-<a href="#events" ><strong>101</strong></a>
+<a href="#events" ><strong>69</strong></a>
 </div>
 <div class=column>
 <a href="#community" ><strong>35</strong></a>
@@ -123,46 +123,46 @@ Connect with 3 community groups promoting the best practices in AI. These are th
 </div>
 
 # Events
-101 upcoming AI-related events. In past 358 events have been hosted
+69 upcoming AI-related events. In past 390 events have been hosted
 <div class=events>
 
 <div class=column id=0>
 
-[She In Tech - Edition 3](https://www.meetup.com/datachaindc/events/266780265/)
-##### Tue Feb 11 2020
+[A Tale of Data And Growth Failure](https://www.meetup.com/beyond-machine/events/266806499/)
+##### Thu Feb 20 2020
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** DATACHAIN FOUNDATION
+**Organizer:** Deep Learning & Machine Learning & Data PM Bootcamps
 
 
-[AI on the edge: iOS and Tensorflow.js (Tech Talk) ](https://www.meetup.com/IBM-Code-London/events/268292234/)
-##### Tue Feb 11 2020
+[The Future of Hiring-Tech](https://www.meetup.com/SiliconRoundabout/events/268289559/)
+##### Fri Feb 21 2020
 **Location:** [London](/London/home/)
-**Organizer:** IBM Code London
+**Organizer:** Silicon Roundabout
 
 
-[Using data to measure and increase agility in Software Projects](https://www.meetup.com/London-Project-Data-and-Analytics-meetup/events/266967727/)
-##### Wed Feb 12 2020
-**Location:** [London](/London/home/)
-**Organizer:** London Project Data Analytics Meetup
+[FilmTech Meetup #21: Fireside chat & podcast live recording](https://www.meetup.com/FilmTechBerlin/events/268401073/)
+##### Mon Feb 24 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** FilmTech Meetup Berlin
 
 
 </div>
 <div class=column id=1>
 
-[Blockchain beyond the Hype: Real-life solution on Azure](https://www.meetup.com/Microsoft-Reactor-London/events/267316738/)
-##### Tue Feb 11 2020
+[Artificial Intelligence in HR](https://www.meetup.com/Berlin-Vernetzung-mit-Personalfachleuten-Meetup-Gruppe/events/268108253/)
+##### Thu Feb 20 2020
+**Location:** [Berlin](/Berlin/home/)
+**Organizer:** HR Meetups by HeavenHR
+
+
+[Teach the nation to code - London](https://www.meetup.com/london-tech-meetups/events/266945674/)
+##### Sat Feb 22 2020
 **Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
+**Organizer:** London Tech MeetUps & Events
 
 
-[Meetup #11: Pay to Play - ethical pricing](https://www.meetup.com/West-London-Ethical-Technology-Meetup/events/268123598/)
-##### Tue Feb 11 2020
-**Location:** [London](/London/home/)
-**Organizer:** West London Ethical Technology Meetup
-
-
-[FREE Marketing Attribution Modelling: Data & Analytics](https://www.meetup.com/Digital/events/268212385/)
-##### Wed Feb 12 2020
+[Analytics | Building a Content Analytics Feedback Loop to Boost Sales](https://www.meetup.com/Digital/events/267062708/)
+##### Tue Feb 25 2020
 **Location:** [London](/London/home/)
 **Organizer:** Outreach Digital | The Marketing, Analytics, UX & Tech Club
 
@@ -170,43 +170,43 @@ Connect with 3 community groups promoting the best practices in AI. These are th
 </div>
 <div class=column id=2>
 
-[Refine your Raspberry Pi robot](https://www.meetup.com/Red-Sprite/events/267902186/)
-##### Tue Feb 11 2020
+[Product Kitchen](https://www.meetup.com/Tech-Kitchen/events/268452320/)
+##### Thu Feb 20 2020
 **Location:** [London](/London/home/)
-**Organizer:** Red Sprite
+**Organizer:** Tech Kitchen
 
 
-[AI in Action @Sennder](https://www.meetup.com/AI-in-Action-Berlin/events/266889865/)
-##### Wed Feb 12 2020
+[The future of personal implantables: opportunities in healthcare and beyond](https://www.meetup.com/London-Futurists/events/268138592/)
+##### Sat Feb 22 2020
+**Location:** [London](/London/home/)
+**Organizer:** London Futurists
+
+
+[Forum HR: The Future of Recruiting](https://www.meetup.com/Berlin-Digital-Business-Network-SIBB/events/268244888/)
+##### Tue Feb 25 2020
 **Location:** [Berlin](/Berlin/home/)
-**Organizer:** AI in Action Berlin
-
-
-[Using data to increase agility in Software Projects and Is RPA the path to AI?](https://www.meetup.com/London-Project-Data-and-Analytics-meetup/events/266967727/)
-##### Wed Feb 12 2020
-**Location:** [London](/London/home/)
-**Organizer:** London Project Data Analytics Meetup
+**Organizer:** 💥 Berlin Digital Business Network @SIBB 💥
 
 
 </div>
 <div class=column id=3>
 
-[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.meetup.com/Advanced-Machine-Learning-Study-Group/events/zjppmrybcdbpb/)
-##### Tue Feb 11 2020
-**Location:** [Berlin](/Berlin/home/)
-**Organizer:** Advanced Machine Learning Study Group
-
-
-[Tech Talk: Developing machine learning algorithms to detect violent propaganda](https://www.meetup.com/data-science-lab/events/267249183/)
-##### Wed Feb 12 2020
+[[PlaceHolder] Google Stadia Event](https://www.meetup.com/gdgcloud/events/264566678/)
+##### Fri Feb 21 2020
 **Location:** [London](/London/home/)
-**Organizer:** Data Science Lab
+**Organizer:** GDG Cloud London
 
 
-[Do you want to stay Outside IR35 Private Sector Legislation?](https://www.meetup.com/Agile-Xpertise/events/268294145/)
-##### Wed Feb 12 2020
+[1. Womentechmakers Angular crash-course ](https://www.meetup.com/gdgcloud/events/268165679/)
+##### Mon Feb 24 2020
 **Location:** [London](/London/home/)
-**Organizer:** Agile Xpertise
+**Organizer:** GDG Cloud London
+
+
+[Introducing the Uno Platform](https://www.meetup.com/Microsoft-Reactor-London/events/268085171/)
+##### Tue Feb 25 2020
+**Location:** [London](/London/home/)
+**Organizer:** Microsoft Reactor London
 
 
 </div>
@@ -327,7 +327,7 @@ Active local organizations and initiatives related to AI
 # Startups
 Explore the newest startups working with AI technologies, from a total of 269 companies.
 <div class=logoCB>
-Powered by: <a href="https://crunchbase.com/"><img src="/uploads/crunchbaseaiwiki.png" style="width:20%;"/></a>
+Powered by: <a href="https://crunchbase.com/"><img src="/uploads/crunchbaseaiwiki.png"/></a>
 </div>
 <div class=startups>
 

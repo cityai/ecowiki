@@ -12,7 +12,7 @@
 <a href="#ecosystems"><strong>0</strong></a>
 </div>
 <div class=column>
-<a href="#events" ><strong>56</strong></a>
+<a href="#events" ><strong>36</strong></a>
 </div>
 <div class=column>
 <a href="#community" ><strong>18</strong></a>
@@ -229,116 +229,10 @@ The voices of the local AI community
 
 
 # Events
-56 upcoming AI-related events.
+36 upcoming AI-related events.
 <div class=events>
 
 <div class=column id=0>
-
-[Blockchain beyond the Hype: Real-life solution on Azure](https://www.meetup.com/Microsoft-Reactor-London/events/267316738/)
-##### Tue Feb 11 2020
-**Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
-
-
-[Tech Talk: Developing machine learning algorithms to detect violent propaganda](https://www.meetup.com/data-science-lab/events/267249183/)
-##### Wed Feb 12 2020
-**Location:** [London](/London/home/)
-**Organizer:** Data Science Lab
-
-
-[Do you want to stay Outside IR35 Private Sector Legislation?](https://www.meetup.com/Agile-Xpertise/events/268294145/)
-##### Wed Feb 12 2020
-**Location:** [London](/London/home/)
-**Organizer:** Agile Xpertise
-
-
-</div>
-<div class=column id=1>
-
-[Refine your Raspberry Pi robot](https://www.meetup.com/Red-Sprite/events/267902186/)
-##### Tue Feb 11 2020
-**Location:** [London](/London/home/)
-**Organizer:** Red Sprite
-
-
-[Using data to measure and increase agility in Software Projects](https://www.meetup.com/London-Project-Data-and-Analytics-meetup/events/266967727/)
-##### Wed Feb 12 2020
-**Location:** [London](/London/home/)
-**Organizer:** London Project Data Analytics Meetup
-
-
-[Data Book Club: Ben Jones - Avoiding Data Pitfalls](https://www.meetup.com/Advanced-Data-Visualization-London/events/268088712/)
-##### Thu Feb 13 2020
-**Location:** [London](/London/home/)
-**Organizer:** Advanced Data Visualisation London
-
-
-</div>
-<div class=column id=2>
-
-[AI on the edge: iOS and Tensorflow.js (Tech Talk) ](https://www.meetup.com/IBM-Code-London/events/268292234/)
-##### Tue Feb 11 2020
-**Location:** [London](/London/home/)
-**Organizer:** IBM Code London
-
-
-[FREE Marketing Attribution Modelling: Data & Analytics](https://www.meetup.com/Digital/events/268212385/)
-##### Wed Feb 12 2020
-**Location:** [London](/London/home/)
-**Organizer:** Outreach Digital | The Marketing, Analytics, UX & Tech Club
-
-
-[Artificial Intelligence – Promise or Threat?](https://www.meetup.com/Light-in-London/events/267863404/)
-##### Sat Feb 15 2020
-**Location:** [London](/London/home/)
-**Organizer:** Light in London -  Mostly Free spiritual events
-
-
-</div>
-<div class=column id=3>
-
-[Meetup #11: Pay to Play - ethical pricing](https://www.meetup.com/West-London-Ethical-Technology-Meetup/events/268123598/)
-##### Tue Feb 11 2020
-**Location:** [London](/London/home/)
-**Organizer:** West London Ethical Technology Meetup
-
-
-[Using data to increase agility in Software Projects and Is RPA the path to AI?](https://www.meetup.com/London-Project-Data-and-Analytics-meetup/events/266967727/)
-##### Wed Feb 12 2020
-**Location:** [London](/London/home/)
-**Organizer:** London Project Data Analytics Meetup
-
-
-[4. Womentechmakers Firebase and Web crash-course - Graduation!](https://www.meetup.com/gdgcloud/events/268087505/)
-##### Mon Feb 17 2020
-**Location:** [London](/London/home/)
-**Organizer:** GDG Cloud London
-
-
-</div>
-
-</div>
-
-<div class=events id="list">
-
-<details>
-<summary class="sum">See all events</summary>
-
-
-
-<div class=column id=0>
-
-[Building & Deploying Serverless applications to the Cloud using Nest.js](https://www.meetup.com/Microsoft-Reactor-London/events/265868971/)
-##### Tue Feb 18 2020
-**Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
-
-
-[Code For Fun - Python Workshop (all levels)](https://www.meetup.com/gdgcloud/events/268236686/)
-##### Tue Feb 18 2020
-**Location:** [London](/London/home/)
-**Organizer:** GDG Cloud London
-
 
 [Product Kitchen](https://www.meetup.com/Tech-Kitchen/events/268452320/)
 ##### Thu Feb 20 2020
@@ -357,6 +251,82 @@ The voices of the local AI community
 **Location:** [London](/London/home/)
 **Organizer:** RecSys - London
 
+
+</div>
+<div class=column id=1>
+
+[[PlaceHolder] Google Stadia Event](https://www.meetup.com/gdgcloud/events/264566678/)
+##### Fri Feb 21 2020
+**Location:** [London](/London/home/)
+**Organizer:** GDG Cloud London
+
+
+[1. Womentechmakers Angular crash-course ](https://www.meetup.com/gdgcloud/events/268165679/)
+##### Mon Feb 24 2020
+**Location:** [London](/London/home/)
+**Organizer:** GDG Cloud London
+
+
+[TensorFlow London Meetup: London Meetup: Deep Dive into TensorFlow #28!](https://www.meetup.com/TensorFlow-London/events/268353322/)
+##### Wed Feb 26 2020
+**Location:** [London](/London/home/)
+**Organizer:** TensorFlow London
+
+
+</div>
+<div class=column id=2>
+
+[The Future of Hiring-Tech](https://www.meetup.com/SiliconRoundabout/events/268289559/)
+##### Fri Feb 21 2020
+**Location:** [London](/London/home/)
+**Organizer:** Silicon Roundabout
+
+
+[Analytics | Building a Content Analytics Feedback Loop to Boost Sales](https://www.meetup.com/Digital/events/267062708/)
+##### Tue Feb 25 2020
+**Location:** [London](/London/home/)
+**Organizer:** Outreach Digital | The Marketing, Analytics, UX & Tech Club
+
+
+[#LondonAI Feb Meetup: Operational AI, Best Coding Practices, and Generative DL](https://www.meetup.com/London-Artificial-Intelligence-Deep-Learning/events/268152944/)
+##### Fri Feb 28 2020
+**Location:** [London](/London/home/)
+**Organizer:** London Artificial Intelligence & Deep Learning
+
+
+</div>
+<div class=column id=3>
+
+[Teach the nation to code - London](https://www.meetup.com/london-tech-meetups/events/266945674/)
+##### Sat Feb 22 2020
+**Location:** [London](/London/home/)
+**Organizer:** London Tech MeetUps & Events
+
+
+[Introducing the Uno Platform](https://www.meetup.com/Microsoft-Reactor-London/events/268085171/)
+##### Tue Feb 25 2020
+**Location:** [London](/London/home/)
+**Organizer:** Microsoft Reactor London
+
+
+[[Placeholder] IWD Women Techmakers 2020](https://www.meetup.com/gdgcloud/events/266592748/)
+##### Mon Mar 02 2020
+**Location:** [London](/London/home/)
+**Organizer:** GDG Cloud London
+
+
+</div>
+
+</div>
+
+<div class=events id="list">
+
+<details>
+<summary class="sum">See all events</summary>
+
+
+
+<div class=column id=0>
 
 [Women TechMakers celebrate International Women’s Day 2020](https://www.meetup.com/gdgcloud/events/268430543/)
 ##### Mon Mar 02 2020
@@ -397,36 +367,6 @@ The voices of the local AI community
 </div>
 <div class=column id=1>
 
-[Mini Workshop: Build your 1st Twitter Bot with Azure Serverless & Github actions](https://www.meetup.com/Microsoft-Reactor-London/events/267316785/)
-##### Tue Feb 18 2020
-**Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
-
-
-[Webinar: Recruiting and Retaining Data Scientists](https://www.meetup.com/London-Cambridge-Spark/events/267748791/)
-##### Wed Feb 19 2020
-**Location:** [London](/London/home/)
-**Organizer:** London - Cambridge Spark
-
-
-[[PlaceHolder] Google Stadia Event](https://www.meetup.com/gdgcloud/events/264566678/)
-##### Fri Feb 21 2020
-**Location:** [London](/London/home/)
-**Organizer:** GDG Cloud London
-
-
-[1. Womentechmakers Angular crash-course ](https://www.meetup.com/gdgcloud/events/268165679/)
-##### Mon Feb 24 2020
-**Location:** [London](/London/home/)
-**Organizer:** GDG Cloud London
-
-
-[TensorFlow London Meetup: London Meetup: Deep Dive into TensorFlow #28!](https://www.meetup.com/TensorFlow-London/events/268353322/)
-##### Wed Feb 26 2020
-**Location:** [London](/London/home/)
-**Organizer:** TensorFlow London
-
-
 [2. Womentechmakers Angular crash-course ](https://www.meetup.com/gdgcloud/events/268165730/)
 ##### Mon Mar 09 2020
 **Location:** [London](/London/home/)
@@ -466,36 +406,6 @@ The voices of the local AI community
 </div>
 <div class=column id=2>
 
-[Learn how to code a Quantum Computer - Training Course](https://www.meetup.com/London-Quantum-computing-training-and-coding-course/events/267774508/)
-##### Tue Feb 18 2020
-**Location:** [London](/London/home/)
-**Organizer:** London Quantum Computing; Training and Coding Course
-
-
-[AI Alignment -AI Ethics London](https://www.meetup.com/AI-Ethics-London/events/268166756/)
-##### Wed Feb 19 2020
-**Location:** [London](/London/home/)
-**Organizer:** AI Ethics London
-
-
-[The Future of Hiring-Tech](https://www.meetup.com/SiliconRoundabout/events/268289559/)
-##### Fri Feb 21 2020
-**Location:** [London](/London/home/)
-**Organizer:** Silicon Roundabout
-
-
-[Analytics | Building a Content Analytics Feedback Loop to Boost Sales](https://www.meetup.com/Digital/events/267062708/)
-##### Tue Feb 25 2020
-**Location:** [London](/London/home/)
-**Organizer:** Outreach Digital | The Marketing, Analytics, UX & Tech Club
-
-
-[#LondonAI Feb Meetup: Operational AI, Best Coding Practices, and Generative DL](https://www.meetup.com/London-Artificial-Intelligence-Deep-Learning/events/268152944/)
-##### Fri Feb 28 2020
-**Location:** [London](/London/home/)
-**Organizer:** London Artificial Intelligence & Deep Learning
-
-
 [3-days Intensive Workshop: Business and Production Applications with Python](https://www.meetup.com/London-Python-Machine-Learning/events/268320891/)
 ##### Mon Mar 09 2020
 **Location:** [London](/London/home/)
@@ -534,36 +444,6 @@ The voices of the local AI community
 
 </div>
 <div class=column id=3>
-
-[FREE SEO TALK: Strategy vs Tactics - How to Maximise Business Benefits](https://www.meetup.com/Digital/events/268145975/)
-##### Tue Feb 18 2020
-**Location:** [London](/London/home/)
-**Organizer:** Outreach Digital | The Marketing, Analytics, UX & Tech Club
-
-
-[Agile Dinner with Helen Meek](https://www.meetup.com/Agile-Xpertise/events/vmxzkrybcdbqb/)
-##### Wed Feb 19 2020
-**Location:** [London](/London/home/)
-**Organizer:** Agile Xpertise
-
-
-[Teach the nation to code - London](https://www.meetup.com/london-tech-meetups/events/266945674/)
-##### Sat Feb 22 2020
-**Location:** [London](/London/home/)
-**Organizer:** London Tech MeetUps & Events
-
-
-[Introducing the Uno Platform](https://www.meetup.com/Microsoft-Reactor-London/events/268085171/)
-##### Tue Feb 25 2020
-**Location:** [London](/London/home/)
-**Organizer:** Microsoft Reactor London
-
-
-[[Placeholder] IWD Women Techmakers 2020](https://www.meetup.com/gdgcloud/events/266592748/)
-##### Mon Mar 02 2020
-**Location:** [London](/London/home/)
-**Organizer:** GDG Cloud London
-
 
 [DevSecOps: Secure software delivery using Azure DevOps](https://www.meetup.com/Microsoft-Reactor-London/events/267316807/)
 ##### Tue Mar 10 2020
@@ -663,7 +543,7 @@ Active local organizations and initiatives related to AI
 Explore the newest startups working with AI technologies, from a total of 141 companies.
 
 <div class=logoCB>
-Powered by: <a href="https://crunchbase.com/"><img src="/images/Crunchbase_logo_crop.png" style="width:20%;"/></a>
+Powered by: <a href="https://crunchbase.com/"><img src="/uploads/crunchbaseaiwiki.png" /></a>
 </div>
 <div class=startups>
 
@@ -1718,26 +1598,21 @@ Workforce performance management for customer support
 <div class="embed-container"><small><a href="//www.arcgis.com/apps/Embed/index.html?webmap=e9485697909c40baad34647d8d0dbb85&extent=-153.2531,-11.9954,84.579,66.7403&zoom=true&scale=true&search=true&searchextent=true&disable_scroll=true&theme=light" style="color:#0000FF;text-align:left" target="_blank">View larger map</a></small><br><iframe width="1280" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AI Ecosystem Map" src="//www.arcgis.com/apps/Embed/index.html?webmap=e9485697909c40baad34647d8d0dbb85&extent=-153.2531,-11.9954,84.579,66.7403&zoom=true&previewImage=false&scale=true&search=true&searchextent=true&disable_scroll=true&theme=light"></iframe></div>
 
 # Ecosystems
+Check any of the 6 unloked AI ecosystems. If yours isn't listed yet, [contact us](mailto:aiwiki@city.ai)
 
 
 <div class=ecosystems>
 
 [Home Copy.md](/home-copy.md/home)
 
-
 [London](/london/home)
-
 
 [La Paz](/la-paz/home)
 
-
 [Bogota](/bogota/home)
-
 
 [Berlin](/berlin/home)
 
-
 [Beirut](/beirut/home)
-
 
 </div>
