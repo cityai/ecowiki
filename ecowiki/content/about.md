@@ -43,7 +43,7 @@
 
 </div>
 
-# Founding Partners
+# The Partners
 
 <div class=aboutPartners>
 
