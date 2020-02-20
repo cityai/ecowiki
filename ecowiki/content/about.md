@@ -47,22 +47,22 @@
 
 <div class=aboutPartners>
 
-<a href="https://peltarion.com/"><img src="/images/peltarion_logotype_horizontal_red.png" style="width:20%;"/></a> 
+<a href="https://peltarion.com/"><img src="/images/peltarion_logotype_horizontal_red.png" /></a> 
 
 Peltarion Corporation is a European software development corporation with its headquarters in Stockholm, Sweden. It specializes in artificial neural networks and adaptive systems and makes software tools for developing them
 
 
-<a href="https://ticketless.ai/"><img src="/images/Ticketless_logo.png" style="width:25%;"/></a>
+<a href="https://ticketless.ai/"><img src="/images/Ticketless_logo.png" /></a>
 
 Enter the Ticketless Dōjō, the all-in-one customer support performance management software. Gamification meets AI to boost agents' performance. 
 
 
-<a href="https://crunchbase.com/"><img src="/uploads/crunchbase-logo-aiwiki.png" style="width:20%;"/></a>
+<a href="https://crunchbase.com/"><img src="/uploads/crunchbase-logo-aiwiki.png"/></a>
 
 Crunchbase is the leading destination for company insights from early-stage startups to the Fortune 1000. Get insights into your competition. Uncover startup trends, get company funding data. Find new prospects, beat competitors and quotas.
 
 
-<a href="https://marbleit.rs/">![Marble It Logo](/uploads/imgpsh-fullsize-anim.png "Marble It Logo"){: width=80%}</a>
+<a href="https://marbleit.rs/">![Marble It Logo](/uploads/imgpsh-fullsize-anim.png "Marble It Logo")</a>
 
 Marble IT is your reliable partner for custom software solutions, located in Novi Sad, Serbia, mostly working with clients from North America and Europe.
 
