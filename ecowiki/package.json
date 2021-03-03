@@ -109,7 +109,7 @@
     "passport-windowslive": "~1.0.2",
     "passport.socketio": "~3.7.0",
     "pm2": "^3.5.1",
-    "pug": "~2.0.0-rc.3",
+    "pug": "~3.0.1",
     "raven": "~2.4.1",
     "read-chunk": "~2.1.0",
     "remove-markdown": "~0.2.2",
